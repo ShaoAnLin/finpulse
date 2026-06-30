@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# FinPulse daily digest: fetch RSS -> AI summary -> push to Telegram
+# FinPulse daily digest: fetch RSS -> AI summary -> push to LINE
 set -u -o pipefail
 
 BASE_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -31,8 +31,8 @@ if [ "$summarize_status" -ne 0 ]; then
     exit "$summarize_status"
 fi
 
-# 3. Send via Telegram
-echo "[finpulse] sending to Telegram..."
+# 3. Send via LINE
+echo "[finpulse] sending to LINE..."
 python3 send_messages.py < "/tmp/finpulse-messages-$stamp.json" 2>>"$LOG_DIR/send.log"
 send_status=$?
 

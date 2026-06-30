@@ -82,10 +82,11 @@ def mark_pushed(articles: list[dict]) -> None:
     now = datetime.now(TZ_TPE).isoformat(timespec="seconds")
     for a in articles:
         url = a.get("link", "")
+        title = a.get("title", "").encode("utf-8", errors="replace").decode("utf-8")
         h = hashlib.sha256(url.encode()).hexdigest()[:16]
         con.execute(
             "INSERT OR IGNORE INTO pushed_news (url_hash, url, title, pushed_at) VALUES (?, ?, ?, ?)",
-            (h, url, a.get("title", ""), now),
+            (h, url, title, now),
         )
     con.commit()
     con.close()
