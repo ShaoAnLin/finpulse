@@ -11,6 +11,10 @@ from datetime import datetime, timedelta, timezone
 
 from config import DB_PATH, TELEGRAM_ACCOUNT, TELEGRAM_CHANNEL, TELEGRAM_TARGET
 
+# Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
+sys.stdout.reconfigure(encoding="utf-8")
+sys.stderr.reconfigure(encoding="utf-8")
+
 TZ_TPE = timezone(timedelta(hours=8))
 TELEGRAM_MAX_LENGTH = 4096
 

@@ -27,7 +27,7 @@ RSS_FEEDS = {
     "taiwan": [
         {
             "name": "CnYes",
-            "url": "https://news.cnyes.com/news/cat/headline/rss",
+            "url": "https://news.cnyes.com/rss/v1/news/category/headline",
         },
         {
             "name": "UDN Money",

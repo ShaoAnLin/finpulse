@@ -12,6 +12,10 @@ from azure.core.credentials import AzureKeyCredential
 
 from config import GITHUB_TOKEN, AI_MODEL
 
+# Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
+sys.stdout.reconfigure(encoding="utf-8")
+sys.stderr.reconfigure(encoding="utf-8")
+
 TZ_TPE = timezone(timedelta(hours=8))
 
 SYSTEM_PROMPT = """你是「FinPulse 財經脈動」的編輯，讀者是剛接觸財經新聞的台灣上班族。
@@ -35,6 +39,13 @@ NEWS_PROMPT_TEMPLATE = """請針對以下{count}則{category_label}財經新聞�
 
 新聞列表：
 {news_list}"""
+
+
+def safe_json(payload: dict) -> str:
+    """Serialize to JSON, dropping lone surrogates that RSS/AI text can contain
+    and that would otherwise break UTF-8 encoding on output."""
+    text = json.dumps(payload, ensure_ascii=False)
+    return text.encode("utf-8", "ignore").decode("utf-8")
 
 
 def build_news_list(articles: list[dict]) -> str:
@@ -117,7 +128,7 @@ def main() -> int:
     articles = data.get("articles", [])
     if not articles:
         messages = format_telegram_message(None, None, [], [])
-        print(json.dumps({"messages": messages}, ensure_ascii=False))
+        print(safe_json({"messages": messages}))
         return 0
 
     international = [a for a in articles if a.get("category") == "international"]
@@ -128,10 +139,10 @@ def main() -> int:
 
     messages = format_telegram_message(international_summary, taiwan_summary, international, taiwan)
 
-    print(json.dumps({
+    print(safe_json({
         "messages": messages,
         "articles": articles,
-    }, ensure_ascii=False))
+    }))
 
     return 0
 

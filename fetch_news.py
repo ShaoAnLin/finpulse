@@ -14,6 +14,10 @@ import requests
 
 from config import DB_PATH, MAX_NEWS_INTERNATIONAL, MAX_NEWS_TAIWAN, RSS_FEEDS
 
+# Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
+sys.stdout.reconfigure(encoding="utf-8")
+sys.stderr.reconfigure(encoding="utf-8")
+
 TZ_TPE = timezone(timedelta(hours=8))
 
 
@@ -33,6 +37,13 @@ def init_db(db_path: str) -> sqlite3.Connection:
 
 def url_hash(url: str) -> str:
     return hashlib.sha256(url.encode()).hexdigest()[:16]
+
+
+def safe_json(payload: dict) -> str:
+    """Serialize to JSON, dropping lone surrogates that RSS text can contain
+    and that would otherwise break UTF-8 encoding on output."""
+    text = json.dumps(payload, ensure_ascii=False)
+    return text.encode("utf-8", "ignore").decode("utf-8")
 
 
 def is_pushed(con: sqlite3.Connection, url: str) -> bool:
@@ -111,9 +122,9 @@ def main() -> int:
     result = selected_international + selected_taiwan
 
     if not result:
-        print(json.dumps({"articles": [], "summary": "no new articles found"}))
+        print(safe_json({"articles": [], "summary": "no new articles found"}))
     else:
-        print(json.dumps({"articles": result, "summary": f"{len(selected_international)} intl + {len(selected_taiwan)} tw"}, ensure_ascii=False))
+        print(safe_json({"articles": result, "summary": f"{len(selected_international)} intl + {len(selected_taiwan)} tw"}))
 
     return 0
 
