@@ -1,0 +1,24 @@
+{
+  "name": "FinPulse 財經脈動：每日早報",
+  "description": "Daily 07:30 Asia/Taipei financial news digest — fetch RSS, summarize with Claude, push to Telegram",
+  "enabled": true,
+  "schedule": {
+    "kind": "cron",
+    "expr": "30 7 * * *",
+    "tz": "Asia/Taipei"
+  },
+  "sessionTarget": "isolated",
+  "wakeMode": "now",
+  "payload": {
+    "kind": "command",
+    "argv": ["/path/to/finpulse/run_daily.sh"],
+    "cwd": "/path/to/finpulse",
+    "timeoutSeconds": 300,
+    "noOutputTimeoutSeconds": 120,
+    "outputMaxBytes": 20000
+  },
+  "delivery": {
+    "mode": "none",
+    "channel": "last"
+  }
+}
