@@ -1,21 +1,21 @@
 # FinPulse
 
-Daily financial news digest delivered to Telegram with beginner-friendly explanations in Traditional Chinese.
+Daily financial news digest delivered to LINE with beginner-friendly explanations in Traditional Chinese.
 
 ## How It Works
 
 ```
-RSS feeds → fetch_news.py → summarize_news.py (GitHub Models AI) → send_messages.py (Telegram)
+RSS feeds → fetch_news.py → summarize_news.py (GitHub Models AI) → send_messages.py (LINE)
 ```
 
 1. Fetch international + Taiwan financial news from RSS feeds
 2. Summarize with AI (GPT-4o via GitHub Models API) including plain-language background explanations
-3. Push to Telegram via OpenClaw
+3. Push to LINE via the Messaging API
 
 ## Prerequisites
 
 - Python 3.10+
-- [OpenClaw](https://openclaw.ai/) installed with Telegram configured
+- A LINE Messaging API channel (create one in the [LINE Developers Console](https://developers.line.biz/)) with a long-lived channel access token
 - GitHub Personal Access Token with `models:read` permission (fine-grained token)
 
 ## Setup
@@ -24,7 +24,7 @@ RSS feeds → fetch_news.py → summarize_news.py (GitHub Models AI) → send_me
 cd finpulse
 pip install -r requirements.txt
 cp .env.example .env
-# Edit .env with your GitHub token and Telegram chat ID
+# Edit .env with your GitHub token, LINE channel access token, and LINE target ID
 ```
 
 ## Usage
@@ -39,16 +39,20 @@ bash run_daily.sh
 
 ## Schedule Daily Digest
 
-```bash
-openclaw cron add \
-  --name "FinPulse Daily Digest" \
-  --cron "30 7 * * *" \
-  --tz "Asia/Taipei" \
-  --session isolated \
-  --command-argv '["./run_daily.sh"]' \
-  --command-cwd "/path/to/finpulse" \
-  --timeout-seconds 300 \
-  --no-deliver
+Run `run_daily.sh` on a schedule with whatever scheduler your platform provides.
+
+**cron (Linux/macOS)** — daily at 07:30 Taipei time:
+
+```cron
+30 7 * * * cd /path/to/finpulse && ./run_daily.sh
+```
+
+(Set the host timezone to `Asia/Taipei`, or adjust the cron hour accordingly.)
+
+**Windows Task Scheduler** — create a daily task that runs:
+
+```
+bash /path/to/finpulse/run_daily.sh
 ```
 
 ## News Sources
@@ -60,7 +64,6 @@ openclaw cron add \
 
 ## Cost
 
-- OpenClaw: Free
 - RSS feeds: Free
 - GitHub Models API: Free (150 requests/day)
-- Telegram: Free
+- LINE Messaging API: Free tier (~200 push messages/month)

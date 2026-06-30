@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m pip --version)",
+      "Bash(git add *)",
+      "Bash(git commit -m ' *)",
+      "Bash(sed -E 's/\\(=\\).+/\\\\1<set>/; s/^\\([^=]+\\)$/\\\\1<empty-or-blank>/')",
+      "Bash(command -v openclaw)",
+      "WebFetch(domain:developers.line.biz)",
+      "WebSearch"
+    ]
+  }
+}

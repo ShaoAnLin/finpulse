@@ -95,9 +95,9 @@ def format_fallback(articles: list[dict], category_label: str) -> str:
     return "\n".join(lines)
 
 
-def format_telegram_message(international_summary: str | None, taiwan_summary: str | None,
-                            international_articles: list[dict], taiwan_articles: list[dict]) -> list[dict]:
-    """Build message payloads for Telegram delivery."""
+def format_messages(international_summary: str | None, taiwan_summary: str | None,
+                    international_articles: list[dict], taiwan_articles: list[dict]) -> list[dict]:
+    """Build message payloads for LINE delivery."""
     today = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
     messages = []
 
@@ -127,7 +127,7 @@ def main() -> int:
 
     articles = data.get("articles", [])
     if not articles:
-        messages = format_telegram_message(None, None, [], [])
+        messages = format_messages(None, None, [], [])
         print(safe_json({"messages": messages}))
         return 0
 
@@ -137,7 +137,7 @@ def main() -> int:
     international_summary = summarize_batch(international, "國際")
     taiwan_summary = summarize_batch(taiwan, "台灣")
 
-    messages = format_telegram_message(international_summary, taiwan_summary, international, taiwan)
+    messages = format_messages(international_summary, taiwan_summary, international, taiwan)
 
     print(safe_json({
         "messages": messages,

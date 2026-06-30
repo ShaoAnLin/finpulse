@@ -1,49 +1,55 @@
 #!/usr/bin/env python3
-"""Send FinPulse messages via OpenClaw Telegram integration."""
+"""Send FinPulse messages via the LINE Messaging API push endpoint."""
 from __future__ import annotations
 
 import hashlib
 import json
 import sqlite3
-import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
 
-from config import DB_PATH, TELEGRAM_ACCOUNT, TELEGRAM_CHANNEL, TELEGRAM_TARGET
+import requests
+
+from config import DB_PATH, LINE_CHANNEL_ACCESS_TOKEN, LINE_TARGET
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
 TZ_TPE = timezone(timedelta(hours=8))
-TELEGRAM_MAX_LENGTH = 4096
+LINE_MAX_LENGTH = 5000
+LINE_PUSH_URL = "https://api.line.me/v2/bot/message/push"
 
 
 def send_message(message: str, silent: bool = False, dry_run: bool = False) -> bool:
-    cmd = [
-        "openclaw", "message", "send",
-        "--json",
-        "--channel", TELEGRAM_CHANNEL,
-        "--account", TELEGRAM_ACCOUNT,
-        "--target", TELEGRAM_TARGET,
-        "--message", message,
-    ]
-    if silent:
-        cmd.append("--silent")
-
     if dry_run:
         print(json.dumps({"dry_run": True, "message_length": len(message)}, ensure_ascii=False))
         return True
 
+    headers = {
+        "Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}",
+        "Content-Type": "application/json",
+    }
+    body = {
+        "to": LINE_TARGET,
+        "messages": [{"type": "text", "text": message}],
+        "notificationDisabled": silent,
+    }
+
     try:
-        subprocess.run(cmd, check=True, capture_output=True, text=True)
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"[error] send failed: {e.stderr}", file=sys.stderr)
+        resp = requests.post(LINE_PUSH_URL, headers=headers, json=body, timeout=15)
+    except requests.RequestException as e:
+        print(f"[error] send failed: {e}", file=sys.stderr)
         return False
 
+    if resp.status_code != 200:
+        print(f"[error] LINE push failed ({resp.status_code}): {resp.text}", file=sys.stderr)
+        return False
 
-def split_message(text: str, max_len: int = TELEGRAM_MAX_LENGTH) -> list[str]:
+    return True
+
+
+def split_message(text: str, max_len: int = LINE_MAX_LENGTH) -> list[str]:
     """Split long messages at line boundaries."""
     if len(text) <= max_len:
         return [text]
@@ -97,8 +103,8 @@ def main() -> int:
     articles = data.get("articles", [])
     dry_run = "--dry-run" in sys.argv
 
-    if not TELEGRAM_TARGET:
-        print("[error] FINPULSE_TELEGRAM_TARGET not set", file=sys.stderr)
+    if not dry_run and (not LINE_CHANNEL_ACCESS_TOKEN or not LINE_TARGET):
+        print("[error] LINE_CHANNEL_ACCESS_TOKEN and FINPULSE_LINE_TARGET must be set", file=sys.stderr)
         return 1
 
     success = True

@@ -6,9 +6,8 @@ load_dotenv()
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 AI_MODEL = os.environ.get("FINPULSE_AI_MODEL", "gpt-4o")
 
-TELEGRAM_TARGET = os.environ.get("FINPULSE_TELEGRAM_TARGET", "")
-TELEGRAM_CHANNEL = os.environ.get("FINPULSE_CHANNEL", "telegram")
-TELEGRAM_ACCOUNT = os.environ.get("FINPULSE_ACCOUNT_ID", "default")
+LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "")
+LINE_TARGET = os.environ.get("FINPULSE_LINE_TARGET", "")
 
 MAX_NEWS_INTERNATIONAL = 5
 MAX_NEWS_TAIWAN = 5
