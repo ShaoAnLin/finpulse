@@ -19,7 +19,10 @@
       "Bash(/c/Users/shaoli/AppData/Local/Programs/Python/Python312/python.exe -c 'import feedparser, requests, dotenv, azure.ai.inference; print\\('\\\\''deps OK'\\\\''\\)')",
       "Bash(ls /c/Users/shaoli/AppData/Local/Programs/Python/Python312/python*.exe 2>/dev/null; echo \"---scripts dir---\"; ls -d /c/Users/shaoli/AppData/Local/Programs/Python/Python312/Scripts/ 2>/dev/null; echo \"---bashrc?---\"; ls -la ~/.bashrc ~/.bash_profile 2>/dev/null || echo \"no rc files yet\")",
       "Read(//c/Users/shaoli/**)",
-      "Bash(PYDIR=\"/c/Users/shaoli/AppData/Local/Programs/Python/Python312\"; cp \"$PYDIR/python.exe\" \"$PYDIR/python3.exe\" && echo \"created python3.exe\" && ls -la \"$PYDIR/python3.exe\")"
+      "Bash(PYDIR=\"/c/Users/shaoli/AppData/Local/Programs/Python/Python312\"; cp \"$PYDIR/python.exe\" \"$PYDIR/python3.exe\" && echo \"created python3.exe\" && ls -la \"$PYDIR/python3.exe\")",
+      "Bash(where bash.exe)",
+      "Read(//c/Program Files/Git/bin/**)",
+      "Bash(schtasks /query /tn \"FinPulse\")"
     ],
     "additionalDirectories": [
       "C:\\Users\\shaoli\\AppData\\Local\\Programs\\Python\\Python312",
