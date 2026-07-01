@@ -6,7 +6,7 @@ Daily financial news digest delivered to LINE with beginner-friendly explanation
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    FinPulse Pipeline                     │
+│                    FinPulse Pipeline                    │
 ├─────────────────────────────────────────────────────────┤
 │                                                         │
 │  RSS Feeds ──► fetch_news.py ──► summarize_news.py      │
@@ -15,9 +15,9 @@ Daily financial news digest delivered to LINE with beginner-friendly explanation
 │                     ▼                    ▼              │
 │              state.sqlite3        send_messages.py      │
 │              (dedup store)        (LINE Push API)       │
-│                                         │              │
-│                                         ▼              │
-│                                LINE Bot ──► User/Group │
+│                                         │               │
+│                                         ▼               │
+│                                LINE Bot ──► User/Group  │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -138,8 +138,10 @@ bash run_daily.sh
 **Windows Task Scheduler:**
 Create a daily task at 07:30 that runs:
 ```
-python C:\path\to\finpulse\run_daily.sh
+"C:\Program Files\Git\bin\bash.exe" -lc "cd '/c/path/to/finpulse' && FINPULSE_PYTHON='/c/path/to/python.exe' ./run_daily.sh"
 ```
+
+`FINPULSE_PYTHON` is optional on machines where `python3` already resolves to the Python environment with the packages from `requirements.txt` installed.
 
 **OpenClaw:**
 ```bash

@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import json
+import re
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -10,7 +11,7 @@ from azure.ai.inference import ChatCompletionsClient
 from azure.ai.inference.models import SystemMessage, UserMessage
 from azure.core.credentials import AzureKeyCredential
 
-from config import GITHUB_TOKEN, AI_MODEL
+from config import GITHUB_TOKEN, AI_MODEL, PICK_PER_CATEGORY
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
@@ -28,16 +29,20 @@ SYSTEM_PROMPT = """你是「FinPulse 財經脈動」的編輯，讀者是剛接�
 - 保持客觀，不做投資建議
 - 每則新聞的解說控制在 150 字以內"""
 
-NEWS_PROMPT_TEMPLATE = """請針對以下{count}則{category_label}財經新聞，每一則提供：
+SELECT_PROMPT_TEMPLATE = """以下是 {count} 則{category_label}財經新聞候選。請你以「FinPulse 編輯」的角度，
+從中挑出**最重要的 {pick} 則**（判斷依據：對台灣一般讀者的重要性、影響範圍、時效性），
+並針對選中的每一則撰寫白話摘要。
 
-1. 📌 一句話摘要（15-20字）
-2. 📰 發生什麼事（2-3句）
-3. 💡 白話解說（用生活化比喻，讓不懂財經的人也能理解）
-4. 📊 可能的影響（對一般人的影響，1-2句）
+只回傳 JSON，格式如下（不要有任何多餘文字或 markdown 圍欄）：
+{{"picks": [{{"index": <候選編號，整數>, "summary": "<四段式摘要>"}}]}}
 
-用 --- 分隔每則新聞。
+每則的 summary 需包含以下四段，段落之間用換行分隔：
+📌 一句話摘要（15-20字）
+📰 發生什麼事（2-3句）
+💡 白話解說（用生活化比喻，讓不懂財經的人也能理解）
+📊 可能的影響（對一般人的影響，1-2句）
 
-新聞列表：
+候選新聞列表：
 {news_list}"""
 
 
@@ -70,45 +75,106 @@ def call_ai(prompt: str) -> str:
     return response.choices[0].message.content
 
 
-def summarize_batch(articles: list[dict], category_label: str) -> str | None:
-    if not articles:
+def parse_picks(raw: str, candidate_count: int) -> list[dict] | None:
+    """Parse the AI's JSON reply into a list of {index, summary}.
+    Tolerates ```json fences. Returns None if unparseable so callers fall back."""
+    text = raw.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```[a-zA-Z]*\n?", "", text)
+        text = re.sub(r"\n?```$", "", text).strip()
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
         return None
 
-    prompt = NEWS_PROMPT_TEMPLATE.format(
+    picks = data.get("picks") if isinstance(data, dict) else None
+    if not isinstance(picks, list):
+        return None
+
+    cleaned = []
+    seen = set()
+    for p in picks:
+        if not isinstance(p, dict):
+            continue
+        idx = p.get("index")
+        summary = p.get("summary")
+        if not isinstance(idx, int) or not isinstance(summary, str):
+            continue
+        if idx < 1 or idx > candidate_count or idx in seen:
+            continue
+        seen.add(idx)
+        cleaned.append({"index": idx, "summary": summary})
+    return cleaned or None
+
+
+def select_and_summarize(articles: list[dict], category_label: str,
+                         pick: int = PICK_PER_CATEGORY) -> list[dict]:
+    """Ask the AI to pick the most important `pick` articles from the candidates
+    and summarize them. Returns a list of selected article dicts, each with a
+    `summary` field. Falls back to the top candidates (already recency-sorted by
+    fetch) when the AI call fails or returns unusable output — so we always emit
+    exactly `pick` items and dedup stays correct."""
+    if not articles:
+        return []
+
+    prompt = SELECT_PROMPT_TEMPLATE.format(
         count=len(articles),
         category_label=category_label,
+        pick=pick,
         news_list=build_news_list(articles),
     )
 
+    picks = None
     try:
-        return call_ai(prompt)
+        picks = parse_picks(call_ai(prompt), len(articles))
     except Exception as e:
-        print(f"[error] AI summarization failed for {category_label}: {e}", file=sys.stderr)
-        return None
+        print(f"[error] AI selection failed for {category_label}: {e}", file=sys.stderr)
+
+    if not picks:
+        return [dict(a, summary_text=None) for a in articles[:pick]]
+
+    selected = []
+    for p in picks[:pick]:
+        article = dict(articles[p["index"] - 1])
+        article["summary_text"] = p["summary"]
+        selected.append(article)
+    return selected
 
 
-def format_fallback(articles: list[dict], category_label: str) -> str:
-    """Fallback to raw headlines when AI summarization is unavailable."""
-    lines = [f"📋 {category_label}新聞標題（AI 摘要暫時無法使用）\n"]
-    for a in articles:
-        lines.append(f"• {a['title']}\n  {a['link']}")
+def format_source_links(articles: list[dict]) -> str:
+    lines = ["\n🔗 原文連結"]
+    for i, article in enumerate(articles, 1):
+        lines.append(f"{i}. {article['title']}\n{article['link']}")
     return "\n".join(lines)
 
 
-def format_messages(international_summary: str | None, taiwan_summary: str | None,
-                    international_articles: list[dict], taiwan_articles: list[dict]) -> list[dict]:
-    """Build message payloads for LINE delivery."""
+def build_category_body(selected: list[dict], category_label: str) -> str:
+    """Join per-article AI summaries; fall back to the raw headline for any
+    article whose summary is missing (AI failure path)."""
+    blocks = []
+    for a in selected:
+        summary = a.get("summary_text")
+        if summary:
+            blocks.append(summary.strip())
+        else:
+            blocks.append(f"📌 {a['title']}\n（AI 摘要暫時無法使用）")
+    return f"\n{'─' * 12}\n".join(blocks)
+
+
+def format_messages(international_selected: list[dict],
+                    taiwan_selected: list[dict]) -> list[dict]:
+    """Build message payloads for LINE delivery from the AI-selected articles."""
     today = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
     messages = []
 
-    if international_articles:
+    if international_selected:
         header = f"🌍 FinPulse 國際財經早報 {today}\n{'━' * 20}\n"
-        body = international_summary or format_fallback(international_articles, "國際")
+        body = build_category_body(international_selected, "國際") + format_source_links(international_selected)
         messages.append({"message": header + body, "silent": False})
 
-    if taiwan_articles:
+    if taiwan_selected:
         header = f"🇹🇼 FinPulse 台灣財經早報 {today}\n{'━' * 20}\n"
-        body = taiwan_summary or format_fallback(taiwan_articles, "台灣")
+        body = build_category_body(taiwan_selected, "台灣") + format_source_links(taiwan_selected)
         messages.append({"message": header + body, "silent": False})
 
     if not messages:
@@ -127,21 +193,24 @@ def main() -> int:
 
     articles = data.get("articles", [])
     if not articles:
-        messages = format_messages(None, None, [], [])
+        messages = format_messages([], [])
         print(safe_json({"messages": messages}))
         return 0
 
     international = [a for a in articles if a.get("category") == "international"]
     taiwan = [a for a in articles if a.get("category") == "taiwan"]
 
-    international_summary = summarize_batch(international, "國際")
-    taiwan_summary = summarize_batch(taiwan, "台灣")
+    international_selected = select_and_summarize(international, "國際")
+    taiwan_selected = select_and_summarize(taiwan, "台灣")
 
-    messages = format_messages(international_summary, taiwan_summary, international, taiwan)
+    messages = format_messages(international_selected, taiwan_selected)
 
+    # Only the AI-selected articles go downstream, so send_messages.py dedup marks
+    # exactly what was pushed — unpicked candidates stay eligible for future days.
+    picked = international_selected + taiwan_selected
     print(safe_json({
         "messages": messages,
-        "articles": articles,
+        "articles": picked,
     }))
 
     return 0

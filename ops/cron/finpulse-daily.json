@@ -1,6 +1,6 @@
 {
   "name": "FinPulse 財經脈動：每日早報",
-  "description": "Daily 07:30 Asia/Taipei financial news digest — fetch RSS, summarize with Claude, push to Telegram",
+  "description": "Daily 07:30 Asia/Taipei financial news digest — fetch RSS, summarize with GitHub Models, push to LINE",
   "enabled": true,
   "schedule": {
     "kind": "cron",
