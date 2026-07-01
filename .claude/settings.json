@@ -7,7 +7,23 @@
       "Bash(sed -E 's/\\(=\\).+/\\\\1<set>/; s/^\\([^=]+\\)$/\\\\1<empty-or-blank>/')",
       "Bash(command -v openclaw)",
       "WebFetch(domain:developers.line.biz)",
-      "WebSearch"
+      "WebSearch",
+      "Bash(PYTHONUTF8=1 bash run_daily.sh)",
+      "Bash(cd \"/c/Users/shaoli/OneDrive - Microsoft/Personal/finpulse\" && tail -30 logs/fetch.log)",
+      "Read(//c/c/Users/shaoli/OneDrive - Microsoft/Personal/finpulse/logs/**)",
+      "Bash(where python.exe py.exe)",
+      "Bash(py --version)",
+      "Read(//c/Users/shaoli/AppData/Local/Programs/Python/**)",
+      "Bash(ls /c/Python*/python.exe)",
+      "Bash(/c/Users/shaoli/AppData/Local/Programs/Python/Python312/python.exe --version)",
+      "Bash(/c/Users/shaoli/AppData/Local/Programs/Python/Python312/python.exe -c 'import feedparser, requests, dotenv, azure.ai.inference; print\\('\\\\''deps OK'\\\\''\\)')",
+      "Bash(ls /c/Users/shaoli/AppData/Local/Programs/Python/Python312/python*.exe 2>/dev/null; echo \"---scripts dir---\"; ls -d /c/Users/shaoli/AppData/Local/Programs/Python/Python312/Scripts/ 2>/dev/null; echo \"---bashrc?---\"; ls -la ~/.bashrc ~/.bash_profile 2>/dev/null || echo \"no rc files yet\")",
+      "Read(//c/Users/shaoli/**)",
+      "Bash(PYDIR=\"/c/Users/shaoli/AppData/Local/Programs/Python/Python312\"; cp \"$PYDIR/python.exe\" \"$PYDIR/python3.exe\" && echo \"created python3.exe\" && ls -la \"$PYDIR/python3.exe\")"
+    ],
+    "additionalDirectories": [
+      "C:\\Users\\shaoli\\AppData\\Local\\Programs\\Python\\Python312",
+      "C:\\Users\\shaoli"
     ]
   }
 }

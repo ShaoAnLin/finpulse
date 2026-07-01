@@ -17,7 +17,7 @@ Daily financial news digest delivered to LINE with beginner-friendly explanation
 │              (dedup store)        (LINE Push API)       │
 │                                         │              │
 │                                         ▼              │
-│                                    LINE Bot ──► User   │
+│                                LINE Bot ──► User/Group │
 └─────────────────────────────────────────────────────────┘
 ```
 
@@ -27,7 +27,7 @@ Daily financial news digest delivered to LINE with beginner-friendly explanation
 |-----------|---------------|------|
 | News source | Google News RSS, CnYes RSS, UDN Money RSS | Free |
 | AI summarization | GitHub Models API (GPT-4o) | Free (150 req/day) |
-| Message delivery | LINE Messaging API (Push) | Free (200 msg/month) |
+| Message delivery | LINE Messaging API (Push) | Free (200 msg/month; ~2/day = ~60/month) |
 | Deduplication | SQLite (local file) | Free |
 | Scheduling | cron / Task Scheduler / OpenClaw | Free |
 | Hosting | Azure DevBox (or any always-on machine) | Existing |
@@ -53,7 +53,7 @@ finpulse/
 
 ## How It Works
 
-1. **fetch_news.py** — Pulls articles from RSS feeds (international + Taiwan), filters to last 24 hours, removes already-pushed articles using SQLite
+1. **fetch_news.py** — Pulls articles from RSS feeds (international + Taiwan), filters to last 24 hours, removes already-pushed articles using SQLite. Daily volume is controlled by `MAX_NEWS_INTERNATIONAL` / `MAX_NEWS_TAIWAN` in `config.py` (currently 1 each — one international + one Taiwan story per day)
 2. **summarize_news.py** — Sends article titles/snippets to GPT-4o via GitHub Models API, receives beginner-friendly summaries with background explanations in Traditional Chinese
 3. **send_messages.py** — Pushes the formatted digest to LINE using the Messaging API push endpoint
 
@@ -62,7 +62,7 @@ finpulse/
 - Python 3.10+
 - GitHub Personal Access Token (fine-grained) with `Models: Read` permission
 - LINE Messaging API channel with a long-lived channel access token
-- LINE target user ID (starts with `U`)
+- LINE target ID — a user ID (starts with `U`) or a group ID (starts with `C`)
 
 ## Setup
 
@@ -85,10 +85,20 @@ cp .env.example .env
 2. Create a provider and a Messaging API channel (via LINE Official Account Manager)
 3. In the channel's Messaging API tab, issue a long-lived channel access token
 
-**LINE Target (your user ID)**:
+**LINE Target (delivery destination)**:
+
+Set `FINPULSE_LINE_TARGET` to either a **user ID** (`U…`, delivers to one person) or a **group ID** (`C…`, delivers to a group chat). The same push endpoint handles both, so no code change is needed to switch.
+
+To get a *user ID*:
 1. Set a webhook URL (e.g. webhook.site) in the Messaging API tab
 2. Send a message to your bot on LINE
 3. Copy the `userId` from the webhook payload
+
+To get a *group ID*:
+1. In the LINE Developers Console, enable **"Allow bot to join group chats"** (Messaging API settings)
+2. Invite the bot (your LINE Official Account) into the group
+3. With a webhook URL configured, send any message in the group
+4. Copy `source.groupId` (starts with `C`) from the webhook payload
 
 ## Usage
 
