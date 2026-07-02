@@ -7,6 +7,7 @@ import re
 import sys
 from datetime import datetime, timedelta, timezone
 
+import requests
 from azure.ai.inference import ChatCompletionsClient
 from azure.ai.inference.models import SystemMessage, UserMessage
 from azure.core.credentials import AzureKeyCredential
@@ -141,10 +142,27 @@ def select_and_summarize(articles: list[dict], category_label: str,
     return selected
 
 
+def shorten_url(url: str) -> str:
+    """Shorten a URL via TinyURL's keyless endpoint. Returns the original URL
+    on any failure so message delivery never depends on the shortener."""
+    try:
+        resp = requests.get(
+            "https://tinyurl.com/api-create.php",
+            params={"url": url},
+            timeout=8,
+        )
+        short = resp.text.strip()
+        if resp.status_code == 200 and short.startswith("http"):
+            return short
+    except requests.RequestException as e:
+        print(f"[warn] URL shorten failed: {e}", file=sys.stderr)
+    return url
+
+
 def format_source_links(articles: list[dict]) -> str:
     lines = ["\n🔗 原文連結"]
     for i, article in enumerate(articles, 1):
-        lines.append(f"{i}. {article['title']}\n{article['link']}")
+        lines.append(f"{i}. {article['title']}\n{shorten_url(article['link'])}")
     return "\n".join(lines)
 
 
