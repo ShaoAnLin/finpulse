@@ -130,6 +130,19 @@ bash run_daily.sh
 
 ## Scheduling
 
+**GitHub Actions:**
+`.env` is intentionally not committed. Store production values in GitHub instead:
+
+Repository Settings -> Secrets and variables -> Actions -> Secrets:
+- `FINPULSE_GITHUB_TOKEN`: GitHub Models token with Models read permission
+- `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging API channel access token
+- `FINPULSE_LINE_TARGET`: LINE user ID or group ID
+
+Optional repository variable:
+- `FINPULSE_AI_MODEL`: defaults to `gpt-4o` when unset
+
+The workflow in `.github/workflows/finpulse-daily.yml` runs daily at 07:30 Asia/Taipei and can also be started manually from the Actions tab.
+
 **Linux/macOS (cron):**
 ```cron
 30 7 * * * cd /path/to/finpulse && bash run_daily.sh
