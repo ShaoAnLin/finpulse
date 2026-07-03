@@ -161,8 +161,8 @@ def shorten_url(url: str) -> str:
 
 def format_source_links(articles: list[dict]) -> str:
     lines = ["\n🔗 原文連結"]
-    for i, article in enumerate(articles, 1):
-        lines.append(f"{i}. {article['title']}\n{shorten_url(article['link'])}")
+    for article in articles:
+        lines.append(f"{article['title']}\n{shorten_url(article['link'])}")
     return "\n".join(lines)
 
 

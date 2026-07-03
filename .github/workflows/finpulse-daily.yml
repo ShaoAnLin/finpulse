@@ -2,8 +2,8 @@ name: FinPulse Daily
 
 on:
   schedule:
-    # 07:30 Asia/Taipei (UTC+8)
-    - cron: "30 23 * * *"
+    # 07:23 Asia/Taipei (UTC+8)
+    - cron: "23 23 * * *"
   workflow_dispatch:
 
 jobs:
