@@ -22,7 +22,16 @@
       "Bash(PYDIR=\"/c/Users/shaoli/AppData/Local/Programs/Python/Python312\"; cp \"$PYDIR/python.exe\" \"$PYDIR/python3.exe\" && echo \"created python3.exe\" && ls -la \"$PYDIR/python3.exe\")",
       "Bash(where bash.exe)",
       "Read(//c/Program Files/Git/bin/**)",
-      "Bash(schtasks /query /tn \"FinPulse\")"
+      "Bash(schtasks /query /tn \"FinPulse\")",
+      "Bash(python fetch_news.py)",
+      "Bash(echo \"exit=$?\")",
+      "Read(//tmp/**)",
+      "Bash(python -c \"import json,sys; d=json.load\\(open\\('/tmp/finpulse-fetched.json',encoding='utf-8'\\)\\); print\\('summary:', d.get\\('summary'\\)\\); print\\('total:', len\\(d['articles']\\)\\); [print\\(' -', a['category'], '|', a['title'][:50]\\) for a in d['articles']]\")",
+      "Bash(python -c \"import json; d=json.load\\(open\\('finpulse-fetched.json',encoding='utf-8'\\)\\); print\\('summary:', d.get\\('summary'\\)\\); print\\('total:', len\\(d['articles']\\)\\); [print\\(' -', a['category'], '|', a['title'][:55]\\) for a in d['articles']]\")",
+      "Bash(python summarize_news.py)",
+      "Bash(python -c ' *)",
+      "Bash(bash run_daily.sh)",
+      "Bash(echo \"=== run_daily exit=$? ===\")"
     ],
     "additionalDirectories": [
       "C:\\Users\\shaoli\\AppData\\Local\\Programs\\Python\\Python312",

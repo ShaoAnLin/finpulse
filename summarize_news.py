@@ -46,6 +46,23 @@ SELECT_PROMPT_TEMPLATE = """以下是 {count} 則{category_label}財經新聞候
 候選新聞列表：
 {news_list}"""
 
+FEATURE_PROMPT_TEMPLATE = """以下是 {count} 則財經新聞候選（含國際與台灣）。請你以「FinPulse 主編」的角度，
+從中挑出**當天最重要的一則**（判斷依據：對台灣一般讀者的重要性、影響範圍、時效性），
+把它寫成一篇「簡化版專題報導」——不只是摘要這則新聞，而是把背景、來龍去脈、影響都講清楚，
+讓完全不懂財經的人也能讀懂這件事的全貌。
+
+只回傳 JSON，格式如下（不要有任何多餘文字或 markdown 圍欄）：
+{{"index": <候選編號，整數>, "feature": "<專題內文>"}}
+
+feature 內文請包含以下幾段，段落之間用換行分隔，**全文控制在 500 字以內**：
+（標題行）用一句話點出今日焦點
+📰 發生什麼事（把這則新聞說清楚）
+🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）
+🌐 影響（對市場、對台灣一般人可能造成的多方面影響）
+
+候選新聞列表：
+{news_list}"""
+
 
 def safe_json(payload: dict) -> str:
     """Serialize to JSON, dropping lone surrogates that RSS/AI text can contain
@@ -108,6 +125,30 @@ def parse_picks(raw: str, candidate_count: int) -> list[dict] | None:
     return cleaned or None
 
 
+def parse_feature(raw: str, candidate_count: int) -> dict | None:
+    """Parse the AI's feature reply into {index, feature}.
+    Tolerates ```json fences. Returns None if unparseable/out-of-range so the
+    caller drops the feature for the day rather than emitting an empty shell."""
+    text = raw.strip()
+    if text.startswith("```"):
+        text = re.sub(r"^```[a-zA-Z]*\n?", "", text)
+        text = re.sub(r"\n?```$", "", text).strip()
+    try:
+        data = json.loads(text)
+    except json.JSONDecodeError:
+        return None
+
+    if not isinstance(data, dict):
+        return None
+    idx = data.get("index")
+    feature = data.get("feature")
+    if not isinstance(idx, int) or not isinstance(feature, str) or not feature.strip():
+        return None
+    if idx < 1 or idx > candidate_count:
+        return None
+    return {"index": idx, "feature": feature.strip()}
+
+
 def select_and_summarize(articles: list[dict], category_label: str,
                          pick: int = PICK_PER_CATEGORY) -> list[dict]:
     """Ask the AI to pick the most important `pick` articles from the candidates
@@ -140,6 +181,34 @@ def select_and_summarize(articles: list[dict], category_label: str,
         article["summary_text"] = p["summary"]
         selected.append(article)
     return selected
+
+
+def select_feature(articles: list[dict]) -> dict | None:
+    """Ask the AI to pick the single most important article across all candidates
+    and write it up as a simplified feature (background + context + impact).
+    Returns the selected article dict with a `feature_text` field, or None when
+    there are no candidates or the AI fails — the feature is optional, so on
+    failure we simply skip it for the day instead of emitting an empty shell."""
+    if not articles:
+        return None
+
+    prompt = FEATURE_PROMPT_TEMPLATE.format(
+        count=len(articles),
+        news_list=build_news_list(articles),
+    )
+
+    parsed = None
+    try:
+        parsed = parse_feature(call_ai(prompt), len(articles))
+    except Exception as e:
+        print(f"[error] AI feature selection failed: {e}", file=sys.stderr)
+
+    if not parsed:
+        return None
+
+    article = dict(articles[parsed["index"] - 1])
+    article["feature_text"] = parsed["feature"]
+    return article
 
 
 def shorten_url(url: str) -> str:
@@ -179,11 +248,18 @@ def build_category_body(selected: list[dict], category_label: str) -> str:
     return f"\n{'─' * 12}\n".join(blocks)
 
 
-def format_messages(international_selected: list[dict],
+def format_messages(feature_article: dict | None,
+                    international_selected: list[dict],
                     taiwan_selected: list[dict]) -> list[dict]:
-    """Build message payloads for LINE delivery from the AI-selected articles."""
+    """Build message payloads for LINE delivery from the AI-selected articles.
+    The feature (if any) leads, followed by the international and Taiwan digests."""
     today = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
     messages = []
+
+    if feature_article:
+        header = f"🔥 FinPulse 今日焦點 {today}\n{'━' * 20}\n"
+        body = feature_article["feature_text"].strip() + format_source_links([feature_article])
+        messages.append({"message": header + body, "silent": False})
 
     if international_selected:
         header = f"🌍 FinPulse 國際財經早報 {today}\n{'━' * 20}\n"
@@ -211,21 +287,31 @@ def main() -> int:
 
     articles = data.get("articles", [])
     if not articles:
-        messages = format_messages([], [])
+        messages = format_messages(None, [], [])
         print(safe_json({"messages": messages}))
         return 0
 
     international = [a for a in articles if a.get("category") == "international"]
     taiwan = [a for a in articles if a.get("category") == "taiwan"]
 
+    # Pick the day's feature across all candidates first, then drop it from the
+    # digest candidates so the feature and the short summaries never cover the
+    # exact same article.
+    feature_article = select_feature(international + taiwan)
+    if feature_article:
+        feature_link = feature_article.get("link")
+        international = [a for a in international if a.get("link") != feature_link]
+        taiwan = [a for a in taiwan if a.get("link") != feature_link]
+
     international_selected = select_and_summarize(international, "國際")
     taiwan_selected = select_and_summarize(taiwan, "台灣")
 
-    messages = format_messages(international_selected, taiwan_selected)
+    messages = format_messages(feature_article, international_selected, taiwan_selected)
 
     # Only the AI-selected articles go downstream, so send_messages.py dedup marks
     # exactly what was pushed — unpicked candidates stay eligible for future days.
-    picked = international_selected + taiwan_selected
+    # The feature is included so it also gets recorded and won't repeat tomorrow.
+    picked = ([feature_article] if feature_article else []) + international_selected + taiwan_selected
     print(safe_json({
         "messages": messages,
         "articles": picked,

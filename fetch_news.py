@@ -56,7 +56,10 @@ def fetch_feed(feed_info: dict) -> list[dict]:
     try:
         resp = requests.get(feed_info["url"], timeout=15, headers={"User-Agent": "FinPulse/1.0"})
         resp.raise_for_status()
-        parsed = feedparser.parse(resp.text)
+        # Pass raw bytes, not resp.text: requests guesses the charset from HTTP
+        # headers and falls back to ISO-8859-1 when none is sent, which mojibakes
+        # UTF-8 CJK feeds. feedparser reads the encoding from the XML declaration.
+        parsed = feedparser.parse(resp.content)
     except Exception as e:
         print(f"[warn] Failed to fetch {feed_info['name']}: {e}", file=sys.stderr)
         return []
