@@ -11,7 +11,6 @@ LINE_TARGET = os.environ.get("FINPULSE_LINE_TARGET", "")
 
 MAX_NEWS_INTERNATIONAL = 10
 MAX_NEWS_TAIWAN = 10
-PICK_PER_CATEGORY = 1
 
 RSS_FEEDS = {
     "international": [
