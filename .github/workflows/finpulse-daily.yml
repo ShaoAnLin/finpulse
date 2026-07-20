@@ -38,4 +38,5 @@ jobs:
           FINPULSE_AI_MODEL: ${{ vars.FINPULSE_AI_MODEL || 'gpt-4o' }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           FINPULSE_LINE_TARGET: ${{ secrets.FINPULSE_LINE_TARGET }}
+          TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
         run: bash run_daily.sh

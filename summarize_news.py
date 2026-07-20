@@ -12,7 +12,7 @@ from azure.ai.inference import ChatCompletionsClient
 from azure.ai.inference.models import SystemMessage, UserMessage
 from azure.core.credentials import AzureKeyCredential
 
-from config import GITHUB_TOKEN, AI_MODEL
+from config import GITHUB_TOKEN, AI_MODEL, TAVILY_API_KEY
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
@@ -29,13 +29,21 @@ SYSTEM_PROMPT = """你是「FinPulse 財經脈動」的主編，讀者是有基�
 - 遇到專業術語可簡短帶過，不需假設讀者完全不懂，也不用刻意寫給小學生看
 - 保持客觀，不做投資建議"""
 
-FEATURE_PROMPT_TEMPLATE = """以下是 {count} 則{category_label}財經新聞候選。請你以「FinPulse 主編」的角度，
-從中挑出**當天最重要的一則**（判斷依據：對台灣一般讀者的重要性、影響範圍、時效性），
+SELECT_PROMPT_TEMPLATE = """以下是 {count} 則{category_label}財經新聞候選。請以「FinPulse 主編」的角度，
+挑出**當天最重要的一則**（判斷依據：對台灣一般讀者的重要性、影響範圍、時效性）。
+
+只回傳 JSON，格式如下（不要有任何多餘文字或 markdown 圍欄）：
+{{"index": <候選編號，整數>}}
+
+候選新聞列表：
+{news_list}"""
+
+FEATURE_PROMPT_TEMPLATE = """以下是一則{category_label}財經新聞，請你以「FinPulse 主編」的角度，
 把它寫成一篇「專題報導」——不只是摘要這則新聞，而是把背景、來龍去脈、影響都講清楚，
 讓讀者掌握這件事的全貌。
 
 只回傳 JSON，格式如下（不要有任何多餘文字或 markdown 圍欄）：
-{{"index": <候選編號，整數>, "feature": "<專題內文>"}}
+{{"feature": "<專題內文>"}}
 
 feature 內文請包含以下幾段，段落之間用換行分隔，**全文控制在 500 字以內**：
 （標題行）用一句話點出焦點
@@ -43,8 +51,17 @@ feature 內文請包含以下幾段，段落之間用換行分隔，**全文控�
 🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）
 🌐 影響（對市場、對台灣一般人可能造成的多方面影響）
 
-候選新聞列表：
-{news_list}"""
+新聞：
+標題：{title}
+來源：{source}
+摘要：{snippet}
+{research}"""
+
+RESEARCH_BLOCK_TEMPLATE = """
+以下是針對候選新聞，透過即時網路搜尋取得的多來源延伸資料（可能包含比 RSS 摘要更完整的內容與最新進展）。
+撰寫專題時請善用這些資料補充背景與來龍去脈，但仍以繁體中文改寫、不要照抄：
+
+{research_body}"""
 
 
 def safe_json(payload: dict) -> str:
@@ -76,56 +93,127 @@ def call_ai(prompt: str) -> str:
     return response.choices[0].message.content
 
 
-def parse_feature(raw: str, candidate_count: int) -> dict | None:
-    """Parse the AI's feature reply into {index, feature}.
-    Tolerates ```json fences. Returns None if unparseable/out-of-range so the
-    caller drops the feature for the day rather than emitting an empty shell."""
+def tavily_research(query: str, max_results: int = 4) -> str:
+    """Run a live web search via Tavily and return concatenated multi-source
+    content for the given query. Returns "" on any failure or when no key is
+    configured, so the feature write-up degrades to RSS-only rather than
+    breaking the daily run."""
+    if not TAVILY_API_KEY:
+        return ""
+    try:
+        resp = requests.post(
+            "https://api.tavily.com/search",
+            headers={"Authorization": f"Bearer {TAVILY_API_KEY}"},
+            json={
+                "query": query,
+                "topic": "news",
+                "search_depth": "advanced",
+                "max_results": max_results,
+                "days": 7,
+                "include_raw_content": "text",
+            },
+            timeout=30,
+        )
+        resp.raise_for_status()
+        data = resp.json()
+    except (requests.RequestException, ValueError) as e:
+        print(f"[warn] Tavily search failed for {query!r}: {e}", file=sys.stderr)
+        return ""
+
+    blocks = []
+    for r in data.get("results", []):
+        title = (r.get("title") or "").strip()
+        url = (r.get("url") or "").strip()
+        content = (r.get("raw_content") or r.get("content") or "").strip()
+        if not content:
+            continue
+        blocks.append(f"【{title}】（{url}）\n{content[:2000]}")
+    return "\n\n".join(blocks)
+
+
+def _strip_fences(raw: str) -> str:
     text = raw.strip()
     if text.startswith("```"):
         text = re.sub(r"^```[a-zA-Z]*\n?", "", text)
         text = re.sub(r"\n?```$", "", text).strip()
+    return text
+
+
+def parse_index(raw: str, candidate_count: int) -> int | None:
+    """Parse the AI's selection reply into a 1-based candidate index.
+    Returns None if unparseable/out-of-range so the caller can fall back to the
+    top recency-sorted candidate."""
     try:
-        data = json.loads(text)
+        data = json.loads(_strip_fences(raw))
     except json.JSONDecodeError:
         return None
-
     if not isinstance(data, dict):
         return None
     idx = data.get("index")
+    if not isinstance(idx, int) or idx < 1 or idx > candidate_count:
+        return None
+    return idx
+
+
+def parse_feature(raw: str) -> str | None:
+    """Parse the AI's feature reply into the feature text.
+    Tolerates ```json fences. Returns None if unparseable/empty so the caller
+    drops the feature for that category rather than emitting an empty shell."""
+    try:
+        data = json.loads(_strip_fences(raw))
+    except json.JSONDecodeError:
+        return None
+    if not isinstance(data, dict):
+        return None
     feature = data.get("feature")
-    if not isinstance(idx, int) or not isinstance(feature, str) or not feature.strip():
+    if not isinstance(feature, str) or not feature.strip():
         return None
-    if idx < 1 or idx > candidate_count:
-        return None
-    return {"index": idx, "feature": feature.strip()}
+    return feature.strip()
 
 
 def select_feature(articles: list[dict], category_label: str) -> dict | None:
-    """Ask the AI to pick the single most important article from the given
-    category's candidates and write it up as a feature (background + context +
+    """Pick the single most important article for a category, enrich it with a
+    live Tavily web search, and write it up as a feature (background + context +
     impact). Returns the selected article dict with a `feature_text` field, or
-    None when there are no candidates or the AI fails — features are optional,
-    so on failure we skip that category instead of emitting an empty shell."""
+    None when there are no candidates or the write-up fails."""
     if not articles:
         return None
 
-    prompt = FEATURE_PROMPT_TEMPLATE.format(
+    # Step 1: cheap selection — pick the winning candidate by index only.
+    select_prompt = SELECT_PROMPT_TEMPLATE.format(
         count=len(articles),
         category_label=category_label,
         news_list=build_news_list(articles),
     )
-
-    parsed = None
+    idx = None
     try:
-        parsed = parse_feature(call_ai(prompt), len(articles))
+        idx = parse_index(call_ai(select_prompt), len(articles))
     except Exception as e:
-        print(f"[error] AI feature selection failed for {category_label}: {e}", file=sys.stderr)
+        print(f"[error] AI selection failed for {category_label}: {e}", file=sys.stderr)
+    article = dict(articles[(idx - 1) if idx else 0])
 
-    if not parsed:
+    # Step 2: live web research on the winner via Tavily (best-effort).
+    research_text = tavily_research(article["title"])
+    research = RESEARCH_BLOCK_TEMPLATE.format(research_body=research_text) if research_text else ""
+
+    # Step 3: write the feature, grounded in the multi-source research.
+    feature_prompt = FEATURE_PROMPT_TEMPLATE.format(
+        category_label=category_label,
+        title=article["title"],
+        source=article["source"],
+        snippet=article.get("snippet", "無"),
+        research=research,
+    )
+    feature = None
+    try:
+        feature = parse_feature(call_ai(feature_prompt))
+    except Exception as e:
+        print(f"[error] AI feature write-up failed for {category_label}: {e}", file=sys.stderr)
+
+    if not feature:
         return None
 
-    article = dict(articles[parsed["index"] - 1])
-    article["feature_text"] = parsed["feature"]
+    article["feature_text"] = feature
     return article
 
 

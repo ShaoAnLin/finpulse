@@ -6,6 +6,8 @@ load_dotenv()
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
 AI_MODEL = os.environ.get("FINPULSE_AI_MODEL", "gpt-4o")
 
+TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "")
+
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "")
 LINE_TARGET = os.environ.get("FINPULSE_LINE_TARGET", "")
 

@@ -1,24 +1,28 @@
 # FinPulse
 
-Daily financial news digest delivered to LINE with beginner-friendly explanations in Traditional Chinese.
+Daily financial news digest delivered to LINE in Traditional Chinese. Each day it
+publishes two in-depth features — one international, one Taiwan — with background
+and context pulled from live web search (Tavily), not just RSS snippets.
 
 ## Architecture
 
 ```
-┌─────────────────────────────────────────────────────────┐
-│                    FinPulse Pipeline                    │
-├─────────────────────────────────────────────────────────┤
-│                                                         │
-│  RSS Feeds ──► fetch_news.py ──► summarize_news.py      │
-│  (Free)        (feedparser)      (GitHub Models API)    │
-│                     │                    │              │
-│                     ▼                    ▼              │
-│              state.sqlite3        send_messages.py      │
-│              (dedup store)        (LINE Push API)       │
-│                                         │               │
-│                                         ▼               │
-│                                LINE Bot ──► User/Group  │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│                       FinPulse Pipeline                      │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  RSS Feeds ──► fetch_news.py ──► summarize_news.py           │
+│  (Free)        (feedparser)      │  1. AI picks top story    │
+│                     │            │  2. Tavily live search    │
+│                     ▼            │  3. GPT-4o writes feature │
+│              state.sqlite3       └──────────┬────────────────┘
+│              (dedup store)                  ▼                │
+│                                    send_messages.py          │
+│                                    (LINE Push API)           │
+│                                          │                   │
+│                                          ▼                   │
+│                                 LINE Bot ──► User/Group      │
+└──────────────────────────────────────────────────────────────┘
 ```
 
 ## Tools & Services Used
@@ -26,6 +30,7 @@ Daily financial news digest delivered to LINE with beginner-friendly explanation
 | Component | Tool / Service | Cost |
 |-----------|---------------|------|
 | News source | Google News RSS, CnYes RSS, UDN Money RSS | Free |
+| Live web research | Tavily Search API (multi-source context for features) | Free tier (~4 credits/day) |
 | AI summarization | GitHub Models API (GPT-4o) | Free (150 req/day) |
 | Message delivery | LINE Messaging API (Push) | Free (200 msg/month; ~2/day = ~60/month) |
 | Deduplication | SQLite (local file) | Free |
@@ -53,14 +58,18 @@ finpulse/
 
 ## How It Works
 
-1. **fetch_news.py** — Pulls articles from RSS feeds (international + Taiwan), filters to last 24 hours, removes already-pushed articles using SQLite. Daily volume is controlled by `MAX_NEWS_INTERNATIONAL` / `MAX_NEWS_TAIWAN` in `config.py` (currently 1 each — one international + one Taiwan story per day)
-2. **summarize_news.py** — Sends article titles/snippets to GPT-4o via GitHub Models API, receives beginner-friendly summaries with background explanations in Traditional Chinese
-3. **send_messages.py** — Pushes the formatted digest to LINE using the Messaging API push endpoint
+1. **fetch_news.py** — Pulls articles from RSS feeds (international + Taiwan), filters to last 24 hours, removes already-pushed articles using SQLite. Candidate volume is controlled by `MAX_NEWS_INTERNATIONAL` / `MAX_NEWS_TAIWAN` in `config.py`
+2. **summarize_news.py** — For each category (international + Taiwan), runs a three-step feature flow:
+   1. GPT-4o picks the single most important story from the candidates
+   2. **Tavily Search API** runs a live web search on that story's headline (`topic=news`, last 7 days) and returns multi-source page content
+   3. GPT-4o writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
+3. **send_messages.py** — Pushes the two features to LINE using the Messaging API push endpoint
 
 ## Prerequisites
 
 - Python 3.10+
 - GitHub Personal Access Token (fine-grained) with `Models: Read` permission
+- Tavily API key (`tvly-…`) — free tier from https://app.tavily.com
 - LINE Messaging API channel with a long-lived channel access token
 - LINE target ID — a user ID (starts with `U`) or a group ID (starts with `C`)
 
@@ -79,6 +88,10 @@ cp .env.example .env
 1. Go to https://github.com/settings/personal-access-tokens/new
 2. Create a fine-grained token
 3. Under Account permissions → set **Models** to **Read**
+
+**Tavily API Key** (for live web search):
+1. Sign up at https://app.tavily.com (Google/email, no credit card)
+2. Copy the `tvly-…` key from the dashboard into `TAVILY_API_KEY`
 
 **LINE Channel Access Token**:
 1. Go to https://developers.line.biz/ and log in with your LINE account
@@ -135,6 +148,7 @@ bash run_daily.sh
 
 Repository Settings -> Secrets and variables -> Actions -> Secrets:
 - `FINPULSE_GITHUB_TOKEN`: GitHub Models token with Models read permission
+- `TAVILY_API_KEY`: Tavily Search API key (`tvly-…`)
 - `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging API channel access token
 - `FINPULSE_LINE_TARGET`: LINE user ID or group ID
 
@@ -173,18 +187,30 @@ openclaw cron add --name "FinPulse" --cron "30 7 * * *" --tz "Asia/Taipei" \
 
 ## Output Example
 
+Each day sends two features (🌍 international + 🇹🇼 Taiwan), each grounded in live web search:
+
 ```
-🇹🇼 FinPulse 台灣財經早報 2026-06-30
+🌍 FinPulse 國際焦點 2026-07-20
 ━━━━━━━━━━━━━━━━━━━━
+### 聯準會不加息，因應通膨降溫之勢
 
-📌 台股暴跌逾千點，台積電尾盤遭大量賣壓
+📰 發生什麼事
+美國聯準會宣布維持基準利率不變。6 月消費者物價指數（CPI）年增率
+降至 3.5%（5 月為 4.2%），核心 CPI 為 2.6%，顯示通膨壓力緩解。
 
-📰 台股今日重挫 1,126 點，盤中一度跌超過 1,637 點，
-創下史上第三大單日跌幅。台積電尾盤出現近兩萬張賣單。
+🔍 背景與來龍去脈
+去年以來 Fed 多輪激進升息以壓抑通膨。近期能源價格回落（年減 5.7%）、
+供應鏈緩解，減輕物價壓力。市場依 CME FedWatch 預測進一步升息機率下降。
 
-💡 想像股市是高樓，台積電是其中的柱子，柱子搖晃時
-整座樓就跟著晃動。這次台股跌了一層樓那麼多。
+🌐 影響
+暫停升息對全球股市偏多。但房貸利率仍維持約 6.5% 高位。對台灣而言，
+可望舒緩國際資金波動、支撐新台幣匯率。
 
-📊 投資股票的上班族可能感受到帳戶價值縮水，
-投資氣氛變得更謹慎。
+🔗 原文連結
+Fed holds rates steady as inflation cools
+https://tinyurl.com/...
 ```
+
+(The CPI figures, energy price change, and mortgage rate above come from Tavily's
+live search — none of them are in the original RSS snippet.)
+
