@@ -16,7 +16,7 @@ echo "[finpulse] start $(date -Is)"
 
 # 1. Fetch news from RSS
 echo "[finpulse] fetching news..."
-"$PYTHON_BIN" fetch_news.py > "/tmp/finpulse-fetched-$stamp.json" 2>>"$LOG_DIR/fetch.log"
+"$PYTHON_BIN" fetch_news.py > "/tmp/finpulse-fetched-$stamp.json" 2> >(tee -a "$LOG_DIR/fetch.log" >&2)
 fetch_status=$?
 
 if [ "$fetch_status" -ne 0 ]; then
@@ -26,7 +26,7 @@ fi
 
 # 2. Summarize with AI (GitHub Models API)
 echo "[finpulse] summarizing with AI..."
-"$PYTHON_BIN" summarize_news.py < "/tmp/finpulse-fetched-$stamp.json" > "/tmp/finpulse-messages-$stamp.json" 2>>"$LOG_DIR/summarize.log"
+"$PYTHON_BIN" summarize_news.py < "/tmp/finpulse-fetched-$stamp.json" > "/tmp/finpulse-messages-$stamp.json" 2> >(tee -a "$LOG_DIR/summarize.log" >&2)
 summarize_status=$?
 
 if [ "$summarize_status" -ne 0 ]; then
@@ -36,7 +36,7 @@ fi
 
 # 3. Send via LINE
 echo "[finpulse] sending to LINE..."
-"$PYTHON_BIN" send_messages.py < "/tmp/finpulse-messages-$stamp.json" 2>>"$LOG_DIR/send.log"
+"$PYTHON_BIN" send_messages.py < "/tmp/finpulse-messages-$stamp.json" 2> >(tee -a "$LOG_DIR/send.log" >&2)
 send_status=$?
 
 # Cleanup temp files older than 7 days
