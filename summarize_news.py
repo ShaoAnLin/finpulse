@@ -89,6 +89,7 @@ def call_ai(prompt: str) -> str:
             UserMessage(content=prompt),
         ],
         model=AI_MODEL,
+        response_format="json_object",
     )
     return response.choices[0].message.content
 
