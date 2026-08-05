@@ -1,9 +1,11 @@
 name: FinPulse Daily
 
 on:
-  schedule:
-    # 07:23 Asia/Taipei (UTC+8)
-    - cron: "23 23 * * *"
+  # Daily schedule paused — GitHub token lacks required permissions.
+  # Re-enable by uncommenting the schedule block below.
+  # schedule:
+  #   # 07:23 Asia/Taipei (UTC+8)
+  #   - cron: "23 23 * * *"
   workflow_dispatch:
 
 jobs:
