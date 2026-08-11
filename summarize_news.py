@@ -260,6 +260,17 @@ def format_messages(international_feature: dict | None,
     return messages
 
 
+def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) -> list[dict]:
+    """Return the newest unpicked articles for the website."""
+    picked_links = {article.get("link") for article in picked}
+    candidates = [
+        article for article in articles
+        if article.get("link") not in picked_links
+    ]
+    candidates.sort(key=lambda article: article.get("published") or "", reverse=True)
+    return candidates[:limit]
+
+
 def main() -> int:
     raw = sys.stdin.read()
     try:
@@ -271,7 +282,7 @@ def main() -> int:
     articles = data.get("articles", [])
     if not articles:
         messages = format_messages(None, None)
-        print(safe_json({"messages": messages}))
+        print(safe_json({"messages": messages, "articles": [], "candidates": []}))
         return 0
 
     international = [a for a in articles if a.get("category") == "international"]
@@ -288,6 +299,7 @@ def main() -> int:
     print(safe_json({
         "messages": messages,
         "articles": picked,
+        "candidates": build_candidates(articles, picked),
     }))
 
     return 0

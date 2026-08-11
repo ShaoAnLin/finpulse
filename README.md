@@ -18,10 +18,10 @@ and context pulled from live web search (Tavily), not just RSS snippets.
 │              state.sqlite3       └──────────┬────────────────┘
 │              (dedup store)                  ▼                │
 │                                    send_messages.py          │
-│                                    (LINE Push API)           │
-│                                          │                   │
-│                                          ▼                   │
-│                                 LINE Bot ──► User/Group      │
+│                                    (LINE + web cache)        │
+│                                      │           │           │
+│                                      ▼           ▼           │
+│                               LINE Bot       GitHub Pages    │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -46,6 +46,8 @@ finpulse/
 ├── summarize_news.py     # Calls Groq API (Llama 3.3 70B) to generate summaries
 ├── send_messages.py      # Pushes formatted messages to LINE via Messaging API
 ├── run_daily.sh          # Shell script that orchestrates the full pipeline
+├── web/                  # React + Vite + Tailwind source
+├── docs/                 # Built GitHub Pages site and today's JSON cache
 ├── state.sqlite3         # SQLite DB tracking previously pushed articles
 ├── requirements.txt      # Python dependencies
 ├── .env                  # API keys and config (not committed)
@@ -63,7 +65,8 @@ finpulse/
    1. The Groq model picks the single most important story from the candidates
    2. **Tavily Search API** runs a live web search on that story's headline (`topic=news`, last 7 days) and returns multi-source page content
    3. The Groq model writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
-3. **send_messages.py** — Pushes the two features to LINE using the Messaging API push endpoint
+3. **send_messages.py** — Pushes the two features to LINE, then replaces `docs/news-today.json` with those features and the 10 newest unselected candidates
+4. **finpulse-web** — Reads only `docs/news-today.json`: the two LINE features are shown in full, while candidate cards expand to reveal their complete RSS snippet and original link
 
 ## Prerequisites
 
@@ -156,6 +159,24 @@ Optional repository variable:
 - `FINPULSE_AI_MODEL`: defaults to `llama-3.3-70b-versatile` when unset
 
 The workflow in `.github/workflows/finpulse-daily.yml` runs daily at 07:30 Asia/Taipei and can also be started manually from the Actions tab.
+After a successful LINE broadcast, it commits the refreshed `docs/news-today.json` so the Pages site receives the same day's news.
+
+## finpulse-web
+
+The mobile-first frontend source lives in `web/`; Vite builds the static site directly
+into `docs/` without deleting `docs/news-today.json`.
+
+```bash
+cd web
+npm install
+npm run dev       # local development
+npm run lint
+npm run build     # refresh the committed static files in ../docs
+```
+
+To deploy, open **Settings → Pages**, choose **Deploy from a branch**, select the
+default branch and the `/docs` folder, then save. The site shows only today's cache;
+each successful daily workflow replaces the prior day's data rather than creating an archive.
 
 **Linux/macOS (cron):**
 ```cron
@@ -213,4 +234,3 @@ https://tinyurl.com/...
 
 (The CPI figures, energy price change, and mortgage rate above come from Tavily's
 live search — none of them are in the original RSS snippet.)
-
