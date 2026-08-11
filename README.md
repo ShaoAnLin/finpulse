@@ -42,13 +42,15 @@ and context pulled from live web search (Tavily), not just RSS snippets.
 ```
 finpulse/
 ├── config.py             # Environment variables and RSS feed definitions
+├── db.py                 # Shared pushed_news schema/migration helpers
 ├── fetch_news.py         # Fetches RSS feeds, filters last 24h, deduplicates via SQLite
 ├── summarize_news.py     # Calls Groq API (Llama 3.3 70B) to generate summaries
 ├── send_messages.py      # Pushes formatted messages to LINE via Messaging API
+├── export_news.py        # Exports historical pushed_news rows to JSON for the webpage
 ├── run_daily.sh          # Shell script that orchestrates the full pipeline
 ├── web/                  # React + Vite + Tailwind source
 ├── docs/                 # Built GitHub Pages site and today's JSON cache
-├── state.sqlite3         # SQLite DB tracking previously pushed articles
+├── state.sqlite3         # SQLite DB tracking previously pushed articles (with full detail)
 ├── requirements.txt      # Python dependencies
 ├── .env                  # API keys and config (not committed)
 ├── .env.example          # Template for .env
@@ -65,8 +67,38 @@ finpulse/
    1. The Groq model picks the single most important story from the candidates
    2. **Tavily Search API** runs a live web search on that story's headline (`topic=news`, last 7 days) and returns multi-source page content
    3. The Groq model writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
-3. **send_messages.py** — Pushes the two features to LINE, then replaces `docs/news-today.json` with those features and the 10 newest unselected candidates
+3. **send_messages.py** — Pushes the two features to LINE, records their full details in `state.sqlite3`, then replaces `docs/news-today.json` with those features and the 10 newest unselected candidates
 4. **finpulse-web** — Reads only `docs/news-today.json`: the two LINE features are shown in full, while candidate cards expand to reveal their complete RSS snippet and original link
+
+## Historical Data Export
+
+`state.sqlite3`'s `pushed_news` table doubles as both the dedup ledger (used to
+avoid re-sending an article) and a historical archive of everything ever pushed
+to LINE. Each row stores:
+
+| Column | Description |
+|--------|-------------|
+| `url_hash` | SHA-256 hash of the article URL (primary key) |
+| `url` | Original article link |
+| `title` | Article title |
+| `pushed_at` | ISO-8601 timestamp (Asia/Taipei) when it was sent |
+| `category` | `international` or `taiwan` |
+| `source` | Feed name (e.g. CnYes, Reuters Business) |
+| `snippet` | RSS summary snippet |
+| `published` | Article's original published timestamp |
+| `feature_text` | The full AI-written Traditional Chinese feature sent to LINE |
+
+To export this history as JSON (e.g. for a webpage that displays past digests):
+
+```bash
+python export_news.py [output_path]   # defaults to news_export.json
+```
+
+Databases created before this schema was introduced are migrated in place
+(missing columns are added via `ALTER TABLE`) the next time `fetch_news.py` or
+`send_messages.py` runs, so no manual migration step is required. Rows written
+before the migration will have `NULL` values for the newer columns since that
+detail was not previously captured.
 
 ## Prerequisites
 

@@ -5,13 +5,13 @@ from __future__ import annotations
 import hashlib
 import json
 import os
-import sqlite3
 import sys
 from datetime import datetime, timedelta, timezone
 
 import requests
 
 from config import DB_PATH, LINE_CHANNEL_ACCESS_TOKEN, LINE_TARGET
+from db import init_db
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
@@ -71,24 +71,33 @@ def split_message(text: str, max_len: int = LINE_MAX_LENGTH) -> list[str]:
 
 
 def mark_pushed(articles: list[dict]) -> None:
-    """Record delivered articles in SQLite to avoid duplicates."""
-    con = sqlite3.connect(DB_PATH)
-    con.execute("""
-        CREATE TABLE IF NOT EXISTS pushed_news (
-            url_hash TEXT PRIMARY KEY,
-            url TEXT,
-            title TEXT,
-            pushed_at TEXT
-        )
-    """)
+    """Record delivered articles in SQLite to avoid duplicates. Also persists
+    the full article details (category, source, snippet, published date, and
+    the AI-written feature text) so this table can double as a historical
+    archive exportable for the webpage, not just a dedup ledger."""
+    con = init_db(DB_PATH)
     now = datetime.now(TZ_TPE).isoformat(timespec="seconds")
     for a in articles:
         url = a.get("link", "")
         title = a.get("title", "").encode("utf-8", errors="replace").decode("utf-8")
         h = hashlib.sha256(url.encode()).hexdigest()[:16]
         con.execute(
-            "INSERT OR IGNORE INTO pushed_news (url_hash, url, title, pushed_at) VALUES (?, ?, ?, ?)",
-            (h, url, title, now),
+            """
+            INSERT OR IGNORE INTO pushed_news
+                (url_hash, url, title, pushed_at, category, source, snippet, published, feature_text)
+            VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
+            """,
+            (
+                h,
+                url,
+                title,
+                now,
+                a.get("category", ""),
+                a.get("source", ""),
+                a.get("snippet", ""),
+                a.get("published", ""),
+                a.get("feature_text", ""),
+            ),
         )
     con.commit()
     con.close()
