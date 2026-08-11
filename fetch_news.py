@@ -13,26 +13,13 @@ import feedparser
 import requests
 
 from config import DB_PATH, MAX_NEWS_INTERNATIONAL, MAX_NEWS_TAIWAN, RSS_FEEDS
+from db import init_db
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
 TZ_TPE = timezone(timedelta(hours=8))
-
-
-def init_db(db_path: str) -> sqlite3.Connection:
-    con = sqlite3.connect(db_path)
-    con.execute("""
-        CREATE TABLE IF NOT EXISTS pushed_news (
-            url_hash TEXT PRIMARY KEY,
-            url TEXT,
-            title TEXT,
-            pushed_at TEXT
-        )
-    """)
-    con.commit()
-    return con
 
 
 def url_hash(url: str) -> str:
