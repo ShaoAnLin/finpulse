@@ -1,5 +1,91 @@
 {
-  "date": "",
-  "featured": [],
-  "candidates": []
+  "date": "2026-08-11",
+  "featured": [
+    {
+      "category": "international",
+      "title": "OpenAI wraps $7 billion share sale ahead of potential IPO - CNBC",
+      "feature": "OpenAI 已完成一項約 700 億美元的股份出售，該公司可能即將上市。📰 發生什麼事：OpenAI 完成了約 700 億美元的二級股份出售，允許現任和前任員工出售股份，據報導這項出售價值約 700 億美元。🔍 背景與來龍去脈：OpenAI 的這次股份出售是在今年三月獲得 1.22 萬億美元資金後進行的，這是有史以來最大的私募資金。這次出售為員工和早期投資者提供了流動性窗口。🌐 影響：對市場和台灣一般人來說，OpenAI 的上市可能會對 AI 行業產生重大影響，且對其他初創公司和投資者也有啟發。",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTks4emg2RHNjcWNnN3VfdzZWbU14cXdMT2VzbnlnX0VLNEVCUEM1R2FkV1p5R3cwZ1ZTRGZmSUFkYTNVS1JoYVNxdWlNRmlVQnRSRlA1dnNCSmh5UU5IampSbFV6VU1wY0tTbjVqeU5XTXk3ZW9CTlhOelk1TmFsLUVRZm9pY09sLWNFRG5FN0QwTUQ1NXl1eEpn0gGfAUFVX3lxTFBQSlFVcGFVMkEzOExGdzJGLWxNZS1Mcmd3YWJLdkhrWUd1V0tLM2NrdWtKcTVOOC1aRllzQTBybDcySGJXcW9hV1lUU3Z6dE95NnpJRW0xTGVnMGRuMWExRWo4SFp4WVlYbE9EbHF1SmQzNnl4aWVRcXo1dnEwM3VXc0p5NER5SVVtRUJ1TFgxSUtNdk5OTDBQakhuNEJHaw?oc=5"
+    },
+    {
+      "category": "taiwan",
+      "title": "【0810台股盤後】台股大盤飆702 點強勢攻克45,000 點大關！記憶體、MLCC、光通訊三強拱頂，鎖定「營收創高模範生」至上、力積電、盟立｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
+      "feature": "台股大盤強勢飆升702點，創下45,000點新高，電子權值股領風騷。記憶體製造、MLCC被動元件與光通訊三強拱頂，成為市場焦點。鎖定「營收創高模範生」至上、力積電、盟立等個股，引發投資人熱議。 \n   \n   📰 今日台股集中市場以電子權值股、記憶體製造與被動元件族群全線大噴發帶動，加權指數開高走高暴拉702.85點，收在全日最高點45,219.40點，強勢攻克45,000點整數大關並創下歷史新高，成交金額放大至8,762.39億元。櫃買指數同步勁揚7.42點，收在396.92點。全市場三大法人合計大舉淨買超689.59億元。\n   \n   🔍 記憶體製造、MLCC被動元件與光通訊三大板塊表現最為亮眼，國際DRAM與NAND Flash現貨價大漲，加上AI伺服器HBM與DDR5拉貨需求帶動，南亞科、華邦電、旺宏等個股暴漲。高階車用與AI伺服器需求回溫，禾伸堂、華新科、國巨等個股大漲。800G與1.6T光模組需求熱絡，聯亞、上詮、華星光等個股漲停。\n   \n   🌐 台股大盤強勢攻克45,000點，對市場與投資人信心有所提振，尤其電子產業的強勢表現，更是引發市場熱議。然而，投資人仍需要審慎評估個股的基本面與市場風險，作出理性的投資決定。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPc2JCOGhaY1ZwVm1LMTZzYzhseUtuTDVQTDBNSjljTWVyNU5Za01UYUN5eV9MblFkS0JROGhFSnQzN2YySGcxX1pKZWdINWNITTNfTGk1TlBzODFrdjJvRTExbjFHVVpzalVfamdUVkljdVl0Tzc1dzlFN2dwbmdiNHdjaWNQMFBIbkFnZHhTbXRBTUIwTlI5NnVhT19xYkVPWXVsdklOdTVyMGZOZ2d5OFFhZTNwbGRBSkRWTGhVNnBKVUdMdWF2R1hvSXlKU25mcWd4TW1JNlpLV3AwbkRzRHlva0R5SnZDcTE4Slcwc3BvNWdjRElTVVlCaHBIMGdaSHJRUzZUclY0Vm9lT0lyMGxGOUtPV2tmTVN0UEFvTUs1T1ZUc3ROaHYxcXRSemNPNkhPaWVjUXVieU9kRGZSaDIzY3ZIUUxTZWE5WTQ5cll3T0tQem1mT3IyUGhhRDVxalo1aGZUQ01kclNvbmNybEJCVmE5RTlPejVYZzVjalFwbkswZGlndGdFSUxEeDVCSkFjSjZEc1U1VndPWDY4ZmhCd0FTSnBHUDB1SFdkRlYxWWhoTFhwcm9wdk92ckNSamFNTDMwQkNvTWJMbS02bkVqMVdBSVVfWWFGdU1iTWZuMmdzTVotc1F5cjlUSzZISTB1RDZfRUVaVzVaYTl0dzI3c2hFNklfNnhsMHpUc1JZcFI5UzBTYl9RbUQ2eHdxQUh4VFJDdlZzcHMtc08ydnRIU29MdXVrSHVfOWtDSVY5SzBZR2dmLXlTZ1VOVUdRVjFuUUZDdEJmbFp6d2Z5TGV4SXdZV1NZZWI4d3hEU1hHRW01b2FBekVVc3J2eXI1R1JsNFlycFFlWmlsT0lUYS11VzhNZDZBdmc1YkVaeE84R2hwSDItRTlB?oc=5"
+    }
+  ],
+  "candidates": [
+    {
+      "title": "資料中心引爆民怨！ 艾克曼力挺Ramaswamy「Ohioans First」居民免電費、降房產稅",
+      "snippet": "AI 資料中心快速擴張引發電費、水資源與環境爭議，俄亥俄州長候選人 Ramaswamy 提出「居民免電費、降房產稅」等條件，艾克曼公開稱讚，資料中心如何與地方利益共享成選戰焦點。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570330"
+    },
+    {
+      "title": "盤中速報 - 沛亨(6291)大跌7.04%，報356.5元",
+      "snippet": "沛亨(6291-TW)盤中股價下跌，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570505"
+    },
+    {
+      "title": "盤中速報 - 半導體類指數類股表現疲軟，跌幅2.08%，總成交額397.89億",
+      "snippet": "台股盤中半導體業類股表現疲軟，漲跌幅、成交額、大盤佔比、領漲跌個股、指數績效、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570504"
+    },
+    {
+      "title": "台股11 日反彈無力再陷回檔修正光寶科股價上沖下洗一度創新高 - moneyweekly.com.tw",
+      "snippet": "台股11 日反彈無力再陷回檔修正光寶科股價上沖下洗一度創新高&nbsp;&nbsp;moneyweekly.com.tw",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IS2xHOEJnai1NMTBQYjJqU3hVSzlUVXlhZUxWeEI5QXNPeXVjNFE2Q1hvSFJRZkY1aVQ4bHNxSXFWamZhZlFoWmh0ZkFQdjFpLTAwcWtySHo1cDRKTFlyWFVZb1lOejNhWGxOdjdTQQ?oc=5"
+    },
+    {
+      "title": "謝金河點名13檔台股 從腰斬6成到獲利暴衝：本益比一看秒懂 - 三立新聞",
+      "snippet": "謝金河點名13檔台股 從腰斬6成到獲利暴衝：本益比一看秒懂&nbsp;&nbsp;三立新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTVptc094dFhjdnZKcXRnUkFrdG91QkduR05PWnNoQ0tDNndfdmg5LXV2VWpVZmdUczBVZEZQTy1uYkFCcXI3Q21Yaw?oc=5"
+    },
+    {
+      "title": "盤中速報 - 科嶠(4542)大跌7.01%，報271.5元",
+      "snippet": "科嶠(4542-TW)盤中股價下跌，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570503"
+    },
+    {
+      "title": "盤中速報 - 泓德能源(6873)大跌7.22%，報73.3元",
+      "snippet": "泓德能源(6873-TW)盤中股價下跌，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570502"
+    },
+    {
+      "title": "鉅亨買幣速報 - USDC(USDC)24小時成交量超過16.73億美元，NFPrompt Token(NFP)24小時漲幅達66.2%",
+      "snippet": "鉅亨幣圈盤中速報，總結當日亮點幣種、指標幣種、宏觀市場表現、漲跌幅排名，掌握交易價格、總成交量、市值、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570501"
+    },
+    {
+      "title": "貝佐斯等超級富豪抱團 即將收購英超球隊股權",
+      "snippet": "超級富豪競相購買體育資產的浪潮，又迎來新的華麗敘事，一個由亞馬遜創始人貝佐斯參與的財團即將達成交易，收購英超（Premier League）豪門球會利物浦（Liverpool）約三分之一股份。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6570043"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market - CNBC",
+      "snippet": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHQ1ZERxZG1Sa3VYLXU2Q29aY2NiVWpLcDZ2dlVqQmRDN1liOEEzaGUzb3FFLU51S1RvZ1cta1pCRFdYVzhnTXFLazVhaDBoejczM1JDMHBlNFJ6RUg4TUpPWEtta0lFTW8zdmFRbERJZnZXZ3pUZnBLVjhNMEx5Y3MzeGx3QkpvYUowRWkxZDRvUGc5RG9pZw?oc=5"
+    }
+  ]
 }
