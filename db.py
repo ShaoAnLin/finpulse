@@ -34,7 +34,11 @@ def ensure_schema(con: sqlite3.Connection) -> None:
     """)
 
     existing = {row[1] for row in con.execute("PRAGMA table_info(pushed_news)")}
+    allowed_types = {"TEXT", "INTEGER", "REAL", "BLOB"}
     for name, col_type in EXTRA_COLUMNS:
+        assert name.isidentifier() and col_type in allowed_types, (
+            f"unexpected column definition: {name!r} {col_type!r}"
+        )
         if name not in existing:
             con.execute(f"ALTER TABLE pushed_news ADD COLUMN {name} {col_type}")
 

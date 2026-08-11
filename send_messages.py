@@ -4,14 +4,13 @@ from __future__ import annotations
 
 import hashlib
 import json
-import sqlite3
 import sys
 from datetime import datetime, timedelta, timezone
 
 import requests
 
 from config import DB_PATH, LINE_CHANNEL_ACCESS_TOKEN, LINE_TARGET
-from db import ensure_schema
+from db import init_db
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
@@ -74,8 +73,7 @@ def mark_pushed(articles: list[dict]) -> None:
     the full article details (category, source, snippet, published date, and
     the AI-written feature text) so this table can double as a historical
     archive exportable for the webpage, not just a dedup ledger."""
-    con = sqlite3.connect(DB_PATH)
-    ensure_schema(con)
+    con = init_db(DB_PATH)
     now = datetime.now(TZ_TPE).isoformat(timespec="seconds")
     for a in articles:
         url = a.get("link", "")

@@ -12,11 +12,10 @@ timestamp it was pushed to LINE.
 from __future__ import annotations
 
 import json
-import sqlite3
 import sys
 
 from config import DB_PATH
-from db import ensure_schema
+from db import init_db
 
 DEFAULT_OUTPUT = "news_export.json"
 
@@ -36,9 +35,8 @@ EXPORT_COLUMNS = [
 def export_articles(db_path: str = DB_PATH) -> list[dict]:
     """Read all rows from pushed_news and return them as a list of dicts,
     ordered newest-first by pushed_at."""
-    con = sqlite3.connect(db_path)
+    con = init_db(db_path)
     try:
-        ensure_schema(con)
         cur = con.execute(
             f"SELECT {', '.join(EXPORT_COLUMNS)} FROM pushed_news ORDER BY pushed_at DESC"
         )
