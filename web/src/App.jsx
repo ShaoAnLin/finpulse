@@ -143,11 +143,17 @@ export default function App() {
               <h2 id="candidate-heading" className="mt-1 text-2xl font-black">
                 候選新聞
               </h2>
-              <div className="mt-5 grid gap-4 md:grid-cols-2">
-                {news.candidates.map((article) => (
-                  <CandidateCard key={article.link} article={article} />
-                ))}
-              </div>
+              {news.candidates.length ? (
+                <div className="mt-5 grid gap-4 md:grid-cols-2">
+                  {news.candidates.map((article) => (
+                    <CandidateCard key={article.link} article={article} />
+                  ))}
+                </div>
+              ) : (
+                <p className="mt-5 rounded-2xl bg-white p-6 text-slate-600 shadow-sm">
+                  今日暫無其他候選新聞。
+                </p>
+              )}
             </section>
           </>
         )}
