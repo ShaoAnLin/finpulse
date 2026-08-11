@@ -24,7 +24,7 @@ if [ "$fetch_status" -ne 0 ]; then
     exit "$fetch_status"
 fi
 
-# 2. Summarize with AI (GitHub Models API)
+# 2. Summarize with AI (Groq API)
 echo "[finpulse] summarizing with AI..."
 "$PYTHON_BIN" summarize_news.py < "/tmp/finpulse-fetched-$stamp.json" > "/tmp/finpulse-messages-$stamp.json" 2> >(tee -a "$LOG_DIR/summarize.log" >&2)
 summarize_status=$?

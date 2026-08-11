@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Summarize news articles using GitHub Models API with beginner-friendly explanations."""
+"""Summarize news articles using the Groq API with beginner-friendly explanations."""
 from __future__ import annotations
 
 import json
@@ -8,11 +8,9 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 import requests
-from azure.ai.inference import ChatCompletionsClient
-from azure.ai.inference.models import SystemMessage, UserMessage
-from azure.core.credentials import AzureKeyCredential
+from groq import Groq
 
-from config import GITHUB_TOKEN, AI_MODEL, TAVILY_API_KEY
+from config import GROQ_API_KEY, AI_MODEL, TAVILY_API_KEY
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
@@ -79,17 +77,14 @@ def build_news_list(articles: list[dict]) -> str:
 
 
 def call_ai(prompt: str) -> str:
-    client = ChatCompletionsClient(
-        endpoint="https://models.inference.ai.azure.com",
-        credential=AzureKeyCredential(GITHUB_TOKEN),
-    )
-    response = client.complete(
+    client = Groq(api_key=GROQ_API_KEY)
+    response = client.chat.completions.create(
         messages=[
-            SystemMessage(content=SYSTEM_PROMPT),
-            UserMessage(content=prompt),
+            {"role": "system", "content": SYSTEM_PROMPT},
+            {"role": "user", "content": prompt},
         ],
         model=AI_MODEL,
-        response_format="json_object",
+        response_format={"type": "json_object"},
     )
     return response.choices[0].message.content
 

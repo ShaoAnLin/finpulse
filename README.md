@@ -14,7 +14,7 @@ and context pulled from live web search (Tavily), not just RSS snippets.
 │  RSS Feeds ──► fetch_news.py ──► summarize_news.py           │
 │  (Free)        (feedparser)      │  1. AI picks top story    │
 │                     │            │  2. Tavily live search    │
-│                     ▼            │  3. GPT-4o writes feature │
+│                     ▼            │  3. Groq LLM writes it up │
 │              state.sqlite3       └──────────┬────────────────┘
 │              (dedup store)                  ▼                │
 │                                    send_messages.py          │
@@ -31,7 +31,7 @@ and context pulled from live web search (Tavily), not just RSS snippets.
 |-----------|---------------|------|
 | News source | Google News RSS, CnYes RSS, UDN Money RSS | Free |
 | Live web research | Tavily Search API (multi-source context for features) | Free tier (~4 credits/day) |
-| AI summarization | GitHub Models API (GPT-4o) | Free (150 req/day) |
+| AI summarization | Groq API (Llama 3.3 70B) | Free tier |
 | Message delivery | LINE Messaging API (Push) | Free (200 msg/month; ~2/day = ~60/month) |
 | Deduplication | SQLite (local file) | Free |
 | Scheduling | cron / Task Scheduler / OpenClaw | Free |
@@ -43,7 +43,7 @@ and context pulled from live web search (Tavily), not just RSS snippets.
 finpulse/
 ├── config.py             # Environment variables and RSS feed definitions
 ├── fetch_news.py         # Fetches RSS feeds, filters last 24h, deduplicates via SQLite
-├── summarize_news.py     # Calls GitHub Models API (GPT-4o) to generate summaries
+├── summarize_news.py     # Calls Groq API (Llama 3.3 70B) to generate summaries
 ├── send_messages.py      # Pushes formatted messages to LINE via Messaging API
 ├── run_daily.sh          # Shell script that orchestrates the full pipeline
 ├── state.sqlite3         # SQLite DB tracking previously pushed articles
@@ -60,15 +60,15 @@ finpulse/
 
 1. **fetch_news.py** — Pulls articles from RSS feeds (international + Taiwan), filters to last 24 hours, removes already-pushed articles using SQLite. Candidate volume is controlled by `MAX_NEWS_INTERNATIONAL` / `MAX_NEWS_TAIWAN` in `config.py`
 2. **summarize_news.py** — For each category (international + Taiwan), runs a three-step feature flow:
-   1. GPT-4o picks the single most important story from the candidates
+   1. The Groq model picks the single most important story from the candidates
    2. **Tavily Search API** runs a live web search on that story's headline (`topic=news`, last 7 days) and returns multi-source page content
-   3. GPT-4o writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
+   3. The Groq model writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
 3. **send_messages.py** — Pushes the two features to LINE using the Messaging API push endpoint
 
 ## Prerequisites
 
 - Python 3.10+
-- GitHub Personal Access Token (fine-grained) with `Models: Read` permission
+- Groq API key (`gsk_…`) — free from https://console.groq.com/keys
 - Tavily API key (`tvly-…`) — free tier from https://app.tavily.com
 - LINE Messaging API channel with a long-lived channel access token
 - LINE target ID — a user ID (starts with `U`) or a group ID (starts with `C`)
@@ -84,10 +84,10 @@ cp .env.example .env
 
 ### Getting the tokens
 
-**GitHub Token** (for AI):
-1. Go to https://github.com/settings/personal-access-tokens/new
-2. Create a fine-grained token
-3. Under Account permissions → set **Models** to **Read**
+**Groq API Key** (for AI):
+1. Sign up at https://console.groq.com (Google/GitHub login)
+2. Create an API key under https://console.groq.com/keys
+3. Copy the `gsk_…` key into `GROQ_API_KEY`
 
 **Tavily API Key** (for live web search):
 1. Sign up at https://app.tavily.com (Google/email, no credit card)
@@ -147,13 +147,13 @@ bash run_daily.sh
 `.env` is intentionally not committed. Store production values in GitHub instead:
 
 Repository Settings -> Secrets and variables -> Actions -> Secrets:
-- `FINPULSE_GITHUB_TOKEN`: GitHub Models token with Models read permission
+- `GROQ_API_KEY`: Groq API key (`gsk_…`)
 - `TAVILY_API_KEY`: Tavily Search API key (`tvly-…`)
 - `LINE_CHANNEL_ACCESS_TOKEN`: LINE Messaging API channel access token
 - `FINPULSE_LINE_TARGET`: LINE user ID or group ID
 
 Optional repository variable:
-- `FINPULSE_AI_MODEL`: defaults to `gpt-4o` when unset
+- `FINPULSE_AI_MODEL`: defaults to `llama-3.3-70b-versatile` when unset
 
 The workflow in `.github/workflows/finpulse-daily.yml` runs daily at 07:30 Asia/Taipei and can also be started manually from the Actions tab.
 
