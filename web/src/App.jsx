@@ -1,4 +1,4 @@
-import { useEffect, useId, useState } from 'react'
+import { useEffect, useRef, useState } from 'react'
 
 const categoryDetails = {
   international: {
@@ -62,39 +62,100 @@ function parseFeature(feature = '') {
   return { intro, sections }
 }
 
+function getFeaturedSnippet(article, intro, sections) {
+  const sectionPreview = sections.find(({ content }) => content)?.content ?? ''
+  return (article.snippet || intro || sectionPreview).trim()
+}
+
 function FeaturedCard({ article }) {
+  const [expanded, setExpanded] = useState(false)
+  const cardRef = useRef(null)
   const { intro, sections } = parseFeature(article.feature)
+  const snippet = getFeaturedSnippet(article, intro, sections)
+
+  useEffect(() => {
+    if (!expanded) return undefined
+    const handleClickOutside = (event) => {
+      if (cardRef.current && !cardRef.current.contains(event.target)) {
+        setExpanded(false)
+      }
+    }
+    document.addEventListener('mousedown', handleClickOutside)
+    document.addEventListener('touchstart', handleClickOutside, { passive: true })
+    return () => {
+      document.removeEventListener('mousedown', handleClickOutside)
+      document.removeEventListener('touchstart', handleClickOutside)
+    }
+  }, [expanded])
+
+  const handleCardClick = (event) => {
+    if (event.target.closest('a, button')) return
+    setExpanded((value) => !value)
+  }
+
+  const handleCardKeyDown = (event) => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault()
+      setExpanded((value) => !value)
+    }
+  }
 
   return (
-    <article className="group flex h-full flex-col overflow-hidden rounded-3xl border border-blue-100 bg-gradient-to-br from-white via-white to-blue-50/70 p-6 shadow-[0_18px_50px_-24px_rgba(30,58,138,0.45)] transition duration-300 hover:-translate-y-1 hover:shadow-[0_24px_60px_-24px_rgba(30,58,138,0.55)] sm:p-8">
-      <div className="mb-5 flex items-center justify-between gap-3">
+    <article
+      className="group flex h-full cursor-pointer flex-col overflow-hidden rounded-2xl border border-blue-100 bg-gradient-to-br from-white via-white to-blue-50/70 p-4 shadow-[0_14px_40px_-24px_rgba(30,58,138,0.5)] transition duration-300 hover:-translate-y-0.5 hover:shadow-[0_18px_45px_-24px_rgba(30,58,138,0.55)] sm:p-5"
+      onClick={handleCardClick}
+      onKeyDown={handleCardKeyDown}
+      ref={cardRef}
+      tabIndex={0}
+      aria-label={`${article.title}，${expanded ? '已展開完整內容' : '顯示摘要，按 Enter 或空白鍵可展開'}`}
+    >
+      <div className="mb-3 flex items-center justify-between gap-3">
         <CategoryBadge category={article.category} />
-        <span className="text-sm font-medium text-slate-500">{article.source}</span>
+        <span className="text-xs font-medium text-slate-500 sm:text-sm">{article.source}</span>
       </div>
-      <h2 className="text-2xl font-black leading-tight tracking-tight text-blue-950 sm:text-3xl">
+      <h2 className="text-xl font-black leading-tight tracking-tight text-blue-950 sm:text-2xl">
         {article.title}
       </h2>
-      <div className="mt-6 flex-1 space-y-4">
-        {intro && <p className="text-base font-medium leading-7 text-slate-700">{intro}</p>}
-        {sections.filter(({ content }) => content).map(({ icon, content }, index) => {
-          const details = featureSectionDetails[icon]
-          return (
-            <section className={`rounded-2xl p-4 ${details.color}`} key={`${icon}-${index}`}>
-              <h3 className="font-bold">
-                <span aria-hidden="true">{icon}</span> {details.label}
-              </h3>
-              <p className="mt-2 whitespace-pre-line text-sm leading-7 opacity-90 sm:text-base">
-                {content}
-              </p>
-            </section>
-          )
-        })}
+      {!expanded && (
+        <p className="mt-3 line-clamp-3 text-sm leading-6 text-slate-700 sm:text-base">{snippet}</p>
+      )}
+      <div
+        className={`grid transition-[grid-template-rows,opacity,margin] duration-300 ${
+          expanded ? 'mt-4 grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'
+        }`}
+        aria-hidden={!expanded}
+      >
+        <div className="overflow-hidden">
+          <div className="space-y-3">
+            {sections.filter(({ content }) => content).map(({ icon, content }, index) => {
+              const details = featureSectionDetails[icon]
+              return (
+                <section className={`rounded-xl p-3 ${details.color}`} key={`${icon}-${index}`}>
+                  <h3 className="text-sm font-bold sm:text-base">
+                    <span aria-hidden="true">{icon}</span> {details.label}
+                  </h3>
+                  <p className="mt-1.5 whitespace-pre-line text-sm leading-6 opacity-90">{content}</p>
+                </section>
+              )
+            })}
+          </div>
+          <div className="mt-3 flex justify-end">
+            <button
+              className="rounded-lg px-2 py-1 text-xs font-bold text-blue-900 transition hover:bg-blue-50"
+              onClick={() => setExpanded(false)}
+              type="button"
+            >
+              收合
+            </button>
+          </div>
+        </div>
       </div>
-      <div className="mt-7 flex items-center justify-between gap-4 border-t border-blue-100 pt-5">
-        <span className="text-sm text-slate-500">來源：{article.source}</span>
+      <div className="mt-4 flex items-center justify-between gap-3 border-t border-blue-100 pt-3">
+        <span className="text-xs text-slate-500 sm:text-sm">來源：{article.source}</span>
         <a
-          className="inline-flex items-center gap-1.5 rounded-xl bg-blue-900 px-4 py-2.5 text-sm font-bold text-white shadow-sm transition hover:bg-blue-800 active:scale-95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900"
+          className="inline-flex items-center gap-1.5 rounded-lg bg-blue-900 px-3 py-2 text-xs font-bold text-white shadow-sm transition hover:bg-blue-800 active:scale-95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-900 sm:text-sm"
           href={article.link}
+          onClick={(event) => event.stopPropagation()}
           target="_blank"
           rel="noreferrer"
         >
@@ -107,10 +168,27 @@ function FeaturedCard({ article }) {
 
 function CandidateCard({ article }) {
   const [expanded, setExpanded] = useState(false)
-  const contentId = useId()
+
+  const handleCardClick = (event) => {
+    if (event.target.closest('a, button')) return
+    setExpanded((value) => !value)
+  }
+
+  const handleCardKeyDown = (event) => {
+    if (event.key === 'Enter' || event.key === ' ') {
+      event.preventDefault()
+      setExpanded((value) => !value)
+    }
+  }
 
   return (
-    <article className="rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-0.5 hover:border-blue-200 hover:shadow-lg">
+    <article
+      className="cursor-pointer rounded-2xl border border-slate-200 bg-white p-5 shadow-sm transition duration-300 hover:-translate-y-0.5 hover:border-blue-200 hover:shadow-lg"
+      onClick={handleCardClick}
+      onKeyDown={handleCardKeyDown}
+      tabIndex={0}
+      aria-label={`${article.title}，${expanded ? '已展開內容' : '按 Enter 或空白鍵可展開'}`}
+    >
       <CategoryBadge category={article.category} />
       <h3 className="mt-3 text-lg font-bold leading-snug text-slate-900">
         {article.title}
@@ -124,7 +202,7 @@ function CandidateCard({ article }) {
         className={`grid transition-[grid-template-rows,opacity] duration-300 ${
           expanded ? 'mt-4 grid-rows-[1fr] opacity-100' : 'grid-rows-[0fr] opacity-0'
         }`}
-        id={contentId}
+        aria-hidden={!expanded}
       >
         <div className="overflow-hidden">
           <p className="border-t border-slate-100 pt-4 text-sm leading-7 text-slate-700">
@@ -133,24 +211,11 @@ function CandidateCard({ article }) {
         </div>
       </div>
       <div className="mt-5 flex items-center justify-between gap-3">
-        <button
-          aria-controls={contentId}
-          aria-expanded={expanded}
-          className="inline-flex items-center gap-1.5 rounded-lg px-2 py-1.5 text-sm font-bold text-blue-800 transition hover:bg-blue-50 hover:text-blue-950 active:scale-95 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-800"
-          onClick={() => setExpanded((value) => !value)}
-          type="button"
-        >
-          {expanded ? '收合內容' : '展開內容'}
-          <span
-            aria-hidden="true"
-            className={`transition-transform duration-300 ${expanded ? 'rotate-180' : ''}`}
-          >
-            ▼
-          </span>
-        </button>
+        <span className="text-sm font-bold text-blue-800">{expanded ? '點擊卡片收合' : '點擊卡片展開'}</span>
         <a
           className="text-sm font-bold text-teal-700 transition hover:text-teal-900 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-700"
           href={article.link}
+          onClick={(event) => event.stopPropagation()}
           target="_blank"
           rel="noreferrer"
         >
@@ -197,22 +262,22 @@ export default function App() {
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800">
       <header className="relative overflow-hidden bg-gradient-to-br from-slate-950 via-blue-950 to-blue-900 text-white">
-        <div aria-hidden="true" className="absolute -right-20 -top-32 h-80 w-80 rounded-full bg-teal-400/10 blur-3xl" />
-        <div aria-hidden="true" className="absolute -bottom-36 left-1/3 h-72 w-72 rounded-full bg-amber-400/10 blur-3xl" />
-        <div className="relative mx-auto max-w-6xl px-5 py-12 sm:px-8 sm:py-16">
-          <p className="text-sm font-bold uppercase tracking-[0.22em] text-amber-400">
+        <div aria-hidden="true" className="absolute -right-20 -top-28 h-64 w-64 rounded-full bg-teal-400/10 blur-3xl" />
+        <div aria-hidden="true" className="absolute -bottom-28 left-1/3 h-56 w-56 rounded-full bg-amber-400/10 blur-3xl" />
+        <div className="relative mx-auto max-w-6xl px-5 py-5 sm:px-8 sm:py-6">
+          <p className="text-xs font-bold uppercase tracking-[0.18em] text-amber-400 sm:text-sm">
             FinPulse 財經脈動
           </p>
-          <div className="mt-3 flex flex-col gap-4 sm:flex-row sm:items-end sm:justify-between">
+          <div className="mt-1.5 flex flex-col gap-1.5 sm:flex-row sm:items-end sm:justify-between">
             <div>
-              <h1 className="text-4xl font-black tracking-tight sm:text-5xl">
+              <h1 className="text-2xl font-black tracking-tight sm:text-3xl">
                 FinPulse 今日焦點
               </h1>
-              {dateLabel && <p className="mt-3 text-lg text-blue-100">{dateLabel} 財經新聞摘要</p>}
+              {dateLabel && <p className="text-sm text-blue-100 sm:text-base">{dateLabel} 財經新聞摘要</p>}
             </div>
             {updatedLabel && (
               <time
-                className="text-sm font-medium text-blue-200"
+                className="text-xs font-medium text-blue-200 sm:text-sm"
                 dateTime={lastUpdated.toISOString()}
               >
                 最後更新於 {updatedLabel}
@@ -222,7 +287,7 @@ export default function App() {
         </div>
       </header>
 
-      <div className="mx-auto max-w-6xl px-5 py-8 sm:px-8 sm:py-12">
+      <div className="mx-auto max-w-6xl px-5 py-6 sm:px-8 sm:py-8">
         {!news && !error && (
           <div aria-label="載入今日新聞中" className="space-y-6" role="status">
             <div className="h-8 w-40 animate-pulse rounded-lg bg-slate-200" />
@@ -243,14 +308,14 @@ export default function App() {
         {news && (
           <>
             <section aria-labelledby="featured-heading">
-              <div className="mb-5">
+              <div className="mb-4">
                 <p className="text-sm font-bold text-teal-700">LINE 同步精選</p>
-                <h2 id="featured-heading" className="mt-1 text-3xl font-black text-blue-950">
+                <h2 id="featured-heading" className="mt-1 text-2xl font-black text-blue-950 sm:text-3xl">
                   今日焦點
                 </h2>
               </div>
               {news.featured.length ? (
-                <div className="grid gap-6 lg:grid-cols-2">
+                <div className="grid gap-4 lg:grid-cols-2">
                   {news.featured.map((article) => (
                     <FeaturedCard key={article.link} article={article} />
                   ))}
@@ -262,11 +327,10 @@ export default function App() {
               )}
             </section>
 
-            <section className="mt-14 border-t border-slate-200 pt-10" aria-labelledby="candidate-heading">
-              <p className="text-sm font-bold text-amber-700">更多即時動態</p>
+            <section className="mt-8 border-t border-slate-200 pt-5 sm:mt-10 sm:pt-6" aria-labelledby="candidate-heading">
               <div className="mt-1 flex items-end justify-between gap-4">
-                <h2 id="candidate-heading" className="text-3xl font-black text-blue-950">
-                  候選新聞
+                <h2 id="candidate-heading" className="text-2xl font-black text-blue-950 sm:text-3xl">
+                  更多即時新聞
                 </h2>
                 <span className="text-sm text-slate-500">{news.candidates.length} 則新聞</span>
               </div>
