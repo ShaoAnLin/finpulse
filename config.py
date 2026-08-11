@@ -3,8 +3,8 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")
-AI_MODEL = os.environ.get("FINPULSE_AI_MODEL", "gpt-4o")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
+AI_MODEL = os.environ.get("FINPULSE_AI_MODEL", "llama-3.3-70b-versatile")
 
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "")
 

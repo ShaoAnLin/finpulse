@@ -1,11 +1,9 @@
 name: FinPulse Daily
 
 on:
-  # Daily schedule paused — GitHub token lacks required permissions.
-  # Re-enable by uncommenting the schedule block below.
-  # schedule:
-  #   # 07:23 Asia/Taipei (UTC+8)
-  #   - cron: "23 23 * * *"
+  schedule:
+    # 07:23 Asia/Taipei (UTC+8)
+    - cron: "23 23 * * *"
   workflow_dispatch:
 
 jobs:
@@ -36,8 +34,8 @@ jobs:
 
       - name: Run daily digest
         env:
-          GITHUB_TOKEN: ${{ secrets.FINPULSE_GITHUB_TOKEN }}
-          FINPULSE_AI_MODEL: ${{ vars.FINPULSE_AI_MODEL || 'gpt-4o' }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          FINPULSE_AI_MODEL: ${{ vars.FINPULSE_AI_MODEL || 'llama-3.3-70b-versatile' }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           FINPULSE_LINE_TARGET: ${{ secrets.FINPULSE_LINE_TARGET }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
