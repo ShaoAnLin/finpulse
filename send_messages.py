@@ -4,6 +4,7 @@ from __future__ import annotations
 
 import hashlib
 import json
+import os
 import sys
 from datetime import datetime, timedelta, timezone
 
@@ -19,6 +20,7 @@ sys.stderr.reconfigure(encoding="utf-8")
 TZ_TPE = timezone(timedelta(hours=8))
 LINE_MAX_LENGTH = 5000
 LINE_PUSH_URL = "https://api.line.me/v2/bot/message/push"
+NEWS_TODAY_PATH = os.path.join(os.path.dirname(os.path.abspath(__file__)), "docs", "news-today.json")
 
 
 def send_message(message: str, silent: bool = False, dry_run: bool = False) -> bool:
@@ -101,6 +103,40 @@ def mark_pushed(articles: list[dict]) -> None:
     con.close()
 
 
+def write_news_today(featured: list[dict], candidates: list[dict],
+                     path: str = NEWS_TODAY_PATH) -> None:
+    """Atomically replace the website's today-only news cache."""
+    payload = {
+        "date": datetime.now(TZ_TPE).strftime("%Y-%m-%d"),
+        "featured": [
+            {
+                "category": article.get("category", ""),
+                "title": article.get("title", ""),
+                "feature": article.get("feature_text", ""),
+                "source": article.get("source", ""),
+                "link": article.get("link", ""),
+            }
+            for article in featured
+        ],
+        "candidates": [
+            {
+                "title": article.get("title", ""),
+                "snippet": article.get("snippet", ""),
+                "category": article.get("category", ""),
+                "source": article.get("source", ""),
+                "link": article.get("link", ""),
+            }
+            for article in candidates[:10]
+        ],
+    }
+    os.makedirs(os.path.dirname(path), exist_ok=True)
+    temporary_path = f"{path}.tmp"
+    with open(temporary_path, "w", encoding="utf-8") as output:
+        json.dump(payload, output, ensure_ascii=False, indent=2)
+        output.write("\n")
+    os.replace(temporary_path, path)
+
+
 def main() -> int:
     raw = sys.stdin.read()
     try:
@@ -111,6 +147,7 @@ def main() -> int:
 
     messages = data.get("messages", [])
     articles = data.get("articles", [])
+    candidates = data.get("candidates", [])
     dry_run = "--dry-run" in sys.argv
 
     if not dry_run and (not LINE_CHANNEL_ACCESS_TOKEN or not LINE_TARGET):
@@ -125,8 +162,10 @@ def main() -> int:
             if not send_message(chunk, silent=silent, dry_run=dry_run):
                 success = False
 
-    if success and articles and not dry_run:
-        mark_pushed(articles)
+    if success and not dry_run:
+        if articles:
+            mark_pushed(articles)
+        write_news_today(articles, candidates)
 
     return 0 if success else 1
 
