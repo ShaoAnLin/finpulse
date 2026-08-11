@@ -76,10 +76,10 @@ function FeaturedCard({ article }) {
       </h2>
       <div className="mt-6 flex-1 space-y-4">
         {intro && <p className="text-base font-medium leading-7 text-slate-700">{intro}</p>}
-        {sections.filter(({ content }) => content).map(({ icon, content }) => {
+        {sections.filter(({ content }) => content).map(({ icon, content }, index) => {
           const details = featureSectionDetails[icon]
           return (
-            <section className={`rounded-2xl p-4 ${details.color}`} key={icon}>
+            <section className={`rounded-2xl p-4 ${details.color}`} key={`${icon}-${index}`}>
               <h3 className="font-bold">
                 <span aria-hidden="true">{icon}</span> {details.label}
               </h3>
@@ -211,7 +211,10 @@ export default function App() {
               {dateLabel && <p className="mt-3 text-lg text-blue-100">{dateLabel} 財經新聞摘要</p>}
             </div>
             {updatedLabel && (
-              <time className="text-sm font-medium text-blue-200">
+              <time
+                className="text-sm font-medium text-blue-200"
+                dateTime={lastUpdated.toISOString()}
+              >
                 最後更新於 {updatedLabel}
               </time>
             )}
