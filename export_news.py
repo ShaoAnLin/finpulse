@@ -56,7 +56,8 @@ def export_recent_features(
     """Return the latest AI feature per category for each of the last `days`
     Taipei calendar dates, ordered newest-first."""
     current = (now or datetime.now(TZ_TPE)).astimezone(TZ_TPE)
-    start_date = (current.date() - timedelta(days=days - 1)).isoformat()
+    start = current.date() - timedelta(days=days - 1)
+    end = current.date()
     con = init_db(db_path)
     try:
         rows = con.execute(
@@ -67,16 +68,31 @@ def export_recent_features(
               AND substr(pushed_at, 1, 10) <= ?
               AND trim(COALESCE(feature_text, '')) != ''
               AND category IN ('international', 'taiwan')
-            ORDER BY pushed_at DESC
             """,
-            (start_date, current.date().isoformat()),
+            (
+                (start - timedelta(days=1)).isoformat(),
+                (end + timedelta(days=1)).isoformat(),
+            ),
         ).fetchall()
     finally:
         con.close()
 
+    normalized_rows = []
+    for row in rows:
+        try:
+            pushed_at = datetime.fromisoformat(row[2].replace("Z", "+00:00"))
+        except (AttributeError, ValueError):
+            continue
+        if pushed_at.tzinfo is None:
+            pushed_at = pushed_at.replace(tzinfo=TZ_TPE)
+        pushed_at = pushed_at.astimezone(TZ_TPE)
+        if start <= pushed_at.date() <= end:
+            normalized_rows.append((pushed_at, row))
+    normalized_rows.sort(key=lambda item: item[0], reverse=True)
+
     grouped: dict[str, dict[str, dict]] = {}
-    for url, title, pushed_at, category, source, feature_text in rows:
-        date = pushed_at[:10]
+    for pushed_at, (url, title, _, category, source, feature_text) in normalized_rows:
+        date = pushed_at.date().isoformat()
         grouped.setdefault(date, {}).setdefault(category, {
             "category": category,
             "title": title or "",

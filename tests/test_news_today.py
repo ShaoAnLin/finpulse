@@ -17,6 +17,7 @@ class NewsTodayTest(unittest.TestCase):
         rows = [
             ("recent-intl", "2026-08-12T08:00:00+08:00", "international", "AI feature"),
             ("boundary-tw", "2026-08-06T00:00:00+08:00", "taiwan", "Boundary feature"),
+            ("utc-boundary", "2026-08-05T16:30:00Z", "international", "UTC boundary feature"),
             ("too-old", "2026-08-05T23:59:59+08:00", "international", "Old feature"),
             ("rss-only", "2026-08-11T08:00:00+08:00", "taiwan", ""),
             ("missing-ai", "2026-08-10T08:00:00+08:00", "taiwan", None),
@@ -51,8 +52,8 @@ class NewsTodayTest(unittest.TestCase):
             ["2026-08-12", "2026-08-06"],
         )
         self.assertEqual(
-            [day["featured"][0]["title"] for day in history["days"]],
-            ["recent-intl", "boundary-tw"],
+            [article["title"] for article in history["days"][1]["featured"]],
+            ["utc-boundary", "boundary-tw"],
         )
 
     def test_history_keeps_latest_feature_per_category_each_day(self):
