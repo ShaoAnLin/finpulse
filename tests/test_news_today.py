@@ -132,6 +132,74 @@ class NewsTodayTest(unittest.TestCase):
             5,
         )
 
+    def test_candidates_deprioritize_intraday_flash_when_limit_is_tight(self):
+        articles = [
+            {
+                "title": "盤中速報 - 某公司大漲7%",
+                "snippet": "股價快速上漲，成交量放大",
+                "source": "CnYes",
+                "link": "https://example.com/flash",
+                "published": "2026-08-12T09:00:00+00:00",
+                "category": "taiwan",
+            },
+            {
+                "title": "央行最新政策釋出，影響台股資金面",
+                "snippet": "政策背景與市場解讀",
+                "source": "UDN Money",
+                "link": "https://example.com/policy",
+                "published": "2026-08-12T08:00:00+00:00",
+                "category": "taiwan",
+            },
+        ]
+
+        candidates = build_candidates(articles, picked=[], limit=1)
+        self.assertEqual(len(candidates), 1)
+        self.assertEqual(candidates[0]["link"], "https://example.com/policy")
+
+    def test_candidates_cap_single_source_when_alternatives_exist(self):
+        cnyes = [{
+            "title": f"盤中速報 - CnYes {index}",
+            "snippet": "股價與成交量更新",
+            "source": "CnYes",
+            "link": f"https://example.com/cnyes-{index}",
+            "published": f"2026-08-{index:02d}T09:00:00+00:00",
+            "category": "taiwan",
+        } for index in range(1, 9)]
+        udn = [{
+            "title": f"UDN {index}",
+            "snippet": "產業新聞",
+            "source": "UDN Money",
+            "link": f"https://example.com/udn-{index}",
+            "published": f"2026-08-{index+8:02d}T08:00:00+00:00",
+            "category": "taiwan",
+        } for index in range(1, 5)]
+        google = [{
+            "title": f"Google TW {index}",
+            "snippet": "總體經濟新聞",
+            "source": "Google TW Finance",
+            "link": f"https://example.com/google-{index}",
+            "published": f"2026-08-{index+12:02d}T07:00:00+00:00",
+            "category": "taiwan",
+        } for index in range(1, 5)]
+
+        candidates = build_candidates(cnyes + udn + google, picked=[], limit=10)
+
+        self.assertEqual(len(candidates), 10)
+        self.assertLessEqual(sum(1 for item in candidates if item.get("source") == "CnYes"), 3)
+
+    def test_candidates_backfill_to_ten_even_if_single_source(self):
+        articles = [{
+            "title": f"盤中速報 - CnYes {index}",
+            "snippet": "股價更新",
+            "source": "CnYes",
+            "link": f"https://example.com/only-cnyes-{index}",
+            "published": f"2026-08-{index:02d}T09:00:00+00:00",
+            "category": "taiwan",
+        } for index in range(1, 13)]
+
+        candidates = build_candidates(articles, picked=[], limit=10)
+        self.assertEqual(len(candidates), 10)
+
     def test_write_news_today_uses_public_schema_and_caps_candidates(self):
         featured = [{
             "category": "international",

@@ -30,6 +30,10 @@ SYSTEM_PROMPT = """你是「FinPulse 財經脈動」的主編，讀者是有基�
 SELECT_PROMPT_TEMPLATE = """以下是 {count} 則{category_label}財經新聞候選。請以「FinPulse 主編」的角度，
 挑出**當天最重要的一則**（判斷依據：對台灣一般讀者的重要性、影響範圍、時效性）。
 
+額外判斷：
+- 優先選有政策、產業、公司策略、總體經濟脈絡的新聞
+- 避免只是在播報盤中股價、漲跌幅、成交張數的「盤中速報」類內容
+
 只回傳 JSON，格式如下（不要有任何多餘文字或 markdown 圍欄）：
 {{"index": <候選編號，整數>}}
 
@@ -262,12 +266,55 @@ def format_messages(international_feature: dict | None,
 
 def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) -> list[dict]:
     """Return unpicked website candidates with a better intl/TW balance."""
+    source_cap = 3
+    def is_low_info_intraday(article: dict) -> bool:
+        title = article.get("title", "")
+        snippet = article.get("snippet", "")
+        text = f"{title} {snippet}"
+        if "盤中速報" in title:
+            return True
+        # Conservative fallback when headlines are not explicitly marked as flash:
+        # typically quote-only updates mention stock price + volume/limit-up/down.
+        has_price = "股價" in text
+        has_volume = "成交" in text and "張" in text
+        has_limit_move = ("漲停" in text) or ("跌停" in text)
+        return (has_price and has_volume) or (has_limit_move and has_volume)
+
+    def ranked(pool: list[dict]) -> list[dict]:
+        # Prefer recency first, then stable-sort low-info intraday flashes later.
+        items = sorted(pool, key=lambda article: article.get("published") or "", reverse=True)
+        items.sort(key=lambda article: 1 if is_low_info_intraday(article) else 0)
+        return items
+
+    def pick_with_source_cap(pool: list[dict], target: int, source_counts: dict[str, int]) -> tuple[list[dict], list[dict]]:
+        selected: list[dict] = []
+        deferred: list[dict] = []
+        for article in ranked(pool):
+            source = (article.get("source") or "").strip()
+            if len(selected) >= target:
+                deferred.append(article)
+                continue
+            if source and source_counts.get(source, 0) >= source_cap:
+                deferred.append(article)
+                continue
+            selected.append(article)
+            if source:
+                source_counts[source] = source_counts.get(source, 0) + 1
+        return selected, deferred
+
+    def pick_ignoring_source_cap(pool: list[dict], target: int) -> list[dict]:
+        selected: list[dict] = []
+        for article in sorted(pool, key=lambda item: item.get("published") or "", reverse=True):
+            if len(selected) >= target:
+                break
+            selected.append(article)
+        return selected
+
     picked_links = {article.get("link") for article in picked}
     candidates = [
         article for article in articles
         if article.get("link") not in picked_links
     ]
-    candidates.sort(key=lambda article: article.get("published") or "", reverse=True)
 
     international = [a for a in candidates if a.get("category") == "international"]
     others = [a for a in candidates if a.get("category") != "international"]
@@ -276,9 +323,25 @@ def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) 
     target_others = min(len(others), limit - target_international)
     target_international = min(len(international), limit - target_others)
 
-    selected = international[:target_international] + others[:target_others]
-    remaining = international[target_international:] + others[target_others:]
-    selected.extend(remaining[: max(0, limit - len(selected))])
+    source_counts: dict[str, int] = {}
+    selected_international, remaining_international = pick_with_source_cap(
+        international, target_international, source_counts
+    )
+    selected_others, remaining_others = pick_with_source_cap(
+        others, target_others, source_counts
+    )
+    selected = selected_international + selected_others
+
+    remaining = remaining_international + remaining_others
+    selected_fill, still_remaining = pick_with_source_cap(
+        remaining, max(0, limit - len(selected)), source_counts
+    )
+    selected.extend(selected_fill)
+
+    # Final backfill: keep 10 entries whenever possible even if source-cap must be relaxed.
+    if len(selected) < limit:
+        selected.extend(pick_ignoring_source_cap(still_remaining, limit - len(selected)))
+
     selected.sort(key=lambda article: article.get("published") or "", reverse=True)
     return selected[:limit]
 
