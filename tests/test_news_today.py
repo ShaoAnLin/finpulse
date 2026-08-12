@@ -28,6 +28,28 @@ class NewsTodayTest(unittest.TestCase):
         self.assertEqual(candidates[0]["title"], "News 11")
         self.assertEqual(candidates[-1]["title"], "News 2")
 
+    def test_candidates_prioritize_international_share_when_available(self):
+        international = [{
+            "title": f"Intl {index}",
+            "link": f"https://example.com/intl-{index}",
+            "published": f"2026-08-{index:02d}T00:00:00+00:00",
+            "category": "international",
+        } for index in range(1, 7)]
+        taiwan = [{
+            "title": f"TW {index}",
+            "link": f"https://example.com/tw-{index}",
+            "published": f"2026-08-{index+6:02d}T00:00:00+00:00",
+            "category": "taiwan",
+        } for index in range(1, 7)]
+
+        candidates = build_candidates(international + taiwan, picked=[])
+
+        self.assertEqual(len(candidates), 10)
+        self.assertEqual(
+            sum(1 for item in candidates if item.get("category") == "international"),
+            5,
+        )
+
     def test_write_news_today_uses_public_schema_and_caps_candidates(self):
         featured = [{
             "category": "international",

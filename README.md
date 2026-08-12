@@ -67,7 +67,7 @@ finpulse/
    1. The Groq model picks the single most important story from the candidates
    2. **Tavily Search API** runs a live web search on that story's headline (`topic=news`, last 7 days) and returns multi-source page content
    3. The Groq model writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
-3. **send_messages.py** — Pushes the two features to LINE, records their full details in `state.sqlite3`, then replaces `docs/news-today.json` with those features and the 10 newest unselected candidates
+3. **send_messages.py** — Pushes the two features to LINE, records their full details in `state.sqlite3`, then updates `docs/news-today.json` with those features and 10 unselected candidates (balanced between international and Taiwan when available)
 4. **finpulse-web** — Reads only `docs/news-today.json`: the two LINE features are shown in full, while candidate cards expand to reveal their complete RSS snippet and original link
 
 ## Historical Data Export
