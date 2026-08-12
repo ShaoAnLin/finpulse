@@ -232,9 +232,13 @@ function CandidateCard({ article }) {
 }
 
 export default function App() {
+  const [activeTab, setActiveTab] = useState('today')
   const [news, setNews] = useState(null)
   const [error, setError] = useState('')
   const [lastUpdated, setLastUpdated] = useState(null)
+  const [history, setHistory] = useState(null)
+  const [historyError, setHistoryError] = useState('')
+  const [historyLoading, setHistoryLoading] = useState(false)
 
   useEffect(() => {
     fetch('./news-today.json', { cache: 'no-store' })
@@ -251,6 +255,23 @@ export default function App() {
       })
       .catch(() => setError('今日新聞暫時無法載入，請稍後再試。'))
   }, [])
+
+  useEffect(() => {
+    if (activeTab !== 'history' || history || historyLoading || historyError) return
+
+    setHistoryLoading(true)
+    fetch('./news-history.json', { cache: 'no-store' })
+      .then((response) => {
+        if (!response.ok) throw new Error('無法取得歷史新聞')
+        return response.json()
+      })
+      .then((data) => {
+        if (!Array.isArray(data.days)) throw new Error('歷史新聞資料格式錯誤')
+        setHistory(data)
+      })
+      .catch(() => setHistoryError('近 7 日焦點暫時無法載入，請稍後再試。'))
+      .finally(() => setHistoryLoading(false))
+  }, [activeTab, history, historyError, historyLoading])
 
   const dateLabel = news?.date
     ? new Intl.DateTimeFormat('zh-TW', { dateStyle: 'long' }).format(
@@ -271,11 +292,16 @@ export default function App() {
           <div className="mt-1.5 flex flex-col gap-1.5 sm:flex-row sm:items-end sm:justify-between">
             <div>
               <h1 className="text-2xl font-black tracking-tight sm:text-3xl">
-                FinPulse 今日焦點
+                {activeTab === 'today' ? 'FinPulse 今日焦點' : 'FinPulse 近 7 日焦點'}
               </h1>
-              {dateLabel && <p className="text-sm text-blue-100 sm:text-base">{dateLabel} 財經新聞摘要</p>}
+              {activeTab === 'today' && dateLabel && (
+                <p className="text-sm text-blue-100 sm:text-base">{dateLabel} 財經新聞摘要</p>
+              )}
+              {activeTab === 'history' && (
+                <p className="text-sm text-blue-100 sm:text-base">回顧最近一週的 AI 整理焦點</p>
+              )}
             </div>
-            {updatedLabel && (
+            {activeTab === 'today' && updatedLabel && (
               <time
                 className="text-xs font-medium text-blue-200 sm:text-sm"
                 dateTime={lastUpdated.toISOString()}
@@ -288,7 +314,31 @@ export default function App() {
       </header>
 
       <div className="mx-auto max-w-6xl px-5 py-6 sm:px-8 sm:py-8">
-        {!news && !error && (
+        <nav
+          aria-label="新聞範圍"
+          className="sticky top-3 z-10 mb-6 flex rounded-xl border border-slate-200 bg-white/95 p-1 shadow-lg backdrop-blur sm:static sm:mx-auto sm:w-fit"
+        >
+          {[
+            ['today', '今日焦點'],
+            ['history', '近 7 日回顧'],
+          ].map(([value, label]) => (
+            <button
+              aria-current={activeTab === value ? 'page' : undefined}
+              className={`flex-1 rounded-lg px-5 py-2.5 text-sm font-bold transition sm:flex-none ${
+                activeTab === value
+                  ? 'bg-blue-900 text-white shadow-sm'
+                  : 'text-slate-600 hover:bg-slate-100 hover:text-blue-950'
+              }`}
+              key={value}
+              onClick={() => setActiveTab(value)}
+              type="button"
+            >
+              {label}
+            </button>
+          ))}
+        </nav>
+
+        {activeTab === 'today' && !news && !error && (
           <div aria-label="載入今日新聞中" className="space-y-6" role="status">
             <div className="h-8 w-40 animate-pulse rounded-lg bg-slate-200" />
             <div className="grid gap-6 lg:grid-cols-2">
@@ -299,13 +349,13 @@ export default function App() {
             <span className="sr-only">載入今日新聞中…</span>
           </div>
         )}
-        {error && (
+        {activeTab === 'today' && error && (
           <div className="rounded-2xl border border-rose-200 bg-rose-50 p-6 text-rose-800 shadow-sm" role="alert">
             <p className="font-bold">新聞載入失敗</p>
             <p className="mt-1 text-sm">{error}</p>
           </div>
         )}
-        {news && (
+        {activeTab === 'today' && news && (
           <>
             <section aria-labelledby="featured-heading">
               <div className="mb-4">
@@ -347,6 +397,53 @@ export default function App() {
               )}
             </section>
           </>
+        )}
+
+        {activeTab === 'history' && historyLoading && (
+          <div aria-label="載入近 7 日焦點中" className="space-y-6" role="status">
+            {[0, 1].map((item) => (
+              <div className="h-72 animate-pulse rounded-3xl bg-white shadow-sm" key={item} />
+            ))}
+            <span className="sr-only">載入近 7 日焦點中…</span>
+          </div>
+        )}
+        {activeTab === 'history' && historyError && (
+          <div className="rounded-2xl border border-rose-200 bg-rose-50 p-6 text-rose-800 shadow-sm" role="alert">
+            <p className="font-bold">歷史新聞載入失敗</p>
+            <p className="mt-1 text-sm">{historyError}</p>
+          </div>
+        )}
+        {activeTab === 'history' && history && !history.days.length && (
+          <p className="rounded-2xl bg-white p-6 text-slate-600 shadow-sm">
+            最近 7 日尚無 AI 整理焦點。
+          </p>
+        )}
+        {activeTab === 'history' && history?.days.length > 0 && (
+          <div className="space-y-10">
+            {history.days.map((day) => {
+              const historyDate = new Intl.DateTimeFormat('zh-TW', {
+                dateStyle: 'long',
+              }).format(new Date(`${day.date}T00:00:00+08:00`))
+              return (
+                <section aria-labelledby={`history-${day.date}`} key={day.date}>
+                  <div className="mb-4 flex items-end justify-between gap-4">
+                    <h2
+                      className="text-2xl font-black text-blue-950 sm:text-3xl"
+                      id={`history-${day.date}`}
+                    >
+                      {historyDate}
+                    </h2>
+                    <span className="text-sm text-slate-500">{day.featured.length} 則焦點</span>
+                  </div>
+                  <div className="grid gap-4 lg:grid-cols-2">
+                    {day.featured.map((article) => (
+                      <FeaturedCard key={article.link} article={article} />
+                    ))}
+                  </div>
+                </section>
+              )
+            })}
+          </div>
         )}
       </div>
     </main>
