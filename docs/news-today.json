@@ -1,91 +1,84 @@
 {
-  "date": "2026-08-11",
+  "date": "2026-08-12",
   "featured": [
     {
-      "category": "international",
-      "title": "OpenAI wraps $7 billion share sale ahead of potential IPO - CNBC",
-      "feature": "OpenAI 已完成一項約 700 億美元的股份出售，該公司可能即將上市。📰 發生什麼事：OpenAI 完成了約 700 億美元的二級股份出售，允許現任和前任員工出售股份，據報導這項出售價值約 700 億美元。🔍 背景與來龍去脈：OpenAI 的這次股份出售是在今年三月獲得 1.22 萬億美元資金後進行的，這是有史以來最大的私募資金。這次出售為員工和早期投資者提供了流動性窗口。🌐 影響：對市場和台灣一般人來說，OpenAI 的上市可能會對 AI 行業產生重大影響，且對其他初創公司和投資者也有啟發。",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTks4emg2RHNjcWNnN3VfdzZWbU14cXdMT2VzbnlnX0VLNEVCUEM1R2FkV1p5R3cwZ1ZTRGZmSUFkYTNVS1JoYVNxdWlNRmlVQnRSRlA1dnNCSmh5UU5IampSbFV6VU1wY0tTbjVqeU5XTXk3ZW9CTlhOelk1TmFsLUVRZm9pY09sLWNFRG5FN0QwTUQ1NXl1eEpn0gGfAUFVX3lxTFBQSlFVcGFVMkEzOExGdzJGLWxNZS1Mcmd3YWJLdkhrWUd1V0tLM2NrdWtKcTVOOC1aRllzQTBybDcySGJXcW9hV1lUU3Z6dE95NnpJRW0xTGVnMGRuMWExRWo4SFp4WVlYbE9EbHF1SmQzNnl4aWVRcXo1dnEwM3VXc0p5NER5SVVtRUJ1TFgxSUtNdk5OTDBQakhuNEJHaw?oc=5"
-    },
-    {
       "category": "taiwan",
-      "title": "【0810台股盤後】台股大盤飆702 點強勢攻克45,000 點大關！記憶體、MLCC、光通訊三強拱頂，鎖定「營收創高模範生」至上、力積電、盟立｜豐雲學堂2026 年 08 月 - sinotrade.com.tw",
-      "feature": "台股大盤強勢飆升702點，創下45,000點新高，電子權值股領風騷。記憶體製造、MLCC被動元件與光通訊三強拱頂，成為市場焦點。鎖定「營收創高模範生」至上、力積電、盟立等個股，引發投資人熱議。 \n   \n   📰 今日台股集中市場以電子權值股、記憶體製造與被動元件族群全線大噴發帶動，加權指數開高走高暴拉702.85點，收在全日最高點45,219.40點，強勢攻克45,000點整數大關並創下歷史新高，成交金額放大至8,762.39億元。櫃買指數同步勁揚7.42點，收在396.92點。全市場三大法人合計大舉淨買超689.59億元。\n   \n   🔍 記憶體製造、MLCC被動元件與光通訊三大板塊表現最為亮眼，國際DRAM與NAND Flash現貨價大漲，加上AI伺服器HBM與DDR5拉貨需求帶動，南亞科、華邦電、旺宏等個股暴漲。高階車用與AI伺服器需求回溫，禾伸堂、華新科、國巨等個股大漲。800G與1.6T光模組需求熱絡，聯亞、上詮、華星光等個股漲停。\n   \n   🌐 台股大盤強勢攻克45,000點，對市場與投資人信心有所提振，尤其電子產業的強勢表現，更是引發市場熱議。然而，投資人仍需要審慎評估個股的基本面與市場風險，作出理性的投資決定。",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgVBVV95cUxPc2JCOGhaY1ZwVm1LMTZzYzhseUtuTDVQTDBNSjljTWVyNU5Za01UYUN5eV9MblFkS0JROGhFSnQzN2YySGcxX1pKZWdINWNITTNfTGk1TlBzODFrdjJvRTExbjFHVVpzalVfamdUVkljdVl0Tzc1dzlFN2dwbmdiNHdjaWNQMFBIbkFnZHhTbXRBTUIwTlI5NnVhT19xYkVPWXVsdklOdTVyMGZOZ2d5OFFhZTNwbGRBSkRWTGhVNnBKVUdMdWF2R1hvSXlKU25mcWd4TW1JNlpLV3AwbkRzRHlva0R5SnZDcTE4Slcwc3BvNWdjRElTVVlCaHBIMGdaSHJRUzZUclY0Vm9lT0lyMGxGOUtPV2tmTVN0UEFvTUs1T1ZUc3ROaHYxcXRSemNPNkhPaWVjUXVieU9kRGZSaDIzY3ZIUUxTZWE5WTQ5cll3T0tQem1mT3IyUGhhRDVxalo1aGZUQ01kclNvbmNybEJCVmE5RTlPejVYZzVjalFwbkswZGlndGdFSUxEeDVCSkFjSjZEc1U1VndPWDY4ZmhCd0FTSnBHUDB1SFdkRlYxWWhoTFhwcm9wdk92ckNSamFNTDMwQkNvTWJMbS02bkVqMVdBSVVfWWFGdU1iTWZuMmdzTVotc1F5cjlUSzZISTB1RDZfRUVaVzVaYTl0dzI3c2hFNklfNnhsMHpUc1JZcFI5UzBTYl9RbUQ2eHdxQUh4VFJDdlZzcHMtc08ydnRIU29MdXVrSHVfOWtDSVY5SzBZR2dmLXlTZ1VOVUdRVjFuUUZDdEJmbFp6d2Z5TGV4SXdZV1NZZWI4d3hEU1hHRW01b2FBekVVc3J2eXI1R1JsNFlycFFlWmlsT0lUYS11VzhNZDZBdmc1YkVaeE84R2hwSDItRTlB?oc=5"
+      "title": "營收速報 - 2026年8月12日台股大型公司7月營收一覽（新增209家）",
+      "feature": "7月營收公布，台股大型公司前一日公布209家營收，截至目前7月營收公布共計223家，年增超25%的公司多達89家，創下近年來罕見的高成長率。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6572154"
     }
   ],
   "candidates": [
     {
-      "title": "資料中心引爆民怨！ 艾克曼力挺Ramaswamy「Ohioans First」居民免電費、降房產稅",
-      "snippet": "AI 資料中心快速擴張引發電費、水資源與環境爭議，俄亥俄州長候選人 Ramaswamy 提出「居民免電費、降房產稅」等條件，艾克曼公開稱讚，資料中心如何與地方利益共享成選戰焦點。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570330"
-    },
-    {
-      "title": "盤中速報 - 沛亨(6291)大跌7.04%，報356.5元",
-      "snippet": "沛亨(6291-TW)盤中股價下跌，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570505"
-    },
-    {
-      "title": "盤中速報 - 半導體類指數類股表現疲軟，跌幅2.08%，總成交額397.89億",
-      "snippet": "台股盤中半導體業類股表現疲軟，漲跌幅、成交額、大盤佔比、領漲跌個股、指數績效、即時新聞資訊。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570504"
-    },
-    {
-      "title": "台股11 日反彈無力再陷回檔修正光寶科股價上沖下洗一度創新高 - moneyweekly.com.tw",
-      "snippet": "台股11 日反彈無力再陷回檔修正光寶科股價上沖下洗一度創新高&nbsp;&nbsp;moneyweekly.com.tw",
+      "title": "台股開低走高小漲 192 點站上 45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光 - sinotrade.com.tw",
+      "snippet": "台股開低走高小漲 192 點站上 45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光&nbsp;&nbsp;sinotrade.com.tw",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1IS2xHOEJnai1NMTBQYjJqU3hVSzlUVXlhZUxWeEI5QXNPeXVjNFE2Q1hvSFJRZkY1aVQ4bHNxSXFWamZhZlFoWmh0ZkFQdjFpLTAwcWtySHo1cDRKTFlyWFVZb1lOejNhWGxOdjdTQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxOY3hucW9jR09IZjhoNktodU1WcFN1amdQbjhwS0pPcFFUQy1mQVA0WXp1SGYyOXgyVnFRc25rM1M2WS1CeGhZYWxXeW04OF9nNGx6NEFDMnQzdDE2R1JQS2RaVmtUU2tJYkxzUXZXcXpSVmxlUmNzM3l2WVJpY0dlcUMtaFo4SVJhM3Btc0dpeklDNUpCZzZkRmstd0s1ZFh0MlhfWllKZmZlNC10aHBaNTh6YUw4QmQwRHBxRlVBOWQ4Rm5CVmlVSkFKSlUtNnZTclBRdUhldjFodHQwN1ZtRDAyeU5vTEFsT3Blb2U4ZHB2Zk9FYTQ0TDJkbVNXb3JZakpIYXBXX1J0V3RYWVJ3TzVWYmM3akJBckltOXhiQk9XTjRsZ3NYUFFrUWp5QXM4clZjc1ZwVGwzY2daRzhiWFhwWm5paUdtNEkyWnF4WG45aWVpV1dZSzNUcEQzMFN4TVRPZENISEFFVXEzeFR1dTJ3MVFhOHotUFpPaW40UnQ1elF4R3U0MWZZV2toWnViTW9iUzYwWGVXZkw2MGJvcFZ2eFVXZkZfYkhUbFZNZzJNTnlKWUhKRWF2NlhMS2xoN3lvcm03ODFiaTVVZ0RMSWZJeXlDenJqX19NT2JhZ3NhRGI5YWdRcTNwZXRLVFQ1YmtPMDNOWEluNE8zZGJYTTNURlB1UGFaQzh4dGJsTUE5aGkxNGpNUWxSazRUbzF2NS1fWFdtTXBOWUhlVU85WnpEaFo3RjR6M3lkUklNbG4yM0tIeXBVZkVPbnRvd0cwZDRfM2Fvc2g0YnhleTdFMXQtVkhMTVFrbzdSb0lYS3JmM2ctZWU1YmlR?oc=5"
     },
     {
-      "title": "謝金河點名13檔台股 從腰斬6成到獲利暴衝：本益比一看秒懂 - 三立新聞",
-      "snippet": "謝金河點名13檔台股 從腰斬6成到獲利暴衝：本益比一看秒懂&nbsp;&nbsp;三立新聞",
+      "title": "光通訊很旺！Lumentum 上季營收暴增109% 毛利率提早達標 盤後勁揚逾2%",
+      "snippet": "美國光通訊大廠Lumentum公布上季營收大增逾一倍，本季財測也大幅優於預期，進一步證明，光學技術已成為AI熱潮不可或缺的一環。消息出爐後，盤後股價先蹲後跳，上漲逾2%，報每股838.10美元。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/123398/9685823"
+    },
+    {
+      "title": "美韓軍演前　北韓朝日本海發射彈道飛彈",
+      "snippet": "南韓軍方表示，北韓今天清晨自東部沿海朝日本海方向發射一枚彈道飛彈。再過幾天，美韓大規模聯合軍演即將登場",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9685822"
+    },
+    {
+      "title": "不甩美軍警告！巴拿馬籍貨輪強行航往伊朗港口 遭開火癱瘓",
+      "snippet": "川普政府試圖在經濟上向伊朗政權施壓，正加強執行封鎖。華爾街日報報導，一艘巴拿馬籍船隻11日凌晨試圖突破美方對伊朗港口的封鎖，遭美軍開火攻擊。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9685819"
+    },
+    {
+      "title": "〈財報〉AI支出狂潮助營收翻倍 CoreWeave盤後飆15%",
+      "snippet": "人工智慧 (AI) 基建供應商 CoreWeave(CRWV-US)周二 (11 日) 公布上季營收暴增逾一倍，本季營收預測區間跑贏市場預期，帶動盤後股價狂飆 15%。  截稿前，CoreWeave 盤後大漲 14.5%。該股周二稍早收在每股 90.32 美元，今年到周二收盤為止共上漲 26%，跑贏",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6572140"
+    },
+    {
+      "title": "哥倫比亞強震災情慘重　歐盟出動衛星系統助援",
+      "snippet": "（中央社記者吳柏緯、實習記者羅誼恩布魯塞爾11日專電）哥倫比亞10日發生強震，災情慘重。歐盟執委會主席范德賴恩（Ursu...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9685817"
+    },
+    {
+      "title": "巴基斯坦稱荷莫茲協議接近達成 美伊立場卻都轉趨強硬 油價震盪",
+      "snippet": "巴基斯坦國防部長阿西夫（Khawaja Asif）周二（11日）表示，美國與伊朗在荷莫茲海峽問題上「接近達成某種安排」，不過，雙方的最新交鋒降低了短期內達成協議的可能。油價連漲四天後持穩。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9685815"
+    },
+    {
+      "title": "青安3.0救房市有限　原因又是央行 - ETtoday房產雲",
+      "snippet": "青安3.0救房市有限　原因又是央行&nbsp;&nbsp;ETtoday房產雲",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1RTVptc094dFhjdnZKcXRnUkFrdG91QkduR05PWnNoQ0tDNndfdmg5LXV2VWpVZmdUczBVZEZQTy1uYkFCcXI3Q21Yaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZSW9FMFFMemQwVkhVbzNoR1dhWkhKMDdjVnVPaGl5VDdlQVp4ekF6UU9fZWpzZ2xNRXZlYTZfdEZnZ1VZZE9KYkx4QkRzUTjSAU5BVV95cUxPRkNsZTZDVnlRNm1zZEs1d0xiVC02T0lFd0xFV1Nqb091S3JHcmNoTEtNb1RsNDdhM1pLU3llb1FJam9Eb0ZydHI1eUFCUnc?oc=5"
     },
     {
-      "title": "盤中速報 - 科嶠(4542)大跌7.01%，報271.5元",
-      "snippet": "科嶠(4542-TW)盤中股價下跌，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
+      "title": "台積電ADR漲0.9% 台指期夜盤漲194點",
+      "snippet": "台積電ADR周二上漲0.9%，收在422.06美元，較台北交易溢價13.8%。",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570503"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/123398/9685810"
     },
     {
-      "title": "盤中速報 - 泓德能源(6873)大跌7.22%，報73.3元",
-      "snippet": "泓德能源(6873-TW)盤中股價下跌，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570502"
-    },
-    {
-      "title": "鉅亨買幣速報 - USDC(USDC)24小時成交量超過16.73億美元，NFPrompt Token(NFP)24小時漲幅達66.2%",
-      "snippet": "鉅亨幣圈盤中速報，總結當日亮點幣種、指標幣種、宏觀市場表現、漲跌幅排名，掌握交易價格、總成交量、市值、即時新聞資訊。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570501"
-    },
-    {
-      "title": "貝佐斯等超級富豪抱團 即將收購英超球隊股權",
-      "snippet": "超級富豪競相購買體育資產的浪潮，又迎來新的華麗敘事，一個由亞馬遜創始人貝佐斯參與的財團即將達成交易，收購英超（Premier League）豪門球會利物浦（Liverpool）約三分之一股份。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6570043"
-    },
-    {
-      "title": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market - CNBC",
-      "snippet": "CNBC's The China Connection newsletter: 'Spider-Man' and 'The Odyssey' come courting the massive filmgoer market&nbsp;&nbsp;CNBC",
+      "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market - CNBC",
+      "snippet": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market&nbsp;&nbsp;CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPbHQ1ZERxZG1Sa3VYLXU2Q29aY2NiVWpLcDZ2dlVqQmRDN1liOEEzaGUzb3FFLU51S1RvZ1cta1pCRFdYVzhnTXFLazVhaDBoejczM1JDMHBlNFJ6RUg4TUpPWEtta0lFTW8zdmFRbERJZnZXZ3pUZnBLVjhNMEx5Y3MzeGx3QkpvYUowRWkxZDRvUGc5RG9pZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZ1ZlX09vOHg4YWd3bGNpdHY1OHlMSVRQOS1CMER0YXZZN2Q0SEd5bzRtcjhpYWNOYnhlU1hYZnpDb3U1WEdZaEN0QjI1akFXSkdhSEZkbDZVeXVpbk1IWXNOYzdQWFdQaWxIOFpRVXJkeG03RHdiVW8yb9IBgAFBVV95cUxQbEhDVTdFZVNnN29pR05WODlhR2dxZ0o2SnB6ODZCLW82bC1qWmxKcXZWaF93MGU3QmtFTEFaa1hVNzRJZ1RxRmg3aHhJNE43OVNHVWNnUXJnaDkxLTlIZEFSTm5aOUhQMENCelp5N19fejdTNDRTLU55VkVmenBDMw?oc=5"
     }
   ]
 }
