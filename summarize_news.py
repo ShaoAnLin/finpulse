@@ -278,7 +278,7 @@ def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) 
         has_price = "股價" in text
         has_volume = "成交" in text and "張" in text
         has_limit_move = ("漲停" in text) or ("跌停" in text)
-        return (has_price and has_volume) or (has_limit_move and ("成交" in text))
+        return (has_price and has_volume) or (has_limit_move and has_volume)
 
     def ranked(pool: list[dict]) -> list[dict]:
         # Prefer recency first, then stable-sort low-info intraday flashes later.
