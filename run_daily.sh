@@ -47,4 +47,9 @@ if [ "$send_status" -ne 0 ]; then
     exit "$send_status"
 fi
 
+# 4. Export the last seven days of AI-written features for the website
+echo "[finpulse] exporting recent AI features..."
+"$PYTHON_BIN" -c \
+  "from export_news import write_recent_features; write_recent_features('docs/news-history.json')"
+
 echo "[finpulse] done"

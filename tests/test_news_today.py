@@ -1,16 +1,97 @@
 import json
 import tempfile
 import unittest
-from datetime import datetime, timedelta
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from db import init_db
+from export_news import export_recent_features
 from fetch_news import select_top_news, url_hash
 from send_messages import TZ_TPE, write_news_today
 from summarize_news import build_candidates
 
 
 class NewsTodayTest(unittest.TestCase):
+    def test_history_contains_only_recent_ai_features(self):
+        now = datetime(2026, 8, 12, 9, 0, tzinfo=timezone(timedelta(hours=8)))
+        rows = [
+            ("recent-intl", "2026-08-12T08:00:00+08:00", "international", "AI feature"),
+            ("boundary-tw", "2026-08-06T00:00:00+08:00", "taiwan", "Boundary feature"),
+            ("too-old", "2026-08-05T23:59:59+08:00", "international", "Old feature"),
+            ("rss-only", "2026-08-11T08:00:00+08:00", "taiwan", ""),
+            ("missing-ai", "2026-08-10T08:00:00+08:00", "taiwan", None),
+        ]
+        with tempfile.TemporaryDirectory() as directory:
+            db_path = str(Path(directory) / "state.sqlite3")
+            con = init_db(db_path)
+            for title, pushed_at, category, feature_text in rows:
+                con.execute(
+                    """
+                    INSERT INTO pushed_news
+                        (url_hash, url, title, pushed_at, category, source, feature_text)
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        title,
+                        f"https://example.com/{title}",
+                        title,
+                        pushed_at,
+                        category,
+                        "Source",
+                        feature_text,
+                    ),
+                )
+            con.commit()
+            con.close()
+
+            history = export_recent_features(db_path, now=now)
+
+        self.assertEqual(
+            [day["date"] for day in history["days"]],
+            ["2026-08-12", "2026-08-06"],
+        )
+        self.assertEqual(
+            [day["featured"][0]["title"] for day in history["days"]],
+            ["recent-intl", "boundary-tw"],
+        )
+
+    def test_history_keeps_latest_feature_per_category_each_day(self):
+        now = datetime(2026, 8, 12, 9, 0, tzinfo=TZ_TPE)
+        with tempfile.TemporaryDirectory() as directory:
+            db_path = str(Path(directory) / "state.sqlite3")
+            con = init_db(db_path)
+            for index, (pushed_at, category) in enumerate([
+                ("2026-08-11T07:00:00+08:00", "international"),
+                ("2026-08-11T09:00:00+08:00", "international"),
+                ("2026-08-11T08:00:00+08:00", "taiwan"),
+            ]):
+                con.execute(
+                    """
+                    INSERT INTO pushed_news
+                        (url_hash, url, title, pushed_at, category, source, feature_text)
+                    VALUES (?, ?, ?, ?, ?, ?, ?)
+                    """,
+                    (
+                        str(index),
+                        f"https://example.com/{index}",
+                        f"Feature {index}",
+                        pushed_at,
+                        category,
+                        "Source",
+                        f"AI feature {index}",
+                    ),
+                )
+            con.commit()
+            con.close()
+
+            history = export_recent_features(db_path, now=now)
+
+        self.assertEqual(len(history["days"]), 1)
+        self.assertEqual(
+            [article["title"] for article in history["days"][0]["featured"]],
+            ["Feature 1", "Feature 2"],
+        )
+
     def test_candidates_exclude_features_and_keep_ten_newest(self):
         articles = [
             {

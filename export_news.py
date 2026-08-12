@@ -13,11 +13,14 @@ from __future__ import annotations
 
 import json
 import sys
+from datetime import datetime, timedelta
 
 from config import DB_PATH
 from db import init_db
+from send_messages import TZ_TPE
 
 DEFAULT_OUTPUT = "news_export.json"
+HISTORY_DAYS = 7
 
 EXPORT_COLUMNS = [
     "url_hash",
@@ -43,6 +46,67 @@ def export_articles(db_path: str = DB_PATH) -> list[dict]:
         return [dict(zip(EXPORT_COLUMNS, row)) for row in cur.fetchall()]
     finally:
         con.close()
+
+
+def export_recent_features(
+    db_path: str = DB_PATH,
+    now: datetime | None = None,
+    days: int = HISTORY_DAYS,
+) -> dict:
+    """Return the latest AI feature per category for each of the last `days`
+    Taipei calendar dates, ordered newest-first."""
+    current = (now or datetime.now(TZ_TPE)).astimezone(TZ_TPE)
+    start_date = (current.date() - timedelta(days=days - 1)).isoformat()
+    con = init_db(db_path)
+    try:
+        rows = con.execute(
+            """
+            SELECT url, title, pushed_at, category, source, feature_text
+            FROM pushed_news
+            WHERE substr(pushed_at, 1, 10) >= ?
+              AND substr(pushed_at, 1, 10) <= ?
+              AND trim(COALESCE(feature_text, '')) != ''
+              AND category IN ('international', 'taiwan')
+            ORDER BY pushed_at DESC
+            """,
+            (start_date, current.date().isoformat()),
+        ).fetchall()
+    finally:
+        con.close()
+
+    grouped: dict[str, dict[str, dict]] = {}
+    for url, title, pushed_at, category, source, feature_text in rows:
+        date = pushed_at[:10]
+        grouped.setdefault(date, {}).setdefault(category, {
+            "category": category,
+            "title": title or "",
+            "feature": feature_text,
+            "source": source or "",
+            "link": url or "",
+        })
+
+    category_order = ("international", "taiwan")
+    return {
+        "days": [
+            {
+                "date": date,
+                "featured": [
+                    grouped[date][category]
+                    for category in category_order
+                    if category in grouped[date]
+                ],
+            }
+            for date in sorted(grouped, reverse=True)
+        ]
+    }
+
+
+def write_recent_features(output_path: str, db_path: str = DB_PATH) -> int:
+    payload = export_recent_features(db_path)
+    with open(output_path, "w", encoding="utf-8") as output:
+        json.dump(payload, output, ensure_ascii=False, indent=2)
+        output.write("\n")
+    return sum(len(day["featured"]) for day in payload["days"])
 
 
 def main() -> int:

@@ -68,7 +68,8 @@ finpulse/
    2. **Tavily Search API** runs a live web search on that story's headline (`topic=news`, last 7 days) and returns multi-source page content
    3. The Groq model writes a ~500-word Traditional Chinese feature — headline, what happened, background/context, impact — grounded in the live research rather than just the RSS snippet. If Tavily is unavailable it degrades gracefully to RSS-only
 3. **send_messages.py** — Pushes the two features to LINE, records their full details in `state.sqlite3`, then updates `docs/news-today.json` with those features and 10 unselected candidates (balanced between international and Taiwan when available)
-4. **finpulse-web** — Reads only `docs/news-today.json`: the two LINE features are shown in full, while candidate cards expand to reveal their complete RSS snippet and original link
+4. **export_news.py** — Produces `docs/news-history.json` with only AI-written features from the last seven Taipei calendar dates
+5. **finpulse-web** — Shows today's features and RSS candidates by default, with a separate lazy-loaded seven-day tab containing only AI-written features
 
 ## Historical Data Export
 
@@ -191,7 +192,10 @@ Optional repository variable:
 - `FINPULSE_AI_MODEL`: defaults to `llama-3.3-70b-versatile` when unset
 
 The workflow in `.github/workflows/finpulse-daily.yml` runs daily at 07:30 Asia/Taipei and can also be started manually from the Actions tab.
-After a successful LINE broadcast, it commits the refreshed `docs/news-today.json`. If you rerun on the same day, new results are merged into today's cache (instead of fully replacing it), so manual reruns can progressively improve the same-day digest.
+After a successful LINE broadcast, it commits the refreshed `docs/news-today.json`
+and `docs/news-history.json`. If you rerun on the same day, new results are
+merged into today's cache (instead of fully replacing it), so manual reruns can
+progressively improve the same-day digest.
 
 ## finpulse-web
 
@@ -207,7 +211,8 @@ npm run build     # refresh the committed static files in ../docs
 ```
 
 To deploy, open **Settings → Pages**, choose **Deploy from a branch**, select the
-default branch and the `/docs` folder, then save. The site shows only today's cache;
+default branch and the `/docs` folder, then save. The site shows today's cache and
+lazy-loads the last seven days of AI-written features;
 each successful daily workflow replaces the prior day's data rather than creating an archive.
 
 **Linux/macOS (cron):**
