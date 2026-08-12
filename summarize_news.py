@@ -261,14 +261,26 @@ def format_messages(international_feature: dict | None,
 
 
 def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) -> list[dict]:
-    """Return the newest unpicked articles for the website."""
+    """Return unpicked website candidates with a better intl/TW balance."""
     picked_links = {article.get("link") for article in picked}
     candidates = [
         article for article in articles
         if article.get("link") not in picked_links
     ]
     candidates.sort(key=lambda article: article.get("published") or "", reverse=True)
-    return candidates[:limit]
+
+    international = [a for a in candidates if a.get("category") == "international"]
+    others = [a for a in candidates if a.get("category") != "international"]
+
+    target_international = min(len(international), limit // 2)
+    target_others = min(len(others), limit - target_international)
+    target_international = min(len(international), limit - target_others)
+
+    selected = international[:target_international] + others[:target_others]
+    remaining = international[target_international:] + others[target_others:]
+    selected.extend(remaining[: max(0, limit - len(selected))])
+    selected.sort(key=lambda article: article.get("published") or "", reverse=True)
+    return selected[:limit]
 
 
 def main() -> int:

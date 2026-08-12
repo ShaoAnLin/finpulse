@@ -38,6 +38,25 @@ def is_pushed(con: sqlite3.Connection, url: str) -> bool:
     return row is not None
 
 
+def is_pushed_before_today(con: sqlite3.Connection, url: str) -> bool:
+    """Return True when the article was already pushed before today (Asia/Taipei).
+
+    Articles pushed today are intentionally allowed so manual same-day reruns can
+    regenerate a fuller digest without being blocked by historical dedup.
+    """
+    row = con.execute(
+        "SELECT pushed_at FROM pushed_news WHERE url_hash=?",
+        (url_hash(url),),
+    ).fetchone()
+    if not row or not row[0]:
+        return False
+    try:
+        pushed_at = datetime.fromisoformat(row[0])
+    except ValueError:
+        return False
+    return pushed_at.astimezone(TZ_TPE).date() < datetime.now(TZ_TPE).date()
+
+
 def fetch_feed(feed_info: dict) -> list[dict]:
     """Fetch and parse a single RSS feed."""
     try:
@@ -85,7 +104,7 @@ def fetch_feed(feed_info: dict) -> list[dict]:
 
 def select_top_news(articles: list[dict], max_count: int, con: sqlite3.Connection) -> list[dict]:
     """Select top N news that haven't been pushed yet, sorted by recency."""
-    unseen = [a for a in articles if not is_pushed(con, a["link"])]
+    unseen = [a for a in articles if not is_pushed_before_today(con, a["link"])]
     unseen.sort(key=lambda a: a.get("published") or "", reverse=True)
     return unseen[:max_count]
 
