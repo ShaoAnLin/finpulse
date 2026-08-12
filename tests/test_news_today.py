@@ -1,9 +1,12 @@
 import json
 import tempfile
 import unittest
+from datetime import datetime, timedelta
 from pathlib import Path
 
-from send_messages import write_news_today
+from db import init_db
+from fetch_news import select_top_news, url_hash
+from send_messages import TZ_TPE, write_news_today
 from summarize_news import build_candidates
 
 
@@ -60,6 +63,106 @@ class NewsTodayTest(unittest.TestCase):
         self.assertEqual(
             set(data["candidates"][0]),
             {"title", "snippet", "category", "source", "link"},
+        )
+
+    def test_write_news_today_merges_same_day_payload(self):
+        existing_payload = {
+            "date": datetime.now(TZ_TPE).strftime("%Y-%m-%d"),
+            "featured": [{
+                "category": "taiwan",
+                "title": "Old Taiwan",
+                "feature": "Old feature",
+                "source": "Old source",
+                "link": "https://example.com/tw-old",
+            }],
+            "candidates": [{
+                "title": "Old candidate",
+                "snippet": "Old snippet",
+                "category": "international",
+                "source": "Old source",
+                "link": "https://example.com/old-candidate",
+            }],
+        }
+        featured = [{
+            "category": "international",
+            "title": "New Intl",
+            "feature_text": "New feature",
+            "source": "Reuters",
+            "link": "https://example.com/new-intl",
+        }]
+        candidates = [{
+            "category": "international",
+            "title": "Duplicate old",
+            "snippet": "Should dedup",
+            "source": "Reuters",
+            "link": "https://example.com/old-candidate",
+        }, {
+            "category": "taiwan",
+            "title": "Candidate to drop",
+            "snippet": "Same as featured link",
+            "source": "CnYes",
+            "link": "https://example.com/tw-old",
+        }, {
+            "category": "taiwan",
+            "title": "New candidate",
+            "snippet": "Keep me",
+            "source": "CnYes",
+            "link": "https://example.com/new-candidate",
+        }]
+
+        with tempfile.TemporaryDirectory() as directory:
+            output = Path(directory) / "docs" / "news-today.json"
+            output.parent.mkdir(parents=True, exist_ok=True)
+            output.write_text(json.dumps(existing_payload, ensure_ascii=False), encoding="utf-8")
+            write_news_today(featured, candidates, str(output))
+            data = json.loads(output.read_text(encoding="utf-8"))
+
+        self.assertEqual([item["category"] for item in data["featured"]], ["international", "taiwan"])
+        self.assertEqual(data["featured"][1]["title"], "Old Taiwan")
+        self.assertEqual(
+            [item["link"] for item in data["candidates"]],
+            [
+                "https://example.com/old-candidate",
+                "https://example.com/new-candidate",
+            ],
+        )
+
+    def test_select_top_news_allows_same_day_rerun_but_keeps_cross_day_dedup(self):
+        now = datetime.now(TZ_TPE).replace(microsecond=0)
+        yesterday = now - timedelta(days=1)
+        with tempfile.TemporaryDirectory() as directory:
+            db_path = str(Path(directory) / "state.sqlite3")
+            con = init_db(db_path)
+            con.execute(
+                """
+                INSERT INTO pushed_news (url_hash, url, title, pushed_at)
+                VALUES (?, ?, ?, ?)
+                """,
+                (url_hash("https://example.com/today"), "https://example.com/today", "Today", now.isoformat()),
+            )
+            con.execute(
+                """
+                INSERT INTO pushed_news (url_hash, url, title, pushed_at)
+                VALUES (?, ?, ?, ?)
+                """,
+                (url_hash("https://example.com/yesterday"), "https://example.com/yesterday", "Yesterday", yesterday.isoformat()),
+            )
+            con.commit()
+
+            selected = select_top_news(
+                [
+                    {"title": "Today", "link": "https://example.com/today", "published": "2026-08-12T01:00:00+00:00"},
+                    {"title": "Yesterday", "link": "https://example.com/yesterday", "published": "2026-08-12T02:00:00+00:00"},
+                    {"title": "New", "link": "https://example.com/new", "published": "2026-08-12T03:00:00+00:00"},
+                ],
+                max_count=10,
+                con=con,
+            )
+            con.close()
+
+        self.assertEqual(
+            [item["link"] for item in selected],
+            ["https://example.com/new", "https://example.com/today"],
         )
 
 

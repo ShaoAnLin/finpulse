@@ -103,11 +103,55 @@ def mark_pushed(articles: list[dict]) -> None:
     con.close()
 
 
+def _dedup_news_items(items: list[dict]) -> list[dict]:
+    deduped: list[dict] = []
+    seen: set[str] = set()
+    for item in items:
+        key = (item.get("link") or "").strip() or (item.get("title") or "").strip()
+        if not key or key in seen:
+            continue
+        seen.add(key)
+        deduped.append(item)
+    return deduped
+
+
+def _merge_same_day_payload(existing: dict, new_payload: dict) -> dict:
+    featured_by_category: dict[str, dict] = {}
+    for article in existing.get("featured", []):
+        category = (article.get("category") or "").strip()
+        if category:
+            featured_by_category[category] = article
+    for article in new_payload.get("featured", []):
+        category = (article.get("category") or "").strip()
+        if category:
+            featured_by_category[category] = article
+    merged_featured = [
+        featured_by_category[category]
+        for category in ("international", "taiwan")
+        if category in featured_by_category
+    ]
+
+    raw_candidates = new_payload.get("candidates", []) + existing.get("candidates", [])
+    merged_candidates = _dedup_news_items(raw_candidates)
+    featured_links = {article.get("link", "") for article in merged_featured}
+    merged_candidates = [
+        article for article in merged_candidates
+        if article.get("link", "") not in featured_links
+    ][:10]
+
+    return {
+        "date": new_payload["date"],
+        "featured": merged_featured,
+        "candidates": merged_candidates,
+    }
+
+
 def write_news_today(featured: list[dict], candidates: list[dict],
                      path: str = NEWS_TODAY_PATH) -> None:
-    """Atomically replace the website's today-only news cache."""
+    """Write today's web cache, merging same-day reruns instead of replacing all."""
+    today = datetime.now(TZ_TPE).strftime("%Y-%m-%d")
     payload = {
-        "date": datetime.now(TZ_TPE).strftime("%Y-%m-%d"),
+        "date": today,
         "featured": [
             {
                 "category": article.get("category", ""),
@@ -129,6 +173,16 @@ def write_news_today(featured: list[dict], candidates: list[dict],
             for article in candidates[:10]
         ],
     }
+
+    if os.path.exists(path):
+        try:
+            with open(path, "r", encoding="utf-8") as source:
+                existing_payload = json.load(source)
+            if isinstance(existing_payload, dict) and existing_payload.get("date") == today:
+                payload = _merge_same_day_payload(existing_payload, payload)
+        except (OSError, json.JSONDecodeError, TypeError, ValueError):
+            pass
+
     os.makedirs(os.path.dirname(path), exist_ok=True)
     temporary_path = f"{path}.tmp"
     with open(temporary_path, "w", encoding="utf-8") as output:

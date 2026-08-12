@@ -191,7 +191,7 @@ Optional repository variable:
 - `FINPULSE_AI_MODEL`: defaults to `llama-3.3-70b-versatile` when unset
 
 The workflow in `.github/workflows/finpulse-daily.yml` runs daily at 07:30 Asia/Taipei and can also be started manually from the Actions tab.
-After a successful LINE broadcast, it commits the refreshed `docs/news-today.json` so the Pages site receives the same day's news.
+After a successful LINE broadcast, it commits the refreshed `docs/news-today.json`. If you rerun on the same day, new results are merged into today's cache (instead of fully replacing it), so manual reruns can progressively improve the same-day digest.
 
 ## finpulse-web
 
