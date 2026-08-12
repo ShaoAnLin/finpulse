@@ -126,6 +126,7 @@ class NewsTodayTest(unittest.TestCase):
                 "https://example.com/new-candidate",
             ],
         )
+        self.assertEqual(data["candidates"][0]["snippet"], "Should dedup")
 
     def test_select_top_news_allows_same_day_rerun_but_keeps_cross_day_dedup(self):
         now = datetime.now(TZ_TPE).replace(microsecond=0)

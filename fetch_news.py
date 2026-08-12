@@ -53,7 +53,7 @@ def is_pushed_before_today(con: sqlite3.Connection, url: str) -> bool:
     try:
         pushed_at = datetime.fromisoformat(row[0])
     except ValueError:
-        return True
+        return False
     return pushed_at.astimezone(TZ_TPE).date() < datetime.now(TZ_TPE).date()
 
 

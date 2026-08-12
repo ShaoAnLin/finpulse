@@ -131,6 +131,8 @@ def _merge_same_day_payload(existing: dict, new_payload: dict) -> dict:
         if category in featured_by_category
     ]
 
+    # Keep new rerun output first so dedup prefers the newest regenerated item
+    # when link/title collisions happen with today's previous cache.
     raw_candidates = new_payload.get("candidates", []) + existing.get("candidates", [])
     merged_candidates = _dedup_news_items(raw_candidates)
     featured_links = {article.get("link", "") for article in merged_featured}
