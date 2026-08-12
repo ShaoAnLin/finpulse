@@ -267,17 +267,18 @@ def format_messages(international_feature: dict | None,
 def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) -> list[dict]:
     """Return unpicked website candidates with a better intl/TW balance."""
     source_cap = 3
-    low_info_patterns = (
-        "盤中速報",
-        "股價",
-        "成交",
-        "漲停",
-        "跌停",
-    )
-
     def is_low_info_intraday(article: dict) -> bool:
-        text = f"{article.get('title', '')} {article.get('snippet', '')}"
-        return any(pattern in text for pattern in low_info_patterns)
+        title = article.get("title", "")
+        snippet = article.get("snippet", "")
+        text = f"{title} {snippet}"
+        if "盤中速報" in title:
+            return True
+        # Conservative fallback when headlines are not explicitly marked as flash:
+        # typically quote-only updates mention stock price + volume/limit-up/down.
+        has_price = "股價" in text
+        has_volume = "成交" in text and "張" in text
+        has_limit_move = ("漲停" in text) or ("跌停" in text)
+        return (has_price and has_volume) or (has_limit_move and ("成交" in text))
 
     def ranked(pool: list[dict]) -> list[dict]:
         # Prefer recency first, then stable-sort low-info intraday flashes later.
@@ -303,7 +304,7 @@ def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) 
 
     def pick_ignoring_source_cap(pool: list[dict], target: int) -> list[dict]:
         selected: list[dict] = []
-        for article in ranked(pool):
+        for article in sorted(pool, key=lambda item: item.get("published") or "", reverse=True):
             if len(selected) >= target:
                 break
             selected.append(article)
