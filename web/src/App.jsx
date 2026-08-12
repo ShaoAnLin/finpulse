@@ -34,11 +34,6 @@ const featureSectionDetails = {
   '🌐': { label: '市場影響', color: 'bg-teal-50 text-teal-950' },
 }
 
-function formatTimestamp(date) {
-  const pad = (value) => String(value).padStart(2, '0')
-  return `${date.getFullYear()}-${pad(date.getMonth() + 1)}-${pad(date.getDate())} ${pad(date.getHours())}:${pad(date.getMinutes())}`
-}
-
 function parseFeature(feature = '') {
   const markerPattern =
     /([📰🔍🌐])\s*(?:發生什麼事|背景與來龍去脈|背景與脈絡|影響)?[：:]?\s*/gu
@@ -211,9 +206,8 @@ function CandidateCard({ article }) {
         </div>
       </div>
       <div className="mt-5 flex items-center justify-between gap-3">
-        <span className="text-sm font-bold text-blue-800">{expanded ? '點擊卡片收合' : '點擊卡片展開'}</span>
         <a
-          className="text-sm font-bold text-teal-700 transition hover:text-teal-900 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-700"
+          className="ml-auto text-sm font-bold text-teal-700 transition hover:text-teal-900 focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-teal-700"
           href={article.link}
           onClick={(event) => event.stopPropagation()}
           target="_blank"
@@ -235,7 +229,6 @@ export default function App() {
   const [activeTab, setActiveTab] = useState('today')
   const [news, setNews] = useState(null)
   const [error, setError] = useState('')
-  const [lastUpdated, setLastUpdated] = useState(null)
   const [history, setHistory] = useState(null)
   const [historyError, setHistoryError] = useState('')
   const [historyLoading, setHistoryLoading] = useState(false)
@@ -251,7 +244,6 @@ export default function App() {
           throw new Error('新聞資料格式錯誤')
         }
         setNews(data)
-        setLastUpdated(new Date())
       })
       .catch(() => setError('今日新聞暫時無法載入，請稍後再試。'))
   }, [])
@@ -278,8 +270,6 @@ export default function App() {
         new Date(`${news.date}T00:00:00+08:00`),
       )
     : ''
-  const updatedLabel = lastUpdated ? formatTimestamp(lastUpdated) : ''
-
   return (
     <main className="min-h-screen bg-slate-50 text-slate-800">
       <header className="relative overflow-hidden bg-gradient-to-br from-slate-950 via-blue-950 to-blue-900 text-white">
@@ -301,14 +291,6 @@ export default function App() {
                 <p className="text-sm text-blue-100 sm:text-base">回顧最近一週的 AI 整理焦點</p>
               )}
             </div>
-            {activeTab === 'today' && updatedLabel && (
-              <time
-                className="text-xs font-medium text-blue-200 sm:text-sm"
-                dateTime={lastUpdated.toISOString()}
-              >
-                最後更新於 {updatedLabel}
-              </time>
-            )}
           </div>
         </div>
       </header>
@@ -358,12 +340,7 @@ export default function App() {
         {activeTab === 'today' && news && (
           <>
             <section aria-labelledby="featured-heading">
-              <div className="mb-4">
-                <p className="text-sm font-bold text-teal-700">LINE 同步精選</p>
-                <h2 id="featured-heading" className="mt-1 text-2xl font-black text-blue-950 sm:text-3xl">
-                  今日焦點
-                </h2>
-              </div>
+              <h2 className="sr-only" id="featured-heading">精選新聞</h2>
               {news.featured.length ? (
                 <div className="grid gap-4 lg:grid-cols-2">
                   {news.featured.map((article) => (
