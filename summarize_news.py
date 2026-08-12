@@ -278,8 +278,8 @@ def build_candidates(articles: list[dict], picked: list[dict], limit: int = 10) 
 
     selected = international[:target_international] + others[:target_others]
     remaining = international[target_international:] + others[target_others:]
-    remaining.sort(key=lambda article: article.get("published") or "", reverse=True)
     selected.extend(remaining[: max(0, limit - len(selected))])
+    selected.sort(key=lambda article: article.get("published") or "", reverse=True)
     return selected[:limit]
 
 

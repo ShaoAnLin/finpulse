@@ -175,7 +175,7 @@ class NewsTodayTest(unittest.TestCase):
             selected = select_top_news(
                 [
                     {"title": "Today", "link": "https://example.com/today", "published": "2026-08-12T01:00:00+00:00"},
-                    {"title": "Yesterday", "link": "https://example.com/yesterday", "published": "2026-08-12T02:00:00+00:00"},
+                    {"title": "Yesterday", "link": "https://example.com/yesterday", "published": "2026-08-11T02:00:00+00:00"},
                     {"title": "New", "link": "https://example.com/new", "published": "2026-08-12T03:00:00+00:00"},
                 ],
                 max_count=10,
