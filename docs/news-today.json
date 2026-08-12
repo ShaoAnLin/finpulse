@@ -2,76 +2,55 @@
   "date": "2026-08-12",
   "featured": [
     {
+      "category": "international",
+      "title": "Why Jensen Huang’s $500 billion AI financing plan faces a big risk from China - CNBC",
+      "feature": "Nvidia CEO 黃仁勛的 5000 億美元 AI 資金計畫面臨中國風險。 \n📰\nNvidia 首席執行官黃仁勛推出了一項雄心勃勃的計劃，希望透過_wall Street 六大資產管理公司，籌措 5000 億美元資金，支持 AI 基礎設施的建立和 GPU 集群的建設。然而，這項計劃面臨著中國產生的風險，因為中國可能會在市場上大量推出低成本的 AI 計算芯片，從而使得 Nvidia 的芯片價值大幅下降。\n🔍\n這項計劃的背景是，Nvidia 正在嘗試說服 Wall Street 投資者，認為其 AI 芯片是長期的金融資產，類似於商業地產或收費公路。然而，Nvidia 的芯片價值是否能夠持續下去，仍然存在很大的風險。特別是，中國是全球 AI 芯片生產的重要市場，如果中國公司能夠推出高質量、低成本的 AI 芯片，可能會對 Nvidia 造成重大挑戰。\n🌐\n這項計劃的影響非常廣泛，可能會影響全球 AI 技術的發展和 AI 產業的未來。同時，也可能會影響台灣的 AI 產業，因為台灣是全球重要的 AI 技術研發和製造中心。如果 Nvidia 的計劃成功，可能會帶動全球 AI 產業的快速發展和創新。然而，如果計劃失敗，可能會對全球 AI 產業造成重大打擊，特別是對於台灣的 AI 產業可能會產生相當大的影響。",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPYU55bUVtSkMySDZUS2RPRWpBTTRRZHhucjFpaUxWM0RoV0NuMVFPNFh1T29XMkpSR1NYRm5Oc1hUc1hnWTNVOXd5T29qXzNVTWdxRWxpal9oT1VCNk1kQVNYeW9fVDBZNG1jODVJNHN3R0lMQ19KSmwtY2JNQXM1V3ptYk7SAYoBQVVfeXFMTmt2WjUtTThxd2gzZnhqcW8wejI3WWdRNDlaZGFLaVFTZXQyZ0tkLW80RW4wSXFoMDBlNTVjZ1pnNFBpQzBQZjJFY0xHQ3Q5S2p4OHdSV05QZi01eG5XcFFmOGVHWmV6MndsZ2dNNU9NLU9FVHUzMkpmaE1DTGVEcS12NXBHcl9CWlJ3?oc=5"
+    },
+    {
       "category": "taiwan",
-      "title": "營收速報 - 2026年8月12日台股大型公司7月營收一覽（新增209家）",
-      "feature": "7月營收公布，台股大型公司前一日公布209家營收，截至目前7月營收公布共計223家，年增超25%的公司多達89家，創下近年來罕見的高成長率。",
+      "title": "等10天太久！美伊戰爭致巴拿馬運河擁堵不堪 有船不惜砸下400萬美元「插隊」",
+      "feature": "伊朗戰爭波及全球航運：巴拿馬運河擁堵不堪，貨船不惜砸下400萬美元「插隊」",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6572154"
+      "link": "https://news.cnyes.com/news/id/6572260"
     }
   ],
   "candidates": [
     {
-      "title": "台股開低走高小漲 192 點站上 45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光 - sinotrade.com.tw",
-      "snippet": "台股開低走高小漲 192 點站上 45,120 點！MLCC、消費用電池、銅箔基板三強攻頂，「投本比」策略:順達、富世達、華星光&nbsp;&nbsp;sinotrade.com.tw",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi-gRBVV95cUxOY3hucW9jR09IZjhoNktodU1WcFN1amdQbjhwS0pPcFFUQy1mQVA0WXp1SGYyOXgyVnFRc25rM1M2WS1CeGhZYWxXeW04OF9nNGx6NEFDMnQzdDE2R1JQS2RaVmtUU2tJYkxzUXZXcXpSVmxlUmNzM3l2WVJpY0dlcUMtaFo4SVJhM3Btc0dpeklDNUpCZzZkRmstd0s1ZFh0MlhfWllKZmZlNC10aHBaNTh6YUw4QmQwRHBxRlVBOWQ4Rm5CVmlVSkFKSlUtNnZTclBRdUhldjFodHQwN1ZtRDAyeU5vTEFsT3Blb2U4ZHB2Zk9FYTQ0TDJkbVNXb3JZakpIYXBXX1J0V3RYWVJ3TzVWYmM3akJBckltOXhiQk9XTjRsZ3NYUFFrUWp5QXM4clZjc1ZwVGwzY2daRzhiWFhwWm5paUdtNEkyWnF4WG45aWVpV1dZSzNUcEQzMFN4TVRPZENISEFFVXEzeFR1dTJ3MVFhOHotUFpPaW40UnQ1elF4R3U0MWZZV2toWnViTW9iUzYwWGVXZkw2MGJvcFZ2eFVXZkZfYkhUbFZNZzJNTnlKWUhKRWF2NlhMS2xoN3lvcm03ODFiaTVVZ0RMSWZJeXlDenJqX19NT2JhZ3NhRGI5YWdRcTNwZXRLVFQ1YmtPMDNOWEluNE8zZGJYTTNURlB1UGFaQzh4dGJsTUE5aGkxNGpNUWxSazRUbzF2NS1fWFdtTXBOWUhlVU85WnpEaFo3RjR6M3lkUklNbG4yM0tIeXBVZkVPbnRvd0cwZDRfM2Fvc2g0YnhleTdFMXQtVkhMTVFrbzdSb0lYS3JmM2ctZWU1YmlR?oc=5"
-    },
-    {
-      "title": "光通訊很旺！Lumentum 上季營收暴增109% 毛利率提早達標 盤後勁揚逾2%",
-      "snippet": "美國光通訊大廠Lumentum公布上季營收大增逾一倍，本季財測也大幅優於預期，進一步證明，光學技術已成為AI熱潮不可或缺的一環。消息出爐後，盤後股價先蹲後跳，上漲逾2%，報每股838.10美元。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9685823"
-    },
-    {
-      "title": "美韓軍演前　北韓朝日本海發射彈道飛彈",
-      "snippet": "南韓軍方表示，北韓今天清晨自東部沿海朝日本海方向發射一枚彈道飛彈。再過幾天，美韓大規模聯合軍演即將登場",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9685822"
-    },
-    {
-      "title": "不甩美軍警告！巴拿馬籍貨輪強行航往伊朗港口 遭開火癱瘓",
-      "snippet": "川普政府試圖在經濟上向伊朗政權施壓，正加強執行封鎖。華爾街日報報導，一艘巴拿馬籍船隻11日凌晨試圖突破美方對伊朗港口的封鎖，遭美軍開火攻擊。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9685819"
-    },
-    {
-      "title": "〈財報〉AI支出狂潮助營收翻倍 CoreWeave盤後飆15%",
-      "snippet": "人工智慧 (AI) 基建供應商 CoreWeave(CRWV-US)周二 (11 日) 公布上季營收暴增逾一倍，本季營收預測區間跑贏市場預期，帶動盤後股價狂飆 15%。  截稿前，CoreWeave 盤後大漲 14.5%。該股周二稍早收在每股 90.32 美元，今年到周二收盤為止共上漲 26%，跑贏",
+      "title": "盤中速報 - 承啟(2425)股價殺至跌停，跌停價41.4元，成交1,746張",
+      "snippet": "承啟(2425-TW)盤中跌停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6572140"
+      "link": "https://news.cnyes.com/news/id/6572324"
     },
     {
-      "title": "哥倫比亞強震災情慘重　歐盟出動衛星系統助援",
-      "snippet": "（中央社記者吳柏緯、實習記者羅誼恩布魯塞爾11日專電）哥倫比亞10日發生強震，災情慘重。歐盟執委會主席范德賴恩（Ursu...",
+      "title": "盤中速報 - 華星光(4979)大漲7.06%，報544元",
+      "snippet": "華星光(4979-TW)盤中股價拉漲，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9685817"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6572323"
     },
     {
-      "title": "巴基斯坦稱荷莫茲協議接近達成 美伊立場卻都轉趨強硬 油價震盪",
-      "snippet": "巴基斯坦國防部長阿西夫（Khawaja Asif）周二（11日）表示，美國與伊朗在荷莫茲海峽問題上「接近達成某種安排」，不過，雙方的最新交鋒降低了短期內達成協議的可能。油價連漲四天後持穩。",
+      "title": "盤中速報 - 中纖(1718)急拉9.27%報10.45元，成交805張",
+      "snippet": "中纖(1718-TW)盤中股價急拉，近5分K漲跌速、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9685815"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6572322"
     },
     {
-      "title": "青安3.0救房市有限　原因又是央行 - ETtoday房產雲",
-      "snippet": "青安3.0救房市有限　原因又是央行&nbsp;&nbsp;ETtoday房產雲",
+      "title": "盤中速報 - 憶聲(3024)急拉3.07%報13.15元，成交13張",
+      "snippet": "憶聲(3024-TW)盤中股價急拉，近5分K漲跌速、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5ZSW9FMFFMemQwVkhVbzNoR1dhWkhKMDdjVnVPaGl5VDdlQVp4ekF6UU9fZWpzZ2xNRXZlYTZfdEZnZ1VZZE9KYkx4QkRzUTjSAU5BVV95cUxPRkNsZTZDVnlRNm1zZEs1d0xiVC02T0lFd0xFV1Nqb091S3JHcmNoTEtNb1RsNDdhM1pLU3llb1FJam9Eb0ZydHI1eUFCUnc?oc=5"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6572321"
     },
     {
-      "title": "台積電ADR漲0.9% 台指期夜盤漲194點",
-      "snippet": "台積電ADR周二上漲0.9%，收在422.06美元，較台北交易溢價13.8%。",
+      "title": "盤中速報 - 中鼎(9933)大漲7.63%，報41.6元",
+      "snippet": "中鼎(9933-TW)盤中股價拉漲，近5日股價、大盤表現、三大法人買賣超、融資融券增減、即時新聞資訊。",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9685810"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6572320"
     },
     {
       "title": "Cramer says ask yourself these 3 questions to figure out what's really happening in the market - CNBC",
@@ -79,6 +58,34 @@
       "category": "international",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1UZ1ZlX09vOHg4YWd3bGNpdHY1OHlMSVRQOS1CMER0YXZZN2Q0SEd5bzRtcjhpYWNOYnhlU1hYZnpDb3U1WEdZaEN0QjI1akFXSkdhSEZkbDZVeXVpbk1IWXNOYzdQWFdQaWxIOFpRVXJkeG03RHdiVW8yb9IBgAFBVV95cUxQbEhDVTdFZVNnN29pR05WODlhR2dxZ0o2SnB6ODZCLW82bC1qWmxKcXZWaF93MGU3QmtFTEFaa1hVNzRJZ1RxRmg3aHhJNE43OVNHVWNnUXJnaDkxLTlIZEFSTm5aOUhQMENCelp5N19fejdTNDRTLU55VkVmenBDMw?oc=5"
+    },
+    {
+      "title": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&R Block and more - CNBC",
+      "snippet": "Stocks making the biggest moves after hours: Super Micro Computer, CoreWeave, H&amp;R Block and more&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdVpBYkpZM2NoX05LMjlLbVFkZFBwTlh3NHdwVEZSWGdwZ1NPbVpnVmhGbldPNHY1ODBuQkdWbk5iQmlHU1g1amJ1cExXSXhZOEFNby0xaWROeEZ3OFh1OXFvMjRMdm42OXRQWUdsdEhpdmFSRzdSWExRelI0bFA5aEtsM2xZTy1XUXhLMzVsZy1aNGc5Y1VPSnF3?oc=5"
+    },
+    {
+      "title": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand - CNBC",
+      "snippet": "CoreWeave stock pops 14% as revenue doubles on accelerating AI infrastructure demand&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPclpXaXMyMThmdzRpVzZvNlpmNEVBLUMtOGlDTXEtdGxxTnJHQkttQl9RanRkOXZBS1VqTnNOS2ktTTdGZXI1YzliTDFQYU5rekpWaUtEUmpCMG5PcFc3RFE4Z0JLaHhHeUZPbWIySVZiZUJHc0pkRXc0ekpsME9HddIBhgFBVV95cUxQZ3p0QWgxUlZWaFVJM21SenVENE1QT0NWSUhKZVM0Zzd5QVhnblI5SWVqUHZwM0JWYnRId2FfSk9kUVpHbWlhYkIzczQ3RFNhdGZGMHFFZXVqaE5HVWdTNUZic2ZROW1HYlZIdk13YXBaalRwUXlzTmcyMEdxZnpJRGNzd2xmdw?oc=5"
+    },
+    {
+      "title": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach - CNBC",
+      "snippet": "Is betting on elections using prediction markets illegal? Many states are unsure as midterms approach&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaWMzaG1MSVRla2k5ZzJ2NWc5ZDM1NHlzV3RoX1B6UG1HZmRHUE8tM21aWDhkV2dKX25KdUNMbm1oS212dk85TUw0cGlSeUVKUlhvRXB2Q2RRWTJZWHU3QVRwRE55emRJUE1tX0lkcjlMUm1yRXFPVUwtRlN5Y0FTUC03bXY4U1F3b1hPOU5vc3QtM3RxOVNqdjZPMNIBoAFBVV95cUxPV05uMENuZXJzRWtFVnMtUDRTM3M4dU5ybXJVZ2kzbjZZcDRFaWxWNWUtbmR3M3pSdWtKMzlsN2lWTjlnMHp5ay1BLVB1bkVWUjR1WFE4NHJMYWEyQjFjdnRQX3NxUzNGRlVUUTY5aXFSaGlnQ0ppYVc5c3pSZWlxNDR3LXBTbHZ5TmVnR3FpVzdfNlROQUxsVjFUbG44ZTV3?oc=5"
+    },
+    {
+      "title": "Eli Lilly's weight loss pill gets first European approval — plus, oil holds back stocks - CNBC",
+      "snippet": "Eli Lilly's weight loss pill gets first European approval — plus, oil holds back stocks&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRFVfYWJGU1UwU3BNRjNSWWlqRndoVnBPazBWbUpJbnlveks1aU9zd3dlRHBuazhvOTc2LTRsR0VlZm9RMGI2V05kODg4VnNWVGNsc1dQemNfTGV6a0JwX0hwM3RUVHJyb2FLZ0d5YkJwdzFPbVZpak50RWktdFUtWHY4bWpPbV9UdzlPMmxuQkVwcUxKQzN6OHFIWGdZRlMwUXRwUFg5aldtN0hoY2ZZWUI1Y0FZNkk?oc=5"
     }
   ]
 }
