@@ -189,7 +189,8 @@ Repository Settings -> Secrets and variables -> Actions -> Secrets:
 - `FINPULSE_LINE_TARGET`: LINE user ID or group ID
 
 Optional repository variable:
-- `FINPULSE_AI_MODEL`: defaults to `llama-3.3-70b-versatile` when unset
+- `FINPULSE_AI_MODEL`: optional model override; leave unset to automatically select
+  an available Groq model and fall back if a model becomes unavailable
 
 The workflow in `.github/workflows/finpulse-daily.yml` runs daily at 07:30 Asia/Taipei and can also be started manually from the Actions tab.
 After a successful LINE broadcast, it commits the refreshed `docs/news-today.json`

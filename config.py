@@ -4,7 +4,8 @@ from dotenv import load_dotenv
 load_dotenv()
 
 GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "")
-AI_MODEL = os.environ.get("FINPULSE_AI_MODEL", "llama-3.3-70b-versatile")
+# Optional override. When unset, summarize_news.py selects an available model.
+AI_MODEL = os.environ.get("FINPULSE_AI_MODEL", "").strip()
 
 TAVILY_API_KEY = os.environ.get("TAVILY_API_KEY", "")
 
