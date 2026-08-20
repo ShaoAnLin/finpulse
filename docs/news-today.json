@@ -1,13 +1,63 @@
 {
   "date": "2026-08-20",
-  "featured": [],
+  "featured": [
+    {
+      "category": "international",
+      "title": "Inside India newsletter: Chip squeeze hits Chinese smartphones in India as Apple, Samsung gain an edge - CNBC",
+      "feature": "標題行: 印度手機市場晶片成本飆升，中文品牌受壓，蘋果三星逆勢上揚\n📰 發生什麼事：2026 年 8 月，印度智能手機平均售價創下 315 美元新高，同比上漲 14.4%。中國品牌在 150 美元以下的低價市場原本佔據主導，但因 AI 需求推動的記憶體與 2 奈米晶圓成本暴漲，供應緊張，使得成本上升、售價被迫提高，市場佔有率開始下滑；相對地，蘋果與三星因高端產品定位較不受成本波動影響，市佔率提升。\n🔍 背景與來龍去脈：近年美中貿易摩擦與供應鏈安全考量促使多家廠商將產能移出中國，Google 已規劃在 2027 年前全部搬離中國。AI 熱潮帶動大規模記憶體與先進製程晶圓需求，全球晶圓代工廠（包括台積電）產能緊張，價格持續上揚。印度成為全球第二大手機市場，消費者對性價比要求高，供應鏈變動直接影響低價機型成本結構。\n🌐 影響：對印度消費者而言，低價手機價格將進一步上漲，可能加速換機或轉向更高價位的品牌；對中國手機廠商在印度的營收與品牌形象構成挑戰。蘋果與三星可利用此機會鞏固高端市場份額，同時台灣晶圓與組件供應商可能受惠於中國廠商的產能轉移需求，提升出口機會。但整體市場價格上升亦可能抑制需求，對整體手機銷售量產生不確定性。",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQLWVrMXRremRVYmR4UFdLWVB3MXZIWloydVVpOXRkX2VPUGRXVXYxWnZQUnVwVWwzZWVVUU1QdzM1WHIyd0lwczBwcEotZkg1b2dsNHlnajNDNjh5a180VjRlWkVZYXhSeDBzZWRreWs1b3ppd0dubmlVbmh0Si03M1VISTJVV0dLOUhfUG4tWmZPZ9IBlwFBVV95cUxNNERqeTVGZS1NTjVDU1paRHdKaG1kcmF2eUpzWlQ3YUpqXzZwdkZsRXRDWGttWG9kMDZ6dE0zYVdqNVNZYXI0WFpFbi1mdUFtMFkyZGpkNEYzeldoaHdFTk1vQlVUdnBhQmR4RmZ0cVc1LVl2OG5wTEZHanA4Z1RYcjItQ2tmMkMzTnA3bnlXZGluZGRrQ3I4?oc=5"
+    },
+    {
+      "category": "taiwan",
+      "title": "【鉅亨-盤前掃瞄】基本面",
+      "feature": "【台幣收盤小跌 外資大手筆拋售】\n📰 8月19日收盤，台幣匯率報31.94元兌1美元，較前一交易日貶0.01元；集中市場當日外資賣超416.39億、投信賣超120.91億、自營商賣超171.18億，融資餘額較前一日增加11.78億。\n🔍 背景：近期美聯儲維持高利率，加上美元指數走強，資金回流美國；同時伊朗威脅升級引發全球風險厭惡，使投資人偏好美元安全資產；台灣出口季節性放緩、外資對台股獲利回吐亦促成大規模賣超。\n🌐 影響：台幣小幅貶易拉低進口成本、抬升外債償付壓力；外資大幅拋售可能壓低加權指數短線波動；融資餘額上升顯示本地投資人仍持續加碼，若資金持續外流，將加劇市場流動性風險。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6582091"
+    }
+  ],
   "candidates": [
     {
-      "title": "川普宣布對伊朗發動「史上最具毀滅性」經濟戰",
-      "snippet": "美國總統川普週三 (19日) 宣布，將對伊朗展開史上規模最大的經濟行動，透過空前程度的經濟孤立，進一步切斷伊朗與全球金融、能源及貿易體系的聯繫",
+      "title": "外資近5日賣超個股",
+      "snippet": "1. 外資累計賣超 5 日的股票玉山金 (2884-TW)、群創 (3481-TW)、台新新光金 (2887-TW)、華航 (2610-TW)、元大金 (2885-TW)2. 外資累計賣超 4 日的股票玉山金 (2884-TW)、台新新光金 (2887-TW)、凱基金 (2883-TW)、元大金 (",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6582021"
+      "link": "https://news.cnyes.com/news/id/6582095"
+    },
+    {
+      "title": "盤中速報 - 數位代幣大漲8.09%，報2.36美元",
+      "snippet": "數位代幣(ICP)盤中上漲，交易價格、總成交量、市值、近日週月績效、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6582094"
+    },
+    {
+      "title": "盤中速報 - 狗狗幣大漲8.02%，報0.07567美元",
+      "snippet": "狗狗幣(DOGE)盤中上漲，交易價格、總成交量、市值、近日週月績效、即時新聞資訊。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6582093"
+    },
+    {
+      "title": "【鉅亨-盤前掃瞄】技術面",
+      "snippet": "【鉅亨-盤前掃瞄】技術面1. 5日均線 45543.56 點，10日均線 45190.80 點，20日均線 44005.10 點，60日均線 44811.97 點，120日均線 40738.87 點，240日均線 34422.75 點。2. 6日 RSI 為 41.26，12日 RSI 為 63.7",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6582092"
+    },
+    {
+      "title": "外資近5日買超個股",
+      "snippet": "1. 外資累計買超 5 日的股票主動統一台股增長 (00981A-TW)、主動統一升級50 (00403A-TW)、主動復華未來50 (00991A-TW)、主動凱基台灣 (00407A-TW)、兆豐金 (2886-TW)2. 外資累計買超 4 日的股票主動統一台股增長 (00981A-TW)、主動",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6582090"
+    },
+    {
+      "title": "外資近3日賣超個股",
+      "snippet": "1. 外資累計賣超 3 日的股票力積電 (6770-TW)、台新新光金 (2887-TW)、群創 (3481-TW)、玉山金 (2884-TW)、凱基金 (2883-TW)2. 外資累計賣超 2 日的股票群創 (3481-TW)、力積電 (6770-TW)、台新新光金 (2887-TW)、元大台灣5",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6582089"
     },
     {
       "title": "台股要崩盤了？億元大戶出清9成持股，示警下半年4大黑天鵝：00981A、0050、台積電…股災先撿這1檔賺最多 - 今周刊",
@@ -17,60 +67,25 @@
       "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxObEdMcU1jX0F0cHdlaUpERlVUbG01TGJOLTJSSU4zS2IxbEFXRzZNcWtoNVNNWG9mdWRzN0FOWkxROTI2VmRJZ3BuY2QzS21LeVNWSEo1UmVLczg2UU5XRkktS2Q4ZGhMcnBEY3pjYUU2SHNZTHctWGhTNHk4c3ZiMQ?oc=5"
     },
     {
-      "title": "29州圍攻Meta 兒安案開庭第2天 祖克柏遭前主管背刺「成長優先、兒童ㄇ安全靠後」",
-      "snippet": "Meta兒童安全訴訟進入關鍵證詞階段, 前工程主管Bejar指控祖克柏將平台成長與用戶互動置於兒童安全之前, 並稱公司明知未成年風險卻未充分處理。案件預計審理6周, 最終可能迫使Meta大幅改變平台設計。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6582013"
+      "title": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation - CNBC",
+      "snippet": "Asia's hydrogen dreams: Region bets on emerging green technology to improve transportation&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE03YzZUNjdOU2pCTnRrMWxQcHV5MmdtZmF3SDBHRUtGSHNxSFF0WUdvMWtOSS1iam9zWEloQ2dxN1RiU0s3WWl5ZFBMYXVoWHBfUlFyLU53dWkyTmk3alh1TjRzajNHWDdmbzFUMGdDeDd1cjY3THBtWVVZbVZ4Z9IBgwFBVV95cUxQVllrenJ6bXp3RXpIaVdnay1XY3ZTLUVmZHhzQzR1am1XOFBIS1BWVHhsRktOT3JjdW4zaWhtWFZnNEg5Sk11ekUtOHdhc29TV1RIN01yTFROcjZDM1M2d0FUNGJTczBaVDZSVW5qdzk5MzA3VlpJdG45Snc2dFF1VzlFbw?oc=5"
     },
     {
-      "title": "川普對伊朗發動經濟 D-Day！宣布史上最強經濟戰 敢伸援手就一起付代價",
-      "snippet": "美國總統川普19日在真實社群發文，宣布對伊朗發動「有史以來針對任何國家採取的最具毀滅性經濟行動」，並強調「這將是一場規模前所未有的經濟戰爭與孤立」。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9702607"
+      "title": "Japan exports growth accelerates for fifth straight month, beating estimates, on robust chip shipments - CNBC",
+      "snippet": "Japan exports growth accelerates for fifth straight month, beating estimates, on robust chip shipments&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9IZnltWVRfalJwbVpSSS1Td0dsV25LUUFlYl81dkxXa3ZxWjBINS1zdE41SHZFdld1VWdQZmtWZGVWbGZUY05Dc0plQVp0OVU0NDRwWk1SSVFaekMyR3dUV3ZVa2hMbzZCQTN3Z3c2X0hPQVJFU1JoVlBBONIBgAFBVV95cUxOdmFuWERqQmVJZFJYaG1aM1c5dDdvSVhVX3hPdFNUcXdNSU9ET3B1VlRndkFhVnVNcHRxenp4NUw4ZVpyb2NldXEzd0NHNkVtYjY5YncwOHRwcnhidmQ2ckc2LTNHTlozNXNVTlA0RExVbElWR0NiWjNBUktXRjhldA?oc=5"
     },
     {
-      "title": "川普不滿Fed還不降息 稱美國本應支付更低利息",
-      "snippet": "美國總統川普周三(19日)表示，他對聯準會(Fed)沒有降息感到不滿，並堅稱即使經濟數據表現強勁，也不應阻止央行採取更加寬鬆的政策立場。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6581972"
-    },
-    {
-      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers - cnbc.com",
-      "snippet": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers&nbsp;&nbsp;cnbc.com",
+      "title": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers - CNBC",
+      "snippet": "Trump announces 'economic warfare' on Iran, threatens ‘tremendous’ consequences for its backers&nbsp;&nbsp;CNBC",
       "category": "international",
       "source": "CNBC",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbjdQcUlraHYyYTY1UG5sUDJpV1dwZnpzWWZObU5iZ3g2RW1HSzFwTWNhcE1NaUR3Q3pWT1pYQXZibW1wMS1oQ1dUSVhObUhwcHN4MTVDWTNKOXFneGItamNBeWptNENKNHRiYXFJV0VJY2taaXFyRnJSQy1pRFlDbUhHMFnSAYoBQVVfeXFMUF9NTjA0UzQxLWRzdHFabk5acVdjbklmdzlGSlowZ3h4QnVIdmdGQjFfYUZsbEZSV1Bia1hISjZGVEgyNWlWcVBzMkVOSzYtR05OaXlBM3oxVkRKR0pycFZDeUxXejZnbXQzbF82Rjhud3NHR3VGZUhmQnl3MlpibFNGcFc4LTFHei1B?oc=5"
-    },
-    {
-      "title": "台積電ADR小跌0.3% 台指期夜盤漲302點",
-      "snippet": "台積電ADR周三小跌0.3%，收在412.09美元，較台北交易溢價12.1%。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9702604"
-    },
-    {
-      "title": "美股收盤／美財部擴大買回長債壓低殖利率 美股小漲 莫德納暴漲177%激勵生技股",
-      "snippet": "美國股市周三小幅收高。美國財政部宣布把長天期公債買回規模提高至少一倍，帶動美債殖利率大幅回落，紓解高利率對股市價位的壓力；莫德納（Moderna）癌症疫苗試驗成功，股價暴漲近177%，帶動醫療保健股勁揚。不過，聯準會（Fed）會議紀錄顯示多位官員可能支持升息，加上晶片股續跌，使主要指數漲幅收斂。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9702595"
-    },
-    {
-      "title": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades - cnbc.com",
-      "snippet": "Call-buying bonanza around Trump's Hyperliquid comments includes some eyebrow-raising trades&nbsp;&nbsp;cnbc.com",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOHVRY1BxQ2F0RzFSOTdOU25yeHE0UmxqUURfMFlfOWVuVkxGRDk0Q3d6aFhxMGlUdjJiVzJ3a3A3akNyRDBxQWU1REpzYVJVczR6WDljdTdneHNfRmhtc0FzMzVJbDZ5ZW1LbTNCSTFQZW50amJNcXp6Wk1rOWYxaEFLZlJrZnE4VnZYRkkyQmU1Qm1Gc3FUZkVkX243eHR4N3JpY2l6RlVUdzEySGlpM1VOTG1qSXA0eUNWSE9HRXDSAcYBQVVfeXFMTVJ3TW5fcGpDeHp4Wm1PYmRucUNaZFRMLU1qM0p6Mm9VRGV0dDVFU3RpM1ZwV3hEUjZlRWowUC1DQWVGZU1sVGpnTmRGQi11emw3UndjMkZvWXBtNno2eEtnbUtjYTNRMDNZYzd0bkZwY28yMV9nWnNfRHBEVk1KRDMyRE4tZXNJNnh6WUJmdG90cjRqN3ZOYlo1bFdYOGdXSkxtS1ZKR1U0RFdBTDhVdWhWeF81MTg3Y1lwbnJQYV9BbVlBVnlR?oc=5"
-    },
-    {
-      "title": "Bernstein's Courtney Breen talks the massive rally in Moderna stock - cnbc.com",
-      "snippet": "Bernstein's Courtney Breen talks the massive rally in Moderna stock&nbsp;&nbsp;cnbc.com",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSHo1cFc1eE1mUWxIdVpzejU2ODVKYWt3YTZNMmZLTjFkcGpqS2s3UWc2WEZyNHJ1VVh4VExXSmZrczh1OGZ6cFQ4ZjJndlZxVE56czVQWk9Id21fOXdqY2dUd01wX21MMkNKcVNDX0J2b0V1b2prbDlabWVOWHVPdTZFa2IySXJ6LVpycHV6MVZsRHQzdnM1TEl1bXFJekJYZTlkM09nZTAzNEI5akE?oc=5"
     }
   ]
 }
