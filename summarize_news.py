@@ -10,13 +10,60 @@ from datetime import datetime, timedelta, timezone
 import requests
 from groq import Groq
 
-from config import GROQ_API_KEY, AI_MODEL, TAVILY_API_KEY
+from config import AI_MODEL, GROQ_API_KEY, TAVILY_API_KEY
 
 # Windows defaults stdout to cp1252, which cannot encode the CJK/emoji payload.
 sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
 TZ_TPE = timezone(timedelta(hours=8))
+_MODEL_CANDIDATES: list[str] | None = None
+
+
+def _model_score(model_id: str) -> tuple[int, int, str]:
+    """Rank generally useful chat models without hard-coding one requirement."""
+    model = model_id.lower()
+    if any(term in model for term in ("whisper", "embed", "safety", "guard")):
+        return (-1, 0, model_id)
+    family_score = next(
+        (score for family, score in (
+            ("gpt-oss", 50),
+            ("qwen", 40),
+            ("llama", 30),
+            ("mixtral", 20),
+            ("gemma", 10),
+        ) if family in model),
+        0,
+    )
+    size_match = re.search(r"(\d+)(?:b|m)\b", model)
+    size_score = int(size_match.group(1)) if size_match else 0
+    return (family_score, size_score, model_id)
+
+
+def _get_model_candidates() -> list[str]:
+    """Return models currently available to this Groq key, ranked by usefulness."""
+    global _MODEL_CANDIDATES
+    if _MODEL_CANDIDATES is not None:
+        return _MODEL_CANDIDATES
+    try:
+        client = Groq(api_key=GROQ_API_KEY)
+        available = [model.id for model in client.models.list().data]
+        ranked = sorted(
+            (model for model in available if _model_score(model)[0] >= 0),
+            key=_model_score,
+            reverse=True,
+        )
+        _MODEL_CANDIDATES = ([AI_MODEL] if AI_MODEL else []) + [
+            model for model in ranked if model != AI_MODEL
+        ]
+    except Exception as e:
+        print(f"[warn] Could not list Groq models: {e}", file=sys.stderr)
+        _MODEL_CANDIDATES = ([AI_MODEL] if AI_MODEL else []) + [
+            "openai/gpt-oss-120b",
+            "qwen/qwen3-32b",
+            "llama-3.1-8b-instant",
+        ]
+    return _MODEL_CANDIDATES
 
 SYSTEM_PROMPT = """你是「FinPulse 財經脈動」的主編，讀者是有基本常識、想快速掌握財經大事來龍去脈的台灣上班族。
 你的任務是把財經新聞整理成清楚、有脈絡的專題。
@@ -82,15 +129,24 @@ def build_news_list(articles: list[dict]) -> str:
 
 def call_ai(prompt: str) -> str:
     client = Groq(api_key=GROQ_API_KEY)
-    response = client.chat.completions.create(
-        messages=[
-            {"role": "system", "content": SYSTEM_PROMPT},
-            {"role": "user", "content": prompt},
-        ],
-        model=AI_MODEL,
-        response_format={"type": "json_object"},
-    )
-    return response.choices[0].message.content
+    last_error = None
+    for model in _get_model_candidates():
+        try:
+            response = client.chat.completions.create(
+                messages=[
+                    {"role": "system", "content": SYSTEM_PROMPT},
+                    {"role": "user", "content": prompt},
+                ],
+                model=model,
+                response_format={"type": "json_object"},
+            )
+            return response.choices[0].message.content
+        except Exception as e:
+            last_error = e
+            if "model_not_found" not in str(e) and "does not exist" not in str(e):
+                raise
+            print(f"[warn] Groq model unavailable: {model}", file=sys.stderr)
+    raise RuntimeError(f"No available Groq chat model: {last_error}")
 
 
 def tavily_research(query: str, max_results: int = 4) -> str:
@@ -365,6 +421,10 @@ def main() -> int:
 
     international_feature = select_feature(international, "國際")
     taiwan_feature = select_feature(taiwan, "台灣")
+
+    if not international_feature and not taiwan_feature:
+        print("[error] AI could not produce a feature for any news category", file=sys.stderr)
+        return 1
 
     messages = format_messages(international_feature, taiwan_feature)
 

@@ -38,7 +38,7 @@ jobs:
       - name: Run daily digest
         env:
           GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
-          FINPULSE_AI_MODEL: ${{ vars.FINPULSE_AI_MODEL || 'llama-3.3-70b-versatile' }}
+          FINPULSE_AI_MODEL: ${{ vars.FINPULSE_AI_MODEL }}
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           FINPULSE_LINE_TARGET: ${{ secrets.FINPULSE_LINE_TARGET }}
           TAVILY_API_KEY: ${{ secrets.TAVILY_API_KEY }}
