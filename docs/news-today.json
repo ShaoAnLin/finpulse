@@ -1,84 +1,91 @@
 {
-  "date": "2026-08-21",
+  "date": "2026-08-22",
   "featured": [
     {
       "category": "international",
-      "title": "Bessent says there's a 'very good chance' U.S. budget deficit under Trump has peaked - CNBC",
-      "feature": "美國財政赤字或已在特朗普任內觸底，財政部長Bessent樂觀表態\n📰 發生什麼事（把這則新聞說清楚）\n美國財政部長斯科特·貝森（Scott Bessent）於2026年8月4日接受CNBC訪問時表示，當前的聯邦預算赤字有「非常高的機會」已在特朗普政府期間見頂。7月月度赤字約為4320億美元，政府正積極推動財政緊縮措施。\n🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）\n自2017年特朗普上任以來，減稅與大規模基建開支推高了財政赤字，連續多年赤字規模擴大。2024年美國債務上限危機與2025年利率上升迫使財政部重新審視支出結構。拜登政府期間雖有部分削減，但整體赤字仍居高不下。貝森指出，隨著稅收收入回升、部分基建項目結束，以及政府在2025年底前完成的支出審議，赤字有望在2026年初趨於穩定。\n🌐 影響（對市場、對台灣一般人可能造成的多方面影響）\n若美國赤字確實見頂，將減緩美國國債升息的壓力，對全球債券市場是正面訊號，美元匯率可能回穩，進一步影響台幣匯率。美國財政健康改善亦有助降低全球資金成本，對台灣的出口導向產業與科技股可能帶來資金流入。另一方面，若美國持續推動財政緊縮，部分補助與軍事採購減少，相關產業供應鏈或受波及，台灣相關供應商需留意需求變化。",
+      "title": "Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect - CNBC",
+      "feature": "美國大事連環砲：PCE、Nvidia 財報與 Jackson Hole 交叉衝擊市場\n📰 發生什麼事\n本週美國將陸續公布7 月個人消費支出（PCE）通膨指標、Nvidia 於週三公佈財報，接著週四至週五舉行備受矚目的Jackson Hole 經濟政策研討會。三大事件相繼出爐，市場波動性預計升至年內高點。\n🔍 背景與來龍去脈\nPCE 是聯儲最關注的核心通膨衡量，近期油價與金屬價格走高讓通膨預期回升；同時，美國長期國債收益率自上週回落後又再度上揚，導致科技股估值受壓。Nvidia 作為AI晶片龍頭，其財報常成為科技板塊走向風向標；若營收未達市場高預期，或將觸發科技股再度下修。Jackson Hole 則是美聯儲官員與全球央行領袖的年度對話平台，往往釋放未來貨幣政策走向的關鍵訊號，尤其是是否暗示進一步降息或維持緊縮。\n🌐 影響\n若PCE顯示通膨仍高於預期，市場可能預期美聯儲延遲降息，美元走強、台幣承壓，進口成本上升。Nvidia 若超預期則有望提振美股科技股，帶動台灣半導體相關ETF資金流入；相反則可能加速資金流向防禦性板塊如金融與大宗商品。Jackson Hole 的言論若指向政策寬鬆，債券收益率可能回落，提升股市風險偏好，對台股加權指數形成支撐。總體而言，投資人需密切關注這三大訊號的交互作用，以調整資產配置與匯率風險管理。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5najFFTl9nN3F4TVNFZzhrUktaSEhSMkxHN1RaVWs3WU5CWUp0b1FjRjJRTXpld2lqcFd2OVpPX2ZtVDBMdkZSenlza19PVjMzVEJrazI0QjJJVG1TVkZZR3I3a2FpaXFQNDFuQUFOWU01RHfSAXhBVV95cUxQS0xBMmM5cVRmT05FOEZNT1pjSEZfVHB3WXVWZjhiWTZTMl8zLUJIbURDcTJtc2xKemFQUmJIemJOb3lFYnZ6b1dQNkV5N3duT2NKd3RybFRjUk1lY0ItUUJsMW9sZnRTY2lHdGtFRkZfeEljd0lTdjg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUF5cVVGcVhtWlpsRFlabG52NFZDcDdZdUFfX3ZyemttcVdZN1lxUGMyeG93TkI1bk1CVkhZaTZ1OHQyb2k2RWtwcDhuaElvUE55Q3M2X2RfbldHSXdHSzhQVjJMVmFmMnZtb2paTWRjUFgzUzR1aF9IbzlZMF95MUhXVW55MVhGdnZ4MENzZw?oc=5"
+    },
+    {
+      "category": "taiwan",
+      "title": "〈能源盤後〉川普威脅制裁伊朗盟友 油價周漲約6%",
+      "feature": "美國川普揚言制裁伊朗盟友，國際油價一周暴漲逾6%\n📰 發生什麼事\n國際油價在8月21日收盤出現顯著上漲，布蘭特原油收於94.39美元，上漲0.65%，本週累計漲幅約6.4%；美國西德州中質原油（WTI）亦上漲0.26%，報87.06美元。漲勢主要因美國總統川普於8月19日晚間威脅對伊朗及其盟友實施新一輪經濟制裁，市場預期供油受限。\n🔍 背景與來龍去脈\n伊朗長期受美制裁，2023年美伊緊張局勢仍未緩解。川普政府在2024年選戰前加碼對伊朗及其支援國（如敘利亞、黎巴嫩真主黨）施壓，意圖削弱伊朗石油出口。近期中東地區發生多起導彈與無人機襲擊，進一步提升運輸風險。投資人因此將原油期貨轉為避險資產，推高價格。\n🌐 影響\n油價回升直接提升台灣等能源進口國的燃油與電力成本，估計每桶漲幅將傳導至汽油、航空燃料與塑化原料，增加企業與民眾的生活開支。對通膨而言，能源價格是重要驅動因素，可能迫使央行在短期內維持緊縮政策。另一方面，油價上揚有利於本地石化、煉油公司提升毛利，但同時也增加下游製造業與運輸成本，形成產業間的盈虧分化。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6584081"
     }
   ],
   "candidates": [
     {
-      "title": "台國防預算首度破兆　美媒：向華府、北京釋出訊號",
-      "snippet": "行政院會通過116年度中央政府總預算，其中，整體國防預算達新台幣1兆1225億元，首度破兆，超過GDP 3%。美媒指出，...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9704999"
-    },
-    {
-      "title": "台積電ADR漲近1% 邁威爾領費半指數收紅 台指期夜盤下跌99點",
-      "snippet": "台股ADR周四（20日）漲跌互見，台積電ADR收盤上漲0.95%，報每股416.00美元，收盤最新價格換算並折合新台幣後為每股2,657.20元，較台北交易股票溢價率為11.88%。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9704997"
-    },
-    {
-      "title": "荷姆茲航運口水戰升級！伊朗反嗆川普發動「經濟D-Day」是因為「內政沒搞好 轉移焦點」",
-      "snippet": "川普揚言對伊朗發動「史上最嚴厲」經濟行動，並警告與德黑蘭往來的國家將承受巨大後果。伊朗外交部長阿拉格齊反嗆美國政策註定失敗，雙方在荷姆茲海峽問題上持續僵持，全球重要能源航道仍陷封鎖危機。",
+      "title": "美財政部救債市失靈？長債殖利率連兩日反彈 30年期再逼近5.3%",
+      "snippet": "美國財政部擴大長天期公債回購帶來的漲勢迅速消退，美債殖利率週五 (21 日) 連續第二個交易日攀升。市場認為，通膨疑慮、聯準會政策、美國債務膨脹與企業發債熱潮，並非財政部增加回購就能化解。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6583112"
+      "link": "https://news.cnyes.com/news/id/6584101"
     },
     {
-      "title": "默沙東創新高後遭降評 癌症疫苗利多不敵估值壓力",
-      "snippet": "默沙東(Merck)(MRK-US)股價周三創下歷史新高，公司與莫德納(Moderna)(MRNA-US)共同研發的癌症疫苗取得重大突破。但就在投資人開始消化這項消息之際，華爾街卻出手降溫市場預期。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6583107"
-    },
-    {
-      "title": "美股收盤／三大指數收黑 美債殖利率又升 沃爾瑪大跌9%拖累零售類股",
-      "snippet": "美股三大股市指數周四（20日）收低，因油價上漲、美債殖利率上升，導致投資人的風險胃納縮減，而沃爾瑪令人失望的財報拖累自身及其他零售股表現，不過，費城半導體指數小幅收漲。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9704994"
-    },
-    {
-      "title": "日產17億塊晶片！中國AI晶片國產化率劍指90% 半導體投資逆勢擴張",
-      "snippet": "TrendForce最新預估，今年中國本土AI晶片將佔國內市場份額近90%，較2025年的45%翻倍躍升，寒武紀與華為被視為最大受益方。  美國AI晶片大廠輝達去年仍以220萬顆、55%份額領跑，華為出貨81.2萬顆佔20.3%，若要填平缺口，中國需在一年內把高端AI晶片產量提升2.2倍至約196萬",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6582295"
-    },
-    {
-      "title": "AI需求強進推升硬體續強 台股精選33檔 - Yahoo新聞",
-      "snippet": "AI需求強進推升硬體續強 台股精選33檔&nbsp;&nbsp;Yahoo新聞",
+      "title": "台股500億聰明錢進場！緯創、南亞科、光寶科… 法人卡位潛力股名單一次看- 證券 - 工商時報",
+      "snippet": "台股500億聰明錢進場！緯創、南亞科、光寶科… 法人卡位潛力股名單一次看- 證券&nbsp;&nbsp;工商時報",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOenMyUzVYNGVQUWZUWUl4eDc0a0NvQ1FCb0pNVXhQU1lXVllXb1ZQbjhTazFfYVJqTHllLVhTWW9qRUt6N0s3cVFoUVJFa294NU9KdGlaenItSEltY0luRmZVYzZEdHY4VGtpTVhNdlgwSE1lMGJfUVNxSDNUdG1uRUR5YW92MEd6SVVudGtoT0oweWFwMEJGX3l4RURzWEZ2VEtOSVdMa3ZQcDdyTThzaEFFR1hxNXlJX0M4RnFJQUZ6SHRRYjVWY3A4dzl6OFhmR0Y0eTJjdlpEX25FR18tbkR5TVUzNWZiaWlxamRuQndHY0FxeF9sN3Y2RGFHLW1WWFpBdldIdWpoUXZIX3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uVEhuYi1nWEluX2ZqTS1mdnM4SXg4MTJHeGJCZGRvWWRISkpBV3BmTHVGbVNJaVFjd0dZVWN0RjBHdFVwc1poWjZfaVNMT0doUEZXenk4R2FvY2M2b044?oc=5"
     },
     {
-      "title": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality' - CNBC",
-      "snippet": "Jim Cramer says there's an 'incredibly jarring gulf between stock prices and reality'&nbsp;&nbsp;CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVmc0SkI5UG96TjJycVFTLV9CX1V1ZG90YlZWdW5id2JRS3JicDBtZGFoQkNzTkJSMWRTZlhMdS04ejdvZWxCVy1sTUNBQ2dfOVhKWTVPLTRZblRBNk0zbVI1Z2M3ZFVSSXhjMEJ2UXlEbU9fbVRZWXBEbEFyLWxWYWs4NXZ0Q2V20gGOAUFVX3lxTE10UXFzS3RQajVtcXBhbW9fSW04WmI3RG1yLUhQYU1rVU90eW5IcGU0Q2Jwcmdjb3ctRlp0VGJtRGY1Ny1veU5idVFXdy1Od3RIY2Q0LU8taC1POTJjZUNFOU42T2RickhaX01KN2kySGhtUnRVdFh6S2w4OVY3VTZuT1MzTUdJamE0ZUVmRWc?oc=5"
+      "title": "週一台股不妙？美股4大指數「僅費半收黑」 道瓊大漲517點 - TVBS新聞網",
+      "snippet": "週一台股不妙？美股4大指數「僅費半收黑」 道瓊大漲517點&nbsp;&nbsp;TVBS新聞網",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1HWkxOSUR4SnE5WGtpcVNvd3dwQ3R3bnlrSDh6WkpfT3NjaXB6QXZRM2dlWWU1RDR1N0J3clR1bWZabkowNlNVeUdvSjdldHM?oc=5"
     },
     {
-      "title": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try - CNBC",
-      "snippet": "Bessent's efforts in the Treasury market so far haven't worked. Here's what else he can try&nbsp;&nbsp;CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQdWFwMW54b3ZlZFpfVFJkREZzZVNwVXhRQmZteGg1cVNVXzJkNmJTd3Qzc3JNTm9IU3JJZDJteU0tSUgyOVl2VC1lTlAxdm9LUDltTzd0akp3QjNTQ3ZXWlBJRm5HX21OYUxDLUExSXNVU3dBRjdzQUNveHFUWklGMUUtcG1tQTVSS01Ic0dLcGFkczdWcThjYWozTkdHdlZ2TktYVHlEVDlJLUFnLU5vQmNHVDZIZ2VZN1dkb3dBc2pXd9IBxwFBVV95cUxPZTFXdmxMTks2MGotZUxtQXBXWTI3NEQ2Q0U0Wnc3TjBMUmhMMjlwb3drQjhCa0htNlNINEdKZjd3bWtJYTRsbmRpUWFWbktPaGItMnQ0Q3l2NG1vNll0UFdwZVZIMUtMWVdnMjMxMFF0Q3RKM0FVZWszQVU0VWxtSmRja1dZemh4WVJfT3ZKMHk4ZmFtbTRvcmlhVmtKS0ZvakMyR1ZiRi1oek5ieTQtaVhIY05zUnpaS2pmdlh4Q0xZcnVWb1ZR?oc=5"
+      "title": "美國人反對AI資料中心聲浪升高？Anthropic IPO招股書擬列風險因素",
+      "snippet": "Anthropic正準備進入公開市場，但此時越來越多美國人對人工智慧感到擔憂，並公開反對新資料中心的興建。知情人士表示，這股反彈預計將成為Anthropic IPO招股說明書中一項主要風險因素。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6584091"
     },
     {
-      "title": "Warsh faces Fed independence test as Bessent moves in on central bank's turf - CNBC",
-      "snippet": "Warsh faces Fed independence test as Bessent moves in on central bank's turf&nbsp;&nbsp;CNBC",
+      "title": "美國最高法院暫准白宮宴會廳繼續施工　川普暫獲勝利",
+      "snippet": "美國最高法院今天裁定，暫時允許總統川普繼續興建白宮大型宴會廳。川普對最高法院的裁定表示感謝，稱白宮宴會廳與軍事設施「至關...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9707059"
+    },
+    {
+      "title": "〈貴金屬盤後〉美擴大回購長債帶動買盤 黃金單周勁揚逾5%周線連三紅",
+      "snippet": "金價周五(21日)上漲至逾三個月高點，本周周線連三紅，主因是美國財政部回購債券的計畫拖累美元，帶動以美元計價的黃金突破關鍵的技術價位。   黃金現貨上漲2.4%，報每盎司4623.94美元，盤中最高漲到4631.99美元，是5月15日以來最高。 12月交割的黃金期貨收高2.4%，報每盎司4680.6",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6584080"
+    },
+    {
+      "title": "中東局勢及亞洲需求推動　油價上漲",
+      "snippet": "市場正在等待美國公布孤立伊朗經濟的相關行動細節，到目前為止，這場導致中東石油出口大幅下降的衝突仍看不到結束的跡象，另外在...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9707047"
+    },
+    {
+      "title": "Let the market speak, the government needs to listen, says Wharton Professor Jeremy Siegel on bonds - CNBC",
+      "snippet": "Let the market speak, the government needs to listen, says Wharton Professor Jeremy Siegel on bonds&nbsp;&nbsp;CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdUVSTjd5bEhZTDcwVG55a05tQ05tU0ZZNmZETXZma0k0RFFmdUZNY3lZd1ZKZlZTM1o1LWZSNDVJWHdRc192VkNKa1hxMjRFbEUyeXY2S1NPdjZSRE41TDluLVBoc0l0T3lpZ21DN2pSNEJlT3hQdXpseHJXNG96OWI5NTFuVEZrRVHSAY8BQVVfeXFMTWJROXFhcXR5TWZXVDlTZ3k4OHdpWkRzWGNiUVJUdFZFczgyM0lCQVVRdnJvdnhIWUNhWnNTRFAtUHdqVnlLOFVvUXc2dW9HMHNwZE9UdnY2Uy0xSHRlVWtnWkZjWThHcjZTU2p3LWs5Y0NFS3F1eDVCUXFaVDdYSXBjTFM2S1ludmhRS1dZWE0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRE1qc0hSOU9lRzMwQ2Z6d0hfQlk0b2poM21vc3pzWjFLMUpudlk5dmp0dHNRUERhRmQyVFJqcHhqX3d6YTJReWw3cHFaYTFpbUhvVG91QzB4NlIzZ1NWRXBKT29qYlJiZEpCaGpYZUk3RTBjdjN4Tjd4N0N6Z0RuUGZzVjNJZkNRdXc4aERTdmtqRmNsYXAtOWcwRHMzNUJaVGk2dFJ0U3phNkl1STVyN05VdV9TQXlUMXNDOHItdGhYY25TQWJCcWhPd1dCS09NTVpqXzhIdw?oc=5"
+    },
+    {
+      "title": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin - CNBC",
+      "snippet": "Ray Dalio says Bessent move is sign that a debt crisis is getting closer; recommends gold and bitcoin&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUlpMVmlPbE96c3VpMVNEbGJmOGlZd1V5Z3dqOWJ4RzRfb19nZG1JMkliOEJ1Qll4YlRSUWlITlhob1BGS2RaNUJlTEM2LUdyWUxGN1F3ODBZMXN1SHE5ZTZRVnlnNm5DdVNrakUzdU4tQzZjc3VhVzJqTG9mbHpKMnlIOFdMZ9IBiwFBVV95cUxQNnpCY0Uxa0NfV2hMQjNiVVZVdDlncUpZTENQSUh2QWtpeFJNUEcxd0xUeENhdzk2MG1YcXA2RGhqOFJSMVZJa3ZmMGpmVlVLZTJiU1MyV2hsTDk3VGxFYndQa0taSDJ3VU0xS2d1RnJDVExtUFZlMzRFejA5TnFjSlVNZ2E4NGRWbS1r?oc=5"
+    },
+    {
+      "title": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom - CNBC",
+      "snippet": "An overlooked AI winner names a new CFO — plus, Nvidia's key earnings loom&nbsp;&nbsp;CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdEFXQnpkUUNyMHptbUJnODZjcmJ1emU5RVNXWmlkZjF1cWROSjhGeWQ1OXd3UkpIZF93blNrV0RGQWRKWVI4R1RzbnhiWktaTXZMNjZUYWE1T19fV25McXhhN3FQZjkwSUdMTUlhSldvSzd0N29oMFFqZ1Q3djU0c05qSTQ5Rkk4TS1uU0dObndRRkFyMXlYSlYyVFlIdw?oc=5"
     }
   ]
 }
