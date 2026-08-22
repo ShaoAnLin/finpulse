@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-08-23",
+      "featured": [
+        {
+          "category": "international",
+          "title": "As U.S.-Canada trade talks collapse, Carney says retaliatory tariffs will start Sept. 8 - CNBC",
+          "feature": "（標題行）美加貿易談判破局　雙方將於9月8日啟動互徵高關稅\n📰 發生什麼事\n美國於午夜前對價值約200億美元的加拿大商品徵收50%關稅，隨即加拿大總理馬克·卡尼宣布將於9月8日以「美元對美元」方式對等徵收同等關稅，涵蓋鋼鐵、乳製品、家電、農業機具、紙張與電子產品。\n🔍 背景與來龍去脈\n美加自1994年NAFTA（後改為USMCA）以來一直是全球最緊密的貿易夥伴，去年雙方已在降低農產品壁壘上取得進展。然而特朗普政府在談判最後階段突改條件，要求加拿大在鋼鐵、鋁及補貼政策上讓步，且條件被指「不公平、經濟上不可行」。加拿大認為此舉危及主權，於是中止談判並以報復關稅回應。\n🌐 影響\n對美國企業而言，進口成本上升將轉嫁至消費者，零售價格可能上漲5%~10%。加拿大約72%出口依賴美國，受衝擊的產業包括農業、製造與能源，可能導致就業與產值下滑。台灣企業在美加供應鏈上游的原料價格亦可能波動，特別是鋼鐵與紙漿，需留意成本調整與替代來源。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTmI2WjhqdHFkMnFON0xaNV9FWW13YUxwZ2h3YXlmdEpBUDItcEhydkVhYWhIOE4yeEdDQ2VQLWQyT0ZzUEdfV05Walh1OFAtU1V0aDFWUjNfSlYzUTdfSHZ6RmdXV0RxYkhCV04xOVBtX1EzTWdXZFF0VVNpaXVZdXR1Ql81Z2tSQXRDNFpnaVVfY2pmRF9BaTlldFYtT2di0gGmAUFVX3lxTE0zYXVjeXpjdXJMZDl3Rl9lUDVNSmU1Z0ZNcmtlSEZxVzRaQzNpdWdIZ0dCT05fTElGMUdtVUdWc2V0YzJGbFNWMk01ZHV4MUtfSmtRZF9HM0JkNFZWa3JUS1pNY3FFb21YZjZCblhGSWxMa1JZY0hRSjJ2b2ZrRXBqY1Y2Ukt3RUFlcnZPRGVlYjc5eGtXai1CMVlEN0RZS2ZKNWF2eHc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "記憶體晶片價格飆高 輝達 AI 伺服器明年將漲逾15%",
+          "feature": "記憶體晶片飆升致NVIDIA AI伺服器明年或漲15% 產業波動加劇\n📰 發生什麼事：NVIDIA已通知大型雲端客戶，因DRAM價格急升，搭載Vera Rubin、Grace Blackwell等新代AI晶片的伺服器，預計自2027年初出貨的型號價格上調超過15%。\n🔍 背景與來龍去脈：全球AI需求爆發推高高帶寬記憶體（HBM）需求，半導體產能緊張、地緣政治與能源成本上升，使DRAM供不應求、價格翻倍。NVIDIA自2023年起推出以HBM為核心的新一代AI晶片，依賴大量記憶體，供應商SK海力士與美光已大幅調價，導致整體系統成本激增，雲端巨頭Microsoft、Google、Oracle等已收到調價通知。\n🌐 影響：雲端服務價格或上漲，企業AI運算成本增加，可能延遲或重新評估AI專案，亦促使部分公司尋求替代供應鏈。短期內NVIDIA股價或受壓，但其在AI生態系的核心地位仍具吸引力。對台灣而言，記憶體代工、伺服器OEM與AI應用開發廠商將面臨成本傳遞壓力，同時刺激本土晶片與記憶體產能布局的加速。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/123398/9708373"
+        }
+      ]
+    },
+    {
       "date": "2026-08-22",
       "featured": [
         {
@@ -59,25 +78,6 @@
           "feature": "美股市場迎來第三周連漲，投資者關注未來走勢。美股近期表現良好，S&P 500 指數連續三周上漲，但投資者仍關注未來的經濟走勢和公司業績。隨著美國經濟數據的陸續公布和企業季度報業績的披露，市場預期可能會出現波動。這些因素都將對美股市場產生一定的影響，這也將是投資者在未來一周需要關注的關鍵點。 \n   \n   📰 美股市場近期表現良好，S&P 500 指數連續三周上漲，主要受到企業業績和經濟數據的支撐。然而，投資者仍對未來的經濟走勢和公司業績表示擔憂。隨著美國經濟數據的陸續公布和企業季度報業績的披露，市場預期可能會出現波動。近期，Anthropic 的投資者談判、Workday 的股票價格飆升、Apple 新設施的建設等也成為市場焦點。\n   \n   🔍 美股市場的連漲與企業業績和經濟數據的改善有關。企業業績的回升和經濟數據的良好表現，使得投資者對未來的經濟走勢表示樂觀。然而，美股市場也面臨著挑戰，包括通貨膨脹的壓力和全球經濟的不確定性。近期，美國公布的經濟數據顯示了經濟的韌性，但也出現了一些隱憂。因此，投資者需要關注未來的經濟走勢和企業業績的表現，以判斷美股市場的未來走勢。\n   \n   🌐 美股市場的變化將對全球市場產生一定的影響。美股市場是全球的一個重要指標，對其他市場的走勢有一定的引導作用。因此，投資者需要關注美股市場的走勢，以判斷全球市場的未來走勢。同時，美股市場的變化也將對企業的業績和經濟的走勢產生影響，這也將是投資者需要關注的點。對於台灣一般人來說，美股市場的變化也可能會對他們的投資組合產生影響。因此，投資者需要關注美股市場的走勢，以做出合理的投資決策。",
           "source": "CNBC",
           "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNanJZRHM4c3ZwT1BXVG4teEhqVDlEbjJUcUdBY0pHSkh3OXJoRC0tTkxOSlVoMzcwYWxYa0dpamJ1bmJuS3E0eC00MUQxRmVQTHZhYTNoQldMT1YtUEhEcWhhemZfQ0JVemtzdlVWU0R3eFNpOVk2c1VNQmZkd3hYS3ZzRldQenBxTC1aMWZrTjMzVHEtSFUtRDczSEN2bVZRcnZIMkxOWDczWHRFYnpFLTJ2dUc?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-16",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Inflation moderated as Intel and Nvidia fueled the AI trade in last week's market - CNBC",
-          "feature": "美股市場上周呈現出AI熱潮持續的趨勢，Intel和Nvidia領銜AI炒作，推動市場走高。美股的AI熱潮持續升溫，推動市場走高。 \n   \n   發生什麼事：CNBC報導，Intel和Nvidia領銜AI炒作，推動市場走高。這一浪潮主要是由於AI相關企業的強勁財報和投資者對AI未來發展的樂觀預期所驅動。最近，Nvidia、Intel等企業在AI領域的投入和布局，進一步激發了市場的熱情。同時，投資者認為AI技術和應用將在未來幾年內繼續快速發展，從而推高相關企業的股價。\n   \n   背景與來龍去脈：AI技術的快速發展和應用，已成為全球科技和金融界的熱點。近年來，AI相關企業的市值迅速增長，引發了投資者的關注和追捧。其中，Nvidia和Intel等企業是AI領域的重要玩家，通過提供相關的硬件和軟件解决方案，支撐了AI應用的發展。在這種大背景下，投資者對AI相關企業的財報和發展前景非常關注，一旦出現強勁的財報或樂觀的預期，就會迅速推高相關企業的股價。\n   \n   影響：這一浪潮對市場和投資者產生了多方面的影響。首先，推動了相關企業的股價上漲，為投資者帶來了收益。其次，激發了更多企業投入AI領域，推動了AI技術和應用的發展，從而對產業和社會產生了深遠影響。最後，AI領域的快速發展，也對相關人才的培養和產業的轉型升級提出挑戰，要求產業和學術界加強合作，推動AI相關人才的培養和技術的革新。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTXozT0VsTTdYQzZiRVo0YnBqMXhqTjdOd1h4VkNBVXBBLV94dmdRLUFrQUZHYWJWWFhmU3hidWZrRDFhMV9rR0xkMHVvZ0MtVzFrLXBaMTMxOVFKUU1zTF9OQThHYWxqQkprRjBBR0FTSU1tOENFa2RyUGJLeXZWV3hRVmtyUW1PUTJKcmtsYjNTV1lNdDZ6S3ZObldnRldQeS03SFFvLWU3dXZGS2lHV1dQcnNuYVk?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "台股今年累計大漲58.17％ 全球排名第4、亞洲第2 - 自由財經",
-          "feature": "台股今年累計大漲58.17％，躍身全球排名第4、亞洲第2，成為投資市場的焦點。\n \n📰 發生什麼事：根據最近的財經新聞，台股已經成為全球第四大漲的股票市場，僅次於其他三個領先的市場。這是一個相當令人訝異的成就，因為台股過去並不總是如此亮眼。這次的大幅漲升主要歸功於科技產業的成長，特別是在AI和半導體領域。外資的流入也是推動台股上涨的重要動力。\n \n🔍 背景與來龍去脈：近年來，台灣的科技產業一直在穩定成長，特別是在人工智慧（AI）和半導體領域。這些產業的發展不僅吸引了大量外資的流入，也促進了台股的上升。同時，與其他亞洲國家相比，台灣的經濟和股市表現相對穩健。中國和香港的股市則面臨著內需疲弱和房地產危機等問題，導致投資者對這些市場的信心下降。\n \n🌐 影響：這次台股的大漲不僅對投資者有影響，也反映了全球資金對亞洲市場的重視。對台灣而言，這是一個機會，可以進一步鞏固其在全球半導體產業中的地位，並吸引更多外資流入。對個人投資者來說，了解台股的趨勢和潛在風險是非常重要的，以便做出明智的投資決策。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5MckRENHZTRERWTng4cUI1V3h2MG9hbzdEZUhxX3RlRDZZR0VLd2VENzZIakUyWHpDVy1ZZkpxeEpTUzJLY2xyck4xUjB0VzdHdTQ2cDZvaHBWQUJnM01j?oc=5"
         }
       ]
     }
