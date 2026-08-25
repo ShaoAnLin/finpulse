@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-08-26",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Nvidia's 'expectations premium' dogs the stock after earnings. Here's what analysts are watching - CNBC",
+          "feature": "「Nvidia 期待溢價」拖累股價，投資人持觀望\n📰 發生什麼事（Nvidia 於 8 月 26 日公佈 2027 財年第 2 季度業績，雖然營收與毛利均創新高，但股價因「期待溢價」未獲滿足而在收盤後跌超 5%，投資人擔憂公司大規模融資平台與記憶體成本上升的影響）\n🔍 背景與來龍去脈（自 2023 年 AI 爆發以來，Nvidia 成為市場焦點，股價自年初漲超 14%。公司本月宣布 500 億美元 AI 融資平台，並持續向美國大型雲端廠商提供 GPU，形成資金與需求雙重拉升。然而，過去一年多的高速擴產導致記憶體價格飆升，且投資者對於類似 2000 年網路泡沫的資金循環模式保持警惕。分析師在財報後特別關注公司是否能在高成本環境下維持資本支出與盈餘增長）\n🌐 影響（1）美國半導體指數短期受挫，波及整體晶圓代工股；2）台灣的台積電與聯電等供應鏈廠商可能面臨訂單波動，尤其是高階 GPU 製程需求；3）AI 相關投資熱度降溫，資金可能轉向較低估值的傳產或金融股；4）若 Nvidia 融資平台未達預期，市場對 AI 基礎設施的整體成長預期也會被下修，影響台灣 AI 應用與相關人才需求。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEhkVTlxNnBsMnZwc0ZjSDk5Z0xvOU43NklfbHZlSjZjMWlld09CRnZtOHlNcnptcDY2ZEQ2dkNaVWExVGpRZlFGajQ0bTJISW5aU21VRDFXZEZ4ekxfbEF4dkJhU3puN3J5Q1ZjMW9pVWJyTXBCWDBPOWtsaW1pQzBGcW9QdHlvYjZFRWVvT0VKOXhOQWZPalI5QQ?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美股收盤／四大指數收漲 輝達財報前科技股反彈 美債殖利率回落助攻",
+          "feature": "美股四大指數收漲　輝達財報前科技股回暖，債市緩壓助攻\n📰 美股標普500、道瓊、那斯達克及費城半導體指數於8月25日全線收紅，納指上漲0.66%，其中AI晶片龍頭NVIDIA在財報公布前股價跳升約2.2%，油價回落與10年、30年期美債殖利率下滑亦提振風險偏好。\n🔍 NVIDIA去年財報創下史上最高營收，市場預期其AI算力需求將持續放大；同時美國財政部加碼長天期公債回購，抑制殖利率上揚；Fed會議紀要顯示部分官員仍偏鷹，但短期利率壓力緩解，使投資人願意重新配置至高估值科技股。油價跌破80美元也降低通膨擔憂，形成多重支撐。\n🌐 此波反彈提升美股整體情緒，對台灣投資人意味著資金可能回流至美股科技ETF，同時提升台積電等半導體股的外資買氣；但半導體指數仍呈下跌，顯示AI硬體需求仍存不確定性。若NVIDIA財報不及預期，市場波動或再度加大，投資人需留意美債殖利率走向與油價變化，以調整倉位。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/123398/9714315"
+        }
+      ]
+    },
+    {
       "date": "2026-08-25",
       "featured": [
         {
