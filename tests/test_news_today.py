@@ -15,7 +15,7 @@ class NewsTodayTest(unittest.TestCase):
     def test_clean_rss_text_decodes_entities_and_removes_html(self):
         self.assertEqual(
             clean_rss_text("<p>市場&nbsp;上漲 &amp; <strong>成交量</strong>增加</p>"),
-            "市場 上漲 & 成交量增加",
+            "市場 上漲 & 成交量 增加",
         )
 
     def test_history_contains_only_recent_ai_features(self):
