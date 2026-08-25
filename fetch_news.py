@@ -3,6 +3,7 @@
 from __future__ import annotations
 
 import hashlib
+import html
 import json
 import re
 import sqlite3
@@ -20,6 +21,13 @@ sys.stdout.reconfigure(encoding="utf-8")
 sys.stderr.reconfigure(encoding="utf-8")
 
 TZ_TPE = timezone(timedelta(hours=8))
+
+
+def clean_rss_text(value: str) -> str:
+    """Convert an RSS HTML fragment into readable plain text."""
+    text = html.unescape(value)
+    text = re.sub(r"<[^>]+>", " ", text)
+    return re.sub(r"\s+", " ", text).strip()
 
 
 def url_hash(url: str) -> str:
@@ -85,8 +93,7 @@ def fetch_feed(feed_info: dict) -> list[dict]:
 
         link = entry.get("link", "")
         title = entry.get("title", "").strip()
-        snippet = entry.get("summary", entry.get("description", "")).strip()
-        snippet = re.sub(r"<[^>]+>", "", snippet)[:300]
+        snippet = clean_rss_text(entry.get("summary", entry.get("description", "")))[:1000]
 
         if not title or not link:
             continue
