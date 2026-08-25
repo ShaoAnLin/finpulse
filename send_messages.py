@@ -167,7 +167,7 @@ def write_news_today(featured: list[dict], candidates: list[dict],
         "candidates": [
             {
                 "title": article.get("title", ""),
-                "snippet": article.get("snippet", ""),
+                "content": article.get("content", article.get("snippet", "")),
                 "category": article.get("category", ""),
                 "source": article.get("source", ""),
                 "link": article.get("link", ""),

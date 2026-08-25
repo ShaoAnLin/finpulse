@@ -6,12 +6,18 @@ from pathlib import Path
 
 from db import init_db
 from export_news import export_recent_features
-from fetch_news import select_top_news, url_hash
+from fetch_news import clean_rss_text, select_top_news, url_hash
 from send_messages import TZ_TPE, write_news_today
 from summarize_news import build_candidates
 
 
 class NewsTodayTest(unittest.TestCase):
+    def test_clean_rss_text_decodes_entities_and_removes_html(self):
+        self.assertEqual(
+            clean_rss_text("<p>市場&nbsp;上漲 &amp; <strong>成交量</strong>增加</p>"),
+            "市場 上漲 & 成交量 增加",
+        )
+
     def test_history_contains_only_recent_ai_features(self):
         now = datetime(2026, 8, 12, 9, 0, tzinfo=timezone(timedelta(hours=8)))
         rows = [
@@ -234,7 +240,7 @@ class NewsTodayTest(unittest.TestCase):
         self.assertEqual(len(data["candidates"]), 10)
         self.assertEqual(
             set(data["candidates"][0]),
-            {"title", "snippet", "category", "source", "link"},
+            {"title", "content", "category", "source", "link"},
         )
 
     def test_write_news_today_merges_same_day_payload(self):
@@ -298,7 +304,7 @@ class NewsTodayTest(unittest.TestCase):
                 "https://example.com/new-candidate",
             ],
         )
-        self.assertEqual(data["candidates"][0]["snippet"], "Should dedup")
+        self.assertEqual(data["candidates"][0]["content"], "Should dedup")
 
     def test_select_top_news_allows_same_day_rerun_but_keeps_cross_day_dedup(self):
         now = datetime.now(TZ_TPE).replace(microsecond=0)

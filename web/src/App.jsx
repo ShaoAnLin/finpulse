@@ -163,6 +163,7 @@ function FeaturedCard({ article }) {
 
 function CandidateCard({ article }) {
   const [expanded, setExpanded] = useState(false)
+  const content = article.content || article.snippet || '此 RSS feed 未提供報導摘要。'
 
   const handleCardClick = (event) => {
     if (event.target.closest('a, button')) return
@@ -190,7 +191,7 @@ function CandidateCard({ article }) {
       </h3>
       {!expanded && (
         <p className="mt-3 line-clamp-2 text-sm leading-6 text-slate-600">
-          {article.snippet}
+          {content}
         </p>
       )}
       <div
@@ -201,7 +202,10 @@ function CandidateCard({ article }) {
       >
         <div className="overflow-hidden">
           <p className="border-t border-slate-100 pt-4 text-sm leading-7 text-slate-700">
-            {article.snippet}
+            <span className="mb-1 block text-xs font-bold uppercase tracking-wide text-slate-500">
+              RSS 報導摘要
+            </span>
+            {content}
           </p>
         </div>
       </div>
