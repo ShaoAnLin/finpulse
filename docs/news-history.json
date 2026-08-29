@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-08-29",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test - CNBC",
+          "feature": "大科技 AI 砸千億，考驗長期優勢\n📰 發生什麼事\n全球前五大科技公司（Alphabet、Meta、Microsoft、Amazon、Apple）在2025‑2026 年持續加碼 AI 研發與算力建設，全年 AI 相關資本支出估計超過 3 兆美元。此舉不僅推高雲端與晶片需求，也讓公司財報出現高成本與盈餘壓力。\n🔍 背景與來龍去脈\nAI 熱潮自2023年ChatGPT爆紅後，雲端服務與大型語言模型成為新戰場。大科技利用既有資料中心與廣大用戶基礎，將 AI 融入生產力套件（如 Microsoft 365 Copilot）與廣告平台。過去幾年資本支出已從 1.5 兆美元升至近 3 兆美元，主要投資在 GPU、ASIC 及自研晶片。與此同時，全球利率偏高、供應鏈瓶頸使資金成本上升，迫使投資者開始檢視這波支出是否能轉化為持續營收。\n🌐 影響\n對市場：AI 相關股（半導體、雲端）短期受惠，但高昂支出導致部分公司股價波動加劇；資金流向更偏好具明確商業化路徑的企業。對台灣：本土晶圓、封測廠商（如台積電、聯電）將持續受惠於美國與歐洲的 AI 計算需求；同時，雲端服務需求提升可能刺激本地資料中心建設，創造新投資與就業機會。但若 AI 投資回報未達預期，可能引發全球科技股調整，進而影響台股資金流向與投資者情緒。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFVzZFpFU2tDRjVXWF9FRHFZUkRCQjFNZUVySEZyRGdldmw1LUtzalBTOG5DNUJoOWk3MTdWWUlWUlUxQ3QzQUpZaDdodDIyOGxtNTN4Z3RTb3RidFNOYVFGSkYwM3pRWU5DS2NNNWJMOEwxRVlVLWpMQk9TWHg3MG1DdFhuNjFWMHgwUXZPazFxZzQ5czBxNXJBX0tTd29hR2lsOA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情",
+          "feature": "【美股AI熱潮受升息與就業雙重考驗，費半連續二週失色】\n📰 美股週五三大指數微跌，標普500與納指分別下跌0.3%與0.5%，費城半導體指數大跌3.5%，其中NVIDIA與台積電ADR跌超4%。聯儲主席華許在傑克森洞演說重申抗通膨決心，推升短期美債殖利率，令市場預期九月再加息一次。\n🔍 AI熱潮自2023年NVIDIA財報爆發以來持續推高晶片需求，帶動美股科技股狂飆。然隨著聯儲鷹派語氣加碼，資金開始挑選具實績的AI供應鏈。上週Marvell營收認列時程受疑，股價重挫10%。下週將公布8月非農就業與博通財報，兩者將檢驗利率走向及AI需求能否向其他晶片擴散。\n🌐 若就業數據弱於預期，市場或降低升息機率，科技股有望回穩；若數據強勁，升息壓力加大，短期內資金可能撤離高估值AI股，導致費半持續低迷。博通若能展現AI相關營收成長，將為整體晶片板塊提供支撐，也可能提振台積電等代工股。對台灣投資人而言，短線需關注美債收益率與就業報告，長線則視AI應用落地速度調整持股比重。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/123398/9721502"
+        }
+      ]
+    },
+    {
       "date": "2026-08-28",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "記憶體晶片飆升致NVIDIA AI伺服器明年或漲15% 產業波動加劇\n📰 發生什麼事：NVIDIA已通知大型雲端客戶，因DRAM價格急升，搭載Vera Rubin、Grace Blackwell等新代AI晶片的伺服器，預計自2027年初出貨的型號價格上調超過15%。\n🔍 背景與來龍去脈：全球AI需求爆發推高高帶寬記憶體（HBM）需求，半導體產能緊張、地緣政治與能源成本上升，使DRAM供不應求、價格翻倍。NVIDIA自2023年起推出以HBM為核心的新一代AI晶片，依賴大量記憶體，供應商SK海力士與美光已大幅調價，導致整體系統成本激增，雲端巨頭Microsoft、Google、Oracle等已收到調價通知。\n🌐 影響：雲端服務價格或上漲，企業AI運算成本增加，可能延遲或重新評估AI專案，亦促使部分公司尋求替代供應鏈。短期內NVIDIA股價或受壓，但其在AI生態系的核心地位仍具吸引力。對台灣而言，記憶體代工、伺服器OEM與AI應用開發廠商將面臨成本傳遞壓力，同時刺激本土晶片與記憶體產能布局的加速。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/123398/9708373"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-22",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Big week coming up with PCE, Nvidia earnings and then Jackson Hole. Here's what to expect - CNBC",
-          "feature": "美國大事連環砲：PCE、Nvidia 財報與 Jackson Hole 交叉衝擊市場\n📰 發生什麼事\n本週美國將陸續公布7 月個人消費支出（PCE）通膨指標、Nvidia 於週三公佈財報，接著週四至週五舉行備受矚目的Jackson Hole 經濟政策研討會。三大事件相繼出爐，市場波動性預計升至年內高點。\n🔍 背景與來龍去脈\nPCE 是聯儲最關注的核心通膨衡量，近期油價與金屬價格走高讓通膨預期回升；同時，美國長期國債收益率自上週回落後又再度上揚，導致科技股估值受壓。Nvidia 作為AI晶片龍頭，其財報常成為科技板塊走向風向標；若營收未達市場高預期，或將觸發科技股再度下修。Jackson Hole 則是美聯儲官員與全球央行領袖的年度對話平台，往往釋放未來貨幣政策走向的關鍵訊號，尤其是是否暗示進一步降息或維持緊縮。\n🌐 影響\n若PCE顯示通膨仍高於預期，市場可能預期美聯儲延遲降息，美元走強、台幣承壓，進口成本上升。Nvidia 若超預期則有望提振美股科技股，帶動台灣半導體相關ETF資金流入；相反則可能加速資金流向防禦性板塊如金融與大宗商品。Jackson Hole 的言論若指向政策寬鬆，債券收益率可能回落，提升股市風險偏好，對台股加權指數形成支撐。總體而言，投資人需密切關注這三大訊號的交互作用，以調整資產配置與匯率風險管理。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNWUF5cVVGcVhtWlpsRFlabG52NFZDcDdZdUFfX3ZyemttcVdZN1lxUGMyeG93TkI1bk1CVkhZaTZ1OHQyb2k2RWtwcDhuaElvUE55Q3M2X2RfbldHSXdHSzhQVjJMVmFmMnZtb2paTWRjUFgzUzR1aF9IbzlZMF95MUhXVW55MVhGdnZ4MENzZw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "〈能源盤後〉川普威脅制裁伊朗盟友 油價周漲約6%",
-          "feature": "美國川普揚言制裁伊朗盟友，國際油價一周暴漲逾6%\n📰 發生什麼事\n國際油價在8月21日收盤出現顯著上漲，布蘭特原油收於94.39美元，上漲0.65%，本週累計漲幅約6.4%；美國西德州中質原油（WTI）亦上漲0.26%，報87.06美元。漲勢主要因美國總統川普於8月19日晚間威脅對伊朗及其盟友實施新一輪經濟制裁，市場預期供油受限。\n🔍 背景與來龍去脈\n伊朗長期受美制裁，2023年美伊緊張局勢仍未緩解。川普政府在2024年選戰前加碼對伊朗及其支援國（如敘利亞、黎巴嫩真主黨）施壓，意圖削弱伊朗石油出口。近期中東地區發生多起導彈與無人機襲擊，進一步提升運輸風險。投資人因此將原油期貨轉為避險資產，推高價格。\n🌐 影響\n油價回升直接提升台灣等能源進口國的燃油與電力成本，估計每桶漲幅將傳導至汽油、航空燃料與塑化原料，增加企業與民眾的生活開支。對通膨而言，能源價格是重要驅動因素，可能迫使央行在短期內維持緊縮政策。另一方面，油價上揚有利於本地石化、煉油公司提升毛利，但同時也增加下游製造業與運輸成本，形成產業間的盈虧分化。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6584081"
         }
       ]
     }
