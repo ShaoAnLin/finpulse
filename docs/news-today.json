@@ -1,91 +1,91 @@
 {
-  "date": "2026-08-29",
+  "date": "2026-08-30",
   "featured": [
     {
       "category": "international",
-      "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test - CNBC",
-      "feature": "大科技 AI 砸千億，考驗長期優勢\n📰 發生什麼事\n全球前五大科技公司（Alphabet、Meta、Microsoft、Amazon、Apple）在2025‑2026 年持續加碼 AI 研發與算力建設，全年 AI 相關資本支出估計超過 3 兆美元。此舉不僅推高雲端與晶片需求，也讓公司財報出現高成本與盈餘壓力。\n🔍 背景與來龍去脈\nAI 熱潮自2023年ChatGPT爆紅後，雲端服務與大型語言模型成為新戰場。大科技利用既有資料中心與廣大用戶基礎，將 AI 融入生產力套件（如 Microsoft 365 Copilot）與廣告平台。過去幾年資本支出已從 1.5 兆美元升至近 3 兆美元，主要投資在 GPU、ASIC 及自研晶片。與此同時，全球利率偏高、供應鏈瓶頸使資金成本上升，迫使投資者開始檢視這波支出是否能轉化為持續營收。\n🌐 影響\n對市場：AI 相關股（半導體、雲端）短期受惠，但高昂支出導致部分公司股價波動加劇；資金流向更偏好具明確商業化路徑的企業。對台灣：本土晶圓、封測廠商（如台積電、聯電）將持續受惠於美國與歐洲的 AI 計算需求；同時，雲端服務需求提升可能刺激本地資料中心建設，創造新投資與就業機會。但若 AI 投資回報未達預期，可能引發全球科技股調整，進而影響台股資金流向與投資者情緒。",
+      "title": "Inside Lynas Rare Earths and the race to build supply chains beyond China - CNBC",
+      "feature": "Lynas 成為除中國外唯一大規模稀土供應商，牽動全球產業鏈布局\n📰 發生什麼事\nLynas Rare Earths 2026 財報創下 7.03 億美元營收，得益於美日政府保底價格。但其在馬來西亞的重稀土擴建成本暴增 63%，主要因關鍵分離設備僅在中國製造，顯示脫鉤之路仍有瓶頸。\n🔍 背景與來龍去脈\n中國長期壟斷稀土供應，促使美國以「Pax Silica」策略聯合日本、澳洲等盟友重組從開採、精煉到加工的全鏈。Lynas 透過西澳 Mt Weld 礦與馬來西亞加工廠，提供非中國商業規模供應；然而設備依賴中國，使擴產成本飆升，暴露供應鏈多元化的實務挑戰。\n🌐 影響\n對全球新能源、半導體與軍事產業而言，稀土供應更具彈性，價格波動可能緩解；台灣的電動車電池與高階晶圓製程同樣受惠，亦提升本地產業對替代來源的投資意願。但短期內設備短缺與成本上升或推高相關產品成本，投資人需關注 Lynas 及其他非中國供應商的產能進度與政策支援。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFVzZFpFU2tDRjVXWF9FRHFZUkRCQjFNZUVySEZyRGdldmw1LUtzalBTOG5DNUJoOWk3MTdWWUlWUlUxQ3QzQUpZaDdodDIyOGxtNTN4Z3RTb3RidFNOYVFGSkYwM3pRWU5DS2NNNWJMOEwxRVlVLWpMQk9TWHg3MG1DdFhuNjFWMHgwUXZPazFxZzQ5czBxNXJBX0tTd29hR2lsOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOUUJ5dFJ2Wl9qNkNrT21nbzRtdVhTN05vakNpUGg3TTZSd0FSVnBKWTNDY05XS05hOHB6Yng0LTlIWUg1cUt1eFJPbk1DRGhNTWVUdGJRUE9QU0hCN1FUWkVmTktyanJwQW5ZR0JqUC1ETXFManEtNkpPQndYb251elBOZ29fUQ?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情",
-      "feature": "【美股AI熱潮受升息與就業雙重考驗，費半連續二週失色】\n📰 美股週五三大指數微跌，標普500與納指分別下跌0.3%與0.5%，費城半導體指數大跌3.5%，其中NVIDIA與台積電ADR跌超4%。聯儲主席華許在傑克森洞演說重申抗通膨決心，推升短期美債殖利率，令市場預期九月再加息一次。\n🔍 AI熱潮自2023年NVIDIA財報爆發以來持續推高晶片需求，帶動美股科技股狂飆。然隨著聯儲鷹派語氣加碼，資金開始挑選具實績的AI供應鏈。上週Marvell營收認列時程受疑，股價重挫10%。下週將公布8月非農就業與博通財報，兩者將檢驗利率走向及AI需求能否向其他晶片擴散。\n🌐 若就業數據弱於預期，市場或降低升息機率，科技股有望回穩；若數據強勁，升息壓力加大，短期內資金可能撤離高估值AI股，導致費半持續低迷。博通若能展現AI相關營收成長，將為整體晶片板塊提供支撐，也可能提振台積電等代工股。對台灣投資人而言，短線需關注美債收益率與就業報告，長線則視AI應用落地速度調整持股比重。",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9721502"
+      "title": "金控雙雄法說登場、輝達財報優於預期、大立光再砸30.8億元購地 本周大事回顧",
+      "feature": "金控雙雄法說、輝達財報亮眼、大立光豪掷30.8億購地，市場熱絡背後的動力\n📰 富邦金控與國泰金控本週先後舉行上半年法說會，分別披露EPS 13.17元、稅後純益 765億，並承諾高配息；美股AI晶片龍頭NVIDIA 公布第二季營收962.2億美元、淨利翻倍，預測2028年營收將增長70%；光學元件大立光以30.8億元收購科宏工業土地，持續擴張產能。\n🔍 金融股因股市熱度與資本利得需求，加上保險子公司績效優於目標，故推動高配息以吸引長期資金。NVIDIA 財報受惠AI算力需求激增與資料中心擴建，帶動全球半導體供應鏈景氣；大立光則因手機與車載鏡頭需求上升，提前布局製造基地，以因應未來產能缺口。\n🌐 這波資訊刺激台股權值股上漲，外資連續買超近500億，ETF資金流入，帶動半導體與光學相關個股熱度；同時高配息預期提升金融股吸引力，提升散戶與機構資金配置比例；大立光土地收購則顯示本土高端光學供應鏈的擴張潛力，對台灣製造業與相關就業有正面效應。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6591119"
     }
   ],
   "candidates": [
     {
-      "title": "尼日首都尼阿美傳槍響爆炸　機場、總統府附近交火",
-      "content": "2名目擊者告訴路透社，今天清晨，西非國家尼日（Niger）首都尼阿美（Niamey）多個地區傳出連串槍聲與爆炸聲",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9721526"
-    },
-    {
-      "title": "蘋果發表會登場倒數 台股供應鏈一次看「這家」獨供最受惠 - Yahoo新聞",
-      "content": "蘋果發表會登場倒數 台股供應鏈一次看「這家」獨供最受惠 Yahoo新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxQVUQwOFl3SGUzRUlnN29zT0IzcExzb3lrSFlfYllTZGpOMGd2RFAwcEhQZnBOVTNoQVFLLTVkNmV3blo3bUdBYWdxV1h2LWQyZ2tzM3RjT2JSRnl6OHA1Zk0tYi1ySWdEMVF3M2R1M2gxYWx6UUptem9uRlFSNzMybnVfMlFUN1RoekZpZnJIckVFemRmaVhlRHlUSG0zOWprdkR1aGpPOXUtcmtrQlBSU1NpV2k4T05RWHVLQWdMQW5WS3dDZF94T2ZoX1NueUFzMDVDMUk0V21PUXFIYjJOOXZTTDJuOERtMURHdXJ2MzlNQUVTQmNPMGJWeF9CSWVXSzRuQTkxMHU3dWh4QUMtVEt6a1lkd1R0MktyUEMwdlFPbWt1ZURMU1o0aGxvZmZLZnZYeHJWQmhuUEs3VmcyQ1NvU3BKdVhZOWpEVDNtaVVMUFBONmgtZ2hsUExvRWp1ampuQzZoMU1ZbkJD?oc=5"
-    },
-    {
-      "title": "日本評估：近畿發生規模6.8以上地震機率過半",
-      "content": "日本政府昨天公布近畿地區活斷層的長期評估，指出該地區未來30年內發生規模6.8以上地震的機率為50%至60%。穿過敦賀核...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9721487"
-    },
-    {
-      "title": "尼泊爾洪災8歲童爬樹保命　母子歷劫奇蹟重逢",
-      "content": "尼泊爾男童佐亞爾．蓋勒（Zoyal Ghale）為躲避奪命洪災逃入森林，並爬到樹上成功保住小命，今天與母親奇蹟重逢。他的...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9721484"
-    },
-    {
-      "title": "Cursor遭OpenAI「斷供」 SpaceX 600億美元收購後合作關係急轉彎",
-      "content": "OpenAI宣布計畫終止與Cursor的AI模型供應協議，理由是無法確信SpaceX會依服務條款使用其技術。事件發生在SpaceX以600億美元完成收購Cursor後，凸顯AI產業競爭與模型供應關係快速重組。",
+      "title": "安永輔導創櫃吃下3成市佔率 攜手櫃買中心媒合8家新創秀肌肉",
+      "content": "四大會計搶食輔導新創企業大餅，據統計創櫃板累計登錄292家公司，其中1/3來自安永所輔導。隨著創新產業加速發展與企業募資需求持續提升，櫃買中心與安永聯合會計師事務所昨(28)日共同舉辦「Bridge to Growth創",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6591407"
+      "link": "https://news.cnyes.com/news/id/6591385"
     },
     {
-      "title": "輝達財報+MSCI雙利多！台股兆元成交量再現 法人本周掃貨10檔ETF名單一次看 - Yahoo股市",
-      "content": "輝達財報+MSCI雙利多！台股兆元成交量再現 法人本周掃貨10檔ETF名單一次看 Yahoo股市",
+      "title": "【宏觀週報】被忽略的台股推升因子-阮慕驊 - CMoney投資網誌",
+      "content": "【宏觀週報】被忽略的台股推升因子-阮慕驊 CMoney投資網誌",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMisANBVV95cUxNTi03LVAwS1hFczdvODlVZTc1WDRWSVhhMlpEbHBQNnlHUXRjbFhvZE42RnowRkpoNHlsUklRWjU3VkJpRHNpNEZ0cGdTNHA2R243S0Z2YVBLaW9ndkpRdndZR3lDSElia1U2aGJ6YkZxdGRVRnBseUJiNEJZNzdkWnluWjJuTVdiLUIyYmJOQi1GRnpoZ3EzZ2M0dW4wMmo3a1JRNW5LaWNrN1J3YllGZ0dFMWpBVkF6Q2tOcFE4WnlhdWQ4VU9rQzFFdlRQa1djLWxoWm4tWWxuV3JLSDRnZ2hka1p1a0Y4RXpObUwtNWhvbzRZR2ZHNzJ3UzNRcVBfOTA1RzIzUjZOTkxoQllCdnNSNnZvVmJUWlFvNzZpaEk2aHc1TGE2dDBCSDd2TXpOaHBERmY2S0FzZm5JTVl2dGZFM3BfTjMtakExdm12cVVZZk1hcmxTTF91YU1rM3pCT1FGU3M4eUJvMnEwZ05YTnFZTmhFMEtZSTBrMWt1SGw5SWF5WTBnQ2h2X0VYZFhjMXY3ci0tVEJRV2lTV1gzV3BYT1J0R05QMmhCNU5Bci0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMURMeU5UVHFweC16Y3Q3RHkzdkdsNmxWeHhmZFdVejJaeFAtbUtKNi1lUXAyTHR3WXhCUDFzZEtacTZ5dmplUTlPLTR0b2gzZ3RsTUxvZ2tybzlXVUZvUE5HOXltcFctOFFiMlVWXzNBaXdmam9BSW1FTkpDbTJWamtsMA?oc=5"
     },
     {
-      "title": "蘇元和觀點》台灣經濟UP！股、券、企獲利齊揚 這波多頭靠「真金白銀」 - Newtalk新聞",
-      "content": "蘇元和觀點》台灣經濟UP！股、券、企獲利齊揚 這波多頭靠「真金白銀」 Newtalk新聞",
+      "title": "影/尼泊爾山洪933名工人困隧道！鑽孔送氧搶救 救援隊曝內部慘況",
+      "content": "法新社報導，尼泊爾與中國西藏交界地區26日發生嚴重山洪，兩地累計已682人罹難、約3000人失蹤，其中尼泊爾水力發電工程有933名工人仍受困。救援團隊29日開始鑽穿遭泥漿封死的一個隧道搶救工人，晚間成功從翠蘇里（Trishuli）3A水力發電工程隧道上方鑽出孔洞，隨即向內輸送空氣，並嘗試送入攝影機與氧氣探查，與時間賽跑尋找生還者。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9722415"
+    },
+    {
+      "title": "越南古螺城逾兩千年拚申遺 從防禦要塞到文化象徵",
+      "content": "河內近郊的古螺城遺址有逾兩千年歷史，是越南最古老的防禦型都城與東山文化重要實物證據，深深融入當地居民信仰。政府現正全力籌...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9722398"
+    },
+    {
+      "title": "北韓國防部長遭撤職　軍方高層重新洗牌",
+      "content": "北韓官方媒體今天報導，北韓國防部長已被免職，這是國家軍事領導層改組的一環",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9722387"
+    },
+    {
+      "title": "2408 南亞科- 20260831盤前，盤勢轉多，台股最強! - 股市爆料同學會 - CMoney",
+      "content": "2408 南亞科- 20260831盤前，盤勢轉多，台股最強! - 股市爆料同學會 CMoney",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1hdEF1dFZwa2Y0WlE3eDNpNTN5VGhIM0I5dnNnVWMtbTVGSjFuS21PSjRIQ3pEX2xMY3d6eWcySlpXMUpWT3ZCMXdNNUpLNWZwZzZyYTFCQi1DVVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFAtSVlScC1tZXpOSnk2cTNvSjlKV2xKd1JDbmtwVHQzUDk3d3VxNlU2V2d5d281WUdNUEFCSGFlSTRIWnpLYVdwOWdNMXY4amRuLVA0WEZYR0Y?oc=5"
     },
     {
-      "title": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves - CNBC",
-      "content": "Trump announces deal with Venezuela to secure more than 65 billion barrels of oil reserves CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUWNzQ2x6RDRSTXhIRDZLd3h2dklqTWFYUy1GcVJnYmFpa29SREdTXzVIU3A3a2xSbmtoLS1jR1k4U3BYQkppaEdlOWJlbWdHZVlZOXdfbWxLdHpiMUd4R2tPckFnY3dxdDRVX1BHdzF3UWNmeHhTTlBKYnFnb3czYU1FcmJuTVI2Nl9JR0sxMzE0N1hjZ01CX2NrVUhCeEhuYzh4TW1HaHVoamRzZmFtaV9LMXhOMEZ1SVBtMzQwcl9NNzE4a0HSAcsBQVVfeXFMTmRLRXRIVDNmRk5TUldUYWg1LVJaTEFBVUkwTVdtbWpNQ0FZNXRhVDItZ05Ob1ExSzI1RVR5TmJMRGFJSlZpZFZGYkd4WUEtVXQ1RWpEalh4Wm1ZRzVod1ZzMU9tMXljMkVUTXpIV3pQVUNmaHplOTJmM1BlUUxzQ1lOQ0hnc0NPeVFnY0FxU0xlRExBaUVlY3dvc1dUcmJMclFOdmdUWFpmeUVrYlpkZWFtWFJWa3E1ZEQyWGJ5OVlLSk45NEhrYWpDT0k?oc=5"
+      "title": "台股ETF大洗牌 高股息不再獨大！00878、00981A、009816憑什麼各據山頭？ - 工商時報",
+      "content": "台股ETF大洗牌 高股息不再獨大！00878、00981A、009816憑什麼各據山頭？ 工商時報",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xNWNlaENpUkJpdkdPUHN5ZVp1YTU4VDFybjMwYndRNTQ2allPdVJLNTN5djAySlBYdy1FcnRpeEJGZklwWUZ5ZTF5UmJCWDdWNENhWUlIMlRubjZzN3VV?oc=5"
     },
     {
-      "title": "Corn and wheat prices jump to highest prices in more than three years - CNBC",
-      "content": "Corn and wheat prices jump to highest prices in more than three years CNBC",
+      "title": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites - CNBC",
+      "content": "National Park Service backs Trump’s 250-foot arch despite ‘adverse effects’ on historic sites CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1dEQ0gwU3BBRmtyTnFXb2Yydy1nV2wyal9VdERuWHRtWERkdS0xMUc5d2l3T0JfcnFyWnNuUnVYUDU3RVU2NWxkSFc4eFREMjdTT1F1YnRnQTNyeUtwUldiOFdRaTBkZFZPaUlQU3hoRkhvOHpWT1dpcnozOFNhalpZNmlQeHlwamNwaUp1MFVBUF9JYUlUVVB5aDIwWHZhWjluSUZ5a2xUZ9IBrwFBVV95cUxNX0JGemYxTzYxbm1PeWhiQnNTeXFobUtXd3JHS3RoWjdTYW44MEdTNlBuamNGZjZjMzlDcWNYUzFlZWZ6Q29HNi1xRkJNNnZUWHB0UTd0NzlTRGxTMVE0Q19mT2w0XzJMektQRW83TVNCUXlKelZmT1JkZHZGZ3ptb3FJZ1ZKbkM5RU9QREdkTGhVZ3ViZDFHakJ3dWxPSHVEMUpOQ2ZJSWY1clZXb0N3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVEpLOFpESEJXeVU1eUp5aEdwOERvajR4Vm15S3NvaF9pV0VDWEdDN0YzQTlBVEV6WGZPaHdjcmtjbEdkUUVFQkw3NU9XdTBwNndWVzZuczdvUm01RVVvYk9GaDJrVEFjd1l3N1dFMTgyaWZhbWd4RlZ1MGpfZGFpNTB30gGHAUFVX3lxTE9peE82b1FncDRNTFZmc0E0eFVDZy1fUmZDc3JNajNCX2JtQVc4UkFjSl9nY1hmNTZZMnNlU1pfakpQYzFGN1R0ZnRTS3hPNGpQSzBWNFpiZEJleDhGcFVnTXFYRTJhTW8xck9xVWVsMWlMZnNqT3pxeTBMQXIyQWZueTc3TFNlZw?oc=5"
     },
     {
-      "title": "What we got today is a clear message the economy is doing well, says Allianz' El-Erian - CNBC",
-      "content": "What we got today is a clear message the economy is doing well, says Allianz' El-Erian CNBC",
+      "title": "K, C or E? Why economists can’t agree on the shape of today’s economy - CNBC",
+      "content": "K, C or E? Why economists can’t agree on the shape of today’s economy CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQRlBud0JuV3RlendIZHR0ZEFVcUVyZWlFak43Nm9ZUDRHMl9ybVUwRkZrbUJoYjNkNk92WVdBSGp5Rm1CM0M3X09saVN0RGE3NExnTG9FM0FoaGEtRzliSTNKV205eEJoc1U0RFVTWWdTeEpOM3VzVmN6Y2J1TUV3UWNtUW45Ti0tZWxsMWtTTi1XRkJnVi1kSkFacEpneWlMbGF6c3NYYVpLcldLa3Yzb3ZVc1k3T0wxUzNkODcwU3RJR29YSXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZUdOUUFlTzBpOVdWdDlZRm5yOHRKenZ1bUg4YzlGWWFqOU1wdDZTdWlGdHE3M3lVRU5fTlgxYUtLbXhPUkVLNG5ZeldGTENYZUM0UVI0anJQcXdIdlFXWm1qSE9kcnVueFFVekw4ZldtNjFkRUxMYjBB0gF_QVVfeXFMUFpsdHRDZk0tell0Tnc5OGlld05Cd0xtTHE2OGljdFhaRGpCdzY2aWU5MXpibTdEZHZ6YUdnSnlHQXktUVAyZXl1Z1djZ0FRZTIzbG1BNVZNYVBkeHIwLW1ObG5YLUhQaEF3enh1NlFJbG5PUHQ5NlFmUmN6aWp0aw?oc=5"
+    },
+    {
+      "title": "Nepal resumes flood rescue, seeks technical help and billions of dollars - CNBC",
+      "content": "Nepal resumes flood rescue, seeks technical help and billions of dollars CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZE5mYUpDaTFMTk0tSEwtUVlEcG1uUTJiS2RLZ0lFNUhnbC1kbWIwWEI2RWhXNk9sR3Z1dFJoXzZRN3I3dWRpUWZjZUVBUERGS0dHYjRabTdGMXoyc2JZdFdGRllTTWJQUHdxTlVsSmpaY05ScEtiSHIydERFbnBicjlDZ25yWTJGWm45Q21yR2hGSUkyUVFyUzUtazZjSE1EQkpuWGF0ancyUdIBrwFBVV95cUxPeXRwamtyeEgtMEZzRkwxdWxoekwxLWtjQzJGaHJXNDVjUmlRSEZ1c28ySHkxY0dfcnZvRThhTFpnSzR6MnBJXzRHYzZVSU4tQmcwcDZ0T0xjSDd5WERGYUV6bm1sSENxZWdnVGdobW52N1Jsbjg4WlAxcjFwbnI2LXZaVDZueWRkS3BoTzF6Rlk5SGlRakJtejhwRzJ6a25YaXdmNkhYLVVGd00zQXpn?oc=5"
     }
   ]
 }
