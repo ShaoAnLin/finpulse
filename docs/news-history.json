@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-02",
+      "featured": [
+        {
+          "category": "international",
+          "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says - CNBC",
+          "feature": "中國在G20聲明中首度表態反對「低價出口」指控\n📰 發生什麼事\n美國財政部長斯科特·貝森特在本月的G20會議上指出，部分非市場經濟體持續以低價商品衝擊全球市場。中國唯一反對此聲明，並強調其出口符合國際規則。\n🔍 背景與來龍去脈\n自2022年美中貿易摩擦升溫以來，西方多次批評中國利用巨額經常帳盈餘壓低價格，尤其在鋼鐵、太陽能與電子零件等產業。G20過去亦討論貿易失衡，但本次首次以「非市場基礎」明確點名。中國認為此言論政治化，並提醒各方避免貿易保護主義。\n🌐 影響\n短期內，市場對相關產業股價波動，美元指數小幅上揚。對台灣而言，若美國加碼關稅或技術限制，可能減少中國供應鏈中間品，提升本地製造商出口機會；同時亦可能引發原料成本上升與產業競爭加劇。政策層面，台灣需關注兩大經濟體的貿易政策走向，以調整產業布局與匯率風險管理。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNW1KTnpvMXFBWjZzMFlqYjEwNWFsM2dWcXJrbDdJUkVFY0JiVk9BTERmZTlNWkNuNDlIa0k3aDRqVjZJbTM4X29LQm5YdTBucUd4MEMwRWZwY1dhRUozMVAzT0lTLVUzaHRobnRTVGJqTWVscHhYZ1czQ2hzeWhmd3ZCRdIBiAFBVV95cUxNeXlXMTVEMHcxYzJhRzl1X2Q4Qmc2dGl3SVJlMTAzWVNmcDNUazZfTjBzclRRNjlMVUtva1ROUUJYSFlYWG55ZWx4NVJfVnBOSjY1XzFPZVh4MFFMNVpROWRKeWhraW5HS3BxSmJ4Nk43eU5rVjM4YkZiaUdSSXdrNEtjQ0pwM3hN?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "輝達傳最快本周敲定收購Hugging Face 價碼140億美元 布局開源AI領域",
+          "feature": "輝達斥資約140億美元收購開源AI平台Hugging Face，打造AI全鏈條布局\n📰 發生什麼事\n輝達(NVIDIA)正與AI新創Hugging Face談判收購，金額約140億美元，最速本週敲定，收購價約129億美元另含10億美元員工留任方案。\n🔍 背景與來龍去脈\nHugging Face成立於2016年，提供超過300萬開源模型與資料集，被稱為AI版GitHub。近年開源模型成為訓練GPU需求的主要入口，輝達為鞏固GPU生態、避免被OpenAI、Anthropic等閉源陣營取代，已投資多家AI新創並持有其股份。收購可讓輝達直接掌控開發者平台，與過去的GPU銷售、授權策略形成垂直整合。\n🌐 影響\n若交易獲批，輝達將在模型層面與硬體層面同步布局，提升GPU需求黏性，同時可能面臨美、歐等反壟斷審查。對台灣AI產業而言，供應鏈上游晶圓、伺服器需求或持續擴大，相關股票如台積電、鴻海或受益；但開源平台的中立性若受限，亦可能影響本地開發者使用成本與創新生態。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/123398/9728799"
+        }
+      ]
+    },
+    {
       "date": "2026-09-01",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "「退休金被債主凍結？勞動部建議開專戶保護」\n📰 發生什麼事：近期多起勞工退休金帳戶被法務部行政執行署或法院以債務為由強制執行，導致領有勞退新制的退休金被凍結或扣押，引發社會關注。勞動部提醒，勞退金依法受嚴格保護，只要開立不受執行的專戶，即可避免被債主追索。\n🔍 背景與來龍去脈：勞退新制自2022年全面上路，將退休金與個人專屬帳戶分離，理論上不應成為債務清償標的。但因部分勞工未自行開立「勞退專戶」或帳戶仍屬一般銀行存款，法院得以依民事執行程序凍結。勞動部自2023年起推廣「勞退專戶」登記，並發布操作指引，防止類似案件再發。\n🌐 影響：若勞工盡快開設受保護的勞退專戶，可確保退休金安全，降低財務風險；同時提升公眾對勞退制度的信任，對銀行業務也可能帶動專戶開戶量。對整體勞動市場而言，減少因債務糾紛引發的生活不安，對政府而言則是落實社會安全網的重要一步。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6588831"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-26",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Nvidia's 'expectations premium' dogs the stock after earnings. Here's what analysts are watching - CNBC",
-          "feature": "「Nvidia 期待溢價」拖累股價，投資人持觀望\n📰 發生什麼事（Nvidia 於 8 月 26 日公佈 2027 財年第 2 季度業績，雖然營收與毛利均創新高，但股價因「期待溢價」未獲滿足而在收盤後跌超 5%，投資人擔憂公司大規模融資平台與記憶體成本上升的影響）\n🔍 背景與來龍去脈（自 2023 年 AI 爆發以來，Nvidia 成為市場焦點，股價自年初漲超 14%。公司本月宣布 500 億美元 AI 融資平台，並持續向美國大型雲端廠商提供 GPU，形成資金與需求雙重拉升。然而，過去一年多的高速擴產導致記憶體價格飆升，且投資者對於類似 2000 年網路泡沫的資金循環模式保持警惕。分析師在財報後特別關注公司是否能在高成本環境下維持資本支出與盈餘增長）\n🌐 影響（1）美國半導體指數短期受挫，波及整體晶圓代工股；2）台灣的台積電與聯電等供應鏈廠商可能面臨訂單波動，尤其是高階 GPU 製程需求；3）AI 相關投資熱度降溫，資金可能轉向較低估值的傳產或金融股；4）若 Nvidia 融資平台未達預期，市場對 AI 基礎設施的整體成長預期也會被下修，影響台灣 AI 應用與相關人才需求。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcEhkVTlxNnBsMnZwc0ZjSDk5Z0xvOU43NklfbHZlSjZjMWlld09CRnZtOHlNcnptcDY2ZEQ2dkNaVWExVGpRZlFGajQ0bTJISW5aU21VRDFXZEZ4ekxfbEF4dkJhU3puN3J5Q1ZjMW9pVWJyTXBCWDBPOWtsaW1pQzBGcW9QdHlvYjZFRWVvT0VKOXhOQWZPalI5QQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "美股收盤／四大指數收漲 輝達財報前科技股反彈 美債殖利率回落助攻",
-          "feature": "美股四大指數收漲　輝達財報前科技股回暖，債市緩壓助攻\n📰 美股標普500、道瓊、那斯達克及費城半導體指數於8月25日全線收紅，納指上漲0.66%，其中AI晶片龍頭NVIDIA在財報公布前股價跳升約2.2%，油價回落與10年、30年期美債殖利率下滑亦提振風險偏好。\n🔍 NVIDIA去年財報創下史上最高營收，市場預期其AI算力需求將持續放大；同時美國財政部加碼長天期公債回購，抑制殖利率上揚；Fed會議紀要顯示部分官員仍偏鷹，但短期利率壓力緩解，使投資人願意重新配置至高估值科技股。油價跌破80美元也降低通膨擔憂，形成多重支撐。\n🌐 此波反彈提升美股整體情緒，對台灣投資人意味著資金可能回流至美股科技ETF，同時提升台積電等半導體股的外資買氣；但半導體指數仍呈下跌，顯示AI硬體需求仍存不確定性。若NVIDIA財報不及預期，市場波動或再度加大，投資人需留意美債殖利率走向與油價變化，以調整倉位。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/123398/9714315"
         }
       ]
     }
