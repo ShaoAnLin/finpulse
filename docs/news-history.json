@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-03",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - cnbc.com",
+          "feature": "Broadcom 2026 Q3 報告：AI 實驗室驅動獲利飆升\n📰 發生什麼事\nBroadcom 公布 2026 財政第三季營收 755 億美元、淨利 293 億美元，毛利率升至近 39%。CEO Hock Tan 強調 AI 專屬實驗室已帶動 AI 相關營收突破 160 億美元，預期全年可達 160 億美元。\n🔍 背景與來龍去脈\n去年因一次性 45 億美元稅務調整導致虧損，成為比較基準。近年 AI 熱潮促使晶片需求激增，Broadcom 先前以收購及自研 AI 加速器布局，2024 起成立 AI Lab，持續擴大與 Nvidia、Microsoft 等合作。營收年增 32% 仍遠低於淨利 127% 的增速，顯示成本控制與高毛利產品比重提升。\n🌐 影響\n財報推升美股半導體指數，提振全球 AI 投資熱情；對台灣晶圓代工廠而言，需求上升可能帶來訂單增長，同時競爭加劇。投資人可能重新評估 AI 相關股票估值，台幣匯率與資金流向亦受波及。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美元潛藏2,300億美元賣壓 台灣壽險業若加碼避險恐成推手",
+          "feature": "美元避險升溫 2.3兆美元或成新賣壓\n📰 發生什麼事\n彭博調查顯示，台灣及其他五國的退休基金與壽險業者截至6月底對外幣部位的避險比率僅41%，創2015年以來最低。若提升5個百分點，僅在遠期市場賣出美元就可能產生約2,300億美元的賣壓，台灣壽險若加碼避險將成主要推手。\n🔍 背景與來龍去脈\n過去美國資產佔全球退休基金與保險公司投資組合的前十大，尤其是台灣與加拿大持有大量美債與美股。2019年川普關稅引發美元大跌，資金紛紛加碼避險；隨後美元回升與避險成本升高，業者又逐步降低避險。近期美元避險成本下降（如日圓3個月遠期從6%降至2.75%），加上美元相對於G10貨幣走弱、對Fed升息預期減弱，使得避險需求可能再次上升。\n🌐 影響\n若壽險業提升避險比率，將在外匯遠期市場大量拋售美元，增加市場賣壓，可能推低美元兌台幣與其他貨幣匯率。對台灣企業與進口成本有正面（匯率貶值）與負面（外幣資產帳面損失）雙重影響；同時，美元資產的投資回報受匯損影響，保單持有人收益可能波動。整體而言，美元的持續走弱將影響全球資金流向，投資者需關注外匯避險動向。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9731247"
+        }
+      ]
+    },
+    {
       "date": "2026-09-02",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "新任美聯儲主席華許首度在Jackson Hole發聲，市場急盼政策明朗化\n📰 發生什麼事：華許於8月28日於Jackson Hole年會作為任內首場演說，承諾抑制通膨卻未提供具體路線，投資人期待更清晰訊號。\n🔍 背景與來龍去脈：華許5月接掌美聯儲，當時通膨仍高於2%目標，前任政策模糊導致市場波動。Jackson Hole歷屆是Fed主席傳遞指引的重要舞台，經濟學家預測他可能維持高利率或暗示未來調整。\n🌐 影響：美元或走強、台股可能因資金外流受壓、企業借貸成本上升，民眾購屋與理財成本提升；同時也促使台灣央行審慎檢視本土利率政策，以因應外部金融環境變化。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6590541"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-27",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China industrial profit growth in July slumps to 7-month low of 11.2% - CNBC",
-          "feature": "【AI熱潮推升，中國工業利潤增速降至七個月低點】\n📰 發生什麼事：中國國家統計局8月27日公布，7月全口徑工業企業利潤同比增長11.2%，較6月的15.1%大幅回落，全年前七個月增速亦由上半年的18.7%降至17.6%。AI相關的電子設備與有色金屬產業增速超過百%，而消費與房地產相關產業仍受內需低迷拖累。\n🔍 背景與來龍去脈：去年中國經濟在出口與投資雙輪驅動下恢復，但內需疲弱、房市低迷以及全球貿易摩擦持續抑制需求。AI應用在光纖、光纜與通訊設備等領域快速成長，吸引外銷訂單，形成行業間的分化。政策層面，財政部已表示將酌情加大扶持力度，但短期內需求缺口仍難填補。\n🌐 影響：利潤增速放緩顯示中國製造業復甦仍不穩，可能抑制新台幣匯率與全球大宗商品價格；台灣出口以電子、光通訊為主，受AI熱潮帶動有望受惠；但內需不振與房市風險提醒投資人關注供應鏈波動與政策調整。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSER6em02cFktNlNhTHhMaGtLbklHVUIxYjdUaVd2Nm1MVmtmRGEyUkJJckRYWkF3SGUtczhmQXplOVlqdHVIRWdrQUhtVDNPTGhhM3Vnd0UtUk43SDV4bGllRElBYVRrb2hUWFNJSndrODdBX0tRemd3YmNjS0p5aFRCOE13V3JzNElqekRwSdIBlAFBVV95cUxNZmpPSFVUX21pSTRyMHczLXZnR1RINV9aZ3gwRWViWGVDeEhxc3EwVmNvTHd2MURUbUs1UHFtYWRNTE4zU2NZbWFoZ005V01DZUxmWUlwU0h3NDBXbC10c1piR2hFdURPeVcxQzcyQjJhSUtIVndZQjJxTGZZYVFyNlpKeUFZaEdIOWVjSlEwYTF5TE1B?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "退休「老本」遭扣慘淪下流老人？勞動部指路：開此專戶最安心 不怕債主追",
-          "feature": "「退休金被債主凍結？勞動部建議開專戶保護」\n📰 發生什麼事：近期多起勞工退休金帳戶被法務部行政執行署或法院以債務為由強制執行，導致領有勞退新制的退休金被凍結或扣押，引發社會關注。勞動部提醒，勞退金依法受嚴格保護，只要開立不受執行的專戶，即可避免被債主追索。\n🔍 背景與來龍去脈：勞退新制自2022年全面上路，將退休金與個人專屬帳戶分離，理論上不應成為債務清償標的。但因部分勞工未自行開立「勞退專戶」或帳戶仍屬一般銀行存款，法院得以依民事執行程序凍結。勞動部自2023年起推廣「勞退專戶」登記，並發布操作指引，防止類似案件再發。\n🌐 影響：若勞工盡快開設受保護的勞退專戶，可確保退休金安全，降低財務風險；同時提升公眾對勞退制度的信任，對銀行業務也可能帶動專戶開戶量。對整體勞動市場而言，減少因債務糾紛引發的生活不安，對政府而言則是落實社會安全網的重要一步。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6588831"
         }
       ]
     }
