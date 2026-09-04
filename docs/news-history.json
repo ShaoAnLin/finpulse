@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-04",
+      "featured": [
+        {
+          "category": "international",
+          "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer - CNBC",
+          "feature": "美國八月就業報告出爐：低增長延續夏季『無業』\n\n📰 發生什麼事\n美國勞工部週五公布八月非農就業人數，預計淨增5.3萬人，失業率維持在4.1%。繼六、七月合計減少3千人後，增幅仍屬微弱。\n\n🔍 背景與來龍去脈\n去年以來美國勞動市場進入「低雇、低裁」階段，企業因地緣政治不確定、AI 投資調整與高利率抑制擴張。移民減少也降低了勞動需求基礎。聯準會因通膨仍高於2%目標，持續關注薪資與物價走勢，使利率政策保持緊縮。\n\n🌐 影響\n就業增幅不佳可能延緩聯準會降息預期，美元短期走強，進一步抑制出口與台灣科技股。對一般民眾而言，求職難度提升，薪資成長受限；同時低失業率維持消費動能，對本地服務業仍有支撐。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92WE1BZmt4QlJkTjhBYmI4dERxRVNIUEZtX2hqY3dSUjA2a3NaSlJzT1dTYmhweVhwZ0kybkhySVlGUzdTRVRxTEhIT3ZQXzgzMy1Td19XbDFUVllZRVlYdXc4dE1teVRaRXBQcWlvaGpLVG12NjNlbtIBfkFVX3lxTE5Cb3IxU1ZGc2FxektEWFN3T0lSLVA3cnlGY3VlV29OT1JFRVN4YVdTMkdPOGJmTjhUdUZ4dFNlMy1Fc1ZudURxNUJySXk5VHBUcHhvWXk4ZHBrcF8tYkQzRVZLdGxVZU9SR2EyaXA5SENtdkFoY1Y4N3NLLUtDQQ?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美國7月對台灣貿易逆差創歷史新高 今年來逆差暴增逾80% 因 AI 採購熱",
+          "feature": "AI需求推波助瀾　美國對台逆差破207億新高\n📰 發生什麼事：美國商務部公布，7月美國對台灣的貿易逆差達207億美元，較去年同期激增逾80%，創下歷史最高。逆差主因是電腦、半導體及AI伺服器相關設備進口激增，資本財進口金額更創新高。\n🔍 背景與來龍去脈：近年美國加速建置AI基礎建設，需求大量高效能晶片與伺服器。台灣半導體產業（尤其是台積電等代工廠）在全球供應鏈佔據關鍵位置，成為美國主要採購來源。2024‑2025年，美國亦在討論針對半導體的關稅政策，欲促使本土製造，為逆差增幅增添變數。此波需求同時與全球晶圓代工產能緊張、AI模型訓練成本上升相呼應。\n🌐 影響：對台灣而言，出口增長提升了相關企業營收與研發投資，但高度依賴單一市場的風險亦同步上升；若美方關稅或限制措施落實，可能削弱台灣半導體的出口動能。對美國市場，巨額逆差反映資本財支出持續強勁，亦顯示美國製造業回流尚未完全。一般民眾則可能見到AI相關產品價格上漲，且因供應鏈變化，相關產業就業與投資情緒將受牽動。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9733742"
+        }
+      ]
+    },
+    {
       "date": "2026-09-03",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "【美股AI熱潮受升息與就業雙重考驗，費半連續二週失色】\n📰 美股週五三大指數微跌，標普500與納指分別下跌0.3%與0.5%，費城半導體指數大跌3.5%，其中NVIDIA與台積電ADR跌超4%。聯儲主席華許在傑克森洞演說重申抗通膨決心，推升短期美債殖利率，令市場預期九月再加息一次。\n🔍 AI熱潮自2023年NVIDIA財報爆發以來持續推高晶片需求，帶動美股科技股狂飆。然隨著聯儲鷹派語氣加碼，資金開始挑選具實績的AI供應鏈。上週Marvell營收認列時程受疑，股價重挫10%。下週將公布8月非農就業與博通財報，兩者將檢驗利率走向及AI需求能否向其他晶片擴散。\n🌐 若就業數據弱於預期，市場或降低升息機率，科技股有望回穩；若數據強勁，升息壓力加大，短期內資金可能撤離高估值AI股，導致費半持續低迷。博通若能展現AI相關營收成長，將為整體晶片板塊提供支撐，也可能提振台積電等代工股。對台灣投資人而言，短線需關注美債收益率與就業報告，長線則視AI應用落地速度調整持股比重。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/123398/9721502"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-28",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Fed's Hammack says 'now is the time to act' on raising interest rates - CNBC",
-          "feature": "克里夫蘭聯儲主席哈麥克呼籲立即升息 抗通膨\n📰 發生什麼事：在8月27日接受CNBC採訪時，克里夫蘭聯儲行長Beth Hammack重申「現在是採取升息行動的時機」，她在7月會議中投票贊成加碼，並警告通膨仍高於2%目標，對家庭預算構成壓力。\n🔍 背景與來龍去脈：美國通膨自2022年高點回落，但仍徘徊在3.4%左右，油價與供應鏈問題令基礎價格黏性。聯儲官員在9月會議上多數傾向暫停加碼，形成內部分歧。哈麥克屬於少數主張提前收緊政策的鴿派反對者，認為持續的物價上漲若不即時制止，將侵蝕實質薪資並延長經濟硬著陸的風險。\n🌐 影響：若聯儲採納哈麥克的立場，市場預期利率提前上升，美元走強、債券殖利率上揚，股市可能出現調整；台灣以美元計價的外債成本上升，企業融資壓力加大；同時新台幣匯率或因資金流向美國而升值，對出口產業構成挑戰，但進口原料成本下降有利通膨壓力緩解。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYzhMUzYyajNpakhHREF2VjBuaGFYbzQ4VXd6dUtNMTV0VHBJcVh2a21Lb0pSZFNTaVFHczdHeEUzT1JmRnFWMmQ4bm1hZC1XNlQxeWFpV2FUazVIVXQzZWl3QkM4TGZxak4wUWwxU0dKNW5BUHVWVS01NWMyXzlqODE5ZzRZenZIRGNubjdLeW5OZVdSZHNlSG1SZTJ4M202VjZmZUxn0gGrAUFVX3lxTE55QjRqWHBxbVNNakk1RDlBZTNVTkJEZUljbS1wUXFCVE5XdVhMMFlOOTNwQTJ5YTAxM1RiNDVtQVJHVWctV1JwMXN2Z29HUkNiU2NvWnVyWjFUclFpWm9RektWNFBGR3hQclNjcTE3Y09rRWtTRG5hR1FPNVJEdjA3UzBDc2lxSmswV3U0N0ZWd00xTGlyMUgtXzdjYWc1aHhMLTBBd29PUFdrdw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "華許全球央行年會首秀在即 投資人盼他帶來「清晰度」以重建市場信心",
-          "feature": "新任美聯儲主席華許首度在Jackson Hole發聲，市場急盼政策明朗化\n📰 發生什麼事：華許於8月28日於Jackson Hole年會作為任內首場演說，承諾抑制通膨卻未提供具體路線，投資人期待更清晰訊號。\n🔍 背景與來龍去脈：華許5月接掌美聯儲，當時通膨仍高於2%目標，前任政策模糊導致市場波動。Jackson Hole歷屆是Fed主席傳遞指引的重要舞台，經濟學家預測他可能維持高利率或暗示未來調整。\n🌐 影響：美元或走強、台股可能因資金外流受壓、企業借貸成本上升，民眾購屋與理財成本提升；同時也促使台灣央行審慎檢視本土利率政策，以因應外部金融環境變化。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6590541"
         }
       ]
     }
