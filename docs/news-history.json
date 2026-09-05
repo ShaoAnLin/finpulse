@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-05",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Investors zero in on August inflation data in the week ahead after yields spike to levels not seen in years - cnbc.com",
+          "feature": "美國債券殖利率飆至多年新高，8月通膨數據成市場焦點\n📰 投資人本週聚焦美國8月消費者物價指數（CPI），因美債殖利率在上週二突破4.8%（10年期）創2023以來最高，導致全球債券市場大幅拋售，股市波動升溫。\n🔍 背景：能源價格持續上揚、政府借款增加、供應鏈碎片化使通膨風險被重新估計；同時美聯儲官員先前暗示或維持高利率，令市場預期加碼緊縮。上週二的拋售使殖利率急升，隨後美聯儲官員克里斯·沃勒與紐約聯儲行長約翰·威廉斯的鴿派言論稍緩跌勢，但整體仍處於多年高位。\n🌐 影響：殖利率上升推高全球借貸成本，台灣企業與民眾房貸、公司債利率同步上揚；台幣匯率受美債吸金壓力走弱，進一步抬高進口物價。投資人將重新配置資產，偏好高息債券或避險黃金，股市可能出現資金流向波動。8月CPI 若高於預期，將加大美聯儲維持高利率的可能，進一步影響台灣股市與貨幣政策走向。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMWQxem03N3lpU3BZb3V4aGhNX1N1ZXY3OGhZUjdVN1NkVzBoWURJZm4weXdya0FNMVNvVTVYLUJKbzRPRzRGMnhZb0JRRmNCLWtUZElXNUtEdmV4REU2NldjTHFwTXB4Sk5sXzI0UFY1clc3TzBkeUxyQ2oyaXZyS21jS2lZVG5WaWRIbl85RXpvY1ZxMzRQczhjbw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "輝達再押開源AI！傳砸25億美元投資穆拉蒂新創 估值至少400億美元",
+          "feature": "輝達再度押注開源AI：欲投25億美元於穆拉蒂新創思維機器實驗室\n📰 發生什麼事\n英偉達（Nvidia）正與前OpenAI首席技術官米拉·穆拉蒂創辦的思維機器實驗室（Thinking Machines Lab）談判，擬投入約25億美元（約790億新台幣）作為新一輪融資，估值至少400億美元。若成交，英偉達將成為最大投資者，持股約一半。\n🔍 背景與來龍去脈\n近年英偉達從單純供應AI晶片，轉向布局開源模型與開發者生態。去年收購Hugging Face、投資Reflection與Poolside，皆為擴大開源AI版圖。穆拉蒂於2024年離開OpenAI後成立TML，致力於開放權重模型與企業客製化平台，已獲多輪數十億美元資金，並推出Inkling等模型。英偉達先前已表明將與TML建立長期算力合作，這次投資是前期承諾的延伸，也顯示英偉達欲以算力與資金雙管齊下，對抗OpenAI、Anthropic等閉源巨頭。\n🌐 影響\n對美股而言，英偉達的投資可能提升其營收來源，擴大GPU需求；同時提升開源AI生態，使更多新創與企業可使用英偉達算力，降低對單一模型供應商的依賴。對台灣而言，相關供應鏈（如晶圓、伺服器製造、AI軟體服務）或受惠，亦可能帶動本地AI人才與創業熱潮。投資金額與高估值亦顯示AI新創市場熱度仍在升溫，投資人應留意估值與營收倍率的落差。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6598279"
+        }
+      ]
+    },
+    {
       "date": "2026-09-04",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "金控雙雄法說、輝達財報亮眼、大立光豪掷30.8億購地，市場熱絡背後的動力\n📰 富邦金控與國泰金控本週先後舉行上半年法說會，分別披露EPS 13.17元、稅後純益 765億，並承諾高配息；美股AI晶片龍頭NVIDIA 公布第二季營收962.2億美元、淨利翻倍，預測2028年營收將增長70%；光學元件大立光以30.8億元收購科宏工業土地，持續擴張產能。\n🔍 金融股因股市熱度與資本利得需求，加上保險子公司績效優於目標，故推動高配息以吸引長期資金。NVIDIA 財報受惠AI算力需求激增與資料中心擴建，帶動全球半導體供應鏈景氣；大立光則因手機與車載鏡頭需求上升，提前布局製造基地，以因應未來產能缺口。\n🌐 這波資訊刺激台股權值股上漲，外資連續買超近500億，ETF資金流入，帶動半導體與光學相關個股熱度；同時高配息預期提升金融股吸引力，提升散戶與機構資金配置比例；大立光土地收購則顯示本土高端光學供應鏈的擴張潛力，對台灣製造業與相關就業有正面效應。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6591119"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-29",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Big Tech's massive AI spending is putting one of its longtime strengths to the test - CNBC",
-          "feature": "大科技 AI 砸千億，考驗長期優勢\n📰 發生什麼事\n全球前五大科技公司（Alphabet、Meta、Microsoft、Amazon、Apple）在2025‑2026 年持續加碼 AI 研發與算力建設，全年 AI 相關資本支出估計超過 3 兆美元。此舉不僅推高雲端與晶片需求，也讓公司財報出現高成本與盈餘壓力。\n🔍 背景與來龍去脈\nAI 熱潮自2023年ChatGPT爆紅後，雲端服務與大型語言模型成為新戰場。大科技利用既有資料中心與廣大用戶基礎，將 AI 融入生產力套件（如 Microsoft 365 Copilot）與廣告平台。過去幾年資本支出已從 1.5 兆美元升至近 3 兆美元，主要投資在 GPU、ASIC 及自研晶片。與此同時，全球利率偏高、供應鏈瓶頸使資金成本上升，迫使投資者開始檢視這波支出是否能轉化為持續營收。\n🌐 影響\n對市場：AI 相關股（半導體、雲端）短期受惠，但高昂支出導致部分公司股價波動加劇；資金流向更偏好具明確商業化路徑的企業。對台灣：本土晶圓、封測廠商（如台積電、聯電）將持續受惠於美國與歐洲的 AI 計算需求；同時，雲端服務需求提升可能刺激本地資料中心建設，創造新投資與就業機會。但若 AI 投資回報未達預期，可能引發全球科技股調整，進而影響台股資金流向與投資者情緒。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcFVzZFpFU2tDRjVXWF9FRHFZUkRCQjFNZUVySEZyRGdldmw1LUtzalBTOG5DNUJoOWk3MTdWWUlWUlUxQ3QzQUpZaDdodDIyOGxtNTN4Z3RTb3RidFNOYVFGSkYwM3pRWU5DS2NNNWJMOEwxRVlVLWpMQk9TWHg3MG1DdFhuNjFWMHgwUXZPazFxZzQ5czBxNXJBX0tTd29hR2lsOA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "美股周線收紅 費半卻熄火 下周就業和博通接棒考驗AI行情",
-          "feature": "【美股AI熱潮受升息與就業雙重考驗，費半連續二週失色】\n📰 美股週五三大指數微跌，標普500與納指分別下跌0.3%與0.5%，費城半導體指數大跌3.5%，其中NVIDIA與台積電ADR跌超4%。聯儲主席華許在傑克森洞演說重申抗通膨決心，推升短期美債殖利率，令市場預期九月再加息一次。\n🔍 AI熱潮自2023年NVIDIA財報爆發以來持續推高晶片需求，帶動美股科技股狂飆。然隨著聯儲鷹派語氣加碼，資金開始挑選具實績的AI供應鏈。上週Marvell營收認列時程受疑，股價重挫10%。下週將公布8月非農就業與博通財報，兩者將檢驗利率走向及AI需求能否向其他晶片擴散。\n🌐 若就業數據弱於預期，市場或降低升息機率，科技股有望回穩；若數據強勁，升息壓力加大，短期內資金可能撤離高估值AI股，導致費半持續低迷。博通若能展現AI相關營收成長，將為整體晶片板塊提供支撐，也可能提振台積電等代工股。對台灣投資人而言，短線需關注美債收益率與就業報告，長線則視AI應用落地速度調整持股比重。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/123398/9721502"
         }
       ]
     }
