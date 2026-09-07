@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-07",
+      "featured": [
+        {
+          "category": "international",
+          "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth - The Guardian",
+          "feature": "中國推出 400 億英鎊金融刺激方案，撐起股市與經濟增長\n📰 北京將向大型銀行、保險公司注入約 400 億英鎊資金，要求其加大對 A 股及新興產業的投資，以提振資金儲備並緩解經濟增速放緩的風險。\n🔍 今年二季度 GDP 輕微下滑，七月多項指標不及預期，加上投資者因美債收益上升與通膨擔憂而減少融資買股，導致融資餘額從 3.01 兆人民幣降至 2.62 兆。政府在去年已多次以靈活降息、降准應對，但對於過度杠桿的擔憂使其迴避大規模刺激，遂改以「金融 sector」直接注資，並鼓勵資金流向股市，支撐 AI 相關產業的再度成長。\n🌐 市場方面，刺激預期已使滬深指數回升，外資看見資金面支撐，可能增加對中國股市的配置；對台灣而言，資金流入中國股市或減少對台股的投資，同時中國製造業競爭加劇亦可能衝擊台灣出口；長遠看，若刺激未能提升實體需求，金融風險累積仍可能波及全球資本市場。",
+          "source": "Reuters Business",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHVFSUVRc3dfRFlBN3gxVFdkRnNSYW8xOG4yOWVjcFJYb3djU3R2MjdBYW84Z0dockd4dFI2cS1zVGhVMGRmajRwWEFMRW81T18tUkstRFRaNzM3VWFxcy1IMWU4ZTRDU0NXeWVQeGtYUFhFWnNublBzTFNGZTYyMVlqMmhFNDY0ZUVQWURVeFhGbGx3dmh5TnBvRGkzbzFoSWZYTzNwbFNIcUdYdFRsNnVOeUdnWWNTeE84ZHprRWFnMmp3TXc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "生成式AI晶片占半壁江山營收上看5千億美元！Deloitte直擊SEMICON揭台廠3大戰略",
+          "feature": "生成式AI晶片營收逼近5000億美元，台灣半導體戰略加速升級\n📰 SEMICON Taiwan 2026揭示，Deloitte估算全球晶片銷售額一半將來自生成式AI晶片，營收接近5000億美元。AI模型算力需求激增，單顆處理器已無法滿足，記憶體頻寬、晶片間傳輸、功耗與散熱成為瓶頸。業界聚焦矽光子、異質整合、3D IC、Chiplet與先進封裝等關鍵技術。\n🔍 背景：AI熱潮推動高階記憶體（HBM3/4）與封裝技術需求爆發，資本配置從單純擴產能的「Capacity‑driven」轉向掌握關鍵技術的「Capability‑driven」。全球供應鏈正因地緣政治重組，北美、歐洲與日本加碼前段製造，東南亞、印度承接後段封測，台灣則以異質整合與高附加價值封裝為核心，結合IC設計、晶圓、測試與設備完整生態。\n🌐 影響：1️⃣ 市場規模擴大，AI晶片與相關記憶體供需波動可能衝擊傳統DDR市場；2️⃣ 台灣廠商若能掌握Chiplet、CPO等技術，可提升在全球供應鏈中的議價力與營收占比；3️⃣ 投資者與政策制定者需關注產能配置與人才培育，以因應美中科技競爭及供應鏈韌性需求；4️⃣ 消費者層面，AI應用成本下降、服務效能提升，將加速各產業數位轉型。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6598690"
+        }
+      ]
+    },
+    {
       "date": "2026-09-06",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "OpenAI獲55億美元認股權證，輝達提供最高1,050億美元擔保，AI資料中心資金鏈升溫\n📰 OpenAI在SB Energy即將上市前取得約55億美元認股權證，並已投入5億美元投資，同時簽下約8GW資料中心租約。輝達則投入15億美元，另以最高1,050億美元信用擔保支持SB Energy在俄亥俄州的AI資料中心建設。\n🔍 背景與來龍去脈：SB Energy是軟銀旗下的再生能源子公司，正籌備IPO，為吸引AI巨頭進駐其資料中心，提前發行高估值認股權證。OpenAI自2023年起加速算力擴張，需大量GPU與電力，與SB Energy合作可同時獲取綠電與租用大規模算力。輝達近年不僅賣晶片，更以「資金+基礎建設」模式綁定客戶，提供巨額殘值擔保，以確保GPU需求並降低競爭者進入門檻。此舉與Google為Anthropic提供類似擔保的策略相呼應，標誌AI基礎建設已進入資本密集的循環融資階段。\n🌐 影響：對市場而言，巨額認股權證與信用擔保提升了AI基礎建設的資金可得性，可能刺激更多資料中心開發，進一步推高GPU需求，利好輝達與相關供應鏈（機櫃、電源、散熱）。對台灣而言，AI算力成本下降或加速本地企業導入生成式AI，同時台灣的再生能源與資料中心投資也可能受惠於此類資金模型，促進本地AI產業鏈的上游與下游協同發展。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6593605"
-        }
-      ]
-    },
-    {
-      "date": "2026-08-31",
-      "featured": [
-        {
-          "category": "international",
-          "title": "What new tariff walls in U.S.-Canada trade war mean for the economy's critical metals - CNBC",
-          "feature": "美加貿易戰升溫：關鍵金屬新關稅牽動全球供應鏈\n📰 發生什麼事\n美國於2026年8月對價值約200億美元的加拿大鋼、鋁、銅等關鍵金屬徵收高達50%的關稅，加拿大同步以等值報復關稅回應，雙方同時施以強迫勞動與安全檢驗附加稅，導致跨境金屬流通成本急升。\n🔍 背景與來龍去脈\n此輪關稅源於美國未續簽CUSMA（美加墨自由貿易協定）長期條款，並以「強迫勞動」調查結果為藉口加徵10%‑12.5%關稅。去年鋼鋁因AI資料中心與新能源建設需求持續走高，成為美國保護本土產業的焦點；同時，金屬價格上漲使投資者將黃金視為通膨對沖工具，進一步放大市場波動。\n🌐 影響\n1. 供應鏈：美加製造業及包裝、汽車等高金屬需求產業成本上升，可能轉嫁至終端商品價格；台灣的半導體與新能源設備亦高度依賴北美金屬供應，將面臨成本壓力。 2. 市場：關稅預期推高鋼、鋁、銅期貨，間接支撐金價；投資人將更關注美國CPI與聯準會政策走向。 3. 政策：若雙方未能迅速協商解除關稅，可能促使台灣企業重新布局供應鏈，增購替代材料或多元化採購來源。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkczaThjMDgwN2t0TGpkZzBIOWVlNGF6ZHJWYjRKcTl0ZDhiSFNxNVNETEJuY0FtUnVHR19RbGlQdXowZUd2T1E3TUVIMVptdFNkR2s0eGdvLWZERG1sUjQxaGFmek9hVi1vREMwU294R3N5dzFLakgxVHUyYU9zRGRMSThBcVRGaFZsZDRsc1dZQW9HOTQwYkt30gGfAUFVX3lxTFA5b21UZDdNQUtCOUw1Q3AtclpxZ0g1NVNrckdQMEF6eHNGYXNGTkhxa0IyTzg1SlhHekFrTjh4VE1paUNrZ3Z0d1RLelh1dEtVZGwyTWpwQXFscFpHU3FESE5KTDN2dFY2MWVoYlk0Z1I2alpIOUpzTHpXUTRnMFREV1BqY3EzYllfVnR4MktjaXJoMG9DMkRkZE5iNHpUMA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "彭博：新台幣去年5月暴升燒出改革 彭金隆重寫壽險1.2兆美元投資版圖",
-          "feature": "「彭金隆改革壽險投資，從美元債轉向台灣資產」\n📰 發生什麼事：金管會主委彭金隆上任後，推動壽險業降低美元資產比重。2023年5月新台幣大幅升值，使壽險持有的約1.2兆美元資產市值瞬間縮減，損失數十億美元。金管會允許業者將匯損分期認列，兩個月內減少約550億美元的美元避險部位，壓力稍緩。\n🔍 背景與來龍去脈：台灣壽險多年以美國公司債與公債為主要投資，匯率波動直接影響資產負債匹配。2023年5月新台幣創1988年以來最大單月升幅，逼近清償警戒線。金管會隨即召開約20場閉門會議，設定幣別配置指標、將美元曝險納入績效考核，並要求年度降低海外投資、提升國內投資比重。\n🌐 影響：匯率劇烈波動使NDF市場流動性急降，科技公司因此取消至少27億美元籌資計畫。長期看，壽險資金將逐步轉向台股、房地產與AI、半導體等本土長期項目，提升本地資本市場深度；同時保單商品結構可能調整，保戶將見到更多本幣投資型商品。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9723889"
         }
       ]
     }
