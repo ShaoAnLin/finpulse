@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-07",
+  "date": "2026-09-08",
   "featured": [
     {
       "category": "international",
-      "title": "China prepares £40bn stimulus for financial sector amid fears over sluggish growth - The Guardian",
-      "feature": "中國推出 400 億英鎊金融刺激方案，撐起股市與經濟增長\n📰 北京將向大型銀行、保險公司注入約 400 億英鎊資金，要求其加大對 A 股及新興產業的投資，以提振資金儲備並緩解經濟增速放緩的風險。\n🔍 今年二季度 GDP 輕微下滑，七月多項指標不及預期，加上投資者因美債收益上升與通膨擔憂而減少融資買股，導致融資餘額從 3.01 兆人民幣降至 2.62 兆。政府在去年已多次以靈活降息、降准應對，但對於過度杠桿的擔憂使其迴避大規模刺激，遂改以「金融 sector」直接注資，並鼓勵資金流向股市，支撐 AI 相關產業的再度成長。\n🌐 市場方面，刺激預期已使滬深指數回升，外資看見資金面支撐，可能增加對中國股市的配置；對台灣而言，資金流入中國股市或減少對台股的投資，同時中國製造業競爭加劇亦可能衝擊台灣出口；長遠看，若刺激未能提升實體需求，金融風險累積仍可能波及全球資本市場。",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTHVFSUVRc3dfRFlBN3gxVFdkRnNSYW8xOG4yOWVjcFJYb3djU3R2MjdBYW84Z0dockd4dFI2cS1zVGhVMGRmajRwWEFMRW81T18tUkstRFRaNzM3VWFxcy1IMWU4ZTRDU0NXeWVQeGtYUFhFWnNublBzTFNGZTYyMVlqMmhFNDY0ZUVQWURVeFhGbGx3dmh5TnBvRGkzbzFoSWZYTzNwbFNIcUdYdFRsNnVOeUdnWWNTeE84ZHprRWFnMmp3TXc?oc=5"
+      "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem - CNBC",
+      "feature": "中國消費低迷：全球經濟的隱憂\n📰 發生什麼事：CNBC《The China Connection》指出，2025 年中國城鎮居民可支配收入增速僅 4.3%，遠低於以往十年 10% 以上的高速成長；同時房價自 2021 年高點跌逾 85%，導致家庭財富縮水，內需疲弱成為全球貿易赤字與供應鏈重組的主要風險。政府在 G20 會議上被要求消除抑制消費的扭曲，但北京表態抗議。\n🔍 背景與來龍去脈：1990‑2020 年中國以高速城鎮化與出口驅動增長，居民收入持續超過美國兩倍增速，房地產與基建投資成為拉動內需的核心。2021 年後，人口紅利減弱、疫情限制與信用收緊使房市急跌，資產負債表效應削弱消費信心。加上美國與歐洲對中國的貿易政策收緊，出口增長放緩，導致政策必須同時平衡外部需求與內部需求。\n🌐 影響：短期內中國進口減少，全球大宗商品需求承壓，美元走強、原物料價格波動。對台灣而言，出口至中國的高科技零組件可能受訂單縮減影響，同時外資對新興市場的配置可能轉向美、歐，造成資金外流；然而若中國加速金融市場開放，人民幣資產流入新興市場也可能為台灣資產管理帶來機會。總體而言，消費低迷是全球成長的不確定因子，投資人需關注中國政策調整與供應鏈再配置的動向。",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "生成式AI晶片占半壁江山營收上看5千億美元！Deloitte直擊SEMICON揭台廠3大戰略",
-      "feature": "生成式AI晶片營收逼近5000億美元，台灣半導體戰略加速升級\n📰 SEMICON Taiwan 2026揭示，Deloitte估算全球晶片銷售額一半將來自生成式AI晶片，營收接近5000億美元。AI模型算力需求激增，單顆處理器已無法滿足，記憶體頻寬、晶片間傳輸、功耗與散熱成為瓶頸。業界聚焦矽光子、異質整合、3D IC、Chiplet與先進封裝等關鍵技術。\n🔍 背景：AI熱潮推動高階記憶體（HBM3/4）與封裝技術需求爆發，資本配置從單純擴產能的「Capacity‑driven」轉向掌握關鍵技術的「Capability‑driven」。全球供應鏈正因地緣政治重組，北美、歐洲與日本加碼前段製造，東南亞、印度承接後段封測，台灣則以異質整合與高附加價值封裝為核心，結合IC設計、晶圓、測試與設備完整生態。\n🌐 影響：1️⃣ 市場規模擴大，AI晶片與相關記憶體供需波動可能衝擊傳統DDR市場；2️⃣ 台灣廠商若能掌握Chiplet、CPO等技術，可提升在全球供應鏈中的議價力與營收占比；3️⃣ 投資者與政策制定者需關注產能配置與人才培育，以因應美中科技競爭及供應鏈韌性需求；4️⃣ 消費者層面，AI應用成本下降、服務效能提升，將加速各產業數位轉型。",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6598690"
+      "title": "日圓油價驚漲！台股翻黑殺逾200點 周五美CPI成關鍵風向球 - 知新聞",
+      "feature": "日圓飆升油價狂漲　台股狂跌200點　美國CPI成關鍵風向球\n📰 發生什麼事：受中東衝突升溫推升布蘭特原油至每桶近98美元，日圓兌美元突破154關口走強。台股開盤先漲逾百點，隨即回吐逾200點，收盤轉黑。美股因勞動節休市，市場焦點轉向本週五公佈的8月美國CPI。\n🔍 背景與來龍去脈：油價上漲源自伊朗與以色列等地緊張局勢，航運安全疑慮提升能源需求。日圓走強則是市場預期日本央行將加速升息，去年底曾跌至160左右。美國CPI是衡量通膨的關鍵指標，若高於預期，聯準會可能延續升息。\n🌐 影響：油價與日圓雙升拉高進口成本及企業匯兌負擔，台灣製造業與消費者將感受物價上漲壓力。台股跌幅顯示投資人對通膨風險的敏感，若CPI持續走高，資金可能流向避險資產，台幣與股市波動性將升。一般家庭則需留意油價與匯率變化對日常開支的衝擊。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SQll4SHYzTkpMZVVoU01ETG9pYUswSEMyV2dueXlQZWFWcE9seVUwdWhlWUhldXd2eXdOY0thN0NGeWplRHdaS0pKNGhLeUI0cGpBZEhKcHZGV2hOZVhjMFZESTRBYkdqQkR1cE9FVQ?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "台股早盤漲逾600點 台積電漲30元 - Yahoo新聞",
-      "content": "台股早盤漲逾600點 台積電漲30元 Yahoo新聞",
+      "title": "台股開高後翻黑跌逾200點 回測47100點 台積電小漲 - Yahoo新聞",
+      "content": "台股開高後翻黑跌逾200點 回測47100點 台積電小漲 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNYUZUTTFfVEMxbzhBdkNJOHhJeHB3VGZIRE4tN2gtVFdGZFpIanpCaWhFaGNfUExkVW5DeURVdDRmeW9ac0NTOHZhT0dzMHZyQ2VVSlo0X0J4ZFNJcnlEQU8zakNoTHRZNi1YbDhEaF9HNzMtUXpYWHkyaGc1OWVrZGNIZFBmX3JXTXpPZmNQTTYwa05QaEJ5MmgwbnRYRnZXYWNaZ2dIZmZDazg0eVJTc0lwQ0Zhc3NCOC1WX01fQ1NvTVFfd0hpXzJEbnNiVmxEaHVxVDhrTjZKRlZsNWJWa2Y5aUl0OEZJTXRB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNbVlTOC05SG9oT01pWFl0Nm81Wk9TUDV4bGFkRjI5YzlSSnNzeV9pQVlLZXViekVvZ0diMzhRcnZyUUd0dkstUVlfSFBKWmZqZWpfeWpUaFFvRnBYWjJLWkJScXRGSWRRX2RlLWxMN3dQdVFYcUVSZ2wzeW02US10eGREMm1kcExwYU1VNXBsLUF0TEttRFJObWRJbVJvR3BBOXRHU1RXUjc2OUEtcTJoZjBwMkVhUy00Q0tmZTF3UU5BbkVHSjdZM0VGakNJVTlMTU9NZWNQLU5VWkRoOEpoMmNncUtseWNDZUtfSDZ5VHlyWV9GbXRQTzVybU5XTkpJS082MFVfV0daTFdRVVBESFpxNURSeW5IZklHMTNLdFZzbWRRUmFncDBTOWVJQWE4RU9UV25RLVE?oc=5"
     },
     {
-      "title": "快訊／電子股領漲 台股開盤強漲逾600點 站回47000點 - 非凡新聞台",
-      "content": "快訊／電子股領漲 台股開盤強漲逾600點 站回47000點 非凡新聞台",
+      "title": "台股開盤／台積電漲5元！台股跌近100點 中小型股搶戲 - 三立新聞",
+      "content": "台股開盤／台積電漲5元！台股跌近100點 中小型股搶戲 三立新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9rM2xOd0U0MVZ6VnNYTG1sUGZ4cDBtaE5nRkJkQzBVcnQ3aFk1THNMUjVtNjdSRGNOaEh5Vk9DT0d1QzdiVzIwbTFya2pUZHdTOGdrWllSdHNaQWlyaGJtVA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1nVk9kWVNjUHVpTk5OMEtPSEZTYWtJN2RzenRxUF9kMkxqdm9uMzIxNE9tVHNwSlVLdkM0c2NlOUVzNm5DVmloWGJvdw?oc=5"
     },
     {
-      "title": "台股大漲逾670點重返47K 台積電漲30元 4大權值股開飆- 財經 - 中時新聞網",
-      "content": "台股大漲逾670點重返47K 台積電漲30元 4大權值股開飆- 財經 中時新聞網",
+      "title": "盤中速報 - 運錩(2069)股價拉至漲停，漲停價22.4元，成交678張",
+      "content": "運錩(2069-TW)盤中漲停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6600199"
+    },
+    {
+      "title": "台積電2465元開高走高！台股開紅盤記憶體狂歡 南亞科、華邦電目標價探「這價位」亮紅盤 - Yahoo股市",
+      "content": "台積電2465元開高走高！台股開紅盤記憶體狂歡 南亞科、華邦電目標價探「這價位」亮紅盤 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1WVFJ3dmFsWW8xNzI0aW9PWHJDUXFfYlg0a0FOeE1Lck9HbW5LZ0xDdHp4aHh5VW1pQzFpSzdtZWRZOFFNU3FIZ1RxM2hfTjc2c2RQdTJCV1ZTMTlyTUJ4MTBpdDVLdm1DUm5IbG5B?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxNd29zTkJEakN4S1Qzdk5ha0hhR1M4NmpPVUtvSHFyS05yR1RTZ1lLVDFDWVc4M2xvNlcwMlZMU3Q1WllpZmx0c0dMRHdVXzl6Mm9sZHpBdjBUd05aTk9Cal9lOGVSQzQ4clpJTlItY1F0RW10eno3UGhkOGRDT18zWTJiVTdranlvdGVibS1HcVBBRldGRzU5aUtSRUg0S28wWE8wc0NLWmdoN0NJcWRJWmRLUzlRSTlraVhrVm15a09ZbkU1V3g2TTNtcTRRaXBBRW9oa0xYUjFvNS1aaWZ2VE5wSkdfMHRZYVNJZl90NEFidUJIVGVnUjVrVmFzZUU1Tm5FbGVyakJYZkdIU0RVS2o4QUNQMVJDLXFrUG56TnFaQktJa2FiSUdVSF9ZamhOelgwaWlFY2dfem9DTWNURm9iaHFHSGU1Q2cyaVQteVhNWkxob3psUHZDbWpSelFOQndCWEhrRU51cUU3VklnUDZlcW5hTUNJMnlJcEsxMktLM0dtSVhLOXBEbW5vN2FoUWY1UDY0dmVDM1pMLVhQRjJoUzhxcWFmZ0cwZEVPc09EV29qa2FLaThUVXVGQXVFUDR1SExMaFF1cUQ1aDNkLVpTMFBYRHNxNEE?oc=5"
     },
     {
-      "title": "李遠首度訪英 盼建立台歐堅實文化盟友關係",
-      "content": "文化部長李遠展開歐洲訪問行程，首站抵達英國參訪巴比肯藝術中心等文化場域，接續前往法國參與第30屆台法文化獎評審暨第29屆...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9738513"
-    },
-    {
-      "title": "蘋果進入特納斯時代 庫克交棒卻不退場",
-      "content": "蘋果新任執行長特納斯才剛接掌公司，就準備進一步挖掘App Store獲利潛力，但這項策略似乎也成為蘋果老將席勒（Phil Schiller）退居幕後的原因之一。彭博資訊記者葛曼（Mark Gurman）披露，特納斯和服務事業主管庫伊（Eddy Cue）希望提高App Store利潤率，並從平台創造更多經常性收入；席勒則擔心，這麼做只會進一步惹惱開發商和各國政府，因此不想捲入其中。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9738510"
-    },
-    {
-      "title": "台股拼47K添柴火！日股漲逾1300點　韓股飆3.5% - ETtoday財經雲",
-      "content": "台股拼47K添柴火！日股漲逾1300點 韓股飆3.5% ETtoday財經雲",
+      "title": "台股早盤漲逾百點轉跌 台積電漲15元 - Yahoo新聞",
+      "content": "台股早盤漲逾百點轉跌 台積電漲15元 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBKbEVZMlExR3JUb0gza1dQOEoxaHpiYURVT0NDTTVqS0IxbHVqcmt3SndHN2I1MFdEcjlZcXRlWG11cF90QWtsLWc1RWNNSDI3b0HSAVBBVV95cUxNQzVfczJmTWo4OTRCY2NxTVd2ekhuZ3N2RXFtWnZycjZVdHZ5LW9PQ255bEliVzgwa3VWSEdPc2dGYk9zbFVxb3ktN2JfcG9sQg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPUmN1bnRvd0h3VXZMRTF4OTBQc0dxNHR4ajhfampQZkFUbUlJMHFtbXNBUk5uSXd3NHItRVRmX3I5SjB0N1pfUkVpemZnSFFTd1Z0cUR6OVRXZGVCWjc5NnJsNFFsU1VFNnRtMnhnRTlUQklmLW5TMjVHeTVsdVFyV0pjTkxjSVJ6TVhrTlVkYk5qUVRNUFdCSC1NSldDTlFIMFJzajVuRERXWDE0d1FnT2MzVDhQTUlHZGVhX01tT1o1SW5hamJJY3RYQWJWQzhVLVMxdF9FWHhvbmZ1bnhCSjRLaGVwYTQ1T085OWloQ2FoZjdhQ3hSN0FzTUhsanlnRnVZd0YtaEgzbVU?oc=5"
     },
     {
-      "title": "0056 元大高股息- 台股上市公司稅前淨利年增92.9%，預計明年股息可望豐厚- 股市爆料同學會 - CMoney",
-      "content": "0056 元大高股息- 台股上市公司稅前淨利年增92.9%，預計明年股息可望豐厚- 股市爆料同學會 CMoney",
+      "title": "盤中速報 - 恩德(1528)股價拉至漲停，漲停價21.05元，成交1,519張",
+      "content": "恩德(1528-TW)盤中漲停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ERXlETW9qYWVINVlPcTZIaDBTZzBwbXNVZTJBRnpELVlhOEZTbzN2QXVzdXg0MHBzVXJ2WWJLTTlsb05jU001dVFGZjVMeGZ2UGNhMXM4SVE?oc=5"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6600198"
     },
     {
-      "title": "OPEC+ keeps oil output policy unchanged for October - CNBC",
-      "content": "OPEC+ keeps oil output policy unchanged for October CNBC",
+      "title": "盤中速報 - 瑞祺電通(6416)股價拉至漲停，漲停價109.5元，成交548張",
+      "content": "瑞祺電通(6416-TW)盤中漲停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6600196"
+    },
+    {
+      "title": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there - CNBC",
+      "content": "Trump says Bombardier can't sell in U.S. unless Canada aerospace giant builds there CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1Jb3JjX3FIRFp4VzJLdzM2R3lSSWdsWk1kOTZiWkxWeTc0RlQtVFQzOG1oVUF2Ym5YRVgzOVA1SHJBTXU3YTV2RUxvTXF1bEJNQkpaVlB6ZXpLS1BVRGVkUXQ3VFhMSEJBVFd5RdIBckFVX3lxTE9MTjdQYzRBcGtFSno4b2hSanRVNm1XdVVQd2dZQl8zNHpaa3ctV1I0T0JJT3I5LUllUWRSazVFYjZDSHFGNmktbVl4X0JyMHNXc1VneTBvSDZWRjFPMEtUZndITlpXS1R6ZVRoRGg5TURudw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMlpueldQaUNhSVFJc2tqWjhZZGdGVzgyWGo3WFBEdUt5c2h6aTY1YW1yTUdHaW03Q3htX3BhVWlfUVZoMU1icE9aTDd3YkJDYjdSWGQ5NE41YkNMMWZGNEZ5REhKeEY4ZHNlYzJ3T3ZlRHJ1N3BSTWpYTmIzVFBhWlg2MmRNUmpsQkpjSlBXSWlUM3BCRGlPc2h5N1kwOFpIZGZwbjBEc1YyRjI1ZmJac0530gG3AUFVX3lxTE9JTm9JNGFYaE1nb2pkdFZ3M25CcThKYUlwd1JpMExKQ0xpQmExZk1FOS16eTFUSDBSajVuRkRsVHZZQ24tbDFweS1WVDBrVEtDXzdWQjktUU82NV9ZcVRxWjMxSDRESkhRWXBCVHVXTmUzY280cU16bmdGdGI2WkVDVlVib2ZDT194ejdlMkxkbEJ4Ni0yeFQxcTVLMS1OZF9DSDg3YnBrZkhVbU42S3JBN0ozVm93TQ?oc=5"
     },
     {
-      "title": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here - CNBC",
-      "content": "Sugar is outperforming the stock market this year. Here's what's driving it, and where it can go from here CNBC",
+      "title": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts - CNBC",
+      "content": "Trump says he's made 'Hundreds of Billions of Dollars on Stocks' for the U.S., in stream of AI posts CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNS3JLeld0alpCUFQ0VkpXZDVJaF9DMmh6SGtFcE05MG9XY1BoaXg2Y085N0ltV1kzRHFjeTYyelQzUFA3THFPRC1ZMEZMQzJ3Vkc1Z0otbVpXbzVRUjMyeHZ6V0gyb2NZWjc3N00tbUJOSlpoa2Fkdk95YkRTZXRqWWJiSFBHRlNQVFpLMjVDZzczQ1RKOERlNFlCSE1CMGdQSEJvR2R30gGrAUFVX3lxTFBxNmkwZ211Y2hFN0lHdkRYYmJsOVYxcTRscDFtSnRRUEdBY0JTSzFkYkFOTXQ4VGdyeGJiSnI4alNVZmdZcm03VG1PSkRyd1Y3Y2paQTItR0dnS0hpZG1YeFVYVTBCREc0amNSSEtBaUpoZG1DS0pTbnZKRk1XS05TOEJ5amMwYWM0cE9aME5Vbmw2S2ZuZksxX3R6RGNFdjRxVmE0SjRXXzNwcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZk9UZ1N2d2pack13Um5mcUNYOXFSMFE4elo0Rnh1UVZLU21RZGhKbWlFZHRvWVdhS3lwUVZabDZtR000VFZ6bWJMcWJ4OWxLUkc1REl1N0VfcTJOLURZSVNReUtnYWRRc1VZaThaRW82czU4VDc3M3prY2l4VnFiYThiTVI2UdIBiwFBVV95cUxQWWo4RjNJbmtRQlY3S0x6Rnc3WUo4T2t6TmVXODB2WEVfUmlrb0U0UnlFYnpWbDNDYmFIZ1NyNnlna2Y1Wng2dW5oeXFvM3E1ZzUtQm9LbWNCSW9nWjBfMGU3Rl82ZjJZbHFHSUZvd1NJLTU5bEhUTXZnbkE4SEtMTlJ6Um42akZrVjk0?oc=5"
     },
     {
-      "title": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen - CNBC",
-      "content": "U.S. Energy Secretary Wright says Iran nuclear deal may never happen CNBC",
+      "title": "Far-right AfD landslide in German state piles pressure on federal government - CNBC",
+      "content": "Far-right AfD landslide in German state piles pressure on federal government CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBjRXNzYm1DbW9uSUVoNEdiRERzODZ0ZU9uX3prc1NqRzBJRmpfbE54c2l2ZmdyRlNJVm9IMS03Z0dZMWJYSjM2MVN6Qi1RbGZqa2RYWU1OQ3FKZXVRUk5UbU5LRUxhVnI2YW80b3FiQWtWbkZjbXdXUmZCWFLSAYIBQVVfeXFMTXcyWEYyRmljRURjaTBVeUtUZThKWHVpWkdCTHY5dWRpNVRsNG9wT3NaZE9WcG9aSGdXd3FLSTFLMkVaX2dPQzVuTzlqRVBoTnBLbU1ET181MVB2VHd5M2V1X1Y2bGpHZjl5U2dnZ2xkWkcxWEIxaHNJbVF6TlVFUFdIUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04ZkRuclczUXM0NVk3ZmgtbE54alY1RGFoS0ZZV2Q4MXU0cW9ZMU1hZGVjZElrZHNFcjUzSkVKaEVKWlRTRng2VlVvb3pNWTQxQl9jbnhjZUJmVU80U0xHdFB5aTVuMjRDSzZRWFFR0gFzQVVfeXFMUEkybldKV2VjZThGMjVrMnpVVHFEVUpBdW85TVlaREozVF9pLU9LNWc3LXRiLUE2WWpkakV4a05SbDRsNEsxR3FRajU1WklEZThzMDMtQ1VfUER3emlSSFZIUWN5NmgwcFRsYW80dnpCMld6RQ?oc=5"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-08",
+      "featured": [
+        {
+          "category": "international",
+          "title": "CNBC's The China Connection newsletter: China's weak consumer becomes the world's problem - CNBC",
+          "feature": "中國消費低迷：全球經濟的隱憂\n📰 發生什麼事：CNBC《The China Connection》指出，2025 年中國城鎮居民可支配收入增速僅 4.3%，遠低於以往十年 10% 以上的高速成長；同時房價自 2021 年高點跌逾 85%，導致家庭財富縮水，內需疲弱成為全球貿易赤字與供應鏈重組的主要風險。政府在 G20 會議上被要求消除抑制消費的扭曲，但北京表態抗議。\n🔍 背景與來龍去脈：1990‑2020 年中國以高速城鎮化與出口驅動增長，居民收入持續超過美國兩倍增速，房地產與基建投資成為拉動內需的核心。2021 年後，人口紅利減弱、疫情限制與信用收緊使房市急跌，資產負債表效應削弱消費信心。加上美國與歐洲對中國的貿易政策收緊，出口增長放緩，導致政策必須同時平衡外部需求與內部需求。\n🌐 影響：短期內中國進口減少，全球大宗商品需求承壓，美元走強、原物料價格波動。對台灣而言，出口至中國的高科技零組件可能受訂單縮減影響，同時外資對新興市場的配置可能轉向美、歐，造成資金外流；然而若中國加速金融市場開放，人民幣資產流入新興市場也可能為台灣資產管理帶來機會。總體而言，消費低迷是全球成長的不確定因子，投資人需關注中國政策調整與供應鏈再配置的動向。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQlVFdVVqRnBLZ1pfY0JKcFMwcmdna0dwbm1fai11Slk4OHA4NEU4enRDcDhhZ2RNVDhCcmJhVWEyYXdMYzV3MExjYXJuUk1MLVNqdU1RZUxvX0ZweFJOeHV2cUpvdFR4YThHdnNPanVLalFtX0JuTFpZRDBMOUI4cE1mVy1oWGdzVF9Zbnp4aW0xeUQ2bGtWVdIBngFBVV95cUxNV0I2T3dwQ3haNkJCU2FaWk8xMjY1RnU5b0lHakp5VzhoTmdSdTA5cXR0WnlZV3hndU9FR1ZuWUJjenJsQkFUeFRwbEV2UGxFb09kNlM1ZXV1SlA5TlJYMU80SFNnV3ZBS213NE5OTTd2cjhrQm1UOGhtWFRuSThhNGJKYmVsYmZSSG5IU3ZDbHZ5dl92NHRJXzRacUp4dw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "日圓油價驚漲！台股翻黑殺逾200點 周五美CPI成關鍵風向球 - 知新聞",
+          "feature": "日圓飆升油價狂漲　台股狂跌200點　美國CPI成關鍵風向球\n📰 發生什麼事：受中東衝突升溫推升布蘭特原油至每桶近98美元，日圓兌美元突破154關口走強。台股開盤先漲逾百點，隨即回吐逾200點，收盤轉黑。美股因勞動節休市，市場焦點轉向本週五公佈的8月美國CPI。\n🔍 背景與來龍去脈：油價上漲源自伊朗與以色列等地緊張局勢，航運安全疑慮提升能源需求。日圓走強則是市場預期日本央行將加速升息，去年底曾跌至160左右。美國CPI是衡量通膨的關鍵指標，若高於預期，聯準會可能延續升息。\n🌐 影響：油價與日圓雙升拉高進口成本及企業匯兌負擔，台灣製造業與消費者將感受物價上漲壓力。台股跌幅顯示投資人對通膨風險的敏感，若CPI持續走高，資金可能流向避險資產，台幣與股市波動性將升。一般家庭則需留意油價與匯率變化對日常開支的衝擊。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9SQll4SHYzTkpMZVVoU01ETG9pYUswSEMyV2dueXlQZWFWcE9seVUwdWhlWUhldXd2eXdOY0thN0NGeWplRHdaS0pKNGhLeUI0cGpBZEhKcHZGV2hOZVhjMFZESTRBYkdqQkR1cE9FVQ?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-07",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "輝達斥資約140億美元收購開源AI平台Hugging Face，打造AI全鏈條布局\n📰 發生什麼事\n輝達(NVIDIA)正與AI新創Hugging Face談判收購，金額約140億美元，最速本週敲定，收購價約129億美元另含10億美元員工留任方案。\n🔍 背景與來龍去脈\nHugging Face成立於2016年，提供超過300萬開源模型與資料集，被稱為AI版GitHub。近年開源模型成為訓練GPU需求的主要入口，輝達為鞏固GPU生態、避免被OpenAI、Anthropic等閉源陣營取代，已投資多家AI新創並持有其股份。收購可讓輝達直接掌控開發者平台，與過去的GPU銷售、授權策略形成垂直整合。\n🌐 影響\n若交易獲批，輝達將在模型層面與硬體層面同步布局，提升GPU需求黏性，同時可能面臨美、歐等反壟斷審查。對台灣AI產業而言，供應鏈上游晶圓、伺服器需求或持續擴大，相關股票如台積電、鴻海或受益；但開源平台的中立性若受限，亦可能影響本地開發者使用成本與創新生態。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/123398/9728799"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-01",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Markets see Warsh endorsing a rate hike in September. Not everyone is convinced - cnbc.com",
-          "feature": "美聯儲Warsh暗示九月升息 市場熱議\n📰 美國聯邦儲備局主席Kevin Warsh於Jackson Hole論壇發言，明示將在9月會議考慮加息0.25%或0.5%，令市場即時將升息機率推升至約60%。\n🔍 Warsh此番鷹派語氣源於近期通膨仍高於2%目標，且勞動市場持強。美聯儲先前於夏季維持利率不變，預期在9月與12月兩次加息，以抑制價格上漲。分析師指出，雖有鷹派訊號，但仍缺乏足夠的數據支撐。\n🌐 若升息成真，美元將走強、債券收益率上升，對台灣出口競爭力產生壓力；同時資金可能流向美債，台股可能受抑；但升息也可能抑制油價與通膨，對民眾生活成本有正面效應。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd1ZnbDVGTERQNngxeERKWW5PWUdJa2xhVGJFSkoxLUhqYzV2ZHpMVllqeC1jdGc2ZFh0Tlhka1V5ajRvaXFndk1INkhDTUNnTU9Ydk01RGhiNjRrTDZXdDNESzFSaXdQeFBCeG1ndXpvX01mczUwQVo3N0stbDBJcjNsZG1TWTg0Ql9zYUFhSF9MbzUzakRrcHBVZWlYd3l0eEFIV0ZRczRpaTVRbVV6QklKd3kyQdIBuwFBVV95cUxOMGl2dW1jTnM4bjlTY1JGcWk2RFI5alpkQzZsS1hwUy1hSFlqUDJzb0NEekx3VWxPVmVkQ1F6NVNraDdGX0ZWdExVb3VjbW80OFB5TFBZMkt6RjllRVQzMHhIR3pQYkc3QUFTR2QydHNuVXg4cjdUUkJXeUxzbzcwdnM4ZlFKU0ZwLWtfejVyeEJSeG9vM1A2QmZrMGROVjdiaXJqWXJlNFZYZkx2VU8yTVlXblkzSG5TRVJr?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "OpenAI獲55億美元SB Energy認股權證 輝達再祭1050億美元擔保挺AI資料中心",
-          "feature": "OpenAI獲55億美元認股權證，輝達提供最高1,050億美元擔保，AI資料中心資金鏈升溫\n📰 OpenAI在SB Energy即將上市前取得約55億美元認股權證，並已投入5億美元投資，同時簽下約8GW資料中心租約。輝達則投入15億美元，另以最高1,050億美元信用擔保支持SB Energy在俄亥俄州的AI資料中心建設。\n🔍 背景與來龍去脈：SB Energy是軟銀旗下的再生能源子公司，正籌備IPO，為吸引AI巨頭進駐其資料中心，提前發行高估值認股權證。OpenAI自2023年起加速算力擴張，需大量GPU與電力，與SB Energy合作可同時獲取綠電與租用大規模算力。輝達近年不僅賣晶片，更以「資金+基礎建設」模式綁定客戶，提供巨額殘值擔保，以確保GPU需求並降低競爭者進入門檻。此舉與Google為Anthropic提供類似擔保的策略相呼應，標誌AI基礎建設已進入資本密集的循環融資階段。\n🌐 影響：對市場而言，巨額認股權證與信用擔保提升了AI基礎建設的資金可得性，可能刺激更多資料中心開發，進一步推高GPU需求，利好輝達與相關供應鏈（機櫃、電源、散熱）。對台灣而言，AI算力成本下降或加速本地企業導入生成式AI，同時台灣的再生能源與資料中心投資也可能受惠於此類資金模型，促進本地AI產業鏈的上游與下游協同發展。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6593605"
         }
       ]
     }
