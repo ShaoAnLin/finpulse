@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-09",
+      "featured": [
+        {
+          "category": "international",
+          "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning - CNBC",
+          "feature": "AI 基礎建設股因 Qualcomm 與 Corning 大型合作案大幅上揚\n📰 發生什麼事：Qualcomm 與 Amazon 簽訂最高 60 億美元的伺服器晶片購買協議，同時 Corning 與 Verizon 簽下多億美元光纖建置合約，帶動相關 AI 基礎建設股大漲，Intel、AMD、HPE、Coherent 等皆上漲 6%~9%。\n🔍 背景與來龍去脈：AI 訓練與推論需求推動資料中心擴建，過去主要靠 Nvidia GPU，現在資本支出已蔓延至晶片、光纖、伺服器等全產業鏈。Qualcomm 近年布局資料中心晶片，並在 6 月與兩家未具名資料中心公司合作；Corning 今年已為 Amazon 投資 32 億美元建造光纖廠，與 Verizon 合作加速 AI 連接。美國半導體出口管制亦促使供應鏈本土化，提升此類合作的戰略價值。\n🌐 影響：短期內相關股價受惠，投資人對 AI 基礎建設的資金流入加速；長期看，台灣的晶圓代工與光通訊廠商可能受惠於美國大型雲端業者的訂單擴張，同時也面臨供應鏈重組與技術升級壓力。對一般民眾而言，AI 服務成本或因基礎建設效能提升而下降，產業數位化加速。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk5DTHlGZkg5RE5zV2tXVjNaRV94Q19tTWFRLTh0b0JTY0RMRnhLLVgyV1hqN0V3VHFpelYwdEN4UWcwcnpCZ2tPVHJQUTlEN0R5NUthTVBqNzZZX3d3NVU1eGhVY0EweUhscHo2Mjg0czMwR3Y3ZTNMQ0RMNmVWbEVSa2pLODd1Sk1KZ3hwT19aMWRoQ0xId2I5YWo3M2NUS0dj0gGoAUFVX3lxTE1xa1hULU0xQXo2cXRhdkMyb3J3OUc4QlJ6SnlDdDloVjk1M1EtSTBuUVdXTXFaU295RU5Gc3BhdzBiR2IwVTNVeUU5NjluRjc1aGo0dDE5RTh1VGFvS3VSckRUT21vYk9haEhmX2E4ci1TWkEtTmNsMDBHQU1Ucld3ems3NzA5SW1OeG4wVXEyV2tVbmdnaWZkZnMyZ0xGQWF4RVVBb1JjbA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "「斷崖式」下滑！OPEC 8月日產量暴跌90萬桶 沙烏地出口驟減三分之一",
+          "feature": "OPEC 8月產量斷崖式下滑，沙烏地出口暴減三分之一\n📰 發生什麼事：根據彭博調查，受中東衝突升級及航道受阻影響，OPEC 8月原油日產量急跌約90萬桶，降至每日約1,991萬桶。最大產油國沙烏地產量減112萬桶至698萬桶，出口量更縮減近三分之一，僅剩303萬桶/日。\n🔍 背景與來龍去脈：自2024年起，美伊在波斯灣的軍事摩擦頻繁，導致霍爾木茲海峽油輪通行受限；同時胡塞武裝對紅海航線發動攻擊，雙重夾擊使沙烏地原油無法順利走航。6、7月OPEC曾透過調整船隊暫緩供應下降，但衝突升溫後產量回彈的努力被迫中斷。伊拉克與委內瑞拉雖小幅增產，但不足以彌補沙烏地的缺口，且委內瑞拉正考慮退出OPEC，加劇組織內部裂痕。\n🌐 影響：油價因供應緊縮逼近每桶100美元，對台灣能源成本與民生油品價格形成上行壓力；同時航空、航運及化工企業的燃料支出將上升，可能傳導至票價與產品價格。投資人關注美國與俄羅斯的產量策略，短期內油氣相關股可能受惠，長期則需關注地緣政治走向與OPEC內部協調結果。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6601280"
+        }
+      ]
+    },
+    {
       "date": "2026-09-08",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "美元避險升溫 2.3兆美元或成新賣壓\n📰 發生什麼事\n彭博調查顯示，台灣及其他五國的退休基金與壽險業者截至6月底對外幣部位的避險比率僅41%，創2015年以來最低。若提升5個百分點，僅在遠期市場賣出美元就可能產生約2,300億美元的賣壓，台灣壽險若加碼避險將成主要推手。\n🔍 背景與來龍去脈\n過去美國資產佔全球退休基金與保險公司投資組合的前十大，尤其是台灣與加拿大持有大量美債與美股。2019年川普關稅引發美元大跌，資金紛紛加碼避險；隨後美元回升與避險成本升高，業者又逐步降低避險。近期美元避險成本下降（如日圓3個月遠期從6%降至2.75%），加上美元相對於G10貨幣走弱、對Fed升息預期減弱，使得避險需求可能再次上升。\n🌐 影響\n若壽險業提升避險比率，將在外匯遠期市場大量拋售美元，增加市場賣壓，可能推低美元兌台幣與其他貨幣匯率。對台灣企業與進口成本有正面（匯率貶值）與負面（外幣資產帳面損失）雙重影響；同時，美元資產的投資回報受匯損影響，保單持有人收益可能波動。整體而言，美元的持續走弱將影響全球資金流向，投資者需關注外匯避險動向。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9731247"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-02",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China dissented from G20 statement opposing 'cheap exports' flooding market, Bessent says - CNBC",
-          "feature": "中國在G20聲明中首度表態反對「低價出口」指控\n📰 發生什麼事\n美國財政部長斯科特·貝森特在本月的G20會議上指出，部分非市場經濟體持續以低價商品衝擊全球市場。中國唯一反對此聲明，並強調其出口符合國際規則。\n🔍 背景與來龍去脈\n自2022年美中貿易摩擦升溫以來，西方多次批評中國利用巨額經常帳盈餘壓低價格，尤其在鋼鐵、太陽能與電子零件等產業。G20過去亦討論貿易失衡，但本次首次以「非市場基礎」明確點名。中國認為此言論政治化，並提醒各方避免貿易保護主義。\n🌐 影響\n短期內，市場對相關產業股價波動，美元指數小幅上揚。對台灣而言，若美國加碼關稅或技術限制，可能減少中國供應鏈中間品，提升本地製造商出口機會；同時亦可能引發原料成本上升與產業競爭加劇。政策層面，台灣需關注兩大經濟體的貿易政策走向，以調整產業布局與匯率風險管理。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNW1KTnpvMXFBWjZzMFlqYjEwNWFsM2dWcXJrbDdJUkVFY0JiVk9BTERmZTlNWkNuNDlIa0k3aDRqVjZJbTM4X29LQm5YdTBucUd4MEMwRWZwY1dhRUozMVAzT0lTLVUzaHRobnRTVGJqTWVscHhYZ1czQ2hzeWhmd3ZCRdIBiAFBVV95cUxNeXlXMTVEMHcxYzJhRzl1X2Q4Qmc2dGl3SVJlMTAzWVNmcDNUazZfTjBzclRRNjlMVUtva1ROUUJYSFlYWG55ZWx4NVJfVnBOSjY1XzFPZVh4MFFMNVpROWRKeWhraW5HS3BxSmJ4Nk43eU5rVjM4YkZiaUdSSXdrNEtjQ0pwM3hN?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "輝達傳最快本周敲定收購Hugging Face 價碼140億美元 布局開源AI領域",
-          "feature": "輝達斥資約140億美元收購開源AI平台Hugging Face，打造AI全鏈條布局\n📰 發生什麼事\n輝達(NVIDIA)正與AI新創Hugging Face談判收購，金額約140億美元，最速本週敲定，收購價約129億美元另含10億美元員工留任方案。\n🔍 背景與來龍去脈\nHugging Face成立於2016年，提供超過300萬開源模型與資料集，被稱為AI版GitHub。近年開源模型成為訓練GPU需求的主要入口，輝達為鞏固GPU生態、避免被OpenAI、Anthropic等閉源陣營取代，已投資多家AI新創並持有其股份。收購可讓輝達直接掌控開發者平台，與過去的GPU銷售、授權策略形成垂直整合。\n🌐 影響\n若交易獲批，輝達將在模型層面與硬體層面同步布局，提升GPU需求黏性，同時可能面臨美、歐等反壟斷審查。對台灣AI產業而言，供應鏈上游晶圓、伺服器需求或持續擴大，相關股票如台積電、鴻海或受益；但開源平台的中立性若受限，亦可能影響本地開發者使用成本與創新生態。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/123398/9728799"
         }
       ]
     }
