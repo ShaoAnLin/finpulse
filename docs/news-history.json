@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-10",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers - CNBC",
+          "feature": "油價再創高點：布蘭特突破101美元　📰 美國摧毀五艘伊朗油輪後，布蘭特原油收盤報101.21美元，WTI 96.05美元，市場擔憂波斯灣供應受限。🔍 近期美伊衝突升溫，伊朗以彈道導彈攻擊美軍艦艇，作為報復美軍在霍爾木茲海峽擊沉五艘載油油輪。加上也門胡塞武裝持續襲擊沙特能源設施，波斯灣航運風險累積，使全球供油緊張。再加上中國需求回溫，市場供需缺口擴大。🌐 影響面向：國際油價持續上揚，進一步推高全球運輸與能源成本；美國油價創新高，民眾油罐車與航空燃油價格上升，可能刺激通膨；台灣因為能源進口依賴，中油與電業成本上漲，油電費或調升，企業與民眾生活成本受衝擊；投資人則關注能源股與替代能源的資金流向。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcV94M21oS090d3U1X3c1UlBpV2VfSmpDSjFlLTl2WTRUQXNYSVR1THdQREVYTDJNSXlEcERrckMzSG5DbnJ4aFpHQnhvaUduVzBRNjFJVklzNkVQbEZxYlV3Z3ZTVUNmS3ZMdVBHVTdYTl9VZUlUcnVMQThKTHYwaUcwWUhoajFMMmRxRkphWU_SAZYBQVVfeXFMUHcyc1h1YmRjS2lxOEc5WDltZmtlRjRpMUdQczdWbmRleG5CUERDam1sV3pzNTQzdHdMMi0wV3k5OWxnOHpxQjNEQW8ySXZjaldiMWRRZDQ4bXdFM29WNFNYb3g1S2NIXzJaVlZ3V1MwNTFETjZ2Q1Q4YnA0S1Mtc29LemVMempLTTkxb2NVc0NWRW45cmdB?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "高利率高油價夾殺，費半在半年線前震盪、台股出口有撐：蘋果折疊機亮眼但價格影響需求，Marvell、美光逆勢當家 - sinotrade.com.tw",
+          "feature": "高利率與高油價雙壓下，費半指數逼近半年線，市場分化顯現\n📰 費半指數目前在11,931點，距離半年線僅1%；10年期美債殖利率升至4.86%創近三年新高，布蘭特油價回到每桶百元。資金偏好防禦性標的，Marvell、美光等記憶體與連接晶片股逆勢上漲，蘋果折疊iPhone Duo雖亮相但高價抑制需求。\n🔍 背景：美聯儲維持高利率抑通膨，加上全球能源需求復甦推升油價，導致資金成本上升、風險偏好下降。台幣與日圓升值進一步壓縮台灣出口利潤；同時AI需求提振記憶體需求，使相關供應鏈受惠。費半接近半年線更多是資金避險停泊，非新一波攻勢。\n🌐 影響：短期內台股偏向防禦股，投資人需挑選具基本面支撐的個股；出口導向產業受匯率與能源成本雙壓，盈餘成長受限；但記憶體、封測與蘋果供應鏈仍有成長空間，對相關公司股價提供支撐。長期若利率與油價回落，市場或再度轉向成長股。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxNc253Z1lzUFZ3bVNMOENTWmNtY0FFSkk5blNsQWVmZFZRWGlpNmtRTklSYnZpUzNGWGJRcEZxMDJrQ3RNMHBfSWQ3clpxWXZzZC01cEhvemtxU3p6cFVjeC10R2ZxUkFBX1NLWHZab1Bxano0RXRvQ0lkaVNqbXl4dmZndVZocm5DVG0taVBDV1U5WHl4bVNqYnFJRDNhUVg2ekh5MFZQT0VVSHpDTEtlVk4tdHNHWWVxWEh1aUJiMU1TZTVkbXUwZERvdW1BckVXUGJVcjZMaGRuNmNSZFZwSWFacUFRZFZtaU9Ib3FkbjY4b2lkYmpjOW5ZZ2RSYTM5ejBUVk9nRG0zNktiNWpkTkxQbGtEMjRIR2czVlludkVpVURPUzBUb3AybWlveEoxcktKT1B3SDJOczJuMk44Uk1XNXl0RHNhcXJ5aTBHdlZjTWRJWXBMVU9LU0gzaExma0x6bHpjWjVJbEJka1BxNFVDcGV5RldrWTNFYzgzdkFsUjlSN1hDNkp3bFRDMFJoeW1ZeV9qSFNiWkdBQjdGSjFseGZHTFl0NWxoT0xIUEhDVUpPOXRFUlAyR3V0ZXo5UTM5NXBhMWxQamg2WllXNk11U01Yd0JtaTY1XzlPWlBWeV94eXFCa2dqNUVmWC1zdUVkUGppdjNzUW1rczh4S2thWUhmV0JZMGJldFdHNEdaMmY0all0c3NKOEVXN0VvQWgyRl96bkNxSWplVlhaOHpIejFUYWhUTzZkYVlZWTJIZ0h2M1MtSDZCV014OU4yWDlnX3FucjhXSDRDUmUwOHl2R0RjQURDeHhpajZGbGc5ekFudEk3bFFfWkxGVmNvYUE3THJIaEtLSE5uRTlzcC1FRUdxcFVPYzdMZkxQUQ?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-09",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "AI需求推波助瀾　美國對台逆差破207億新高\n📰 發生什麼事：美國商務部公布，7月美國對台灣的貿易逆差達207億美元，較去年同期激增逾80%，創下歷史最高。逆差主因是電腦、半導體及AI伺服器相關設備進口激增，資本財進口金額更創新高。\n🔍 背景與來龍去脈：近年美國加速建置AI基礎建設，需求大量高效能晶片與伺服器。台灣半導體產業（尤其是台積電等代工廠）在全球供應鏈佔據關鍵位置，成為美國主要採購來源。2024‑2025年，美國亦在討論針對半導體的關稅政策，欲促使本土製造，為逆差增幅增添變數。此波需求同時與全球晶圓代工產能緊張、AI模型訓練成本上升相呼應。\n🌐 影響：對台灣而言，出口增長提升了相關企業營收與研發投資，但高度依賴單一市場的風險亦同步上升；若美方關稅或限制措施落實，可能削弱台灣半導體的出口動能。對美國市場，巨額逆差反映資本財支出持續強勁，亦顯示美國製造業回流尚未完全。一般民眾則可能見到AI相關產品價格上漲，且因供應鏈變化，相關產業就業與投資情緒將受牽動。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9733742"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-03",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Broadcom delivers strong earnings view as CEO touts growth with AI labs - cnbc.com",
-          "feature": "Broadcom 2026 Q3 報告：AI 實驗室驅動獲利飆升\n📰 發生什麼事\nBroadcom 公布 2026 財政第三季營收 755 億美元、淨利 293 億美元，毛利率升至近 39%。CEO Hock Tan 強調 AI 專屬實驗室已帶動 AI 相關營收突破 160 億美元，預期全年可達 160 億美元。\n🔍 背景與來龍去脈\n去年因一次性 45 億美元稅務調整導致虧損，成為比較基準。近年 AI 熱潮促使晶片需求激增，Broadcom 先前以收購及自研 AI 加速器布局，2024 起成立 AI Lab，持續擴大與 Nvidia、Microsoft 等合作。營收年增 32% 仍遠低於淨利 127% 的增速，顯示成本控制與高毛利產品比重提升。\n🌐 影響\n財報推升美股半導體指數，提振全球 AI 投資熱情；對台灣晶圓代工廠而言，需求上升可能帶來訂單增長，同時競爭加劇。投資人可能重新評估 AI 相關股票估值，台幣匯率與資金流向亦受波及。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE02MnFmSEVidVJwbDBTVjFsaFdzYTFSUnlPVmdnSXVEZ0I2dkhjNnQ0MUZFb2xHU0RpaU1jNzRxNGxUS3U5NlJyVWxiQXRsV1RPdlZLR2tIakNDSEI2ZkZUeFIwekhIQ1RkQVNPeWlaekVKTzh3bm81cDVFWmlRbEXSAYQBQVVfeXFMTWRuaWdHVEM0cXZrNXYwRHVOVmNIVTBnQm5Cejk3ZENUUURlMVZRN3ZPTmtXaVFFbTI3OGR6LXZnWUdOWVhpNWpLNnAxTF93cmVzclJyLXJQTk1MalQ3c25rbkZvNnNMYThxcGoxQ1ozYnVTOVhkRXB0VjhxaGJxYkF0RjY2?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "美元潛藏2,300億美元賣壓 台灣壽險業若加碼避險恐成推手",
-          "feature": "美元避險升溫 2.3兆美元或成新賣壓\n📰 發生什麼事\n彭博調查顯示，台灣及其他五國的退休基金與壽險業者截至6月底對外幣部位的避險比率僅41%，創2015年以來最低。若提升5個百分點，僅在遠期市場賣出美元就可能產生約2,300億美元的賣壓，台灣壽險若加碼避險將成主要推手。\n🔍 背景與來龍去脈\n過去美國資產佔全球退休基金與保險公司投資組合的前十大，尤其是台灣與加拿大持有大量美債與美股。2019年川普關稅引發美元大跌，資金紛紛加碼避險；隨後美元回升與避險成本升高，業者又逐步降低避險。近期美元避險成本下降（如日圓3個月遠期從6%降至2.75%），加上美元相對於G10貨幣走弱、對Fed升息預期減弱，使得避險需求可能再次上升。\n🌐 影響\n若壽險業提升避險比率，將在外匯遠期市場大量拋售美元，增加市場賣壓，可能推低美元兌台幣與其他貨幣匯率。對台灣企業與進口成本有正面（匯率貶值）與負面（外幣資產帳面損失）雙重影響；同時，美元資產的投資回報受匯損影響，保單持有人收益可能波動。整體而言，美元的持續走弱將影響全球資金流向，投資者需關注外匯避險動向。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9731247"
         }
       ]
     }

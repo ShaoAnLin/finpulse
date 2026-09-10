@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-09",
+  "date": "2026-09-10",
   "featured": [
     {
       "category": "international",
-      "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning - CNBC",
-      "feature": "AI 基礎建設股因 Qualcomm 與 Corning 大型合作案大幅上揚\n📰 發生什麼事：Qualcomm 與 Amazon 簽訂最高 60 億美元的伺服器晶片購買協議，同時 Corning 與 Verizon 簽下多億美元光纖建置合約，帶動相關 AI 基礎建設股大漲，Intel、AMD、HPE、Coherent 等皆上漲 6%~9%。\n🔍 背景與來龍去脈：AI 訓練與推論需求推動資料中心擴建，過去主要靠 Nvidia GPU，現在資本支出已蔓延至晶片、光纖、伺服器等全產業鏈。Qualcomm 近年布局資料中心晶片，並在 6 月與兩家未具名資料中心公司合作；Corning 今年已為 Amazon 投資 32 億美元建造光纖廠，與 Verizon 合作加速 AI 連接。美國半導體出口管制亦促使供應鏈本土化，提升此類合作的戰略價值。\n🌐 影響：短期內相關股價受惠，投資人對 AI 基礎建設的資金流入加速；長期看，台灣的晶圓代工與光通訊廠商可能受惠於美國大型雲端業者的訂單擴張，同時也面臨供應鏈重組與技術升級壓力。對一般民眾而言，AI 服務成本或因基礎建設效能提升而下降，產業數位化加速。",
+      "title": "Oil extends gains, with Brent above $101 after U.S. destroys Iranian oil tankers - CNBC",
+      "feature": "油價再創高點：布蘭特突破101美元　📰 美國摧毀五艘伊朗油輪後，布蘭特原油收盤報101.21美元，WTI 96.05美元，市場擔憂波斯灣供應受限。🔍 近期美伊衝突升溫，伊朗以彈道導彈攻擊美軍艦艇，作為報復美軍在霍爾木茲海峽擊沉五艘載油油輪。加上也門胡塞武裝持續襲擊沙特能源設施，波斯灣航運風險累積，使全球供油緊張。再加上中國需求回溫，市場供需缺口擴大。🌐 影響面向：國際油價持續上揚，進一步推高全球運輸與能源成本；美國油價創新高，民眾油罐車與航空燃油價格上升，可能刺激通膨；台灣因為能源進口依賴，中油與電業成本上漲，油電費或調升，企業與民眾生活成本受衝擊；投資人則關注能源股與替代能源的資金流向。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk5DTHlGZkg5RE5zV2tXVjNaRV94Q19tTWFRLTh0b0JTY0RMRnhLLVgyV1hqN0V3VHFpelYwdEN4UWcwcnpCZ2tPVHJQUTlEN0R5NUthTVBqNzZZX3d3NVU1eGhVY0EweUhscHo2Mjg0czMwR3Y3ZTNMQ0RMNmVWbEVSa2pLODd1Sk1KZ3hwT19aMWRoQ0xId2I5YWo3M2NUS0dj0gGoAUFVX3lxTE1xa1hULU0xQXo2cXRhdkMyb3J3OUc4QlJ6SnlDdDloVjk1M1EtSTBuUVdXTXFaU295RU5Gc3BhdzBiR2IwVTNVeUU5NjluRjc1aGo0dDE5RTh1VGFvS3VSckRUT21vYk9haEhmX2E4ci1TWkEtTmNsMDBHQU1Ucld3ems3NzA5SW1OeG4wVXEyV2tVbmdnaWZkZnMyZ0xGQWF4RVVBb1JjbA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcV94M21oS090d3U1X3c1UlBpV2VfSmpDSjFlLTl2WTRUQXNYSVR1THdQREVYTDJNSXlEcERrckMzSG5DbnJ4aFpHQnhvaUduVzBRNjFJVklzNkVQbEZxYlV3Z3ZTVUNmS3ZMdVBHVTdYTl9VZUlUcnVMQThKTHYwaUcwWUhoajFMMmRxRkphWU_SAZYBQVVfeXFMUHcyc1h1YmRjS2lxOEc5WDltZmtlRjRpMUdQczdWbmRleG5CUERDam1sV3pzNTQzdHdMMi0wV3k5OWxnOHpxQjNEQW8ySXZjaldiMWRRZDQ4bXdFM29WNFNYb3g1S2NIXzJaVlZ3V1MwNTFETjZ2Q1Q4YnA0S1Mtc29LemVMempLTTkxb2NVc0NWRW45cmdB?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "「斷崖式」下滑！OPEC 8月日產量暴跌90萬桶 沙烏地出口驟減三分之一",
-      "feature": "OPEC 8月產量斷崖式下滑，沙烏地出口暴減三分之一\n📰 發生什麼事：根據彭博調查，受中東衝突升級及航道受阻影響，OPEC 8月原油日產量急跌約90萬桶，降至每日約1,991萬桶。最大產油國沙烏地產量減112萬桶至698萬桶，出口量更縮減近三分之一，僅剩303萬桶/日。\n🔍 背景與來龍去脈：自2024年起，美伊在波斯灣的軍事摩擦頻繁，導致霍爾木茲海峽油輪通行受限；同時胡塞武裝對紅海航線發動攻擊，雙重夾擊使沙烏地原油無法順利走航。6、7月OPEC曾透過調整船隊暫緩供應下降，但衝突升溫後產量回彈的努力被迫中斷。伊拉克與委內瑞拉雖小幅增產，但不足以彌補沙烏地的缺口，且委內瑞拉正考慮退出OPEC，加劇組織內部裂痕。\n🌐 影響：油價因供應緊縮逼近每桶100美元，對台灣能源成本與民生油品價格形成上行壓力；同時航空、航運及化工企業的燃料支出將上升，可能傳導至票價與產品價格。投資人關注美國與俄羅斯的產量策略，短期內油氣相關股可能受惠，長期則需關注地緣政治走向與OPEC內部協調結果。",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6601280"
+      "title": "高利率高油價夾殺，費半在半年線前震盪、台股出口有撐：蘋果折疊機亮眼但價格影響需求，Marvell、美光逆勢當家 - sinotrade.com.tw",
+      "feature": "高利率與高油價雙壓下，費半指數逼近半年線，市場分化顯現\n📰 費半指數目前在11,931點，距離半年線僅1%；10年期美債殖利率升至4.86%創近三年新高，布蘭特油價回到每桶百元。資金偏好防禦性標的，Marvell、美光等記憶體與連接晶片股逆勢上漲，蘋果折疊iPhone Duo雖亮相但高價抑制需求。\n🔍 背景：美聯儲維持高利率抑通膨，加上全球能源需求復甦推升油價，導致資金成本上升、風險偏好下降。台幣與日圓升值進一步壓縮台灣出口利潤；同時AI需求提振記憶體需求，使相關供應鏈受惠。費半接近半年線更多是資金避險停泊，非新一波攻勢。\n🌐 影響：短期內台股偏向防禦股，投資人需挑選具基本面支撐的個股；出口導向產業受匯率與能源成本雙壓，盈餘成長受限；但記憶體、封測與蘋果供應鏈仍有成長空間，對相關公司股價提供支撐。長期若利率與油價回落，市場或再度轉向成長股。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxNc253Z1lzUFZ3bVNMOENTWmNtY0FFSkk5blNsQWVmZFZRWGlpNmtRTklSYnZpUzNGWGJRcEZxMDJrQ3RNMHBfSWQ3clpxWXZzZC01cEhvemtxU3p6cFVjeC10R2ZxUkFBX1NLWHZab1Bxano0RXRvQ0lkaVNqbXl4dmZndVZocm5DVG0taVBDV1U5WHl4bVNqYnFJRDNhUVg2ekh5MFZQT0VVSHpDTEtlVk4tdHNHWWVxWEh1aUJiMU1TZTVkbXUwZERvdW1BckVXUGJVcjZMaGRuNmNSZFZwSWFacUFRZFZtaU9Ib3FkbjY4b2lkYmpjOW5ZZ2RSYTM5ejBUVk9nRG0zNktiNWpkTkxQbGtEMjRIR2czVlludkVpVURPUzBUb3AybWlveEoxcktKT1B3SDJOczJuMk44Uk1XNXl0RHNhcXJ5aTBHdlZjTWRJWXBMVU9LU0gzaExma0x6bHpjWjVJbEJka1BxNFVDcGV5RldrWTNFYzgzdkFsUjlSN1hDNkp3bFRDMFJoeW1ZeV9qSFNiWkdBQjdGSjFseGZHTFl0NWxoT0xIUEhDVUpPOXRFUlAyR3V0ZXo5UTM5NXBhMWxQamg2WllXNk11U01Yd0JtaTY1XzlPWlBWeV94eXFCa2dqNUVmWC1zdUVkUGppdjNzUW1rczh4S2thWUhmV0JZMGJldFdHNEdaMmY0all0c3NKOEVXN0VvQWgyRl96bkNxSWplVlhaOHpIejFUYWhUTzZkYVlZWTJIZ0h2M1MtSDZCV014OU4yWDlnX3FucjhXSDRDUmUwOHl2R0RjQURDeHhpajZGbGc5ekFudEk3bFFfWkxGVmNvYUE3THJIaEtLSE5uRTlzcC1FRUdxcFVPYzdMZkxQUQ?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "台股早盤反彈走揚台積電開高聯亞、光聖率CPO族群向前衝- 證券 - 工商時報",
-      "content": "台股早盤反彈走揚台積電開高聯亞、光聖率CPO族群向前衝- 證券 工商時報",
+      "title": "台股開盤／台積電跌20元拖累！台股跌近400點 這些族群成重災區 - 三立新聞",
+      "content": "台股開盤／台積電跌20元拖累！台股跌近400點 這些族群成重災區 三立新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1lR0pPbEgyMTVtX09zQ1BaWHF3X1hJZFZ5RDlJLWc2a3dnanFzcENBdkNtSFc4d0V5Yy1EaC1idG5Id3BRVTRVODdnWUwyRXRqRFJ6VWlrWkQ0dkhUUFNV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1lTnVzTnlPbElaYVJFeWJSUXI5anJ3a0J1dkJTa3ZCMDQxYTV1am5QT1VFUzd6aExtc1NSRHpBUWtJbGNSaDZxLXFIWQ?oc=5"
     },
     {
-      "title": "台股開盤／台積電漲10元！台股漲逾200點 這4大族群成多頭先鋒 - 三立新聞",
-      "content": "台股開盤／台積電漲10元！台股漲逾200點 這4大族群成多頭先鋒 三立新聞",
+      "title": "iPhone Duo發表 中國網友熱議：貴上天了 降價再來買",
+      "content": "蘋果9日（周三）在美國加州丘珀蒂諾總部舉行新品發表會，推出首款折疊機iPhone Duo，這款手機折疊後大小和形狀類似護照，展開後螢幕為7.6英寸，是目前蘋果手機中最大螢幕。",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE55WDFEeEJhRmdTZFp2OFk4Wm9UUTkwaE1mOERzeXFaYU5pZUNNOUlRUkhfR1d6WWpZMjZTdElHUDIyc21OWUpIMmphVQ?oc=5"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6602548"
     },
     {
-      "title": "台股開盤漲36.96點 - 經濟日報",
-      "content": "台股開盤漲36.96點 經濟日報",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTFDalQxWi1fM3BqNDIzbW9uYUsyc1lNVGZzaG5YSGItWlRVOUwxQnA2UTg1LThzQ3dveG52ZjZ6RE9qWkFLYWU4ZnJodnVXSXFnRkdCUWhGUDhrLWl5aUZTT0RxdVVfNTZpemV5ZjcwSHV5Y01ucjFzc2JQTmhxQ9IBX0FVX3lxTE13bHNCOTE5T1ZWSUlxWXVONHdORFNab3RlcFU3RkdxTXcxY3d2Uk94ZHhEb256Uzc0TjdfQmxraUJmRHZCcUthWVlUMlNUMmRvVGlVSnl3aEdkYjZycThZ?oc=5"
-    },
-    {
-      "title": "福斯220億美元收購Roku　美司法部擴大調查",
-      "content": "美國新聞網站Semafor今天引述知情人士報導，美國司法部正在擴大對福斯（Fox）以220億美元收購串流平台Roku交易...",
+      "title": "GREEN×EXPO倒數半年 橫濱會場建設進度曝光",
+      "content": "距離2027年國際園藝博覽會（GREEN×EXPO 2027）開幕約半年，位於橫濱市舊上瀨谷通信設施的會場工程持續推進。...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9743027"
+      "link": "https://money.udn.com/money/story/5599/9745439"
     },
     {
-      "title": "歐盟促大陸10月初前採取行動 緩解貿易失衡",
-      "content": "歐盟將尋求大陸承諾，採取措施緩解雙邊日益擴大的貿易失衡，並爭取北京在10月初前採取初步行動。",
+      "title": "台股早盤跌逾300點 台積電跌20元 - Yahoo新聞",
+      "content": "台股早盤跌逾300點 台積電跌20元 Yahoo新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPcGpRR1k1d21NeTVaOUUtemthUklDeVc3Q01YNXZGX1hJam9QbWl4bk4teVJKU1ZIclVWQm8zaGw5cWdPeEJla1F4bEJ1RzFVcDAzR2Z2aVpfbU0tMTZJcVk0RlFyTjJZSGVmOXlwYTdsNW1oXzRzUmtQOGd4WjhnamVwZ3ZlZ3dUcXZEV3BJZ0RkTzBzRGpwSDh0OTdkby1RVFFBRDhqcGdHdXNOYmJOMW1Ld25rbGRKZ0lvbldtejJMNXZDTjZqWXVVSTktMW9lRkpVZUVyMjlzV3ptS2J4MjNZbnNtZF9Xdk1R?oc=5"
+    },
+    {
+      "title": "美債+油價拖累！台積電跌20元至2450　台股摔近400點失守47K - ETtoday財經雲",
+      "content": "美債+油價拖累！台積電跌20元至2450 台股摔近400點失守47K ETtoday財經雲",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5fTE52RWV6M0dWLW9uYk9zTlpGdExDUWxVTV9rOHhPdDVKdXp4ZFBpTFg1bXVVUzlaUVI5RG1OYzU5bXhaSThNcnZXeEd1TGVWWmfSAVBBVV95cUxQWkhnN2hrSlEzWUdMYmhNM3Uxb2ZON0xYakpSLVpaUjFWdk5FX05MNmhpd2cteTVvVTZwaEFMWjh0cG5SWjVKMlY4ZkJOTUx1aA?oc=5"
+    },
+    {
+      "title": "貝森特的日圓言論吊足市場胃口 央行加息力度不足恐引發拋售",
+      "content": "【彭博】-- 美國財政部長貝森特公開施壓日圓走強的做法，正在推高市場對日本央行進行數十年來罕見貨幣緊縮的預期。如果政策制定者的行動未能讓預期滿足，可能引發市場波動。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9743025"
+      "link": "https://money.udn.com/money/story/5599/9745390"
     },
     {
-      "title": "Marvell shares have soared 241% in a year. CEO says this is a key reason why - CNBC",
-      "content": "Marvell shares have soared 241% in a year. CEO says this is a key reason why CNBC",
+      "title": "美分析師看好蘋果摺疊機帶動整體市場 AI整合至硬體仍是挑戰",
+      "content": "蘋果（Apple）今天舉行秋季發表會。美國產業分析師歐唐納爾接受中央社訪問表示，儘管蘋果較晚推出摺疊機，但它「重新定義了...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9745423"
+    },
+    {
+      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "content": "Thursday's big stock stories: What’s likely to move the market in the next trading session CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1ub3hnQWJXNVc1akxzeUdnb05hR20wMmtJVUpwVUxnSHotOHlkaTU0Q1NXYU5DM3VPdmVfT1VOc1djWmdVSjU3ZUMyQnpSQjY0UG1iRVFTOHVwVnZGMmNzOURoUjBpV25XbmxiMXhNY9IBdEFVX3lxTFBjZ2FtREpMLWx6SjhIbnk4WTlYajE3QnV6czV5NGpWR3lHZHp4SFNiQXluVldlLWRzd2loa01BTTg1VXdFUE5LRzhVTG84ck43dktrUWNCbk5VOVVIa1Q2TUNza25jenptc041WDdIOTdPd2wy?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVi1xeHkyNG45SDFfWDY2MEc4SmUxeXhMeVJodFh5bndYVjJ4LTYtbFVTSkdJdXJvdVBoNnVzZEZfVXdBYi11d1hwVnR0UnphRGwzdHZycEFkZHJQa19xS1haWnVqLTVUVjJ6MWg4LXlscUM1bTZfRmVKQlQyZ2gxVGtNMmh3aGtlRnlURjR5SFp4Nk1jMmhhV0twRFE?oc=5"
     },
     {
-      "title": "Jim Cramer says investors are too focused on AI stocks. Here’s where he says to look instead - CNBC",
-      "content": "Jim Cramer says investors are too focused on AI stocks. Here’s where he says to look instead CNBC",
+      "title": "Bank of America CEO says the consumer remains resilient despite rising gas prices - CNBC",
+      "content": "Bank of America CEO says the consumer remains resilient despite rising gas prices CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOGlPS3dzQjJLZ1UxM2NYUTVGWFZ3MVQzQ0lCY2JsNUhwbXlmMWlOaHo5bTBCZW5pVFpubkVBbGlVRm5ScXh4SmlMWjJXSnB0QUtCR09saVl5d2c3dnJRaWtwUUJ4WjhJbDVrTWktMjZDazBrVEdqR0lpWjBRMmFsctIBhgFBVV95cUxNZnFKUXVqZHFGS3dEelVRdUtsTDZzemlGSDJjZmtUTkZFMVItVGswSk51OHd2Mk5KZTExcVI5eXI3TGlHSjMxTEVaR1BabHV4Y0ZTSHgzNFhENlhqa1hKMU9mSkFVYWl0SENWUUFpNmZkSVJRMlZnUUdEdGMxX0prcjhqVFp2Zw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOY1J3MDRSd2haalRUQU1BV0FQM0JDQ3FhYVFFYkpXeUxKRXotWlNUdmxtZV9DUFVQWXB3MzhMWnVBQTVJa2Z5YndPWUFsMGtraEphTXVtT3BjNzRhc2JMUGtaRXlyVkhtTWpNVEJCN0pRM3lJWkpkSkgxbVgyLWRqQ1JHRVZOazhsVWNlaS1XMkw5WExSdlVKam9R0gGfAUFVX3lxTE9NS2ZjajhnM1ktN0hmS0dXRGo2UnFUa0JPQ01oWWpjMTFMQjFaZWE5TFQzS1R6N25HdlNJc244RnhfOXFlWEdsdDNDcExqR0xaU2czWVVfZW5MZmZ4VjBnUFFyMVlPQWpiWERVaVMtd3RPZFVmYkxaSVdkdXRkMkM1WjczcEZCMEVPSDdhc1U5ci13NnFvMFlaNXFaWC00bw?oc=5"
     },
     {
-      "title": "Stocks making the biggest moves after hours: ServiceTitan, Mission Produce, Chime Financial and more - CNBC",
-      "content": "Stocks making the biggest moves after hours: ServiceTitan, Mission Produce, Chime Financial and more CNBC",
+      "title": "$100 oil isn't turning Cramer bearish on stocks. Here are 3 reasons why - CNBC",
+      "content": "$100 oil isn't turning Cramer bearish on stocks. Here are 3 reasons why CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObFZXSC1uTGFsdzJVMUdPZlJFVXBPSGhvUWtJam1QbUFNTC0wYVZETk1CSXp1MFBDSEZGU2x2MU1IQ29XX2JEak9JQUJMeFBpRGNiMWN2OTN1YUFzRXJKN3NzWEp5Y0xJSk1yeVl5clVZMG96S1BmLVJZMjU1TUtJZVNwTUtHMks0X2tsU2QtZFBFSjZqUlZxYlln?oc=5"
-    },
-    {
-      "title": "Financial analyst talks trade war impacts on U.S. economy, stock market - RochesterFirst",
-      "content": "Financial analyst talks trade war impacts on U.S. economy, stock market RochesterFirst",
-      "category": "international",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPbThpUVBrWW1YbHlvdDJya2lfQW9ieEdoNEtMcEl5MDdIODZfVUJ4X2dHVERLdUNJeVlrQW1acVNja1lGTk9CVzBoUXREMWFmWVVnVnpaZVJwbjhJa0ZTS1lhYk5sNkJLYm85VkFadWlTb3d2QjllQkRFY0duNzk5Q2hReVdyeU94SUpYY1NDM2dqcGVkQ2NiVVpJYmxiQXJtX3QxTVBKUXdueU5IUVFaR2xDSXJmY1E?oc=5"
-    },
-    {
-      "title": "Financial analyst talks trade war impacts on U.S. economy, stock market - RochesterFirst",
-      "content": "Financial analyst talks trade war impacts on U.S. economy, stock market RochesterFirst",
-      "category": "international",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUTJpcVRWV3dzMVhBdmFzQlFWTS1PUnFvaVhuWTVDTFNuUVVIdE1tcFl1Q3J1ejhJRFdvc3VXUjU2bElwUjBwcV80VS02YmVfbXFGTDRMR0ZsaEQxdm9CUm1fdkNrZFlRa1BvS2dVWWRNUXJ4TUJYdGZMaFktcVkwLW9vM1VLeHJMLW5NMzd1NjVYaFpXeGJwck1zNDhncWNhZGIzMjhJbjFwYjRnZWRyWEtVYjk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR2E3Sm52NmIxRXptVHpnTnJtam9xQTU5Mi12QWxLQTBpVVlPbk9JWHJEbDEyV05qUkhmNUxMMEk1TXd4SXJYYkJkcTZUTkF5RmpTc2Etb0FtWEVDSEh2d21qQVRoakU3R1VqLWdlLUFlZjFDaktYd0lMTmNaekEyVXJ5NHVqcXcx0gGOAUFVX3lxTE51OTFiR0F0SGxZLW5JS1UxZkFFcVBXLU1ZTmpkVkNEQm00Q2JVOGNIeXJ5eWg4NDZ1OXhRRTcwOF9ZZnBfdWV1b3ZvZlZCbC1jeTJBNE9MelhrSnRSSEktVHRHbmVlUzhkVGRYY2h4MUZfMThkeVo5dkhtb3dKMzlfeXNzYnd0MTRVdjBDZnc?oc=5"
     }
   ]
 }
