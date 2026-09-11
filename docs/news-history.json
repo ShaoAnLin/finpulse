@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-11",
+      "featured": [
+        {
+          "category": "international",
+          "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC",
+          "feature": "Apple首款折疊 iPhone Duo挑戰中國高價市場\n📰 發生什麼事：Apple於9月9日發表iPhone Duo，首款折疊手機，售價15,999人民幣（約2,250美元），在中國市場與華為、小米等本土品牌同場競爭，上市後股價上漲逾3%。\n🔍 背景與來龍去脈：折疊手機自2019年Samsung推出以來已逐漸成熟，華為、小米、OPPO等在中國已形成多樣化的書本式、翻蓋式與三摺設計，供應鏈與生態系統亦較成熟。Apple延遲多年研發，2026年才推出，採用雙eSIM設計且缺少實體SIM槽，面臨中國嚴格實名認證的障礙，且定價高於大多數競品，成為消費者是否換機的關鍵。\n🌐 影響：若售價與eSIM限制未獲改善，iPhone Duo可能僅吸引高階蘋果忠實族群，對Apple在大中華區約佔17%營收的貢獻有限；同時可能迫使本土品牌調整價格或加速軟硬體創新，提升整體折疊手機市場規模，台灣消費者亦將面臨更多高階折疊選擇，相關供應鏈企業或受益。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmNMTm5sLWlLTEZkMUg3cm9Fb2lqVEYyOGhhcE5YemdTcjdMaXpGVnAzSFZKemxQSXA4Z0NsblZtQ3RCS2tHbUJMbkotQkI2YzVXZ2xBVTJaTEVuOU5kYTA2eDl2VTg5bVZSRlltUV9WTG0xWURzYzZHM1lCeUdzRmVscWVDQ252ZGdzSTdNc2pEcjTSAZgBQVVfeXFMTktYVUpGdGl4TXk0aDZBNWdfNTFMSUdsRGNkY1QwNm1Va3l1UzYyX194eHRtUmRselJ6bUxOaTF2Q2xSMDU3b1k2MjJDXzNQUHlySHRVV3NWQ1IzZTZaZlRKRGZXbm9nbU80YnhPcHJqWHFsSV9HQ2lYWFhyeU9sRUhTM2ZzTlVodWxaUWZibTZRT3NPUWRuQVM?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "主動式市值ETF崛起 受益人規模佔主動式台股ETF逾三成| 財經焦點 - 太報 TaiSounds",
+          "feature": "主動式市值ETF快速崛起，資金與受益人破三成大關\n📰 今年台股主動式市值型ETF受益人新增88萬，總數突破123萬，資金規模達3,450億元，占同類ETF規模42%。其中以群益核心50、群益科技創新等產品表現最為亮眼。\n🔍 AI浪潮推動台灣電子股市值重組，2016年僅3檔電子龍頭，至今已佔十大股7檔。投信為配合快速輪動，推出以市值加權、主動調整的ETF，取代傳統被動指數商品。自2025年起主動式ETF在台已逾40檔，成為資金新寵。\n🌐 市場層面，資金流入提升ETF流動性，降低投資人持有成本；散戶可透過單一商品捕捉AI供應鏈成長，提升組合彈性；對金融業則帶來新產品開發與手續費收入；同時也加劇資金在科技股集中，需警惕輪動風險。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaFh2TFVRdm51NUFRWWxPblR6MlgyNlZzYTNUTWZaempkQXMtN1BrVUxoZHdsZkNZZ25MSkpVWFhIdFF0YW9yeGx6MWh3QTBjX0NGemdLR0dDMmtO?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-10",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "輝達再度押注開源AI：欲投25億美元於穆拉蒂新創思維機器實驗室\n📰 發生什麼事\n英偉達（Nvidia）正與前OpenAI首席技術官米拉·穆拉蒂創辦的思維機器實驗室（Thinking Machines Lab）談判，擬投入約25億美元（約790億新台幣）作為新一輪融資，估值至少400億美元。若成交，英偉達將成為最大投資者，持股約一半。\n🔍 背景與來龍去脈\n近年英偉達從單純供應AI晶片，轉向布局開源模型與開發者生態。去年收購Hugging Face、投資Reflection與Poolside，皆為擴大開源AI版圖。穆拉蒂於2024年離開OpenAI後成立TML，致力於開放權重模型與企業客製化平台，已獲多輪數十億美元資金，並推出Inkling等模型。英偉達先前已表明將與TML建立長期算力合作，這次投資是前期承諾的延伸，也顯示英偉達欲以算力與資金雙管齊下，對抗OpenAI、Anthropic等閉源巨頭。\n🌐 影響\n對美股而言，英偉達的投資可能提升其營收來源，擴大GPU需求；同時提升開源AI生態，使更多新創與企業可使用英偉達算力，降低對單一模型供應商的依賴。對台灣而言，相關供應鏈（如晶圓、伺服器製造、AI軟體服務）或受惠，亦可能帶動本地AI人才與創業熱潮。投資金額與高估值亦顯示AI新創市場熱度仍在升溫，投資人應留意估值與營收倍率的落差。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6598279"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-04",
-      "featured": [
-        {
-          "category": "international",
-          "title": "The big August jobs report is due out Friday. Here's what to expect for what has been a jobless summer - CNBC",
-          "feature": "美國八月就業報告出爐：低增長延續夏季『無業』\n\n📰 發生什麼事\n美國勞工部週五公布八月非農就業人數，預計淨增5.3萬人，失業率維持在4.1%。繼六、七月合計減少3千人後，增幅仍屬微弱。\n\n🔍 背景與來龍去脈\n去年以來美國勞動市場進入「低雇、低裁」階段，企業因地緣政治不確定、AI 投資調整與高利率抑制擴張。移民減少也降低了勞動需求基礎。聯準會因通膨仍高於2%目標，持續關注薪資與物價走勢，使利率政策保持緊縮。\n\n🌐 影響\n就業增幅不佳可能延緩聯準會降息預期，美元短期走強，進一步抑制出口與台灣科技股。對一般民眾而言，求職難度提升，薪資成長受限；同時低失業率維持消費動能，對本地服務業仍有支撐。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE92WE1BZmt4QlJkTjhBYmI4dERxRVNIUEZtX2hqY3dSUjA2a3NaSlJzT1dTYmhweVhwZ0kybkhySVlGUzdTRVRxTEhIT3ZQXzgzMy1Td19XbDFUVllZRVlYdXc4dE1teVRaRXBQcWlvaGpLVG12NjNlbtIBfkFVX3lxTE5Cb3IxU1ZGc2FxektEWFN3T0lSLVA3cnlGY3VlV29OT1JFRVN4YVdTMkdPOGJmTjhUdUZ4dFNlMy1Fc1ZudURxNUJySXk5VHBUcHhvWXk4ZHBrcF8tYkQzRVZLdGxVZU9SR2EyaXA5SENtdkFoY1Y4N3NLLUtDQQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "美國7月對台灣貿易逆差創歷史新高 今年來逆差暴增逾80% 因 AI 採購熱",
-          "feature": "AI需求推波助瀾　美國對台逆差破207億新高\n📰 發生什麼事：美國商務部公布，7月美國對台灣的貿易逆差達207億美元，較去年同期激增逾80%，創下歷史最高。逆差主因是電腦、半導體及AI伺服器相關設備進口激增，資本財進口金額更創新高。\n🔍 背景與來龍去脈：近年美國加速建置AI基礎建設，需求大量高效能晶片與伺服器。台灣半導體產業（尤其是台積電等代工廠）在全球供應鏈佔據關鍵位置，成為美國主要採購來源。2024‑2025年，美國亦在討論針對半導體的關稅政策，欲促使本土製造，為逆差增幅增添變數。此波需求同時與全球晶圓代工產能緊張、AI模型訓練成本上升相呼應。\n🌐 影響：對台灣而言，出口增長提升了相關企業營收與研發投資，但高度依賴單一市場的風險亦同步上升；若美方關稅或限制措施落實，可能削弱台灣半導體的出口動能。對美國市場，巨額逆差反映資本財支出持續強勁，亦顯示美國製造業回流尚未完全。一般民眾則可能見到AI相關產品價格上漲，且因供應鏈變化，相關產業就業與投資情緒將受牽動。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9733742"
         }
       ]
     }
