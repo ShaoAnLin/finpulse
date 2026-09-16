@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-16",
+      "featured": [
+        {
+          "category": "international",
+          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey - CNBC",
+          "feature": "日本央行或大幅升息25碼，觸及30年新高\n📰 發生什麼事：根據 CNBC 9 月 9‑14 日調查，超過八成受訪經濟學者預期日本央行（BOJ）將在本週五的兩天會議結束時將政策利率上調 25 個基點，至 1.25%，創下自 1995 年以來的最高水平。\n🔍 背景與來龍去脈：自 2024 年 3 月啟動貨幣政策正常化以來，BOJ 以六個月為間隔小幅加息，去年 6 月最後一次升息。近期日本 7 月通膨率升至 1.9%，為年內最高，且實質工資連續七個月上漲 2.4%。美國持續加息、G20 會議上美國財政部長逼迫日本穩定通膨預期，亦讓央行獲得更大政治空間。另一方面，過去三年兌日圓的「套利交易」規模激增至 360 兆日元，投資人已開始在預期升息前平倉，導致日圓自 7 月低點回升，市場預測未來一個月匯率介於 155‑160。\n🌐 影響：升息將推高日本公債殖利率，抑制股市同時提升日圓利差，進一步刺激資金回流日本，對新興市場與台灣的出口競爭力產生壓力；同時日圓走強會降低台灣企業以日圓計價的進口成本，減輕能源與零部件支出。投資人需關注台幣兌美元與日圓的波動，以及可能因日圓升值而引發的資金再配置效應。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rOHVJT2VNbHNDeHBHNmdsUGJ2SFdVWGpXTllKMk4tVUJZQkpHUWJaWDZvUWJCRzNyZmlrS3Byb2pLNEpXMTE2OFNXV0tHbWh6dG9CNmNXQkNZUjRlcUFFc29heFZWQWVGMENlVzhJbjjSAXZBVV95cUxORExXVlBYaGtvemt6OHpJNFYzb3gtRHJ4cWt1a051eFNzZ1llNEx1aF92bTMzN0ZxbjlWQWQ1b09ZTjZ0TXY1aXlMLWk2WkFaSGRqb1g1WlRPR0FKOVA3Y2pER3FxSi14SUxZT2N3RkRWOGhQUUtB?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "油價突破100美元 能源通膨再度成為央行難題 - Yahoo股市",
+          "feature": "（標題行）油價破百美元　能源通膨成央行新挑戰\n📰 發生什麼事\n布蘭特原油於9日收於101.2美元，首次突破每桶100美元大關；WTI同樣上漲至96美元。美軍當日摧毀5艘伊朗油輪，波斯灣衝突升溫，導致市場對供應風險高度警戒。\n🔍 背景與來龍去脈\n自2024年以來，中東局勢頻繁波動，伊朗與美國在霍爾木茲海峽的軍事對峙屢見不鮮，且葉門胡塞武裝亦襲擊沙烏地能源設施，削弱原油運輸安全。全球石油庫存持續下降，加上俄烏衝突後需求回升，使供需緊張。油價曾於2023年底回落，但因上述地緣政治因素再度上揚，突破百美元關口。\n🌐 影響\n能源價格飆升推高汽油、柴油零售價，台灣民眾每月油費或增加千元，進一步侵蝕家庭可支配收入。央行面臨通膨壓力加劇，貨幣政策或延遲降息或提前升息，影響房貸與企業融資成本。能源股受惠上漲，傳統產業成本上升則壓縮獲利，股市呈現能源股強勢、其他板塊走弱的格局。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQmdPYlM0VGd4cDVfODdfXzRWMFJwOFdhQ2RvNXFacGx1dWp0OGpOVFU0eWw3cWlQVUtac3NYQUVFTTR2dUh1a3lqOW5ycThXX3FFa3N3djBuZ3pDNC0zUlU0N2s5QThyalpMdzR6OHJmMTVNVHF2X1N0TVNyTjFYcDQ1ajZNdkg1NENHNndVSlhFb0xVczc4NjFXd1dhaWdiUHRPVnZ4ckc2N3Y0R1AtWkpfRGNiY0trSVBTS2FnWmNXajRMMEpZYURPbHRpV0stcm5rVU1PaGRsUUl2dWpBcXhHSWhzTGk3MVJEMDRxUHk2SjZoMEs2djVMRldja3VtblRsMkN2UTU4MUZrQ283aS1ZZ2FnWDJPSDd4ZmVQNTQtWTNRMl9UWC1aN1NpdHNic2loQjhUUFM?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-15",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "高利率與高油價雙壓下，費半指數逼近半年線，市場分化顯現\n📰 費半指數目前在11,931點，距離半年線僅1%；10年期美債殖利率升至4.86%創近三年新高，布蘭特油價回到每桶百元。資金偏好防禦性標的，Marvell、美光等記憶體與連接晶片股逆勢上漲，蘋果折疊iPhone Duo雖亮相但高價抑制需求。\n🔍 背景：美聯儲維持高利率抑通膨，加上全球能源需求復甦推升油價，導致資金成本上升、風險偏好下降。台幣與日圓升值進一步壓縮台灣出口利潤；同時AI需求提振記憶體需求，使相關供應鏈受惠。費半接近半年線更多是資金避險停泊，非新一波攻勢。\n🌐 影響：短期內台股偏向防禦股，投資人需挑選具基本面支撐的個股；出口導向產業受匯率與能源成本雙壓，盈餘成長受限；但記憶體、封測與蘋果供應鏈仍有成長空間，對相關公司股價提供支撐。長期若利率與油價回落，市場或再度轉向成長股。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMinwVBVV95cUxNc253Z1lzUFZ3bVNMOENTWmNtY0FFSkk5blNsQWVmZFZRWGlpNmtRTklSYnZpUzNGWGJRcEZxMDJrQ3RNMHBfSWQ3clpxWXZzZC01cEhvemtxU3p6cFVjeC10R2ZxUkFBX1NLWHZab1Bxano0RXRvQ0lkaVNqbXl4dmZndVZocm5DVG0taVBDV1U5WHl4bVNqYnFJRDNhUVg2ekh5MFZQT0VVSHpDTEtlVk4tdHNHWWVxWEh1aUJiMU1TZTVkbXUwZERvdW1BckVXUGJVcjZMaGRuNmNSZFZwSWFacUFRZFZtaU9Ib3FkbjY4b2lkYmpjOW5ZZ2RSYTM5ejBUVk9nRG0zNktiNWpkTkxQbGtEMjRIR2czVlludkVpVURPUzBUb3AybWlveEoxcktKT1B3SDJOczJuMk44Uk1XNXl0RHNhcXJ5aTBHdlZjTWRJWXBMVU9LU0gzaExma0x6bHpjWjVJbEJka1BxNFVDcGV5RldrWTNFYzgzdkFsUjlSN1hDNkp3bFRDMFJoeW1ZeV9qSFNiWkdBQjdGSjFseGZHTFl0NWxoT0xIUEhDVUpPOXRFUlAyR3V0ZXo5UTM5NXBhMWxQamg2WllXNk11U01Yd0JtaTY1XzlPWlBWeV94eXFCa2dqNUVmWC1zdUVkUGppdjNzUW1rczh4S2thWUhmV0JZMGJldFdHNEdaMmY0all0c3NKOEVXN0VvQWgyRl96bkNxSWplVlhaOHpIejFUYWhUTzZkYVlZWTJIZ0h2M1MtSDZCV014OU4yWDlnX3FucjhXSDRDUmUwOHl2R0RjQURDeHhpajZGbGc5ekFudEk3bFFfWkxGVmNvYUE3THJIaEtLSE5uRTlzcC1FRUdxcFVPYzdMZkxQUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-09",
-      "featured": [
-        {
-          "category": "international",
-          "title": "AI infrastructure stocks rally on deal announcements from Qualcomm, Corning - CNBC",
-          "feature": "AI 基礎建設股因 Qualcomm 與 Corning 大型合作案大幅上揚\n📰 發生什麼事：Qualcomm 與 Amazon 簽訂最高 60 億美元的伺服器晶片購買協議，同時 Corning 與 Verizon 簽下多億美元光纖建置合約，帶動相關 AI 基礎建設股大漲，Intel、AMD、HPE、Coherent 等皆上漲 6%~9%。\n🔍 背景與來龍去脈：AI 訓練與推論需求推動資料中心擴建，過去主要靠 Nvidia GPU，現在資本支出已蔓延至晶片、光纖、伺服器等全產業鏈。Qualcomm 近年布局資料中心晶片，並在 6 月與兩家未具名資料中心公司合作；Corning 今年已為 Amazon 投資 32 億美元建造光纖廠，與 Verizon 合作加速 AI 連接。美國半導體出口管制亦促使供應鏈本土化，提升此類合作的戰略價值。\n🌐 影響：短期內相關股價受惠，投資人對 AI 基礎建設的資金流入加速；長期看，台灣的晶圓代工與光通訊廠商可能受惠於美國大型雲端業者的訂單擴張，同時也面臨供應鏈重組與技術升級壓力。對一般民眾而言，AI 服務成本或因基礎建設效能提升而下降，產業數位化加速。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORk5DTHlGZkg5RE5zV2tXVjNaRV94Q19tTWFRLTh0b0JTY0RMRnhLLVgyV1hqN0V3VHFpelYwdEN4UWcwcnpCZ2tPVHJQUTlEN0R5NUthTVBqNzZZX3d3NVU1eGhVY0EweUhscHo2Mjg0czMwR3Y3ZTNMQ0RMNmVWbEVSa2pLODd1Sk1KZ3hwT19aMWRoQ0xId2I5YWo3M2NUS0dj0gGoAUFVX3lxTE1xa1hULU0xQXo2cXRhdkMyb3J3OUc4QlJ6SnlDdDloVjk1M1EtSTBuUVdXTXFaU295RU5Gc3BhdzBiR2IwVTNVeUU5NjluRjc1aGo0dDE5RTh1VGFvS3VSckRUT21vYk9haEhmX2E4ci1TWkEtTmNsMDBHQU1Ucld3ems3NzA5SW1OeG4wVXEyV2tVbmdnaWZkZnMyZ0xGQWF4RVVBb1JjbA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "「斷崖式」下滑！OPEC 8月日產量暴跌90萬桶 沙烏地出口驟減三分之一",
-          "feature": "OPEC 8月產量斷崖式下滑，沙烏地出口暴減三分之一\n📰 發生什麼事：根據彭博調查，受中東衝突升級及航道受阻影響，OPEC 8月原油日產量急跌約90萬桶，降至每日約1,991萬桶。最大產油國沙烏地產量減112萬桶至698萬桶，出口量更縮減近三分之一，僅剩303萬桶/日。\n🔍 背景與來龍去脈：自2024年起，美伊在波斯灣的軍事摩擦頻繁，導致霍爾木茲海峽油輪通行受限；同時胡塞武裝對紅海航線發動攻擊，雙重夾擊使沙烏地原油無法順利走航。6、7月OPEC曾透過調整船隊暫緩供應下降，但衝突升溫後產量回彈的努力被迫中斷。伊拉克與委內瑞拉雖小幅增產，但不足以彌補沙烏地的缺口，且委內瑞拉正考慮退出OPEC，加劇組織內部裂痕。\n🌐 影響：油價因供應緊縮逼近每桶100美元，對台灣能源成本與民生油品價格形成上行壓力；同時航空、航運及化工企業的燃料支出將上升，可能傳導至票價與產品價格。投資人關注美國與俄羅斯的產量策略，短期內油氣相關股可能受惠，長期則需關注地緣政治走向與OPEC內部協調結果。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6601280"
         }
       ]
     }
