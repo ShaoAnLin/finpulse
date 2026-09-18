@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-18",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Jensen Huang says Nvidia will sell twice as many chips next year - CNBC",
+          "feature": "「Nvidia 2027 年芯片銷量欲翻倍　AI 需求驅動市場爆發」\n📰 Jensen Huang 在蘇格蘭與英國國王查理三世會面時表示，Nvidia 預計明年芯片出貨量將是今年的兩倍，暗示 AI 用戶需求持續高漲。\n🔍 背景：自 2023 年以來，AI 大模型與生成式 AI 帶動資料中心 GPU 需求激增，Nvidia 旗下 Blackwell、Rubin 系列 GPU 成為雲端與企業 AI 訓練的核心硬體。公司去年已出貨約 600 萬顆 Blackwell GPU，並持續擴大與台積電等代工廠的晶圓供應合約，以緩解前幾波 AI 熱潮的產能瓶頸。此番預測延續了去年財年 70% 營收成長（約 673 億美元）的高基調。\n🌐 影響：\n- 市場：分析師將 Nvidia 2027 年營收目標上調，相關半導體與晶圓股或受波段資金青睞。 \n- 台灣產業：AI 伺服器需求提升將帶動本地晶圓、封測與系統整合廠商訂單增加，對台積電、聯電及代工服務商是正面刺激。 \n- 一般民眾：AI 應用如醫療影像、語音助理、金融風險模型等加速落地，提升生活與工作效率，同時也可能帶來資料隱私與就業結構的挑戰。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMZUVscTltc3BSMGJoVVhPeWlDQ2JiendDa3ZsRmF4VGwzVXAtYlNfUE5vVE13OXBsT1N3MXFYdFdRd25jYkhGaFp4QXEwb0g5cXNQdFhicVl0SWlySk1JTXhoc05qd08tcmhBR2VxQU5DLTVq0gF6QVVfeXFMTXo3S3oxZXdkNml4VG1yM09rSUh4cWp4Tlh2SXdSSGZ1Q0Z4NHBPclhJdmdmbUtWTWVUQnd4YUY0N25IV204WWY1QnZISUJ6bl9ZaXVEQ0dnMU1QdHdva0dSdmVOZWctZnBQaHE0WUdBSkFDYWItM2tQTXc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "習近平下周訪美！港媒：中美擬宣布加強兩軍關係 軍控對話有望重啟",
+          "feature": "習近平下周訪美　兩軍關係或再升級、軍備控制對話或重啟\n📰 習近平將於下週以國是訪問赴美，雙方正商討在峰會期間宣布加強中美軍事關係，並可能恢復因美對台軍售而中止的軍備控制對話，甚至納入軍方人員參與。\n🔍 近年中美在貿易、科技與制裁上持續緊張，但自2023年底開始恢復指揮官層級會談，8月底在加拿大首次舉行東部戰區與美太平洋司令面對面。美國亦提升香山論壇代表等級，顯示雙方欲建構多層級溝通管道，以降低誤判風險。此次訪美若宣佈軍事合作，將延續「戰略穩定」方針。\n🌐 若軍事對話重啟，兩軍誤判機率或下降，對台海危機的緊張氛圍有緩和作用；同時也可能影響美國對台軍售政策，進一步波及台灣防衛預算與軍事採購。市場方面，投資人可能視為緩和信號，台股相關防務股波動度或降低，資金或流向更廣泛的科技與出口導向產業。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9762313"
+        }
+      ]
+    },
+    {
       "date": "2026-09-17",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "央行9/17理監事會：升息壓力升溫、房市信用管制成焦點\n📰 發生什麼事\n央行將於9月17日召開第3季理監事會，市場預期因CPI連續四月超2%與國際油價高企，升息機率提升至近30%；同時會審議第二戶房貸成數是否放寬，成為資金配置的關鍵議題。\n🔍 背景與來龍去脈\n自2024年以來台灣CPI已連4個月突破2%警戒線，實質利率轉負，民眾通膨預期升高。美聯儲與主要央行相繼加碼，使我行升息壓力加劇。另一方面，房市自2023年高點回落，建照減少但使照持續增，供給時間差與預售屋實價登錄與交屋價差形成盲點，央行於2024年3月已將第二戶貸款成數由5成提升至6成，9月會再衡量是否放寬至7成，以避免硬著陸。\n🌐 影響\n若升息半碼至1%將推高房貸及企業融資成本，房貸族負擔加重，建設股可能再度下跌；放寬第二戶貸款則可能刺激購屋需求，緩解建商資金壓力。資金面趨緊亦可能使股市資金流向債券，投資人需重新配置資產。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5KTXprTU53d3lHNE9jX2UteHpGbWplTG9GZGF6NFVkMUczdzBpV2JaX3d5eEZ5YnpTTGxMSmsxWGl0Z0MzWlBRcWZZbXZRb1dEV3lmZFlYbmhtZXpBdW5DNWc0ems3cmVuYWt1MnpzYTZUekZSREpOaWRja9IBX0FVX3lxTE51d213cU5uZVhMeERGSUNlWE92UkNyUUtCUnMxQ0J5M2hoWmM1emNMZ3RtVVRWamFuSzRSSkVBa0tIeHlZX0pMNXZadGlua0I1ZDI0OGV6OHFCTDdCRlFZ?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-11",
-      "featured": [
-        {
-          "category": "international",
-          "title": "The iPhone Duo enters China’s crowded foldable market — and faces a price test - CNBC",
-          "feature": "Apple首款折疊 iPhone Duo挑戰中國高價市場\n📰 發生什麼事：Apple於9月9日發表iPhone Duo，首款折疊手機，售價15,999人民幣（約2,250美元），在中國市場與華為、小米等本土品牌同場競爭，上市後股價上漲逾3%。\n🔍 背景與來龍去脈：折疊手機自2019年Samsung推出以來已逐漸成熟，華為、小米、OPPO等在中國已形成多樣化的書本式、翻蓋式與三摺設計，供應鏈與生態系統亦較成熟。Apple延遲多年研發，2026年才推出，採用雙eSIM設計且缺少實體SIM槽，面臨中國嚴格實名認證的障礙，且定價高於大多數競品，成為消費者是否換機的關鍵。\n🌐 影響：若售價與eSIM限制未獲改善，iPhone Duo可能僅吸引高階蘋果忠實族群，對Apple在大中華區約佔17%營收的貢獻有限；同時可能迫使本土品牌調整價格或加速軟硬體創新，提升整體折疊手機市場規模，台灣消費者亦將面臨更多高階折疊選擇，相關供應鏈企業或受益。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVmNMTm5sLWlLTEZkMUg3cm9Fb2lqVEYyOGhhcE5YemdTcjdMaXpGVnAzSFZKemxQSXA4Z0NsblZtQ3RCS2tHbUJMbkotQkI2YzVXZ2xBVTJaTEVuOU5kYTA2eDl2VTg5bVZSRlltUV9WTG0xWURzYzZHM1lCeUdzRmVscWVDQ252ZGdzSTdNc2pEcjTSAZgBQVVfeXFMTktYVUpGdGl4TXk0aDZBNWdfNTFMSUdsRGNkY1QwNm1Va3l1UzYyX194eHRtUmRselJ6bUxOaTF2Q2xSMDU3b1k2MjJDXzNQUHlySHRVV3NWQ1IzZTZaZlRKRGZXbm9nbU80YnhPcHJqWHFsSV9HQ2lYWFhyeU9sRUhTM2ZzTlVodWxaUWZibTZRT3NPUWRuQVM?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "主動式市值ETF崛起 受益人規模佔主動式台股ETF逾三成| 財經焦點 - 太報 TaiSounds",
-          "feature": "主動式市值ETF快速崛起，資金與受益人破三成大關\n📰 今年台股主動式市值型ETF受益人新增88萬，總數突破123萬，資金規模達3,450億元，占同類ETF規模42%。其中以群益核心50、群益科技創新等產品表現最為亮眼。\n🔍 AI浪潮推動台灣電子股市值重組，2016年僅3檔電子龍頭，至今已佔十大股7檔。投信為配合快速輪動，推出以市值加權、主動調整的ETF，取代傳統被動指數商品。自2025年起主動式ETF在台已逾40檔，成為資金新寵。\n🌐 市場層面，資金流入提升ETF流動性，降低投資人持有成本；散戶可透過單一商品捕捉AI供應鏈成長，提升組合彈性；對金融業則帶來新產品開發與手續費收入；同時也加劇資金在科技股集中，需警惕輪動風險。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBWaFh2TFVRdm51NUFRWWxPblR6MlgyNlZzYTNUTWZaempkQXMtN1BrVUxoZHdsZkNZZ25MSkpVWFhIdFF0YW9yeGx6MWh3QTBjX0NGemdLR0dDMmtO?oc=5"
         }
       ]
     }

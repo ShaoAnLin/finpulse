@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-17",
+  "date": "2026-09-18",
   "featured": [
     {
       "category": "international",
-      "title": "Fed delivers its first hike in 3 years. Plus, what's moving Starbucks and GE Vernova - CNBC",
-      "feature": "美聯儲三年首度加息，全球資金與台灣經濟再度緊縮\n📰 發生什麼事：美聯儲在本週二一致通過將聯邦基金利率目標區間上調0.25個百分點，至3.75%‑4.00%，為2023年以來首次加息。會議紀要顯示多數官員預計今年還會再加一次，目標最終達4.1%。\n🔍 背景與來龍去脈：自2022年起美聯儲連續降息以刺激經濟，後因通膨持續高於2%目標而被迫逆轉。2023年夏季最後一次加息後，通膨雖有緩解但仍在3%上下徘徊，尤其食品、能源與租金漲幅仍具黏性。新任主席Kevin Warsh上任以「零容忍」態度推動政策收緊，並以勞工部最新消費者物價指數作為依據。此舉同時回應美國政治壓力，因中期選舉在即，政府需示範抗通膨決心。\n🌐 影響：\n• 全球金融市場：美股、債市即時下跌，美元走強，新興市場資金外流風險升高。\\n• 台灣企業與投資人：美元升值提升進口成本，特別是能源與原物料；同時台幣匯率短期承壓，出口競爭力受惠但外債利息負擔增加。\\n• 消費者層面：房貸、車貸與信用卡利率將逐步上調，住宅市場需求可能降溫；相對地，儲蓄帳戶利率上升，對偏好低風險資產的民眾有利。",
+      "title": "Jensen Huang says Nvidia will sell twice as many chips next year - CNBC",
+      "feature": "「Nvidia 2027 年芯片銷量欲翻倍　AI 需求驅動市場爆發」\n📰 Jensen Huang 在蘇格蘭與英國國王查理三世會面時表示，Nvidia 預計明年芯片出貨量將是今年的兩倍，暗示 AI 用戶需求持續高漲。\n🔍 背景：自 2023 年以來，AI 大模型與生成式 AI 帶動資料中心 GPU 需求激增，Nvidia 旗下 Blackwell、Rubin 系列 GPU 成為雲端與企業 AI 訓練的核心硬體。公司去年已出貨約 600 萬顆 Blackwell GPU，並持續擴大與台積電等代工廠的晶圓供應合約，以緩解前幾波 AI 熱潮的產能瓶頸。此番預測延續了去年財年 70% 營收成長（約 673 億美元）的高基調。\n🌐 影響：\n- 市場：分析師將 Nvidia 2027 年營收目標上調，相關半導體與晶圓股或受波段資金青睞。 \n- 台灣產業：AI 伺服器需求提升將帶動本地晶圓、封測與系統整合廠商訂單增加，對台積電、聯電及代工服務商是正面刺激。 \n- 一般民眾：AI 應用如醫療影像、語音助理、金融風險模型等加速落地，提升生活與工作效率，同時也可能帶來資料隱私與就業結構的挑戰。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcVNVSVgzeHBINnctekhHNGhnTER3VTViVFBZbTJIN2lrS0ltVDVZX2RuZFNFSExPNDFsYlJmQ1ptZzIzaE95ZGIyVTdHZUNuSFBvV3BpYWRab1J2bVBMOVdWSzJkb1gxcjJkbkxYQl8tUU5CT2V3VERrdmtPaFY2bEwtb1RudnhsSlo5cnUxb3Y1cENOdmZsclBualcwX1BHZGNmRnFvWG1QNlJBdGN6ZWtRTjQ4ZUVFWnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMZUVscTltc3BSMGJoVVhPeWlDQ2JiendDa3ZsRmF4VGwzVXAtYlNfUE5vVE13OXBsT1N3MXFYdFdRd25jYkhGaFp4QXEwb0g5cXNQdFhicVl0SWlySk1JTXhoc05qd08tcmhBR2VxQU5DLTVq0gF6QVVfeXFMTXo3S3oxZXdkNml4VG1yM09rSUh4cWp4Tlh2SXdSSGZ1Q0Z4NHBPclhJdmdmbUtWTWVUQnd4YUY0N25IV204WWY1QnZISUJ6bl9ZaXVEQ0dnMU1QdHdva0dSdmVOZWctZnBQaHE0WUdBSkFDYWItM2tQTXc?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "聯準會升息1碼沒完，台股4天重挫千點後表現？專家揭後市：恐掀資金逃亡潮 | 李瑋萱 | 新聞 - 風傳媒",
-      "feature": "美聯儲再升息 台股四天跌千點後或迎資金逃亡潮\n📰 發生什麼事：美聯儲於9月16日再加息0.25個百分點，目標區間升至3.75%‑4%。宣布後，全球股市震盪，台股連續四日下跌近1,000點，收於45,200點左右。外資單日賣超逾890億，創今年第12大賣超紀錄。\n🔍 背景與來龍去脈：自2023年7月以來美聯儲首次升息，市場已預期利率上升。美國通膨仍高企，PPI與柴油價格大幅上漲，能源成本侵蝕企業獲利。同時中東緊張升溫推升油價至110美元以上，成為「真正大魔王」。台積電雖報出史上最高營收，仍無法抵銷整體資金外流。\n🌐 影響：資金恐再大規模撤離台股，外資持續賣壓可能延伸至本月末。台幣升值壓力增加，進口成本下降但出口競爭力受損。投資人或轉向美債與黃金避險，金融股或受惠於利差擴大，科技股則面臨估值調整風險。",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ObUE5MF9OcVUtSC1VVHR3cFlZTEtSNUR6WXd0ajBDdGVuU2x2TGZzTTFabEJlZnR0cUJFQWtWUzBhaDJjT2hXNGNKdnFqUQ?oc=5"
+      "title": "習近平下周訪美！港媒：中美擬宣布加強兩軍關係 軍控對話有望重啟",
+      "feature": "習近平下周訪美　兩軍關係或再升級、軍備控制對話或重啟\n📰 習近平將於下週以國是訪問赴美，雙方正商討在峰會期間宣布加強中美軍事關係，並可能恢復因美對台軍售而中止的軍備控制對話，甚至納入軍方人員參與。\n🔍 近年中美在貿易、科技與制裁上持續緊張，但自2023年底開始恢復指揮官層級會談，8月底在加拿大首次舉行東部戰區與美太平洋司令面對面。美國亦提升香山論壇代表等級，顯示雙方欲建構多層級溝通管道，以降低誤判風險。此次訪美若宣佈軍事合作，將延續「戰略穩定」方針。\n🌐 若軍事對話重啟，兩軍誤判機率或下降，對台海危機的緊張氛圍有緩和作用；同時也可能影響美國對台軍售政策，進一步波及台灣防衛預算與軍事採購。市場方面，投資人可能視為緩和信號，台股相關防務股波動度或降低，資金或流向更廣泛的科技與出口導向產業。",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9762313"
     }
   ],
   "candidates": [
     {
-      "title": "台股持續狂飆近800點！「13檔個股衝漲停」誠美材、統新衝漲停 勝昱、大飲也亮燈 - FTNN 新聞",
-      "content": "台股持續狂飆近800點！「13檔個股衝漲停」誠美材、統新衝漲停 勝昱、大飲也亮燈 FTNN 新聞",
+      "title": "台股開盤漲161.56點 - 經濟日報",
+      "content": "台股開盤漲161.56點 經濟日報",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFB3cVNWa21vdEIyX29reE5CUjA5a0lVWXItT3d4N3N5SnpnWlVWWWJsWDhGcU9tdW1YSGFuUmZSVW9OVGw4bm41UHFVQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWERYWDloS1FkczBycXRCNDZ5QWpLRk1iZHU3NmxPRVN3X2szS0E1Q3J0ZldFcFpsM192NFZSQ2pCQ2Z6eE56OTVlTGEyZUNjcHJadXBaNWR6VTZzNlluWWtOeWRzRTlkRkJPWDF5UGVLX3g4YkFRVWREbUFvaThRetIBX0FVX3lxTE5BbkhuMl9tTUVtYjdLWWxSM3VRSnNiWWVqNEpNVXMyMDc4RlJkc2VvUkdseDZKaERTa0Z4NTNfM01uQm0yMXhDRzMwNlBKbldBT0phWnZiR29CRFMxS0JF?oc=5"
     },
     {
-      "title": "盤中速報 - 集中市場加權指數上漲916.21點至46765.11點，漲幅2%",
-      "content": "集中市場加權指數盤中漲幅2%，Cowos、FOPLP概念表現強勁。快同時查看近日週月績效與即時新聞資訊。",
+      "title": "川習會將觸及AI議題　專家：可能討論技術與治理工具",
+      "content": "川習會預計下週在華府登場，人工智慧（AI）預料將是雙方討論議題之一。美專家今天表示，雙方可能針對技術與治理工具進行討論，...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9762305"
+    },
+    {
+      "title": "日本10年債殖利率飆破3% 貝森特「逼宮」日本大撒錢 要求升息、收斂財政支出",
+      "content": "美國財政部長貝森特(Scott Bessent)近幾個月持續向日本政府施壓，要求東京控制大規模財政支出、讓日本央行加快升息，以遏制日元疲弱與通膨壓力。路透引述3名知情人士指出，當日本財務大臣片山皐月(Satsuki Katayama)今年6月22日致電貝森特，希望美國協助支撐大幅走貶的日元時，貝森特",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6608761"
+      "link": "https://news.cnyes.com/news/id/6609686"
     },
     {
-      "title": "台股開盤狂飆逾750點！台積電衝2425元、聯發科漲百元 0050同步走高 - Yahoo股市",
-      "content": "台股開盤狂飆逾750點！台積電衝2425元、聯發科漲百元 0050同步走高 Yahoo股市",
+      "title": "醒來應該都笑了！股海老牛曝台股1吸金黑馬：迎「開心劇本」 - Yahoo新聞",
+      "content": "醒來應該都笑了！股海老牛曝台股1吸金黑馬：迎「開心劇本」 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxOU19WZWJRRlZ6LS12QVE0TFN5TThaWXJTMDZqazdwZmhCYUZIaHVQeXVDWlBzYkVXbEJoZFpRcmNtMjNzWEc4ZFRCQVJXNmZmZmQ1YXBwWHFDNXlOOXplbnBkb2RhWVo0QVdNVlJGNzRMZmRlQVRMbkc4SlliWERpQUh1WDhtNm1jMGlOR1hDVHQ4SFZDYXhvRFdWVEU1ZDR6YWY3bThGZkQ4Si04dHBwWUVmZGJHM1E1Q2g5UEY4UGxFeFBmekFOY2JjdHdKdWhWLWxzTGZDTFAzUGs4UXdpSUQtVW9uTmp3SEwwdEZVbzlTOXJocUxxeVM5dmtWNl93NHdBRDdJbFBIWHptSDNReWh0ZGhBR0FTX29Vck00X0hoOEdadVFUSG53bmtkU0RJQzJpdXREX2k3Nm4yWmlMTjRyd0RuSWtIcXFEWUJfbXRrRmxCWUFraUtmdjJGUDBaRWo1MElXeWdKeHNaTlE2VnNTZjVFTXUzRnJCMUF2Z21iZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi7AJBVV95cUxOVVRxVVIxOWw1VE1ndU15SXZJM0FlX3Y4VkdrUFBlYmY2OERLcktNbWFiU1ZnQXBFQWlWNXVjeUczU2RjR3ZpZXRVMkRpQ19oYmZrazlfNDUtdWIzMXFfdk10Y090Z3BHakNVMldHNUs0Znc1Zkk2SHdVVjFUSVF2aTl5TmV1MDdOVEdwZGJxeFBJY21sM1pkZmphT2VTTngwaVBFTVllZEJXSnF3aUFKYTNHRFh3bTNfVmsxbHdUQXhlZGJJOFNkVE9SbGFNNG1ZWG1KSzJTZk5KTDRFVWdJemU2dTZFSkQ1VHlwT1NuN2FoTEE1MHA1RHR2Mm5oRWpEMUF0ZEZGRGl6MkhDd2tqZXJWaFQ3b0Rmbi13d0s5R0EzMUpITTAxSkZrVUVCeFpRaFpaSFN2azY3MDJIR2tuQXI4MUtVbmpqWnRNQ3RmYVo1SWRtWHR0eDJ2d2h5ZllxWTVSQUplc1VLUHlS?oc=5"
     },
     {
-      "title": "盤中速報 - 上品(4770)股價拉至漲停，漲停價242.5元，成交417張",
-      "content": "上品(4770-TW)盤中漲停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
+      "title": "川普下一步？多道紅線被突破 摩根大通放棄預測伊朗戰事如何收場",
+      "content": "幾個月來不斷推演伊朗戰事會如何收場的摩根大通（JPMorgan）公開表示，已放棄提出基本情境預測。",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6608759"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9762284"
     },
     {
-      "title": "Fed升息1碼台股開盤不跌反漲！ 早盤狂飆逾700點重返46K - Yahoo新聞",
-      "content": "Fed升息1碼台股開盤不跌反漲！ 早盤狂飆逾700點重返46K Yahoo新聞",
+      "title": "快訊／台積電漲25元至2450　台股大漲逾770點、重回47K - ETtoday財經雲",
+      "content": "快訊／台積電漲25元至2450 台股大漲逾770點、重回47K ETtoday財經雲",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxOTDhsSmZRNHRZOVpyY1BCNTYza3BPenI1RURwZzVqVXJvMWQxZzZxVm9FSnFSR0FIQ3ZhNDZla3VuUnVwbDg4dnR1bENXREdQNUFKVmRqbDd4Vlkxbl9QRFlBYURfcmdZOHJkSUw3eGFseFRCUTB1a1NYT19kOUtydk5Hai1hdGdoRlBKN3ZGWEdZNHBLNGkyaTYxYnVHSi1ZU0lqX1lCaFNSaVdyQ0tsZ2FUc2gxb1dOLXdycG95MXNDS2ZaRHkwcUlmZnU0Y3VLMmZib0JsZXE1WFlMb2I2YUZCTndFTjBQcXlESnQ0LVNEN2lSV00yT0ZWODduNUVoRGN3TXA3eF9MZ0pVSkY1Wi1XdmFiODFPeXdhUmJwRTlxN2VCVEFiblFacUlIRjF0QS0zMk12QS1udjZQR2xXRm1DT0RSZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5LdmtFc3MyZzZua3ZKdHdYZV8yUzJWd3U1UHRQck1CeTgzbDVTQ21YYTJFVTB4ZjU3N2VybXpscHpKS191UmtuV1dRMEVrSnZpLXfSAVBBVV95cUxPQUtJV3NIVktGMlhDT3lpb09XcXkyTjNYSjdrQ29FcGFUUVg1ekoyRVpXalIyT0E3Q1VYelRLbGJGNE5SaDRibDZnZnZXMklabQ?oc=5"
     },
     {
-      "title": "盤中速報 - 安可(3615)股價拉至漲停，漲停價37.5元，成交325張",
-      "content": "安可(3615-TW)盤中漲停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
+      "title": "AI幫造AI　Anthropic：Claude主導26%研發",
+      "content": "美國人工智慧（AI）新創公司Anthropic說，AI模型Claude「主導」公司內部26%的AI研發工作。這是公司將定...",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6608758"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9762278"
     },
     {
-      "title": "盤中速報 - 金橋(6133)股價拉至漲停，漲停價26.05元，成交2,336張",
-      "content": "金橋(6133-TW)盤中漲停，最新價格、委託買賣量、近5日股價、三大法人買賣超、即時新聞資訊、產業指數、大盤表現、融資融券增減。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6608754"
-    },
-    {
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal - CNBC",
-      "content": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal CNBC",
+      "title": "Lightning Round: I wish I could get behind SNAP, but it's been a loser, says Jim Cramer - CNBC",
+      "content": "Lightning Round: I wish I could get behind SNAP, but it's been a loser, says Jim Cramer CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWWR6cGRGckVRa3AyQ2pRc1ZheW9OaVIxU3dFZGNpLUw3amI3UFY3dk10ZjZ2bVRQc0IxbnVLYjhic180b3pwMjZGbmJheTY3eFBIOGpmX2lKdFNDT3ZGU19kVUNGYXlZUk1CUWFMQlZtZ3BIUDVGZ1J5dGlGQV9kVXA2R3JnalVpY2o1UUVaMHBTTktmaHl6aWVPQnM5VkHSAaQBQVVfeXFMTUFreW5XTnRHbUJNSE1sazl2MmxDb1hfSGpzeHlvalRKLXJmcWJ3R0g5aDVBOGwwSkNqVHlZRUJlUWhEMnNYa0VEWWpDdUVHdXF6U1o0c0ZpX0prajIzMEZ5eU9lTjJld0R4S1JNM1hXWEpMZjVWQ1NNc0JSc05LcDZyTGFQOGFqemNmTW9QX0c2dFp3M29iNVVNSG8zeUFwR3lLYmQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPS05aZE5LN29PaGVjS2dCbVN3V0NvWndQLVRhRXhNbHhqa2NkSmEweVUzWVAzME5MR18wVnhwZFZaeEFLQ05kcm5YcDkwSE95cFJRcmwtck1KLTJISzhHSk0xTDFGZ2pqb211Y3JiLV90QjN2TmZhR0dfMkczN0lEREZwUTdxQ3l1TnRSWE1BWXhHc2Z2akZmaGVvN2hxWGkyd3lMM2pLRWpGbGJCV0kyR2ZXbFFmLVVBLVQ4c2ExV0hJTUJD?oc=5"
     },
     {
-      "title": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all - CNBC",
-      "content": "Inside India newsletter: The world’s largest real-time payments system will no longer be free for all CNBC",
+      "title": "Anthropic shares 3 metrics to help AI companies monitor pace of development - CNBC",
+      "content": "Anthropic shares 3 metrics to help AI companies monitor pace of development CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5RXzFWNHJqbmxNSXFzZzEySHpPc0RaWTJkX2oyaWNOTzZLSzlLWXlFUUx0MzBNNHpuaXpqRDFZQ3k1LWNCMXlHVVpxeEYzWElmSkZCWUJYcU90WjVPMVFSOVVqdTdiR2g3b0xTOGM1R294SkphYkJMNtIBfkFVX3lxTE0yWE5Rc0sxazJVX1hMb3psWmtHWlJLQ0VBMDZMN2g3Q2lqMUo5Y0VPb2U3OGtfSzJJMWM1Wndra0FYeV9MQ05jVUpDUmVyZHVjYUNQUXRISDczMDhaaGtUS3dKMjByNHk0bl9FZTE4ZzZSYkpsSU9uSWVBZk9sQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzN2eUY3RnNGdHJMYWNMdS12T3g4WjB0SW1lOUIzNF85bC03a2lZVVo0QXVGc2cyMUUzS0lzUThUZ3BPZkZOalRkejJ0MkwwSC1VQVN6ck9yZHJzUEhoTGstQUEwRll6WHo0dWVxV21kR1FwTTVubWdDWTByWGJpUU1YeU9FYzZOektWZ1dMNmtWUTdveE1id1Y4Q2lHUWhuQ1FKTTFEY9IBrAFBVV95cUxQenhKVjFMSlpUdXlCc21oZTZvR3Ywa0Q3Rk9ILTAteUlXT3ZENFZxOHJxLVlrS0REcnM2NHFzaE9BMFR4N2ZDMnc3djhWN0hrcGN3WlhsZkd0SWs1aThJdk1FSWp5YTdQOS04ZWtVVTB6UzVMTVVURGhPclJjbGpWNUtzUTI2eEJPNjhVQlhxVmk5R09JaURYX3A4UFJYR0sybGdfak9JUHhlcEpZ?oc=5"
     },
     {
-      "title": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce - CNBC",
-      "content": "Snap tries to bring AR glasses to enterprise market, partnering with Nvidia, AWS and Salesforce CNBC",
+      "title": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate - CNBC",
+      "content": "What an Oscar-winning movie can teach us about investing through the AI slowdown debate CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBYdG9iNGlPc2VaZXA0V05rV3IzYV9McENRQTdCUWp6cEhHZEpNdnpyb2NDNUZjemszVm9xTkJVdmdCUWZGX2YyNjZwVmxJbGFmcE5KcFM1VXNaTFF1b0V4bmxsZmpXYzNfaVJOSkdydUHSAXZBVV95cUxQWjhpb3NFWGg1RVBHc3RmbGN1OWFGaVdzYzItc3BWWVZpWkl4c3pCeW5PaEkyZHVGdlU4T1BMNS12elU2SVFWVDFoYjAtMTVHM2RRa3BrWHpSLXJXNHVTX1AtcVI0T2J4ekdnZDRxUG5rRmRha0NR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOYjRiM2lEd2N1ZHAyeDBIVXUwejYyb2NiNl9rTUJKLUFZUGh1RVdyUFdHY2JRVklIVzM3Q2pRRFlfaUtnM2cxbTF0RVJwTFBnZU1fTkt6TWpTbXJqdlRMZHJqcHlzajZIRFZ5MkdQTWo0Rk9qdjBPd3E4Nk1fb0JXY3hfdFdJMkFhZlF6TGprVmRQX01ZVE4wRzBpdXdXR2VPNXFLUUQtcHJDS0cxYkpTakdTdE9SbHFWWFZlRFAwajJHQQ?oc=5"
     }
   ]
 }
