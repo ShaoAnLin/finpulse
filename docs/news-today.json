@@ -1,91 +1,84 @@
 {
-  "date": "2026-09-19",
+  "date": "2026-09-20",
   "featured": [
     {
       "category": "international",
-      "title": "The Fed rate hike opens up an opportunity for muni bond investors - CNBC",
-      "feature": "美聯儲加息讓免稅市政債成為新寵\n📰 發生什麼事：美聯儲在9月議息會議上再升息0.25%，10年期美債殖利率突破5%。同時，Bloomberg市政債指數殖利率升至約4.3%，稅後等效收益在最高稅級可達7.3%，吸引投資人轉向免稅市政債。\n🔍 背景與來龍去脈：市政債原本因聯邦資金成本下降而相對平淡，2023年起美債殖利率持續走高，投資人追求更高收益。聯準會為抑制通膨持續加碼，並配合美國財政部啟動長債回購，以抑制債券價格下跌，這些措施共同推高市政債的相對吸引力。\n🌐 影響：1）台灣投資人可透過iShares MUB等ETF取得較高稅後收益；2）金融機構將重新配置固定收益資產，提升市政債成交量；3）企業債務成本上升，可能影響台股金融股表現；4）若美債收益率持穩，市政債或在秋季迎來波段上漲。",
+      "title": "A new arms race is unfolding on the ocean floor - cnbc.com",
+      "feature": "海底武器競賽升溫：從北溪破壞到無人潛航器新戰線\n📰 發生什麼事：美國、德國、法國等國家與多家防務企業正投入百億美元研發海底無人機、感測器與「殺斷」裝置，以守護超過150萬公里的海底光纜與能源管線。近期北約在挪威北極海域攔截俄羅斯潛航器模擬切斷纜線的演練，顯示各方已進入實戰測試階段。\n🔍 背景與來龍去脈：2022 年俄烏戰爭期間，北溪天然氣管線被蓄意炸裂，首次讓全球意識到海底基礎設施的脆弱。此後，AI、機器學習與自駕技術快速成熟，使得海底偵測與攻防成本大幅降低。英國、挪威、美國等 NATO 成員國啟動「Baltic & Arctic Sentry」計畫；德國 Euroatlas 簽下超過1億歐元的 Greyshark 無人潛航器合約，法國 Thales 亦同步研發防禦系統。\n🌐 影響：若海底纜線或能源管線受擾，將波及全球金融、電商與軍事通訊，台灣作為亞太重要的數據交換樞紐，亦可能面臨資訊斷流或能源供應風險。產業端則可能出現海底防禦技術外包、市場需求激增，相關公司股價或受益；同時保險與風險管理成本也可能上升，企業與政府需重新評估供應鏈韌性。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDN3aDhqSlJ6WGZDenUwLTh5WTRXMjd6aHpXak5UQWZaZEZjczU0VUQ2SUllX0NhanVodWRFZ2hOS3ZXZHQ4WjdTWkN3MFpJR2h2eloxSlF4T3RZd3czQ2tpdWx2eG50NkxEQjlyRWh3czI1WlZXc2lqa2wxeE9vZnhJTUxnZjZxVDZ1b1lmTW1zbXpYWEpLS01mS0VfV2lPOGRveA?oc=5"
-    },
-    {
-      "category": "taiwan",
-      "title": "白宮設國宴迎習近平　輝達、OpenAI執行長將出席",
-      "feature": "白宮國宴迎習近平 AI巨頭齊聚 美中科技外交交鋒\n📰 發生什麼事\n美國白宮將於9月24日舉行國宴，接待中國國家主席習近平。除了美國總統川普外，Nvidia執行長黃仁勳、OpenAI執行長Sam Altman、蘋果執行董事長Tim Cook等多位人工智慧與科技領袖預計出席。\n🔍 背景與來龍去脈\n美中在AI競賽、晶片出口管制等議題上緊張升溫，AI已成為雙方高層會談焦點。過去美國透過限制Nvidia等先進半導體對華出口，企圖延緩中國在AI領域的追趕。此次川習會是今年第二次峰會，白宮利用國宴邀請科技大咖，意圖在非正式場合促成技術安全或合作共識。\n🌐 影響\n對市場而言，AI相關股價可能受國際政治訊號刺激，Nvidia、OpenAI合作前景被視為正面；同時投資者也關注美國可能加碼出口管制。對台灣而言，美中科技摩擦可能影響半導體供應鏈與研發合作，產業需加強自研與多元市場布局，也提醒企業留意政策風險。",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9764289"
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTREbzJ2SnhpVXdOLWphRHhUYUZXNW9lcGFReTdwUnNSbk1fcFluM01Idk5lTi1WYng3TFlOVGEwUndHYzdiREFkV1E5a29kTDZVRG81NE5tVGpnaTZKSG1GWTh6MWRiV1dFWGpzQkJMOThNbktwQVR2YWczQXhlZ9IBhgFBVV95cUxNMkJGOUJWckFsUmJCS2pLSm8tQ2ZmbHgzWG5oa1FFb2txMkhuTVVENGVDQ2tvS2ZVY1RNamJ3LVg4ZjczMkFUaFZaVjhpZnZRdktnWExVZE1SdlhxMDRqVnNaY0hCTXNmbFdHYTNZUkNvNTdpVnBuZHVCMFVpeU5ZQTlEdG1idw?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "魯拉駁川普恐怖組織說　巴西大選攻防延燒",
-      "content": "美國總統川普將巴西2大犯罪組織列為恐怖組織，引發巴西總統魯拉強烈反擊。這場外交爭議迅速延燒至巴西總統大選，成為魯拉與波索...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9764303"
-    },
-    {
-      "title": "〈熱門股〉麗清車用、AI領域雙布局 周漲逾1成回升至2個月來高價",
-      "content": "車用零組件廠麗清(3346-TW)本周股價反彈12%，回升至2個月來糕點，反映8月合併營收衝上近16個月高點，麗清表示，墨西哥新廠預計自下半年開始量產出貨，而布局AI領域也推進，機器人關節的控制模組產品已陸續進入小量出貨階段。 麗清指出，華域視覺、海拉、廣州小糸等主要Tier 1客戶對LED車燈模",
+      "title": "黃仁勳再駁AI末日論 重申技術可控、不會造成人類滅絕",
+      "content": "黃仁勳再駁AI末日論，稱2030年絕不會是世界末日，AI對人類不構成生存威脅 他表示AI可在安全情況下妥善管理，反對制定新的監管法規 近來業界對AI風險升溫，Anthropic等企業呼籲加強安全防護與政府監管",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6610605"
+      "link": "https://news.cnyes.com/news/id/6611093"
     },
     {
-      "title": "海洋對話越南河內登場 探討落實BBNJ跨國保護公海生物",
-      "content": "第15屆海洋對話今於河內登場，由越南外交學院等機構主辦，聚焦甫生效的「BBNJ協定」，為明年初召開的首屆締約方大會奠定基...",
+      "title": "巴舍萊退選聯合國秘書長　女性及拉美代表仍受關注",
+      "content": "智利前總統巴舍萊（Michelle Bachelet）今天宣布退選，不再競逐聯合國秘書長一職。數週前的一項非正式投票中，...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9764290"
+      "link": "https://money.udn.com/money/story/5599/9765723"
     },
     {
-      "title": "台股47K回來了！千金股增至47檔「8檔飆漲停」 專家曝「這點」更值得關注 - Yahoo股市",
-      "content": "台股47K回來了！千金股增至47檔「8檔飆漲停」 專家曝「這點」更值得關注 Yahoo股市",
+      "title": "德國雙人組羅浮宮搞怪　蒙娜麗莎展間牆面貼畫",
+      "content": "德國兩名男子今天以好玩為由，將兩幅畫作以膠帶貼在巴黎羅浮宮「蒙娜麗莎」展間牆面，警方隨後以輕微毀損罪名將他們逮捕，至於「...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9765707"
+    },
+    {
+      "title": "美軍稱護航掃雷奏效 荷姆茲海峽石油運輸量創半年新高",
+      "content": "荷姆茲海峽過去兩週原油與LNG運量創6個月新高，美軍護航與掃雷行動被指見效 美國中央司令部司令庫珀稱，波斯灣盟國數月來經海峽運送逾10億桶原油 沙國仍受無人機與胡塞攻擊威脅；美方與盟國、保險業者及航運公司合作盼再提高通行量",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6611092"
+    },
+    {
+      "title": "川普封殺CNN等3媒體！記者被賞閉門羹 人行道開播畫面曝",
+      "content": "美聯社報導，美國總統川普18日才放話封殺CNN、MS NOW與Politico，隔天禁令隨即上路。3家媒體的白宮記者19日照常前往採訪，接連被賞閉門羹，通行證不僅遭停用，有人的證件甚至當場被沒收。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9765692"
+    },
+    {
+      "title": "台股衝上47K只是起點？郭哲榮看3年挑戰10萬點 點名「5檔低位階股」接棒補漲 - Yahoo股市",
+      "content": "台股衝上47K只是起點？郭哲榮看3年挑戰10萬點 點名「5檔低位階股」接棒補漲 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2AJBVV95cUxNVEt1Zms2TmlxYUJjVHFNSDM0V2xIZk10MGpPX3RaTFFVVldCN0RSMGtYZzU0T0NvUVl1Z0tUeVpFZ3lYM05jbUhSTF9qVHhSTTVQbkY3cVBqTHZSVTB0dEdoSEgwMDlUQWo0V0ZSZi1FbU5jbWw2dHFSaW9TUnVEZmpNTHFOSFR3RmdySlBQQVlnU0tEZEFjMHNxTlJQNm5SbWlnT3lYVjd0Qlg4REFUQUIwekM1VHpPQWU0WG1SWk0xRk02QkFPYjlIc2VXcktVWVdfRDJDUzZpaVMycHlUSUpyZzNVYXdHckhGSnhqY0REUEJ3N2E2UmhvcXhnelFmMmZncDhtckZuS0h1RWlSaU1ZakMyRmZGXzZVdmlWQWVjUDd1YXlzZDRsdTVZdl80WFJ0SjhGc1B4ampMNHk3LWpHZ2RadDQzUUhVbEQxRnRGR2g2eXJHMw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugNBVV95cUxPT0dPSkd0cjFaMFl3V3JhVWRNSmFkYmltQS16blp0Uk9SVmgtdjU5WmkzdG5VUFdaQ3l0V19ZQmdabXVuRDVYOHdGRDBRX3VhY3htRGdaTl85U213NVBnbE92cDRINS0xUjNweWU5WDZhbFJORXlIa2ZHRGt0cElDUng5ZGUyUEk5c2RWek5raDI3U3ctMF9OamViOEh3aHdkdjYtZ0VuQVJ5QnkwMzBLVEk4ZlQ1clNFemRiaW1wRU9DVmhMSG94S0w2VE9WTnpuUVFLRmVLejA3RGZwMVRDeTZRUGZEbV9Pbm9Eem5rRU1hcklDenY3RjR4QTRBd0dLSFJkc2JhMk54eHJrVnVoeTF4VWowOVgzZ2ZfdlpwVjJJQ0Y5WjI3Y0VRbW1RRXBKeVdCV1AzemRidUNyeTdrNTdraUtteVM2YjZLQjhYWGVsdWhVc2c4MWppUG9sOExqNGRNRkVGdFBaMEQ1ejJuTy1GQnpaRTdtMmlwM0dkXzJGZWlldlByYzdiRl9WVV9XVFlZQjk5SEd1R1BaMDk1cUZhaV8tVUp5SmZ6WmNGNkR5VEt4eEg2OElR?oc=5"
     },
     {
-      "title": "派拉蒙收購華納談判有進展！CNN獨立監督、電影發行承諾成和解條件",
-      "content": "派拉蒙與12州就1,100億美元收購WBD談和解，最快本週末或下週一達成 條件擬含CNN獨立內容監督、維持一定院線發行量，以回應媒體集中疑慮 若延遲至9月30日後，每日約700萬美元ticking fee，累計費用恐達13億美元",
+      "title": "2603 長榮 - 台股散戶最容易輸錢的原因：你只看股價，卻沒看懂「籌碼」 - 股市爆料同學會 - CMoney",
+      "content": "2603 長榮 - 台股散戶最容易輸錢的原因：你只看股價，卻沒看懂「籌碼」 - 股市爆料同學會 CMoney",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6610742"
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5ybElmNXFaSTdITlYyazBwVGVIM0N1V05Yd2pReFprU2dvR3VtdWM0aXl4Y3JXMDAxcGlwT042WUxlUkhoWDRlWnpMeXR5X3YwNjdlTUM2OXA?oc=5"
     },
     {
-      "title": "刈包鹹酥雞炒米粉　美國會山莊飄台味",
-      "content": "大華府地區僑界團體在美國國會山莊舉行台灣美食文化展，吸引不少美國國會議員與工作人員到場，聞香台灣之外，十鼓擊樂團的演出也...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9764276"
-    },
-    {
-      "title": "〈熱門股〉低軌衛星與太空軍商機引爆 耀登谷底翻周漲逾21%登百元大關",
-      "content": "受惠於SpaceX星艦第14次飛行測試在即與美國太空軍首度證實在軌部署武器等太空國防題材催化，射頻天線與通訊模組大廠耀登(3138-TW)本周股價強勁，18日收108元，周漲21.3%，周成交量5975張。 耀登今年大幅提升研發投入，預估全年研發費用占營收比重將達16%至17%，改寫近3至5年以來",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6610557"
-    },
-    {
-      "title": "AI cloud provider Nscale files to go public - CNBC",
-      "content": "AI cloud provider Nscale files to go public CNBC",
+      "title": "Trump says he will appoint a new AI adviser, without providing details - cnbc.com",
+      "content": "Trump says he will appoint a new AI adviser, without providing details cnbc.com",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5nY0dXZ2p3ZnlfZEtOQTZzRE15ZXhBdXgyTU5GZDdpeW5zWUdOVlVTM280MGRRXzR3bjEzWjg5eWl0Y0VQYlZlOWVYazR0TGhFY2EtM3doNTVpd2ZIbTh5eXdWLXBDc20wMkZNazdZVW5JZ21NSEF1UEV30gF_QVVfeXFMTjMwdXdHbUIyV1J3S2RfRUVRbDJQbFVVWXIzZlFodWRRNDdhaWlXa2J2ZUFidGtvV3kxZFNvXzZZc3pIMV9hLWc1VTF6clBoTHFBb05jWnJPYUFsOXVQREtGOUtFUGdWY2NRZXE4UlZDenQ4cm15UUlIYWd5dzhBYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNT0JzTDFLNjd3ZEZPVjZQb1lCODZydlVBeVBKN2d3OGRudEk0c2xjbk1CbDloNFhrODIwQTJxTDdmTWRTU3dVaDc3VHFWTHpCT3JNN0RwdmRjUHBJUXdmc2VUSVNXeS1ObHNBUFRqTzF3amw3TGh1VDZhSGhXRnlTRnFEVW94VHJDcGg4cTNpSzd1MGRtZFA5X0Exd1p3RjgzZVVNdUJFOEJuQdIBrwFBVV95cUxQc1Y4Q1otQVNxcFlUTkt2RkJ2TExTLW5wcFlHSEx3ZDdEMFlDdmFDUE5mLWsxcTQ4SEtQRXJOUVMtTW5IT0NGMlJ4bXh1bFhLbjIza0RQdVhYYTAwNk9XOWh2dXJXVWtycnBsbmNTM1M1bkpXUVdfWHFrNFF4Q3Z5X1lWUHZMeGVjdHFnSnEyVC1BalNhNWxIS3JrdUxyRWVabnhQZnFlWmRnbTNIaVhj?oc=5"
     },
     {
-      "title": "Trump says he's banning MS NOW, CNN and Politico from White House - CNBC",
-      "content": "Trump says he's banning MS NOW, CNN and Politico from White House CNBC",
+      "title": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness' - cnbc.com",
+      "content": "Consumer sentiment is in the dumps despite a solid economy. Goldman Sachs blames 'lower happiness' cnbc.com",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOTFVCQ1YtV2R6ZlVja1l6d1VXdURUY3pHVlBZYnFjWmVSVjJyeWRMZHNDd2h1anU5NkEybGdTcXlaNEZILU5rWHBSV0Z4MnM3QkwyS3dXeFFLdzFoWlNMdWUyQ2tacUMtS3pvU0JNQWZ3Y0FvYUdnWmV3SjdROHY5VWxCZ9IBiAFBVV95cUxQSHB1a29KOVM2UjlXem83YkxtdHRwd0VjSURBcFhzN2QzVzloMVJ3UFlBdEttb1hHYkpWcldzOHk5dy1SUVpPR0hUbHZnbFQwZ29NTjhleUw3SjRKQmZOYVVnaEZqSFg3RGQzeUoyeTZVLWZLeV85VEFGM3BxSVlDaEpDMmctRnlf?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTkxSNkFlZzRYMDc1cWFTTmQ3QUViNVNaQzdqQ2pfN2RyWldWdkV6akRlU3VIb1NRTk4xTlREWjN5aVJfMnZCQjVFX1lLWUpnX0NzWXBqcExDazdPUW5BcE1HcFJuUzhZQnRzNzNxak1iOTIzS3JiY0FJY0dpVjZiUFg2a1ZHVFg2RW0xZGVWQmdIemRT0gGaAUFVX3lxTFB3YlJYbVpvOTd0bkYxSnduUlhWQU5VRGFTSUFjaFhLTm5XUHZ0U2swUWVTcVdWczZOa2lISGd2Z0RKb1drX1BLbUZBcmo1b3EtS0l4bFpsYnpDSXRablB1NjZ3ZGNDcDJ5emI5a0Z0eEFfTHBRcXJEYlRQaEswMUdqbkwtZ3F5amwySWRhUTdZUUotSUtOSTZHU2c?oc=5"
     },
     {
-      "title": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks - CNBC",
-      "content": "What it will take for us to buy the dip in DuPont. Plus, profit-taking hits cyber stocks CNBC",
+      "title": "Buffett takes next step in plan to keep Berkshire from straying - cnbc.com",
+      "content": "Buffett takes next step in plan to keep Berkshire from straying cnbc.com",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSkNoYThWR01oZWdmLTZkdjgyNGZXWF9lVW1FYXNMNkJrOWRKb09GSkxBRjJ1SVBHQnBoaHhUU0Z2U1hnZEFJX3haV3ZWN0dlNE1uMW9VQk9JWmFKNG5PRnFLMzllZ0ZrekM2NTBfZEdjT3lTR3l1N0JvLURpSHc1cVhNLXlpbFI3ZjhEbHQ2Ml9oTDlDS3VQSmxqbTNjR3doM0Z4SHRLalZVZHhhMnhwemJtNlVWX29iZHMwUndzVWY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQmdKblNYcGhDVVlYU2pZTlBxc3h1b0ZDUFF3VE4zZ0NTVXVvQTd3WDlWVWtiNnJ2UVJpNXF3MnNRcEJhRTJmdzZjVEpGeUh5d1Q5R3hMUnpCSzNFdmFheWYwMkNVZ3QwWnlUZHBZXy1vdEN2Wm1xc0JuQ0dSTXYtU1dWNTdmMnJiVlB5NUdIMWhLNFN0YUxhWFJxTzROdjdXanBuN2lhNUEwc2_SAbABQVVfeXFMT05ucmc1d1RTaXhFZ196eEgtM1c2M1BKQVpQUXFpRWwycjJDQXlfZ0JzWW1rek9rRjJVYnJmM3BCNHdfZ1JtaTF2YkNrN2RjZGlxeURULTNKRTJKZTdYR3NxSVI4SXJOVjY0eFp0M0MwUDVocW5RSlAxTmVtaGJXZVlSRl9BaVpWdlJrUm0zWWNUOU5VaGdPQVJ4SWxMUXdZdnl2Z3VZNHNZYlFYQ21rZ20?oc=5"
     }
   ]
 }
