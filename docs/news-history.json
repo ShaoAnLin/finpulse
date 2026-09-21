@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-21",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Fed's Kashkari reportedly says inflation is still too high across the U.S. economy - CNBC",
+          "feature": "美聯儲加息仍未降溫通膨——Kashkari警告全域價格壓力\n📰 發生什麼事\nMinneapolis聯儲行長Neel Kashkari於本週日公開表示，美國通膨仍然過高，且不只限於能源與食品，所有產業皆受牽連，並支持上週聯邦公開市場委員會一致升息0.25個百分點，將基準利率區間調至3.75%至4.00%。\n🔍 背景與來龍去脈\n自2022年以來美國通膨高於目標2%，先因能源、食品暴漲，後雖有短暫回落，核心通膨（剔除能源與食品）仍維持在4%上下。聯儲為抑制通膨連續加速利率，2024年已進行多次加息。本次Kashkari發言延續他在上次FOMC會議中對政策偏鴿的少數異議，凸顯通膨結構已廣泛化，僅靠能源降溫不足以達標，需更長時間的緊縮政策。\n🌐 影響\n市場預期美聯儲將保持鷹派立場，短期美元指數可能持續走強，債券收益率上揚，對新興市場資金流出形成壓力。對台灣而言，美元升值會推升進口成本，尤其能源與原物料，進一步傳導至物價。另一方面，美國利率上升使台股資金外流風險提升，投資人需留意美債殖利率與台幣匯率波動，同時亦可能帶動台灣出口企業因美元需求旺盛而受惠。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZVEFneno2MUFKYkdpMjZpQk94SXpCd3NRZ0pub3p4MFRnUUY2cngzMUhKOXBaQ1ZyR3hnajN5TGtRaTdDdy1kYUZ5OFJDaGJ6bXMtN0ZRa05oSXd4WDBzaHRMREFXdi1yQWttNUVnSWh1eDFFcWlV?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "川習會進入最後衝刺階段 中美高官在紐約啟動磋商",
+          "feature": "川習峰會前夕：美中高官在紐約密談貿易與AI\n📰 發生什麼事\n美國財政部長史蒂文‧斯貝森特與中國國務院副總理何立峰率團，於本週日在紐約舉行面對面磋商，重點包括延長中美貿易休戰、投資協議、人工智慧合作以及伊朗局勢。此舉旨在為即將於本週末舉行的川普與習近平史上首次峰會鋪路。\n🔍 背景與來龍去脈\n自2024年初雙方關稅升至1200億美元以來，貿易緊張持續升溫。去年底美國對中國部分高科技產品實施出口限制，致使供應鏈受擾。雙方在今年春季曾於北京與華盛頓分別舉行低階會談，僅取得暫時性「貿易休戰」協議。隨著美國大選臨近，川普政府希望透過峰會展示外交成績；北京則希望降低外部壓力，爭取在AI、稀土等關鍵領域取得合作空間。\n🌐 影響\n若談判成功，貿易休戰可能延長至2025年，對台灣出口美國市場的電子零組件、半導體有正面提振；同時AI與稀土合作框架或改變全球供應鏈布局，台灣相關產業需提前佈局。相反，若磋商破裂，市場情緒將再度惡化，美元走強、台幣承壓，投資者將加速調整持倉。此外，兩國在伊朗問題上的立場協調，亦可能影響油價波動，進一步衝擊能源成本。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9766984"
+        }
+      ]
+    },
+    {
       "date": "2026-09-20",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "證交所推出「台股儀表板」　提升資訊透明度與投資人風險意識\n📰 證交所董事長林修鳴於9月13日接受訪問，宣布在金管會指導下打造「台股儀表板」，匯集授信、違約與上市公司基本面三大資料，提供即時圖表與指標說明，協助投資人掌握市場全貌。\n🔍 台股近年市值躍居全球第5，半導體與AI供應鏈帶動資本規模擴張；同時投資人信用交易與融資比例維持低於2%，違約金額亦僅千萬元，顯示市場結構健康。為防範未來波動與過度槓桿，證交所以數據透明化作風險教育核心，延伸自創新板、Power Up與璞玉指數等策略。\n🌐 若儀表板正式上線，投資人可即時檢視授信餘額、違約趨勢與公司營收走勢，提升風險自控能力；券商與資金管理機構亦可依據公開指標調整投資組合。長期看，資訊公開有助降低市場恐慌、穩定資金流入，對散戶理財與台灣資本市場國際形象皆具正面效應。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93MWJhX1l3d3R4NHE1dHI1Z0xHSUZGMHM3cFd1M0FQRkljdEI3bURCWWJBMjJYN2JUQ29wRXhtRW9ONFVnT1lpRVp0QThJbzdZalNF0gFYQVVfeXFMTzk5RDdqRkhXWGw4YXBIRmtnU1B4N2pELVNpQlJmMDN6RVUwbTNYeXg5OGlGSVJQNzRJOG9GNHpNWkV4SEVJMFlxd2M2OTZ4b3RMYTFVd28tVA?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-14",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Xi says China will take lead to foster AI, tech cooperation among BRICS countries - CNBC",
-          "feature": "標題：中國領頭推動BRICS AI合作，打造新興國家技術共同體\n📰 發生什麼事：在新德里舉行的BRICS峰會上，習近平宣示中國將主導建立「BRICS AI開源社群」與「數位生態雲平台」，推動大型語言模型研發、AI研討會、人才培育與青年科技交流，旨在加速成員國間的人工智慧與數位基礎建設合作。\n🔍 背景與來龍去脈：BRICS自2009年成立以來，一直是西方以外新興經濟體的政治與經濟聯盟。隨著美國對華科技限制加劇，中國亟需在多邊框架中鞏固技術領導地位。全球AI產業快速演進、模型規模與算力需求激增，使得單一國家難以獨立承擔研發成本。過去中國在AI基礎研究與算力建設上領先，故提出以開源共享、雲端平台與人才聯盟方式，整合BRICS龐大人口與市場資源，形成規模效應。\n🌐 影響：對市場而言，跨國AI平台可能降低研發門檻，吸引本地企業參與，提升區域內科技投資與創新速度；對台灣而言，若能加入相關標準制定或提供專業服務，將有機會擴展到印度、巴西等新興市場，同時也須留意資料安全與競爭壓力。長遠看，BRICS的數位聯盟或改寫全球AI治理格局，對供應鏈、人才流動與金融科技都有潛在衝擊。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE56T19JYmliVjZ3M2lqZ0FKSzdrbHQxcE5TdnF2TGRGdzhzbE1NdjlmT1QzYjZlSHZGLVFBMGdYVUxmR2trN25ZOTZmalpuUjBZYUFiN2FIME5ja0dmenNkZjk4NUpYY3B6eGNB0gFwQVVfeXFMTWRBRzRGN1ViMm5jamJfX2k5VXFIY2dBMV9sTDRYVmdCSlRKQ1B5Sk1USHV0TzZlNXVKVGlMeU9FelpJZ1pqY1BFSDdmUkV5djFzR21OYl95RFhkanRuNVhMaHBHWjM0ZzdEMVYxOEdBVg?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "AI三巨頭齊喊放緩開發！台股一度下殺近700點、台積電跌破2400元 - 知新聞",
-          "feature": "AI巨頭呼籲放緩開發，台股瞬間下殺近700點，台積電跌破2400元\n📰 發生什麼事：本周一，Anthropic執行長Dario Amodei、OpenAI Sam Altman及xAI創辦人Elon Musk等三大AI公司領袖公開建議暫緩最先進模型的研發。消息釋出後，台股開盤即跌近700點至45500點，台積電股價最低跌至2385元，跌破2400元關口。\n🔍 背景與來龍去脈：AI算力需求激增推動高階晶片需求，台積電、三星、SK海力士等成為供應鏈核心。近期美國公布高於預期的8月CPI，市場預期聯準會本周加息，日銀亦可能升息，金融環境緊張。安全與倫理爭議使AI巨頭自我加碼審查，間接衝擊晶片訂單預期。\n🌐 影響：短期內晶圓代工與記憶體股面臨賣壓，台積電與相關供應鏈股價回檔；投資人情緒受挫，資金或轉向防禦性產業。長期而言，除非AI開發持續受限，算力投資仍保持韌性，台灣半導體產業基本面不會根本改變。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9pRHFQNkNUdnQwUXhiQ2NiN0Q1dDdCMXpONFNoRi1VbHdZZmcyak5QTWR0ZEp4MFQtZ2EzdjhOcXU4N25nWktHVms3azIwenNQMFNCYTlsT0NKSk8wS0RLeVQ2MWd3U2ZZbkN3SC1hOA?oc=5"
         }
       ]
     }
