@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-22",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch - CNBC",
+          "feature": "美中領袖會晤：延長貿易停火、AI與伊朗成關鍵變數\n📰 發生什麼事（把這則新聞說清楚）\n美國總統川普與中國國家主席習近平本週在華盛頓舉行雙邊峰會，雙方首要目標是延長目前於2024年簽署的貿易停火協議，並探討AI合作、關稅調整以及伊朗制裁的執行情況。會議召集了美國大型企業代表，預計不會有突破性的半導體或出口管制協議，但會簽署若干貿易便利備忘錄。\n🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）\n2022年美中貿易戰升溫，雙方互徵關稅逾4,000億美元。2023年簽署「第一階段」協議暫緩衝突，但關稅未完全撤除，且AI與高階晶圓仍受限制。2025年川普再次當選後，主張「美國優先」與「公平貿易」成為政策核心；習近平則在任內首次以國事訪美，意圖穩定雙邊經濟關係，同時應對西方對中國AI技術的管控與伊朗核問題的聯合制裁。此次峰會正值美國選舉年後的貿易協議即將到期，雙方均希望避免再度升級為全面關稅戰。\n🌐 影響（對市場、對台灣一般人可能造成的多方面影響）\n若停火協議得以延長，全球供應鏈波動將減緩，台灣半導體出口需求可望維持穩定；同時AI合作框架可能促成跨國研發資金流入，提升本地AI產業投資。另一方面，若關稅談判僅止於小幅調整，相關企業仍需因應成本上升，消費者物價或受小幅衝擊。伊朗制裁議題若在美中協調下緩和，能源市場波動可能降低，對台灣進口油氣成本有正面效應。整體而言，市場將密切觀察會後聲明的細節，短線可能出現資金在基本材料與高科技股之間輪動的情形。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "告別「唯GPU論」！伺服器CPU成AI新瓶頸　部分型號今年已漲逾40%",
+          "feature": "AI伺服器瓶頸從GPU轉向CPU，供應緊張推升價格\n📰 發生什麼事：2026 年底，英特爾與超微因AI伺服器CPU缺貨，與中國客戶簽訂1‑2 年長期採購協議，部分CPU型號今年漲幅逾40%，交期最長達6個月。\n🔍 背景與來龍去脈：AI 訓練依賴GPU，但推理、Agentic AI 及資料前處理逐漸需要大量CPU、記憶體與電源支援。2023‑2024 年GPU、HBM 已陷供應短缺，需求向整體伺服器系統擴散，導致CPU產能不足。英特爾Xeon、AMD EPYC需求持續超過供應，業者為確保產能提前簽訂長期協議。\n🌐 影響：伺服器建置成本上升、資料中心擴容受阻，台灣雲端與AI新創可能面臨延遲或轉向成本較低的雲服務；相關零組件（記憶體、載板、電源）亦同步緊俏，供應決定市場競爭格局，投資者關注半導體供應鏈與長期合約動向。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6612731"
+        }
+      ]
+    },
+    {
       "date": "2026-09-21",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "（標題行）油價破百美元　能源通膨成央行新挑戰\n📰 發生什麼事\n布蘭特原油於9日收於101.2美元，首次突破每桶100美元大關；WTI同樣上漲至96美元。美軍當日摧毀5艘伊朗油輪，波斯灣衝突升溫，導致市場對供應風險高度警戒。\n🔍 背景與來龍去脈\n自2024年以來，中東局勢頻繁波動，伊朗與美國在霍爾木茲海峽的軍事對峙屢見不鮮，且葉門胡塞武裝亦襲擊沙烏地能源設施，削弱原油運輸安全。全球石油庫存持續下降，加上俄烏衝突後需求回升，使供需緊張。油價曾於2023年底回落，但因上述地緣政治因素再度上揚，突破百美元關口。\n🌐 影響\n能源價格飆升推高汽油、柴油零售價，台灣民眾每月油費或增加千元，進一步侵蝕家庭可支配收入。央行面臨通膨壓力加劇，貨幣政策或延遲降息或提前升息，影響房貸與企業融資成本。能源股受惠上漲，傳統產業成本上升則壓縮獲利，股市呈現能源股強勢、其他板塊走弱的格局。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQmdPYlM0VGd4cDVfODdfXzRWMFJwOFdhQ2RvNXFacGx1dWp0OGpOVFU0eWw3cWlQVUtac3NYQUVFTTR2dUh1a3lqOW5ycThXX3FFa3N3djBuZ3pDNC0zUlU0N2s5QThyalpMdzR6OHJmMTVNVHF2X1N0TVNyTjFYcDQ1ajZNdkg1NENHNndVSlhFb0xVczc4NjFXd1dhaWdiUHRPVnZ4ckc2N3Y0R1AtWkpfRGNiY0trSVBTS2FnWmNXajRMMEpZYURPbHRpV0stcm5rVU1PaGRsUUl2dWpBcXhHSWhzTGk3MVJEMDRxUHk2SjZoMEs2djVMRldja3VtblRsMkN2UTU4MUZrQ283aS1ZZ2FnWDJPSDd4ZmVQNTQtWTNRMl9UWC1aN1NpdHNic2loQjhUUFM?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-15",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Counting the votes: Warsh faces a tough battle as the Fed girds for expected interest rate hike - CNBC",
-          "feature": "（標題行）美聯儲主席Warsh面臨升息抉擇，市場與政治雙重壓力加劇\n📰 發生什麼事\n聯準會在本週二（9月14日）舉行FOMC會議，預期以0.25個百分點將基準利率調升至3.75%~4.00%，並暗示年底前可能再加碼。主席Kevin Warsh須在投票結果與政策說辭上取得平衡，因市場已把升息機率定在超過92%，同時美國8月核心CPI意外上揚，通膨壓力持續。\n🔍 背景與來龍去脈\nWarsh自2026年5月受總統特朗普任命上任，當初承諾未來降息以刺激經濟。然而去年以來油價逾100美元、伊朗戰爭衝擊供應鏈，加上關稅導致物價上漲，使通膨遠離2%目標。Fed過去常「忽視」短期能源與關稅效應，但近期CPI數據顯示基礎通膨已回升，政策制定者內部已形成「必須行動」的共識。再者，特朗普在選舉前不願看到升息抑制選民口袋，對Warsh施加政治壓力。\n🌐 影響\n若升息如預期，美元將進一步走強，台幣匯率承壓，進口成本上升，對台灣企業特別是能源與原物料密集型產業造成成本衝擊；同時美國債券收益率上揚，全球資金可能從新興市場撤回，台股可能出現波動。對一般民眾而言，房貸與信用卡利率上升將增加還款負擔；但較高的美債收益率亦可能提升台灣投資者的海外資產報酬。Warsh的言論走向將決定未來利率路徑的透明度，市場將持續關注其是否提供前瞻指引。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNOENEN1I5cnZ4bzFtbzhhR3F0Yy1maVg3VWpBM05ucUIxblY0UnZPenRVYlpQM0hIOW03QVVIVXRHSk82Z0o4NWRrMWhibk5ZaG03YUJZTG50NUh1VERaZ3BpNEozVkRYMWdrV2lucmRGcDhoR09sSkNwZlJTbVpXZl92d3JBeWFiXzdPbzcwMV9ycWtmRk1VcnpTRnJhOGZnTVhKYWhBaXROWVEyRmpYZ3NiUEJyQU3SAbwBQVVfeXFMTktXOC1zcmlGS2ZXM2tkYkRSazFsY3Q3LXZiZ01BM1RvTHA3ZDUwaS0tUng0VmJhZG9TQ2tQUzMtU3BoQ05nN3JEZV9UdkYxbGwwT21wV1p5Z0JOeGdDSHRka1paV2pyMkFacm5GdjhISGlFOWx6ZDRyUDdmWkZsUE5hZV9BQmtkMDJOOThNTjVzeHh3TGVEamN1QmhZa1NFS3hwRlFsUGpmYlRqZlRrMjFDOFYtM3pjdFp0MHA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "證交所規劃台股儀表板 強化風險教育協助投資人穩健理財 - UDN",
-          "feature": "證交所推出「台股儀表板」　提升資訊透明度與投資人風險意識\n📰 證交所董事長林修鳴於9月13日接受訪問，宣布在金管會指導下打造「台股儀表板」，匯集授信、違約與上市公司基本面三大資料，提供即時圖表與指標說明，協助投資人掌握市場全貌。\n🔍 台股近年市值躍居全球第5，半導體與AI供應鏈帶動資本規模擴張；同時投資人信用交易與融資比例維持低於2%，違約金額亦僅千萬元，顯示市場結構健康。為防範未來波動與過度槓桿，證交所以數據透明化作風險教育核心，延伸自創新板、Power Up與璞玉指數等策略。\n🌐 若儀表板正式上線，投資人可即時檢視授信餘額、違約趨勢與公司營收走勢，提升風險自控能力；券商與資金管理機構亦可依據公開指標調整投資組合。長期看，資訊公開有助降低市場恐慌、穩定資金流入，對散戶理財與台灣資本市場國際形象皆具正面效應。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE93MWJhX1l3d3R4NHE1dHI1Z0xHSUZGMHM3cFd1M0FQRkljdEI3bURCWWJBMjJYN2JUQ29wRXhtRW9ONFVnT1lpRVp0QThJbzdZalNF0gFYQVVfeXFMTzk5RDdqRkhXWGw4YXBIRmtnU1B4N2pELVNpQlJmMDN6RVUwbTNYeXg5OGlGSVJQNzRJOG9GNHpNWkV4SEVJMFlxd2M2OTZ4b3RMYTFVd28tVA?oc=5"
         }
       ]
     }
