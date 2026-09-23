@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-22",
+  "date": "2026-09-23",
   "featured": [
     {
       "category": "international",
-      "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch - CNBC",
-      "feature": "美中領袖會晤：延長貿易停火、AI與伊朗成關鍵變數\n📰 發生什麼事（把這則新聞說清楚）\n美國總統川普與中國國家主席習近平本週在華盛頓舉行雙邊峰會，雙方首要目標是延長目前於2024年簽署的貿易停火協議，並探討AI合作、關稅調整以及伊朗制裁的執行情況。會議召集了美國大型企業代表，預計不會有突破性的半導體或出口管制協議，但會簽署若干貿易便利備忘錄。\n🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）\n2022年美中貿易戰升溫，雙方互徵關稅逾4,000億美元。2023年簽署「第一階段」協議暫緩衝突，但關稅未完全撤除，且AI與高階晶圓仍受限制。2025年川普再次當選後，主張「美國優先」與「公平貿易」成為政策核心；習近平則在任內首次以國事訪美，意圖穩定雙邊經濟關係，同時應對西方對中國AI技術的管控與伊朗核問題的聯合制裁。此次峰會正值美國選舉年後的貿易協議即將到期，雙方均希望避免再度升級為全面關稅戰。\n🌐 影響（對市場、對台灣一般人可能造成的多方面影響）\n若停火協議得以延長，全球供應鏈波動將減緩，台灣半導體出口需求可望維持穩定；同時AI合作框架可能促成跨國研發資金流入，提升本地AI產業投資。另一方面，若關稅談判僅止於小幅調整，相關企業仍需因應成本上升，消費者物價或受小幅衝擊。伊朗制裁議題若在美中協調下緩和，能源市場波動可能降低，對台灣進口油氣成本有正面效應。整體而言，市場將密切觀察會後聲明的細節，短線可能出現資金在基本材料與高科技股之間輪動的情形。",
+      "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market - CNBC",
+      "feature": "【Qualcomm 推出 AI 專用新晶片，正逢記憶體短缺衝擊手機市場】\n📰 發生什麼事\nQualcomm 於 9 月 Snapdragon Summit 公布兩款新 Android 晶片——Snapdragon 8 Elite Gen 6 與 Snapdragon 8 Elite Extreme Gen 6，採 2nm 製程，主打本機 AI、8K 影像與高效能遊戲，同時宣稱可降低對雲端的依賴。\n🔍 背景與來龍去脈\n近年手機 AI 功能不斷升級，但大部分仍倚賴雲端運算，受限於網路延遲與資料隱私。加上 2024 起全球 DRAM 與 NAND 成本飆升，導致終端機價格上揚，市場預估 2026 年出貨量縮減 14%。Qualcomm 為保持競爭力、對抗 Apple A20 Pro，選擇以台積電 2nm 先進製程量產新芯，並提前與 HONOR、Xiaomi 等廠牌合作。\n🌐 影響\n新芯片若能在本機完成 AI 計算，可減少對記憶體的需求，緩解成本壓力，同時提升使用者體驗；對台灣而言，為台積電帶來高價值 2nm 訂單，提升半導體產值；對消費者則可能看到高階 Android 手機價格相對穩定，且在隱私與即時回應上優於雲端方案。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "告別「唯GPU論」！伺服器CPU成AI新瓶頸　部分型號今年已漲逾40%",
-      "feature": "AI伺服器瓶頸從GPU轉向CPU，供應緊張推升價格\n📰 發生什麼事：2026 年底，英特爾與超微因AI伺服器CPU缺貨，與中國客戶簽訂1‑2 年長期採購協議，部分CPU型號今年漲幅逾40%，交期最長達6個月。\n🔍 背景與來龍去脈：AI 訓練依賴GPU，但推理、Agentic AI 及資料前處理逐漸需要大量CPU、記憶體與電源支援。2023‑2024 年GPU、HBM 已陷供應短缺，需求向整體伺服器系統擴散，導致CPU產能不足。英特爾Xeon、AMD EPYC需求持續超過供應，業者為確保產能提前簽訂長期協議。\n🌐 影響：伺服器建置成本上升、資料中心擴容受阻，台灣雲端與AI新創可能面臨延遲或轉向成本較低的雲服務；相關零組件（記憶體、載板、電源）亦同步緊俏，供應決定市場競爭格局，投資者關注半導體供應鏈與長期合約動向。",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6612731"
+      "title": "華郵：川習會重排場缺共識 密集會晤已讓美國收斂公開挺台",
+      "feature": "川習會變形秀場　美國收斂公開挺台，聚焦儀式而非政策\n📰 發生什麼事：美國總統川普與中國國家主席習近平將於本週在馬里蘭安德魯斯聯合基地舉行為期三天的峰會，除例行會談外，雙方安排了近480名美軍、B‑2轟炸機與F‑22戰機的盛大迎接儀式，凸顯儀式感而非具體議題。\n🔍 背景與來龍去脈：中美關係近年因貿易戰、科技封鎖與台海緊張持續惡化，雙方缺乏實質共識。川普臨近2024美國中期選舉，急於塑造政治遺產，借峰會秀場提升形象；習近平則在中共二十大前夕鞏固內部權威，需展現對美「對等」姿態。兩國皆選擇以高規格接待取代深度談判，甚至財政部長主導議程，顯示外交僵局。\n🌐 影響：峰會雖未產生政策突破，但美方在公開場合對台支持的聲音減弱，降低了台灣的外交空間；同時中國藉美國聚焦儀式，得以在印太地區持續擴張軍事影響。投資人關注相關產業，如防務與航太供應鏈或受美國軍事展示刺激，股市短期波動或見升溫。民眾則需留意兩岸緊張情緒可能再度升溫的風險。",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9772145"
     }
   ],
   "candidates": [
     {
-      "title": "英美首度水下無人載具試射魚雷　AUKUS重大突破",
-      "content": "英國政府今天宣布，英美兩國上週首度以水下無人載具完成魚雷試射。這項測試為「澳英美三方安全夥伴關係」（AUKUS）合作的一...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9769690"
-    },
-    {
-      "title": "川普禁CNN等媒體進白宮　3媒體提告控侵害新聞自由",
-      "content": "美國媒體CNN、MS NOW和Politico今天對總統川普及政府其他成員提起訴訟，主張白宮禁止這些媒體進入的舉措，違反...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9769688"
-    },
-    {
-      "title": "台股開盤》早盤狂拉逾600點重返48K再創高專家：創高非終點有量才有戲| 財經 - Newtalk新聞",
-      "content": "台股開盤》早盤狂拉逾600點重返48K再創高專家：創高非終點有量才有戲| 財經 Newtalk新聞",
+      "title": "快訊／台股儀表板今正式上線！主視覺清爽雙卡圖表＋五大核心數據一次曝 - Yahoo新聞",
+      "content": "快訊／台股儀表板今正式上線！主視覺清爽雙卡圖表＋五大核心數據一次曝 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBVQTRseng2bTE3VmpmOTcybmR1MjBYX0lKZVlmSzVETmc4VXlUS0RfSWFRNGFFNzdUdDZla01sNUVvZUpzRE0zSHc1WFNTMEpCcTdSVGZLSzdWN1U?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitANBVV95cUxOWFRqYVlaeVUtdmxZQWRyRU1lLVpYZWRWQzdiT3A4UXg5cXpWT2VWWExHT0xhWWxaNjd0andwWTd2eFBMeUtKSTJQWERYQWFudmVUWGduY09hT3RXWGtqYk8wLVhKanZiVF83bl80d2RraUJ4WXNDQWxpRVlQcUxCS2pvTVNvd3dLOGVlQ25ZbVVWbG1aQS1BZ2pFdldWN0l5Nzc1WlNreDBSN1FZUjNpT1c5aHlDNUNKaXNDX2FYQXh4R3pYRGQ4QTQ5MGtuZVQtZE42ZHZldHdnUDNGblB0NVp3VzNyWUV3TW1NTTFETjNDVFk3ZThDSi1sY21LLUZCTUo5OW80dlBGTVZENVBrVzZxeTJYTFZmQVJOcXF6X1dxWE5XZ1ZoR2FyOEJTbUxEbWFfbm9MVlhwRmVEOGhuSlgyZnhsc3dyY1J4U1Brc21pSW9jelQ1SVBqMkdMN1BaazdRNjFHZXRadFZkYld2U2VudkZvZlFmMlhTRjZscWVPUjZVMGJiamdNWkVJa21HcDNFMUh5Um1mbE1zREdQODVyaEw1d3pzR0tfY0poLUEwOElx?oc=5"
     },
     {
-      "title": "台股早盤飆漲882點衝出盤中新高！台積電開2505元、漲25元 - Yahoo股市",
-      "content": "台股早盤飆漲882點衝出盤中新高！台積電開2505元、漲25元 Yahoo股市",
+      "title": "台股再度闖關48K！「這檔老牌光電」掛牌2日再見跌停 股民「中籤變套牢」2116張賣單急逃 - Yahoo股市",
+      "content": "台股再度闖關48K！「這檔老牌光電」掛牌2日再見跌停 股民「中籤變套牢」2116張賣單急逃 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxObWh4d2JqQXNmYzA0SEdMWjlTTDd6QkxBWEloN1ZLQmpiZzdOb0RUVHhZWElBSHNsdjhpX2VQVmVEcXZWMkJHOE1pRU93eHZ0N09IamNnQllZdXVUcDV0Y1dTVDJVWldPRHltaTZUZWNxbTRxLUtEcV9sRzlpREZMRFdReUdoemtBcnNFYTlwN0VCTHAxVWtuZmVFVHFsTlRSN2N1X01FbTVNYlNLNm1lcG8tNmdnUWZEVmtYTmNiNWFod3dvUzAwM3l1cXlEejYySzJiUmlrR2xwclY1S09HaEpZVjlNbHk3RkRKQUc4Y0plNUZVaVN0ZzB2MndYU19HcTBENWhzZDFPSU5hb3Q1alc1SjNnTWdIVHRPNFE5MVBoY3FGNzd5YkxJbG0yM0lFUC0xZ3JJdDd6Y1hLbWZWSGI0NmtvQ3J2TUM2c2J1VWZKOF90YXJJTWVn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingNBVV95cUxOeDRUSFdUb1pZNDVkQUctRW10QUlrR05DUGdOS2lxWVowTWhlN1QzQllTSWZpM3dKS3BqUkJJY3R6bGxvMWY2QW00QnJnWGNmb0FDRzJBSk1wa2RhV1YwR2JPUkpZejBWUkdrcUJ4TVFJdy03dHFBY1RmZ09VejR5OVJDX2tHSnVONUh1SVZDUG9YYWVfMkF1cTFhSVdJYWFENjYteE5URUhOYjctT2c3Mk5SMnJHM1VJRkxsTTQtakpXSWNldXBDWXloLW1BaTd5S3J3aE5QMk8tUU9nOGd0aTYyS0ZTWXVicE5zQkN6YU4yOVdSTkVuSE5hMGpHWDNJWHROQUhUUFZXSGNicFBUaTZ1bkJKTmdMUktpeGItblFlaE1xdkE1ZnB2MU5wd1B5aGNtY0RrMXE2aERHcTdXT0hTc2xyNTFOQ3JId2YwYzliTFRjUlE3Yk10R2tpVExyb1MzVERrcS1SR3F4UDhsQXVGZkNGaWdvaVRtOWhmaWZuUGVmOExha2lFTEtleklfSkRtMHdOSzhWOGkySVE?oc=5"
     },
     {
-      "title": "Meta Muse帶旺CPU行情！AMD躋身兆美元俱樂部 英特爾、Arm跟著嗨",
-      "content": "Meta平台(META-US) 推出的消費級AI智能體Muse迅速走紅，也讓市場重新評估智能體普及帶來的運算需求，帶動CPU概念股全面上揚。 超微電腦(SMCI-US) 周一（21日）股價大漲近10%，收在615.52美元，市值首度突破1兆美元，成為繼輝達(NVDA-US) 、博通(AVGO-US",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6612733"
-    },
-    {
-      "title": "川普支持度跌至32%創新低　高物價衝擊期中選情",
-      "content": "最新民調顯示，美國總統川普施政滿意度跌至32%，創下他政治生涯以來新低，主因在於美國民眾對美伊戰事的不滿情緒高漲，共和黨...",
+      "title": "川普聯大宣示贏家全拿 紐時解析第二任期權力觀",
+      "content": "美國總統川普22日在聯合國大會發表演說，對伊朗發出強硬警告，稱如果德黑蘭不接受結束戰爭的協議，他可能「殲滅伊斯蘭共和國」；談到美軍推翻委內瑞拉前領袖馬杜洛後對當地石油利益提出主張時，又說「戰利品屬於勝利者」。紐約時報分析，這場演說集中呈現川普第二任期的外交權力觀：美國應以壓倒性的軍事與經濟力量追求自身利益，而不是優先透過聯合國等多邊機制處理衝突。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9769672"
+      "link": "https://money.udn.com/money/story/5599/9772155"
     },
     {
-      "title": "快訊／台股衝48601點刷新史高！股王信驊亮燈「首檔飆破2萬元」持有1張現賺198萬 - Yahoo股市",
-      "content": "快訊／台股衝48601點刷新史高！股王信驊亮燈「首檔飆破2萬元」持有1張現賺198萬 Yahoo股市",
+      "title": "台股開盤／台積電漲20元領軍！台股開高逾500點 記憶體與AI族群強攻 - Yahoo新聞",
+      "content": "台股開盤／台積電漲20元領軍！台股開高逾500點 記憶體與AI族群強攻 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxOcEtaUVBoeFhLRm84anRzNXA5eVBEY2dSSTM5UlkwcC1FWDNjcncxMjh1WVdhTkJDSFB4NV9PdzFQSkF6dVVEOUYxWDhYQVRmdDAzbmFfaXppSG9OQXFvZDlHZVFXa1N4Wm9JWlg5alE0Z0hDVzBUaXAxTGJ3d25VQjRvZFJ4Zk5faDVNc2YzT2Q2Zmo3c3NhajVjdWlOM2JwcC0yYUlwQ3RFdVAwUEpqdHdtb284ajVMUEdrZHVJRHluMXV1UjBlRmNnLXVOalV4Y1RFcTdNTFdLZXQ5SFlmNUU5Y3JzZFdfRWFFYlZBVUpPN0VvcXVHTTl6V1ZWcHpYc0RjVzFuNVpoQzBUNldNdF9telFMX3pqd1NPYllSSUpUa000UTR2OU5HNTBOY1pKUVo4VThxZTUwRU9QVWpyVFg4OFg0dWwxZ3pxbzBVRmtMbmk0aEtBekxDU2I4a2pjRjZNZTF0NllKMlp5V3VhaUJXUGJ5bEF4Z1FOS2c2VEp2NUxMejkwN3hXWFJhZHRTWXlJdUFtMnpqUFpMMmpxNTlZWlNYbFo4X2MtNURhaDBhTVlMZ3QzR25MZ29XUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPN1hIeUswN1lMU20tY2xtcjhtY1ZrSDloZ2pJNjZqc2pwcHdad2FZWkFSTlJkWE5uZ3FYaE1OTm9heUp2X0h1QXkyMmFNd3YwRGE1U002RWVma3N6aDFfcm55YVg4V0NYeklKY2tkWm9SMDdBcVZ1bWVsWHRwQV9uYVBQR3lISUw1a1BzbXg0by1QUktpQ3BSaG5WckZxckpiMGVGV0JIeHJYMW9GeDMycWxYMlJpaUlBd3FLeVAtOTE2U2E1OVdiQW5PYTNBQlRnYUo1NUUza1NxaEZWWkpQZ29YQXh5M19TQ3JlVkNQZVQ0Uk1oS1p2WFNaX3VJRGFQS25mYzV2ZU5oZmsxSEFIUlllM2dnbFdmbm9TaUZQblduczNTQ3U5UC1NckRwVVdUYVp3NWt3Z0xnbFZ1OE90UG1VVWtRWlhwWU43X0ZyN3VzQkw4R3cySXp2THc3M2JjS3RrVFZ4dmpKNDFBbUhnWE9oYkFFaTNSaXlLN0plemJUTzZQTVNEOEs5eXc?oc=5"
     },
     {
-      "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit - CNBC",
-      "content": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPWFZtUVF5NzNkaXdfbldfeVZvckEyYXZ1ZWlGUkQ4OS1jYW1WZzJrTC1OUjF4YUVNcWQ5UTF3dERhdl8xRW5rdXF0NDdDU0QwSXRkc2JoSFE4dGpOTVZfTlR2UEtjWjJWTDM2RmhqS3ZnU1UtN0N4YzdHV1pCcnhWV2NrQWZvWEt3WVlsemVkMzJpZERDNlFueDR4SXJUSjB2SWloVFBoSdIBrAFBVV95cUxQS0oxZ1ptMlhKMm9FX0prWEZUZE1BUG13d0pJMWZqZk9EUlg4TzJVRjl5VjlBMHpwLThHSmpMN3J3ZTlSTFZYVXlqd1g3V2cxbV9sb1NqdE5aa2p0Q1B0dmlvRGVLY3FyeUEwMDFSU1c0Y2VhdnZJMEwyRUd3SG9DLWdXV21VSmVVNHVIS1RsZVpINHRXSkZzcm5RdFNrWXZyUVJMOENWSTJSbjlP?oc=5"
+      "title": "台股早盤漲逾500點突破48300點 台積電漲40元 - Yahoo新聞",
+      "content": "台股早盤漲逾500點突破48300點 台積電漲40元 Yahoo新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxQb1NNUXFtX3VraHhud2szRGRQVjRpU0MyYmhkZjU3S0NFN2lIZzJsMXJqOU1RNk9FVVB3clFZV3pzOXRqaEd4RFZjSV85aTJ2MEZJZ1hJZ3FnUXF6SHpFZUZzQW45bG9kb1hkR1BPRjhwWm9udk9xZ2R5WWdONWVtNFhrcUtSVTlod3Q2ek9RZGoyVl9ucm5NbG12X3pFUTBJUFRQbGVLZ1hFb0ctQkJLd284OWF2WUtJLXZIbWljVzFTVndzVHhxY1VyeFlRZWpKaFhBZDNWY1E2SkNfckNxTWVtd2oxSm9JRUhGb3YteXd3MkNhclFWU1hnY25RTWRJWFJNbm9BeTFLZVktekc0elY1bDJrZw?oc=5"
     },
     {
-      "title": "Eli Lilly CEO offers investors 3 more reasons to stick with the stock - CNBC",
-      "content": "Eli Lilly CEO offers investors 3 more reasons to stick with the stock CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNaE5FeXFFMlpUTk5SSXJDc2Z0TkFfZ1hwNk51XzBCclhZSjV1UW9VUDA1d0dSQUplcVV1VFZwY0Zsb2dkZ1VNMEY1Tnc3TlZnRzZkR0ZxLUxISjg4RHRVSVFkM0lBRkJWRWQ5Qkg5a1NfMjA0Q2h2WkhzVDFfT09GNUczcnZuam5VcmNiM192RW92UkFsd01qdE5ySURWYzkzMFA4ejZtVE95QQ?oc=5"
+      "title": "台積電上漲40元 台股早盤突破48300點漲逾500點 - 中央社 CNA",
+      "content": "台積電上漲40元 台股早盤突破48300點漲逾500點 中央社 CNA",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9RQ3lOS2RNMlAtN2NaektXTHk3bHJ5Rm1Hb3NZOElUN2dIYWZYWURYRks0SG5xZ3RNSlFkZExmWjFRYmtZOG13c0pzdVpldkhNSlRndjFpZDJXbGVoQUE?oc=5"
     },
     {
-      "title": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999 - CNBC",
-      "content": "Stocks had a great day on the surface. But something alarming occurred not seen since 1999 CNBC",
+      "title": "台積電大漲40元、叩關2500元！台股開盤飆近500點 再攻48K - 太報 TaiSounds",
+      "content": "台積電大漲40元、叩關2500元！台股開盤飆近500點 再攻48K 太報 TaiSounds",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFBURG1FWUlWMjloOGMxamlMdW9jR3hld3R3Tlc4S202cGNPMDlWV3RYZ2JSZk9RbHJkSnZlNWdDZUxCWXBjMUpCMG1fb2RzbnMtbndENURaQUFHYXFB?oc=5"
+    },
+    {
+      "title": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation - CNBC",
+      "content": "CFTC says prediction markets' 'mentions' contracts present a higher risk of manipulation CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNWHI2dUs1VHRMaTBYUTdCODVvYUllNkdEVlJXMUs3eTFGZlVQM2hDbGFJMjRQU0hkd3JyQllXUnNOZjU1Y081S0Z4emk3RXdITlU5VjN4UU96YjhsTmpIVkF0cUkwWThGZHZvZmM1a0c2TnVabl9MZ0ljMC1sTmNlOUpLYlJ1OTlncElCQ2hRMGZRc0I5Uk9SMG9TLS1GdTBfdFZjdWdBZ3gwZGJGUmpieUtoVTJjaFRnUXZ1Vm9pZy0tSU1L0gHKAUFVX3lxTE9BZTVLUmhnOExPQlc2LWRvZ2dBVHFNaXVOaWRWRTZRT2V6UDhNamVzYmUzb28zMW16VmY2ejdfMXBVYVZ1c3o2VnU0OXNaQ25RQk9wbV81aGZJRDFmbUpKc2oyVy0zcnhMdFBkdmtseUk5dkJ3eW9UeVhJcnZveWlTSG41dWI1WklGWWIxTmZXdkd3T0ZyM1N2aVg0b2lDOTNfdW1QNnVJaTdyWmxLUmtYeGk0dWlxWGxGUlhzbzBRTWlCbTVObWdpY0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQW9rYVhkODdHTElicjlHRnl5WVlGcEFvLVI1dVRyT3JMUEtWb193bGg0T0JOWFBuY0ZWNnlMLV9lZGNFd09PME40RFk4TmdHSDJBcWthcGFQeWF3RU55LTVHM2lXeXg3MjR6dG1heXBzc0VMWVFjWUtDSXg5cVVqdGxNb08yOE80LXp3Ymw2Vk5jQVBuN2dNVHlsWHhzY1dXWlhybNIBqgFBVV95cUxQR0liUloyNTJJZlZfM2V6djdScGVQazdYcjRLQ2h0WV93MkwtUGxVNjVMc29oZ1pjSDItTXFrc1A0ZXpDcW92Rm1PcHlhZEZ4WEF4NWNHZUZVTXBrbUhRdEdVaHppN2JabTA1M1NfN2MzYXZxcmNFS3J2WjE0LV84Q2JPR1hYYXB5bDBUS2Z5bHd1WXZBZ2JoNmNocWNGZDQzNnI5ZUJTU2pzZw?oc=5"
+    },
+    {
+      "title": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts - CNBC",
+      "content": "Meta is breaking out after introducing Muse AI agent. Where the stock is going, according to the charts CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPckdqcmI5VWVQdXJSRTE5d2ZsanowZm5jSC1laHFTbktDWm5VTjhfeUhVRXQ0WlVCRzhpZlhaTjRsRVp3X2xWYWJGR01Gd3lHQ0RzUmI1U0NuMGExMWRPWkEtaUMzZjNDb0lJckJVUlNHQkYtRlY5N1RHZ0tyMWJtaDVTUE13ZVFUZExfV19udEpaWmlLWm1CLXlScW51OTNnbFZ6THhyRHZObEx4dDN5aTY5dEU?oc=5"
+    },
+    {
+      "title": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns - CNBC",
+      "content": "Cisco stock sinks 5% after Piper Sandler cuts price target on growth concerns CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQNzdLX0Z1bHBINVp0ejU0bGlZc2tuemRSWjhyOTdXbW1idFNndDVNOFdwRk1LdEpHRGZtYmNSd01UUmlJLThtbEZaVElSb3N6QlFnRDdyUEttanlrOGY2NXIxLVVUYXlBMUhYeW1nbVBjMkFYMTFfdGFDdW1WakxPb9IBhgFBVV95cUxNcGxZWEtwQ216d08wX3IyRThWQzRpbUxtYWNGd3BmOVcyQkx0T3E4ZGJjZ1pLeFJpTERfSE0xaEFhaVFpMThENnVWLUdSMUJSY3NWQ2xIZmlpc3AxZnBkSjNaVnJHRTJDR1lpemhzMFdEazhleXRhV0xRMHFxbDcyRGZCMUhzdw?oc=5"
     }
   ]
 }

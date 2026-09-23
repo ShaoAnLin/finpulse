@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-23",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market - CNBC",
+          "feature": "【Qualcomm 推出 AI 專用新晶片，正逢記憶體短缺衝擊手機市場】\n📰 發生什麼事\nQualcomm 於 9 月 Snapdragon Summit 公布兩款新 Android 晶片——Snapdragon 8 Elite Gen 6 與 Snapdragon 8 Elite Extreme Gen 6，採 2nm 製程，主打本機 AI、8K 影像與高效能遊戲，同時宣稱可降低對雲端的依賴。\n🔍 背景與來龍去脈\n近年手機 AI 功能不斷升級，但大部分仍倚賴雲端運算，受限於網路延遲與資料隱私。加上 2024 起全球 DRAM 與 NAND 成本飆升，導致終端機價格上揚，市場預估 2026 年出貨量縮減 14%。Qualcomm 為保持競爭力、對抗 Apple A20 Pro，選擇以台積電 2nm 先進製程量產新芯，並提前與 HONOR、Xiaomi 等廠牌合作。\n🌐 影響\n新芯片若能在本機完成 AI 計算，可減少對記憶體的需求，緩解成本壓力，同時提升使用者體驗；對台灣而言，為台積電帶來高價值 2nm 訂單，提升半導體產值；對消費者則可能看到高階 Android 手機價格相對穩定，且在隱私與即時回應上優於雲端方案。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "華郵：川習會重排場缺共識 密集會晤已讓美國收斂公開挺台",
+          "feature": "川習會變形秀場　美國收斂公開挺台，聚焦儀式而非政策\n📰 發生什麼事：美國總統川普與中國國家主席習近平將於本週在馬里蘭安德魯斯聯合基地舉行為期三天的峰會，除例行會談外，雙方安排了近480名美軍、B‑2轟炸機與F‑22戰機的盛大迎接儀式，凸顯儀式感而非具體議題。\n🔍 背景與來龍去脈：中美關係近年因貿易戰、科技封鎖與台海緊張持續惡化，雙方缺乏實質共識。川普臨近2024美國中期選舉，急於塑造政治遺產，借峰會秀場提升形象；習近平則在中共二十大前夕鞏固內部權威，需展現對美「對等」姿態。兩國皆選擇以高規格接待取代深度談判，甚至財政部長主導議程，顯示外交僵局。\n🌐 影響：峰會雖未產生政策突破，但美方在公開場合對台支持的聲音減弱，降低了台灣的外交空間；同時中國藉美國聚焦儀式，得以在印太地區持續擴張軍事影響。投資人關注相關產業，如防務與航太供應鏈或受美國軍事展示刺激，股市短期波動或見升溫。民眾則需留意兩岸緊張情緒可能再度升溫的風險。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9772145"
+        }
+      ]
+    },
+    {
       "date": "2026-09-22",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "美聯儲再升息 台股四天跌千點後或迎資金逃亡潮\n📰 發生什麼事：美聯儲於9月16日再加息0.25個百分點，目標區間升至3.75%‑4%。宣布後，全球股市震盪，台股連續四日下跌近1,000點，收於45,200點左右。外資單日賣超逾890億，創今年第12大賣超紀錄。\n🔍 背景與來龍去脈：自2023年7月以來美聯儲首次升息，市場已預期利率上升。美國通膨仍高企，PPI與柴油價格大幅上漲，能源成本侵蝕企業獲利。同時中東緊張升溫推升油價至110美元以上，成為「真正大魔王」。台積電雖報出史上最高營收，仍無法抵銷整體資金外流。\n🌐 影響：資金恐再大規模撤離台股，外資持續賣壓可能延伸至本月末。台幣升值壓力增加，進口成本下降但出口競爭力受損。投資人或轉向美債與黃金避險，金融股或受惠於利差擴大，科技股則面臨估值調整風險。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ObUE5MF9OcVUtSC1VVHR3cFlZTEtSNUR6WXd0ajBDdGVuU2x2TGZzTTFabEJlZnR0cUJFQWtWUzBhaDJjT2hXNGNKdnFqUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-16",
-      "featured": [
-        {
-          "category": "international",
-          "title": "BOJ expected to hike rates by 25 basis points to fresh three-decade high: CNBC survey - CNBC",
-          "feature": "日本央行或大幅升息25碼，觸及30年新高\n📰 發生什麼事：根據 CNBC 9 月 9‑14 日調查，超過八成受訪經濟學者預期日本央行（BOJ）將在本週五的兩天會議結束時將政策利率上調 25 個基點，至 1.25%，創下自 1995 年以來的最高水平。\n🔍 背景與來龍去脈：自 2024 年 3 月啟動貨幣政策正常化以來，BOJ 以六個月為間隔小幅加息，去年 6 月最後一次升息。近期日本 7 月通膨率升至 1.9%，為年內最高，且實質工資連續七個月上漲 2.4%。美國持續加息、G20 會議上美國財政部長逼迫日本穩定通膨預期，亦讓央行獲得更大政治空間。另一方面，過去三年兌日圓的「套利交易」規模激增至 360 兆日元，投資人已開始在預期升息前平倉，導致日圓自 7 月低點回升，市場預測未來一個月匯率介於 155‑160。\n🌐 影響：升息將推高日本公債殖利率，抑制股市同時提升日圓利差，進一步刺激資金回流日本，對新興市場與台灣的出口競爭力產生壓力；同時日圓走強會降低台灣企業以日圓計價的進口成本，減輕能源與零部件支出。投資人需關注台幣兌美元與日圓的波動，以及可能因日圓升值而引發的資金再配置效應。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1rOHVJT2VNbHNDeHBHNmdsUGJ2SFdVWGpXTllKMk4tVUJZQkpHUWJaWDZvUWJCRzNyZmlrS3Byb2pLNEpXMTE2OFNXV0tHbWh6dG9CNmNXQkNZUjRlcUFFc29heFZWQWVGMENlVzhJbjjSAXZBVV95cUxORExXVlBYaGtvemt6OHpJNFYzb3gtRHJ4cWt1a051eFNzZ1llNEx1aF92bTMzN0ZxbjlWQWQ1b09ZTjZ0TXY1aXlMLWk2WkFaSGRqb1g1WlRPR0FKOVA3Y2pER3FxSi14SUxZT2N3RkRWOGhQUUtB?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "油價突破100美元 能源通膨再度成為央行難題 - Yahoo股市",
-          "feature": "（標題行）油價破百美元　能源通膨成央行新挑戰\n📰 發生什麼事\n布蘭特原油於9日收於101.2美元，首次突破每桶100美元大關；WTI同樣上漲至96美元。美軍當日摧毀5艘伊朗油輪，波斯灣衝突升溫，導致市場對供應風險高度警戒。\n🔍 背景與來龍去脈\n自2024年以來，中東局勢頻繁波動，伊朗與美國在霍爾木茲海峽的軍事對峙屢見不鮮，且葉門胡塞武裝亦襲擊沙烏地能源設施，削弱原油運輸安全。全球石油庫存持續下降，加上俄烏衝突後需求回升，使供需緊張。油價曾於2023年底回落，但因上述地緣政治因素再度上揚，突破百美元關口。\n🌐 影響\n能源價格飆升推高汽油、柴油零售價，台灣民眾每月油費或增加千元，進一步侵蝕家庭可支配收入。央行面臨通膨壓力加劇，貨幣政策或延遲降息或提前升息，影響房貸與企業融資成本。能源股受惠上漲，傳統產業成本上升則壓縮獲利，股市呈現能源股強勢、其他板塊走弱的格局。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxPQmdPYlM0VGd4cDVfODdfXzRWMFJwOFdhQ2RvNXFacGx1dWp0OGpOVFU0eWw3cWlQVUtac3NYQUVFTTR2dUh1a3lqOW5ycThXX3FFa3N3djBuZ3pDNC0zUlU0N2s5QThyalpMdzR6OHJmMTVNVHF2X1N0TVNyTjFYcDQ1ajZNdkg1NENHNndVSlhFb0xVczc4NjFXd1dhaWdiUHRPVnZ4ckc2N3Y0R1AtWkpfRGNiY0trSVBTS2FnWmNXajRMMEpZYURPbHRpV0stcm5rVU1PaGRsUUl2dWpBcXhHSWhzTGk3MVJEMDRxUHk2SjZoMEs2djVMRldja3VtblRsMkN2UTU4MUZrQ283aS1ZZ2FnWDJPSDd4ZmVQNTQtWTNRMl9UWC1aN1NpdHNic2loQjhUUFM?oc=5"
         }
       ]
     }
