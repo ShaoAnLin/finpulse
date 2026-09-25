@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-25",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
+          "feature": "Meta 率先推出 AI 可穿戴裝置 Muse Charm，搶先 OpenAI 版圖\n📰 發生什麼事\nMeta 在 2026 年 Connect 大會上公開 Muse Charm——一顆類似 Tamagotchi 的吊飾式裝置，內嵌公司新推出的 Muse AI 助理，聲稱可直接語音指令寄送郵件、訂票、購物等，預計在今年冬季前上市。此舉讓 Meta 成為首家將生成式 AI 直接整合於消費者硬體的公司，暫時領先 OpenAI 與 Google。\n🔍 背景與來龍去脈\nMeta 早在 2021 年改名為 Meta、投資元宇宙與 VR，但硬體銷售持續不佳。2023 年起公司加速生成式 AI 研發，推出 Muse 文字與語音助手，卻缺乏專屬入口。與此同時 OpenAI、Anthropic、Google 已在模型與雲端服務上領先，且傳聞正籌備自有硬體。Zuckerberg 為彌補與競爭對手的差距，採取「硬體加 AI」雙管齊下策略，先行推出超過 100 種 AR 眼鏡概念，並以低成本吊飾作為快速入口，測試市場接受度。\n🌐 影響\n若 Muse Charm 受歡迎，Meta 有望將使用者鎖定在自家 AI 生態，提升廣告與平台收入，同時為未來 AR 眼鏡鋪路；股價已因消息上漲逾 4%。對台灣而言，可能刺激本地 AI 智慧穿戴研發、加速企業導入 AI 助理，亦可能改變消費者對手機的依賴方式，帶動配件市場與相關服務需求。但若需求低迷，Meta 仍面臨硬體虧損與資源分散的風險。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "我家地層安全嗎？最新土壤液化潛勢圖出爐 鑽孔「3倍增」輸地址秒查更精準",
+          "feature": "「土壤液化潛勢圖升級　北部六縣市住家安全即時查」\n📰 發生什麼事：經濟部地質調查及礦業管理中心於24日釋出115年最新土壤液化潛勢圖，覆蓋台北、新北、桃園、宜蘭、新竹縣市。圖資經全面復核，逾八成區域判定未變；鑽孔數從上版3571口增至11731口，密度提升至都會區每平方公里4口，民眾只要輸入地址即可查閱潛勢分級及說明。\n🔍 背景與來龍去脈：台灣位於環太平洋地震帶，歷次大型地震常伴隨土壤液化災害，如1999年集集與1999年九二一地震後的基礎建設受損。政府自90年代起持續建置液化監測站與鑽探資料庫，近年因氣候變遷導致地下水位波動，加速了資料更新需求。此次鑽孔量倍增，主要是因為都市擴張與再開發計畫，需要更細緻的微觀地層資訊，以避免未來建築風險。\n🌐 影響：1. 建築開發與都市更新業者可依圖資調整選址與基礎設計，降低工程成本與後續補強費用。2. 保險公司可精算液化相關險種，提升保費定價透明度。3. 民眾自助查詢提升防災意識，住宅買賣時可作為風險評估參考，可能影響房價走向。4. 各地方政府將結合圖資制定防災建築規範與緊急應變計畫，提升整體社會韌性。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6615698"
+        }
+      ]
+    },
+    {
       "date": "2026-09-24",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "白宮國宴迎習近平 AI巨頭齊聚 美中科技外交交鋒\n📰 發生什麼事\n美國白宮將於9月24日舉行國宴，接待中國國家主席習近平。除了美國總統川普外，Nvidia執行長黃仁勳、OpenAI執行長Sam Altman、蘋果執行董事長Tim Cook等多位人工智慧與科技領袖預計出席。\n🔍 背景與來龍去脈\n美中在AI競賽、晶片出口管制等議題上緊張升溫，AI已成為雙方高層會談焦點。過去美國透過限制Nvidia等先進半導體對華出口，企圖延緩中國在AI領域的追趕。此次川習會是今年第二次峰會，白宮利用國宴邀請科技大咖，意圖在非正式場合促成技術安全或合作共識。\n🌐 影響\n對市場而言，AI相關股價可能受國際政治訊號刺激，Nvidia、OpenAI合作前景被視為正面；同時投資者也關注美國可能加碼出口管制。對台灣而言，美中科技摩擦可能影響半導體供應鏈與研發合作，產業需加強自研與多元市場布局，也提醒企業留意政策風險。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9764289"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-18",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Jensen Huang says Nvidia will sell twice as many chips next year - CNBC",
-          "feature": "「Nvidia 2027 年芯片銷量欲翻倍　AI 需求驅動市場爆發」\n📰 Jensen Huang 在蘇格蘭與英國國王查理三世會面時表示，Nvidia 預計明年芯片出貨量將是今年的兩倍，暗示 AI 用戶需求持續高漲。\n🔍 背景：自 2023 年以來，AI 大模型與生成式 AI 帶動資料中心 GPU 需求激增，Nvidia 旗下 Blackwell、Rubin 系列 GPU 成為雲端與企業 AI 訓練的核心硬體。公司去年已出貨約 600 萬顆 Blackwell GPU，並持續擴大與台積電等代工廠的晶圓供應合約，以緩解前幾波 AI 熱潮的產能瓶頸。此番預測延續了去年財年 70% 營收成長（約 673 億美元）的高基調。\n🌐 影響：\n- 市場：分析師將 Nvidia 2027 年營收目標上調，相關半導體與晶圓股或受波段資金青睞。 \n- 台灣產業：AI 伺服器需求提升將帶動本地晶圓、封測與系統整合廠商訂單增加，對台積電、聯電及代工服務商是正面刺激。 \n- 一般民眾：AI 應用如醫療影像、語音助理、金融風險模型等加速落地，提升生活與工作效率，同時也可能帶來資料隱私與就業結構的挑戰。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBMZUVscTltc3BSMGJoVVhPeWlDQ2JiendDa3ZsRmF4VGwzVXAtYlNfUE5vVE13OXBsT1N3MXFYdFdRd25jYkhGaFp4QXEwb0g5cXNQdFhicVl0SWlySk1JTXhoc05qd08tcmhBR2VxQU5DLTVq0gF6QVVfeXFMTXo3S3oxZXdkNml4VG1yM09rSUh4cWp4Tlh2SXdSSGZ1Q0Z4NHBPclhJdmdmbUtWTWVUQnd4YUY0N25IV204WWY1QnZISUJ6bl9ZaXVEQ0dnMU1QdHdva0dSdmVOZWctZnBQaHE0WUdBSkFDYWItM2tQTXc?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "習近平下周訪美！港媒：中美擬宣布加強兩軍關係 軍控對話有望重啟",
-          "feature": "習近平下周訪美　兩軍關係或再升級、軍備控制對話或重啟\n📰 習近平將於下週以國是訪問赴美，雙方正商討在峰會期間宣布加強中美軍事關係，並可能恢復因美對台軍售而中止的軍備控制對話，甚至納入軍方人員參與。\n🔍 近年中美在貿易、科技與制裁上持續緊張，但自2023年底開始恢復指揮官層級會談，8月底在加拿大首次舉行東部戰區與美太平洋司令面對面。美國亦提升香山論壇代表等級，顯示雙方欲建構多層級溝通管道，以降低誤判風險。此次訪美若宣佈軍事合作，將延續「戰略穩定」方針。\n🌐 若軍事對話重啟，兩軍誤判機率或下降，對台海危機的緊張氛圍有緩和作用；同時也可能影響美國對台軍售政策，進一步波及台灣防衛預算與軍事採購。市場方面，投資人可能視為緩和信號，台股相關防務股波動度或降低，資金或流向更廣泛的科技與出口導向產業。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9762313"
         }
       ]
     }

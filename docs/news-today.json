@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-24",
+  "date": "2026-09-25",
   "featured": [
     {
       "category": "international",
-      "title": "Here's what happens to the economy when Treasury yields soar like they are now - CNBC",
-      "feature": "（標題行）美債殖利率突破5%：經濟衝擊全景觀\n📰 發生什麼事：本週美國10年期國債殖利率重新突破5%，導致道瓊下跌300點、納指滑落1%，市場預期聯儲可能於十月再次加息。投資人開始擔憂殖利率持續上升至6%。\n🔍 背景與來龍去脈：5%長期被視為金融市場的警戒線，上一次突破出現在2008金融危機前夕，當時股市跌至半數。近年AI、醫療與服務業的資本支出增強，使傳統利率傳導效應減弱，讓市場對更高殖利率的容忍度提升。美國財政部與聯儲在通膨仍高企的情況下，維持緊縮政策，同時美中高層就AI與貿易展開對話，增加不確定性。\n🌐 影響：殖利率上升提高企業借貸成本，尤其是科技與新創公司；股市估值壓縮，可能觸發全球股指回調；對台灣而言，美元走強與美債收益率同步上揚，將推升新台幣匯率、抑制出口競爭力，同時提高本地債券收益率，吸引資金流入固定收益市場，但也增加房貸與企業債務負擔。",
+      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
+      "feature": "Meta 率先推出 AI 可穿戴裝置 Muse Charm，搶先 OpenAI 版圖\n📰 發生什麼事\nMeta 在 2026 年 Connect 大會上公開 Muse Charm——一顆類似 Tamagotchi 的吊飾式裝置，內嵌公司新推出的 Muse AI 助理，聲稱可直接語音指令寄送郵件、訂票、購物等，預計在今年冬季前上市。此舉讓 Meta 成為首家將生成式 AI 直接整合於消費者硬體的公司，暫時領先 OpenAI 與 Google。\n🔍 背景與來龍去脈\nMeta 早在 2021 年改名為 Meta、投資元宇宙與 VR，但硬體銷售持續不佳。2023 年起公司加速生成式 AI 研發，推出 Muse 文字與語音助手，卻缺乏專屬入口。與此同時 OpenAI、Anthropic、Google 已在模型與雲端服務上領先，且傳聞正籌備自有硬體。Zuckerberg 為彌補與競爭對手的差距，採取「硬體加 AI」雙管齊下策略，先行推出超過 100 種 AR 眼鏡概念，並以低成本吊飾作為快速入口，測試市場接受度。\n🌐 影響\n若 Muse Charm 受歡迎，Meta 有望將使用者鎖定在自家 AI 生態，提升廣告與平台收入，同時為未來 AR 眼鏡鋪路；股價已因消息上漲逾 4%。對台灣而言，可能刺激本地 AI 智慧穿戴研發、加速企業導入 AI 助理，亦可能改變消費者對手機的依賴方式，帶動配件市場與相關服務需求。但若需求低迷，Meta 仍面臨硬體虧損與資源分散的風險。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2s3WlB5UEZOTGdybXRJVlNxdlNKZEpTakdLZm8xX3lic1NrNEh2UUxwRWZsOGlPTW85ckREQ25UREF2ZmNtZmZ3ejRTT3ZyYXF6Q21XdElVZzFCN2o3R19wRHJfZ2FlZm5YbHZMTHoxQWdJb0dDVG9YMUlqWUF0R3FKV3haUEJoTS1Ia0pZOUZoYXRG0gGaAUFVX3lxTE8wdW9JZC1kMGZHcTVycVJDbW5TT18tTnlGN1FmQjZheTlham5nU1Eya1JRZm0xbnBpSWF0VEpNSTZFMVRoSkszUXBmSlpHY0VNcHpuTW5NUnhBMEdPWXRvMlFIWkdnMWY1TElSUmlic3RvU3BlR09UZ1U1QXV3cGhfQkh3emg2RTNHR3QzM0V3SlZ3akV6R05WT0E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "川習會明登場！共和黨4參議員催放行對台軍售 國務卿回應揭卡關考量",
-      "feature": "台美對台軍售卡關　共和黨參議員逼政府釋出150億美元援助\n📰 發生什麼事\n中華民國(台灣)的安全援助與軍售案逾150億美元被美國政府擱置。23日，四位共和黨參議員聯名致函國務卿魯比奧與國防部長，要求立即釋出包括3億美元外國軍事融資、10億美元防衛預算及約140億美元的軍售。魯比奧回應稱，美方還需顧及全球軍事需求與產能限制。\n🔍 背景與來龍去脈\n本次請求出現在習近平訪美的「川習會」前夕。美國對台軍售長期受國會撥款、國防部審批及執行層政治因素左右。去年美中關係升溫、台海緊張使台灣安全預算需求激增；同時美國國防工業供應鏈緊張、在烏克蘭與中東多線作戰，導致資源分配受限，形成卡關。\n🌐 影響\n若美方加速放行，將提升台海防禦能量，也可能刺激台股相關防務股上揚；但同時可能加劇中美戰略競爭，影響兩岸緊張局勢，甚至波及台灣企業的海外投資與供應鏈穩定。對普通民眾而言，安全感提升與防務預算上升或帶來稅收與公共支出討論。",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9774621"
+      "title": "我家地層安全嗎？最新土壤液化潛勢圖出爐 鑽孔「3倍增」輸地址秒查更精準",
+      "feature": "「土壤液化潛勢圖升級　北部六縣市住家安全即時查」\n📰 發生什麼事：經濟部地質調查及礦業管理中心於24日釋出115年最新土壤液化潛勢圖，覆蓋台北、新北、桃園、宜蘭、新竹縣市。圖資經全面復核，逾八成區域判定未變；鑽孔數從上版3571口增至11731口，密度提升至都會區每平方公里4口，民眾只要輸入地址即可查閱潛勢分級及說明。\n🔍 背景與來龍去脈：台灣位於環太平洋地震帶，歷次大型地震常伴隨土壤液化災害，如1999年集集與1999年九二一地震後的基礎建設受損。政府自90年代起持續建置液化監測站與鑽探資料庫，近年因氣候變遷導致地下水位波動，加速了資料更新需求。此次鑽孔量倍增，主要是因為都市擴張與再開發計畫，需要更細緻的微觀地層資訊，以避免未來建築風險。\n🌐 影響：1. 建築開發與都市更新業者可依圖資調整選址與基礎設計，降低工程成本與後續補強費用。2. 保險公司可精算液化相關險種，提升保費定價透明度。3. 民眾自助查詢提升防災意識，住宅買賣時可作為風險評估參考，可能影響房價走向。4. 各地方政府將結合圖資制定防災建築規範與緊急應變計畫，提升整體社會韌性。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6615698"
     }
   ],
   "candidates": [
     {
-      "title": "台股中秋前狂殺252點變臉！「這檔」CCL大爆發逆勢亮燈 8月淨利暴增852.58%成唯一焦點 - Yahoo股市",
-      "content": "台股中秋前狂殺252點變臉！「這檔」CCL大爆發逆勢亮燈 8月淨利暴增852.58%成唯一焦點 Yahoo股市",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxQcnZxZ01JM1l3dkRMQncxY2psNEZKSVZJaldENWE1czdDUDQtVldsTW9ZdjlfVlVCdVRza2l2MTRMXzRfaXVUSnVQUzFaS3NBMnhFYTdHQmQ0VG1vSGwxZjFxNFQ4VTkycHBjcDNfQjFrUVJkQkRhSUZNQnhET21xdTRqcEJZQ3hvNkV6X0RCMlhqNG1tTmhDNW1YcDYzaHJqTGJoSmdxZWhTOUNqclNCN0s4cWE3aXdJREJscmZQQVZ0bDRwTmpqcjloNkFCb3NpQ0FsMkxBeFV4N2pTSlp2aFV3YjR6ZDFnVmlIQ0JBbHpMZU5id3RhYTJTMVMwaFdfbFR2Y3BSQW5KQnhrdl92Q0pENDNvcjlkanZ6TVBtN29uZFB0cHVTQk1FQmk3VEVpMkVnNllWbjc3TnhONjBXVU1ma05pTmxoaE1SQTlrVDhtNnRRV19pZHkxWjB6OFFkY1haMHYzLUQ4SjkyS25Xcl9lMDMyU0hWSHVPSmVid3VlXzJtanBZNnJjc1dVX3FS?oc=5"
-    },
-    {
-      "title": "台股開盤／台積電開盤摔20元！台股跌近300點 這些族群逆勢強攻 - Yahoo新聞",
-      "content": "台股開盤／台積電開盤摔20元！台股跌近300點 這些族群逆勢強攻 Yahoo新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQbFhFVVF5VEpwTWpaTWx5RFpWdk4zdTd1c3FSOThPYjhlRDk2Z2NzLXVJaFAtN29MbVJaMV9Mc2hTUW1SNFNSQWpGNDBSU3JoelpUTTFHRWNFUW5LZUkyYlJEY1ZFLV83eXNMTURtclJfdEQ2MmZFd3pPQXBXcGkyMFNQZU1WOS1aeURmTjkxQmtmbGMxVFpRbnl0czdaN1dnVi1FV2NGYldmcnI3c1NfaDF6aHpIdnlySDNFVHhfUzZEdGJleVpXdlRDU1FvNlVKdnJ0dmZWQUZwdk1fNGdMaUUtTE9LbG11X1ZtR1haY0hQYW1PVDFCaFMta3ZUMlVtc2JMU2QxMVVxRlFLMnBJaEdHUUVGSnZWVGFMVWFOTjJEMm5MQkRSUGx4dkFmaTZualVsWUNtNVVOaXVmRmZHVVNCb2c0UVFGMlVzWjdrWGl5M1dsMUxpMjlzZWtuYU5yMVBfN3A3WWdqdEx6WVo3REQ5eXBuYlVyMUlSRll3?oc=5"
-    },
-    {
-      "title": "台股早盤跌逾400點失守48000點 台積電跌30元 - Yahoo新聞",
-      "content": "台股早盤跌逾400點失守48000點 台積電跌30元 Yahoo新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMilgJBVV95cUxNMFBEQ3RsQVJYRjh5Vk0zZnRoRWF4SVItLXEtTDhVWDFWbjhSUk4wcllJUklmTkNnWDd5X2k5ZWdFY0xnNzIxYTFtRjBwTGRkc045ZHFLc3BXQXdiZ2xLYmJVVWpqTEItd1BLTUNQS0RqSV9OM0RSMzN4c0xMRlc4b2JvU3ItYkxtQ3d2VTFnTzA2aU54YXE0NWNURUdWYUZ4Z09ZcVVaSFRkNTVqUVNpSlRHdjAzSDM1QkE5aWlNU3lCXzBGZnZJaWltMWFNWThkRFZaNGRoY2VybUd2Y1VXUnVDUWh4c2xmNmpGaWhBUWFDQk1xQ25ZYVR5Q0Z4MUZZdDJBMGNvYUJsMnNCd2s1bXE5d2VKUQ?oc=5"
-    },
-    {
-      "title": "台股開低一度跌378點！台積電領跌、5日線警鈴大作聯發科翻紅抗空| 股市要聞| 股市 - UDN",
-      "content": "台股開低一度跌378點！台積電領跌、5日線警鈴大作聯發科翻紅抗空| 股市要聞| 股市 UDN",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBYc0hlcFBidFJtTmdObmhUUGNYNjlDRllJOEZheE9hQ1c3cG5RZ1YwY00zVzRwQ1M2T3llTUdVOEh0RUJRRmR5aEc4a21vYVZl?oc=5"
-    },
-    {
-      "title": "美股收黑　台股今恐面臨明顯賣壓展開48000點保衛戰 - 鏡新聞",
-      "content": "美股收黑 台股今恐面臨明顯賣壓展開48000點保衛戰 鏡新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1ocUNTOUwwNVZTcmJmT1BaOWNLYlIwLVVaTWJfOWlSbUR2WDNvWnNzSkxxN3JUTWNJcWJORVgwZFV6cWtua3dqekpaMWlGOGRJajVVQXNSbGHSAV5BVV95cUxPaVhaN3dCUy03RWZscEhQQWR3OFRrdjd5Q1cwZWJBeEFfYS1jWkl1RVV1dXdHSkdHYWpWNlpCUVhWWGFUZ0p3eDVudkF4T3AzaVh5YlpIRWF2RXJob1Vn?oc=5"
-    },
-    {
-      "title": "川普首次會晤委內瑞拉代總統 雙方滿臉笑容",
-      "content": "川普在聯合國大會招待會會見委內瑞拉臨時總統德爾西·羅德里格斯，為今年1月馬杜洛被捕後兩人首次會面。 羅德里格斯稱會談是推進委美在能源、礦業和安全關係的歷史性步驟。 川普稱馬杜洛是「無法無天的獨裁者」。",
+      "title": "AI、機器人啟動中國工業5.0！大摩：未來10年估增投12兆美元資本支出",
+      "content": "摩根士丹利稱中國製造業進入「工業5.0」，重心轉向AI、機器人、自主工業技術與生態輸出。 預估2026至2035年工業累計資本支出50兆美元，其中12兆美元為工業5.0新增投資。 研判2035年中國製造業占全球比重將升至30%，工業企業利潤率由5%升至8%。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6614488"
+      "link": "https://news.cnyes.com/news/id/6615646"
     },
     {
-      "title": "台股開盤跌81.9點 - 經濟日報",
-      "content": "台股開盤跌81.9點 經濟日報",
+      "title": "川習國宴星光熠熠：華爾街、矽谷大咖齊聚 陸方17人無企業領袖",
+      "content": "美國總統川普周四為中國大陸國家主席習近平舉行國宴，華爾街和矽谷重量級人物齊聚白宮，也展現美國的科技與金融實力。",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5DT3ZfMFRuUmtXLUhnNHk5TjA5Z1lYM29tOUNOS2tURWlPbi1iZUExLWdLZXpZanFtZ2FOQjVraXJEMi1Td3AtZDloUWNCMUdObjg2NVVxdDlpUdIBX0FVX3lxTE82enZNakM4Y2huZWtfdUNwMERrNXM1VmxyeHFZZ00yWTBmR0NzUTcxMlcwWkxlaTMzc1NXcDczcnJJbFloNzhhbXhfVFlac1hKOU8xZGk5V19yYlpUcmdV?oc=5"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9776996"
     },
     {
-      "title": "Meta's standoff with Amazon over Muse could be a sign of things to come - CNBC",
-      "content": "Meta's standoff with Amazon over Muse could be a sign of things to come CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNdzBob3NLdG1HOHF2bGl6cmJRcTBwZzVyT0ZPQm9GUVNFdnJWc1lTRUZXSngtTXJES052ZUwzVGxPNVhkVnc1WS0zcHo1VjA0dlktM28wZU1uem4zRUJWMmJua29sRjVWQzNDak9NX1dyd0ZWQ3hOVW5XYTRoZXZqSEdWbTM5dG0yWENnZjhGdjg3VWdjbjJjODlKcnNKYWhJWHlZ0gGoAUFVX3lxTFB3OV8wTlhFOGhWMWRSZ1VhY292c0p1Nkc3Q0dVZVB1NHhZZm1WbjROQ3dfQ0N3eXVEc0labW11SVZVV3VXUlZxWnV5TEU0aGlvSTktOTNJcGZhX3B2OGlhems3aDhXMVM0VnJVSnlzeXppWEpSRmNBckxKUHJjLV81YThyUDBKdVJhSjBlQ1VvMUdwNC14emJYM1dvTHdPYUE1YVI3VGRVRg?oc=5"
+      "title": "〈熱門股〉富驊布局AI領域效益浮現2027年營運可期 周漲近3成",
+      "content": "富驊(5465-TW)積極布局AI業務，包括伺服器、網通及散熱等業務展望皆正面，加上明年泰國廠投產，將進一步貢獻，可望帶動明年營收與獲利表現，激勵富驊本周漲幅近3成，股價創近1年以來新高。 富驊本周漲幅28.09%，周一(21日)跳空漲停，周四(24日)收在最高34.2元，股價寫近1年",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6615512"
     },
     {
-      "title": "A rare Microsoft bear warms up to the stock. Here's what changed their mind - CNBC",
-      "content": "A rare Microsoft bear warms up to the stock. Here's what changed their mind CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbU5HVzlPVFhtQmN0MnlCSUJmZ0hCQ2hnZVRjdXZudjBSMm91WnhFUFE4eWZCNWRrWU5TdTRNcmpvX3NnSjVFWGNEamlHdDM1SEVnNk4wMHYwdDR1OHJHZVBfaTRPX1U4VDlaTVUyaTdrZ1RJNzBWZXNPeS0wVEFoVnFaVjNpNjM0MXNuSzQ4bnNpTk4zRE5qTGF0SjVLS0E5aDlZMmJZbm95LVBLNmRJ?oc=5"
+      "title": "盤中速報 - AAVE大漲8.03%，報147.8美元",
+      "content": "AAVE(AAVE)在過去 24 小時內漲幅超過8.03%，最新價格147.8美元，總成交量達0.21億美元，總市值22.52億美元，目前市值排名第 22 名。近 1 日最高價：147.9美元，近 1 日最低價：134.9美元，流通供給量：15,373,926。Aave的前身為2017年推出的ETH",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6615714"
     },
     {
-      "title": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it - CNBC",
-      "content": "OpenAI and Anthropic CEOs push for AI cooperation at UN after Trump rebuffs 'globalist scheme' to control it CNBC",
+      "title": "馬克宏：法將向沙烏地派軍　保護紅海石油運輸線",
+      "content": "法國總統馬克宏（Emmanuel Macron）今天表示，法國將向沙烏地阿拉伯派遣軍隊與防禦系統，以協助保護紅海港口城市...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9776971"
+    },
+    {
+      "title": "川普國宴致詞稱從未與習如此要好 贈白頭海鵰雕像",
+      "content": "美國總統川普與夫人梅蘭妮亞24日晚間在白宮舉辦國宴，招待中國大陸國家主席習近平與夫人彭麗媛。紐約時報與NBC新聞報導，川普致詞時一開始對中國代表團表示：「你們真的是非常傑出、令人驚嘆的人。」他並說，希望以中國今年在他訪中期間給予的同等款待接待中方代表團。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9776969"
+    },
+    {
+      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S. - CNBC",
+      "content": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S. CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBnYmxuWFJ2T3UxeFlEbFlOY3VvVjFzaHQ2U2Z2MHlPZ0Q5c01zQ19aQmlGNE1hcnBUQWk3WTlXSmk4cUI0ZFp3TTVndkNDa3Q1RFFWdjdjV1lZWDJVZkpmaldLdEowRXpkSEZid2piVUXSAXZBVV95cUxNMHZEbDdqaUUwYy1xbTYxQ1dSWTJBZGhRRS1BOThUWTVKQnpBSnl3aTktbkN3Vmx2WGR1clRVZExIdDF0TU5meWo2T0wzek1HZTNQZnQ1SjNhTm9PZTJOTkMxUkxiWVdjRnZ5R21ZR3dLTmZyeGRR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDhFVXRSTmlkSk5GZ2lQV01qMFZKU2VnTWhES0pjTG0xMlZPclZaSy1LWFJJTFNiMVN1YlktemI1NW5LdnlCR2pzUW5GcTBVb0p5VVBSdnAzQ1locGp1YWlsSUJQSVdmYWFyRGxXQ3lsMHBpc1hzSTczTmt6cXhxN18xRnlKWUHSAYwBQVVfeXFMTVJtcUxIa2x4d3A5WC05SWM0alBNRGR1Q194VXF4MGpFVHFKWjUtMjJvX0gyVGVnX21vWGpkVndGVmFOeURqaGxnRDRtdDNwTWNBRzZsa1R1ZkxnUFdGZHhyVmVoODAtUjdOTV83X0JRT3gyOWpUX3UtSXJJc05WUWlyY0U2SUdMNVNFelc?oc=5"
+    },
+    {
+      "title": "〈財報〉好市多Q4勝預期！低價加油站吸客 關稅退款回饋降價",
+      "content": "好市多Q4營收957.2億美元、EPS 6.60美元，皆優於預期，同店銷售成長6.7%。 通膨與低價加油站帶動客流，執行長稱汽油業務今年創「史上最佳表現」。 取得1.84億美元關稅退款後調降民生、肉類、飲料等商品價格。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6615625"
+    },
+    {
+      "title": "Here's who is attending the Trump-Xi state dinner - CNBC",
+      "content": "Here's who is attending the Trump-Xi state dinner CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm9HUWNGX1Y1aEtGWmlLOXlTMDZmQk5qd3JOYzlZdlF3SnJjU0t3Z0VNNWh2LWd1RDFsSGJvT1pua2tqYXoyaDBCN0dncDUxZ2QwcHpUNVNmTWp2Q25GamZVcmVuOWVVWWpDeGM1dEl0ZHA5YjVrd0VVelBiVEN2ZDVhWlpCOHU5YXVDS1FB0gGTAUFVX3lxTE1MZEZkanBlOEV6Y2tpSDM5enVLZVExaDMyZmpUV3RNakk4RUk4LTZrMXhUN3dmMmFmcTU3Um5fQWY3b3dTY0R6cGJZakNSOEZPZXhaclpJVTFjeU1jWWVhMkRxTVBITU1YWGhZelEzanZRdS1GYm00NlJkLVRGVXNtRVlTQXI4WEMyVXZUNk1jejRJZw?oc=5"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclo1MWlXUG52TFNMekJ5VUl4SFBXc0JEY09XV0VHVHNJRkNJeGxtamJGNlJPdWxrS09QSEphNlpMSVhzRXNQSDVEWmRkX0lqUXFsUjk2dkpmdEpVRE5RRHRiWXF3THNwQkNqUkp4QlNMZl9paW11WnBCdV9ETXEzekF3SEUwNl9qNEx3M1EtSnNOenYyMzUxdzFn?oc=5"
     }
   ]
 }
