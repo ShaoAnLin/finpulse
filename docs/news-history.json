@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-26",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Highly probable 10-year Treasury yield will hit 6% by January, says FedWatch's Ben Emons - CNBC",
+          "feature": "（標題行）10年美國公債殖利率有望在1月突破6%，顯示利率升高新常態\n📰 發生什麼事　FedWatch 創辦人 Ben Emons 於 CNBC 表示，基於近期美聯儲持續升息、通膨仍高企，10年期美國國債殖利率很可能在2027年1月觸及6%。\n🔍 背景與來龍去脈　自2024年起美聯儲連續加息以抑制通膨，短期利率已逼近5%。同時，美國30年房貸利率已突破7%，顯示長端資金成本上升。市場預期若通膨降幅不及預期，債券需求下降，殖利率必然上揚。近期股市波動與AI資金依賴高杠桿，也讓資金轉向較安全的美債。\n🌐 影響　1) 債券收益上升將削弱股票估值，特別是高成長科技股；2) 美國房貸成本升高，可能抑制住宅市場需求；3) 台灣投資人持有的美債資產價值下降，資金流入美元計價資產的機會增多；4) 台幣匯率或受美元走強壓力，進一步影響進口成本與企業盈餘。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNem9DY0phN3c5d0xMV3NQS2RySWZvdTZEVzFiS3pFN3BFVlJJblJodTdzbVBQZkhDaXpGNjNQYmljR1ZmTmxpdGxLNzNFNXRVbzRTSk1sX3lXVU02OFllbVJVUDZtR3lWZzJPRmg1Sy0xX2RBZzlETHdTT3hVVEJFRzhUTEhZLUNHeG9BZFlrVlg3YXFMelhTNWNzalBPVzlVbk42QmIzOVp4LUE3X2NKV3Fib0pOeEp4NXAtQ0k5ODFJTHNxb2FlQkQ2eHRzbDg4?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "AI帶動台灣晶片出口創新高 AMD、美光迎來新目標價",
+          "feature": "AI需求爆發，台灣晶片出口創新高，AMD與美光股價衝高\n📰 發生什麼事：財政部公布8月積體電路出口達307.97億美元，較去年同期增長60%，晶片占總出口比重升至37.4%。南韓同期晶片出口激增259%，台積電8月營收增53.3%、出口訂單增71.4%。受此刺激，AMD與美光股價本月突破長期盤整區間，市場預估其目標價分別為691美元與1,032美元。\n🔍 背景與來龍去脈：自2023年AI熱潮推動GPU需求暴增後，全球算力缺口持續擴大，台灣作為代工重鎮受惠於NVIDIA、AMD等大廠的訂單擴張。2020年以來台灣晶片出口年增幅最快的2026年8月，正值美國半導體法規放寬與AI模型規模升級，促使記憶體與高階製程需求同步上揚。投資人認為目前市場仍低估AI長期需求，因而提前抬升相關股票。\n🌐 影響：短期內晶片出口熱潮提升台灣貿易順差，提振台積電與供應鏈股價，帶動相關ETF表現。對台灣勞動市場而言，製程與測試人力需求將持續擴大，薪資上升空間出現。全球資金流入AI晶片亦可能推高美國半導體股價，增加台灣企業的議價能力與研發預算。但若AI需求被過度樂觀估計，股價已含太多預期，短線仍面臨超買回檔風險。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6616255"
+        }
+      ]
+    },
+    {
       "date": "2026-09-25",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "海底武器競賽升溫：從北溪破壞到無人潛航器新戰線\n📰 發生什麼事：美國、德國、法國等國家與多家防務企業正投入百億美元研發海底無人機、感測器與「殺斷」裝置，以守護超過150萬公里的海底光纜與能源管線。近期北約在挪威北極海域攔截俄羅斯潛航器模擬切斷纜線的演練，顯示各方已進入實戰測試階段。\n🔍 背景與來龍去脈：2022 年俄烏戰爭期間，北溪天然氣管線被蓄意炸裂，首次讓全球意識到海底基礎設施的脆弱。此後，AI、機器學習與自駕技術快速成熟，使得海底偵測與攻防成本大幅降低。英國、挪威、美國等 NATO 成員國啟動「Baltic & Arctic Sentry」計畫；德國 Euroatlas 簽下超過1億歐元的 Greyshark 無人潛航器合約，法國 Thales 亦同步研發防禦系統。\n🌐 影響：若海底纜線或能源管線受擾，將波及全球金融、電商與軍事通訊，台灣作為亞太重要的數據交換樞紐，亦可能面臨資訊斷流或能源供應風險。產業端則可能出現海底防禦技術外包、市場需求激增，相關公司股價或受益；同時保險與風險管理成本也可能上升，企業與政府需重新評估供應鏈韌性。",
           "source": "CNBC",
           "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONTREbzJ2SnhpVXdOLWphRHhUYUZXNW9lcGFReTdwUnNSbk1fcFluM01Idk5lTi1WYng3TFlOVGEwUndHYzdiREFkV1E5a29kTDZVRG81NE5tVGpnaTZKSG1GWTh6MWRiV1dFWGpzQkJMOThNbktwQVR2YWczQXhlZ9IBhgFBVV95cUxNMkJGOUJWckFsUmJCS2pLSm8tQ2ZmbHgzWG5oa1FFb2txMkhuTVVENGVDQ2tvS2ZVY1RNamJ3LVg4ZjczMkFUaFZaVjhpZnZRdktnWExVZE1SdlhxMDRqVnNaY0hCTXNmbFdHYTNZUkNvNTdpVnBuZHVCMFVpeU5ZQTlEdG1idw?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-19",
-      "featured": [
-        {
-          "category": "international",
-          "title": "The Fed rate hike opens up an opportunity for muni bond investors - CNBC",
-          "feature": "美聯儲加息讓免稅市政債成為新寵\n📰 發生什麼事：美聯儲在9月議息會議上再升息0.25%，10年期美債殖利率突破5%。同時，Bloomberg市政債指數殖利率升至約4.3%，稅後等效收益在最高稅級可達7.3%，吸引投資人轉向免稅市政債。\n🔍 背景與來龍去脈：市政債原本因聯邦資金成本下降而相對平淡，2023年起美債殖利率持續走高，投資人追求更高收益。聯準會為抑制通膨持續加碼，並配合美國財政部啟動長債回購，以抑制債券價格下跌，這些措施共同推高市政債的相對吸引力。\n🌐 影響：1）台灣投資人可透過iShares MUB等ETF取得較高稅後收益；2）金融機構將重新配置固定收益資產，提升市政債成交量；3）企業債務成本上升，可能影響台股金融股表現；4）若美債收益率持穩，市政債或在秋季迎來波段上漲。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDN3aDhqSlJ6WGZDenUwLTh5WTRXMjd6aHpXak5UQWZaZEZjczU0VUQ2SUllX0NhanVodWRFZ2hOS3ZXZHQ4WjdTWkN3MFpJR2h2eloxSlF4T3RZd3czQ2tpdWx2eG50NkxEQjlyRWh3czI1WlZXc2lqa2wxeE9vZnhJTUxnZjZxVDZ1b1lmTW1zbXpYWEpLS01mS0VfV2lPOGRveA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "白宮設國宴迎習近平　輝達、OpenAI執行長將出席",
-          "feature": "白宮國宴迎習近平 AI巨頭齊聚 美中科技外交交鋒\n📰 發生什麼事\n美國白宮將於9月24日舉行國宴，接待中國國家主席習近平。除了美國總統川普外，Nvidia執行長黃仁勳、OpenAI執行長Sam Altman、蘋果執行董事長Tim Cook等多位人工智慧與科技領袖預計出席。\n🔍 背景與來龍去脈\n美中在AI競賽、晶片出口管制等議題上緊張升溫，AI已成為雙方高層會談焦點。過去美國透過限制Nvidia等先進半導體對華出口，企圖延緩中國在AI領域的追趕。此次川習會是今年第二次峰會，白宮利用國宴邀請科技大咖，意圖在非正式場合促成技術安全或合作共識。\n🌐 影響\n對市場而言，AI相關股價可能受國際政治訊號刺激，Nvidia、OpenAI合作前景被視為正面；同時投資者也關注美國可能加碼出口管制。對台灣而言，美中科技摩擦可能影響半導體供應鏈與研發合作，產業需加強自研與多元市場布局，也提醒企業留意政策風險。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9764289"
         }
       ]
     }

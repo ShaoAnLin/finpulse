@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-25",
+  "date": "2026-09-26",
   "featured": [
     {
       "category": "international",
-      "title": "Meta gets to consumer AI device market before OpenAI, but Zuckerberg's strategy remains unproven - CNBC",
-      "feature": "Meta 率先推出 AI 可穿戴裝置 Muse Charm，搶先 OpenAI 版圖\n📰 發生什麼事\nMeta 在 2026 年 Connect 大會上公開 Muse Charm——一顆類似 Tamagotchi 的吊飾式裝置，內嵌公司新推出的 Muse AI 助理，聲稱可直接語音指令寄送郵件、訂票、購物等，預計在今年冬季前上市。此舉讓 Meta 成為首家將生成式 AI 直接整合於消費者硬體的公司，暫時領先 OpenAI 與 Google。\n🔍 背景與來龍去脈\nMeta 早在 2021 年改名為 Meta、投資元宇宙與 VR，但硬體銷售持續不佳。2023 年起公司加速生成式 AI 研發，推出 Muse 文字與語音助手，卻缺乏專屬入口。與此同時 OpenAI、Anthropic、Google 已在模型與雲端服務上領先，且傳聞正籌備自有硬體。Zuckerberg 為彌補與競爭對手的差距，採取「硬體加 AI」雙管齊下策略，先行推出超過 100 種 AR 眼鏡概念，並以低成本吊飾作為快速入口，測試市場接受度。\n🌐 影響\n若 Muse Charm 受歡迎，Meta 有望將使用者鎖定在自家 AI 生態，提升廣告與平台收入，同時為未來 AR 眼鏡鋪路；股價已因消息上漲逾 4%。對台灣而言，可能刺激本地 AI 智慧穿戴研發、加速企業導入 AI 助理，亦可能改變消費者對手機的依賴方式，帶動配件市場與相關服務需求。但若需求低迷，Meta 仍面臨硬體虧損與資源分散的風險。",
+      "title": "Highly probable 10-year Treasury yield will hit 6% by January, says FedWatch's Ben Emons - CNBC",
+      "feature": "（標題行）10年美國公債殖利率有望在1月突破6%，顯示利率升高新常態\n📰 發生什麼事　FedWatch 創辦人 Ben Emons 於 CNBC 表示，基於近期美聯儲持續升息、通膨仍高企，10年期美國國債殖利率很可能在2027年1月觸及6%。\n🔍 背景與來龍去脈　自2024年起美聯儲連續加息以抑制通膨，短期利率已逼近5%。同時，美國30年房貸利率已突破7%，顯示長端資金成本上升。市場預期若通膨降幅不及預期，債券需求下降，殖利率必然上揚。近期股市波動與AI資金依賴高杠桿，也讓資金轉向較安全的美債。\n🌐 影響　1) 債券收益上升將削弱股票估值，特別是高成長科技股；2) 美國房貸成本升高，可能抑制住宅市場需求；3) 台灣投資人持有的美債資產價值下降，資金流入美元計價資產的機會增多；4) 台幣匯率或受美元走強壓力，進一步影響進口成本與企業盈餘。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZWFoS2dEa29qdy14MkFpekZ4aXdWME1URHhNZDlMNGVWUC1TQmMxUFZsTkJXbFF2WXdNeWc1U3Y4a2Ezd2JLZ282ME5JSDk2a2FXc0doUFkwM2F1V3laSFlwV2VfNEd4RFpQdWtXWm1odnZMZVpLeDhUZ1FLeHZwRHl6QjN2ZDhv0gGOAUFVX3lxTE43amNmdENubU9qV3NheHc5SzI5b1JsVkhURjZ5dTVUdi10eDlJaDh2aFg4TkhVY1VrVUY4ZkJ1cFM0MWF1LVA5b0pRVGZ4a1ppTHFwNHdneExRRFlSSnBWaUJadmdJWE41ZXhqLTFCTHhyQmhRajBLWFpiU1FjUHlYdUlrdjFfLVA4c2gwQ3c?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNem9DY0phN3c5d0xMV3NQS2RySWZvdTZEVzFiS3pFN3BFVlJJblJodTdzbVBQZkhDaXpGNjNQYmljR1ZmTmxpdGxLNzNFNXRVbzRTSk1sX3lXVU02OFllbVJVUDZtR3lWZzJPRmg1Sy0xX2RBZzlETHdTT3hVVEJFRzhUTEhZLUNHeG9BZFlrVlg3YXFMelhTNWNzalBPVzlVbk42QmIzOVp4LUE3X2NKV3Fib0pOeEp4NXAtQ0k5ODFJTHNxb2FlQkQ2eHRzbDg4?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "我家地層安全嗎？最新土壤液化潛勢圖出爐 鑽孔「3倍增」輸地址秒查更精準",
-      "feature": "「土壤液化潛勢圖升級　北部六縣市住家安全即時查」\n📰 發生什麼事：經濟部地質調查及礦業管理中心於24日釋出115年最新土壤液化潛勢圖，覆蓋台北、新北、桃園、宜蘭、新竹縣市。圖資經全面復核，逾八成區域判定未變；鑽孔數從上版3571口增至11731口，密度提升至都會區每平方公里4口，民眾只要輸入地址即可查閱潛勢分級及說明。\n🔍 背景與來龍去脈：台灣位於環太平洋地震帶，歷次大型地震常伴隨土壤液化災害，如1999年集集與1999年九二一地震後的基礎建設受損。政府自90年代起持續建置液化監測站與鑽探資料庫，近年因氣候變遷導致地下水位波動，加速了資料更新需求。此次鑽孔量倍增，主要是因為都市擴張與再開發計畫，需要更細緻的微觀地層資訊，以避免未來建築風險。\n🌐 影響：1. 建築開發與都市更新業者可依圖資調整選址與基礎設計，降低工程成本與後續補強費用。2. 保險公司可精算液化相關險種，提升保費定價透明度。3. 民眾自助查詢提升防災意識，住宅買賣時可作為風險評估參考，可能影響房價走向。4. 各地方政府將結合圖資制定防災建築規範與緊急應變計畫，提升整體社會韌性。",
+      "title": "AI帶動台灣晶片出口創新高 AMD、美光迎來新目標價",
+      "feature": "AI需求爆發，台灣晶片出口創新高，AMD與美光股價衝高\n📰 發生什麼事：財政部公布8月積體電路出口達307.97億美元，較去年同期增長60%，晶片占總出口比重升至37.4%。南韓同期晶片出口激增259%，台積電8月營收增53.3%、出口訂單增71.4%。受此刺激，AMD與美光股價本月突破長期盤整區間，市場預估其目標價分別為691美元與1,032美元。\n🔍 背景與來龍去脈：自2023年AI熱潮推動GPU需求暴增後，全球算力缺口持續擴大，台灣作為代工重鎮受惠於NVIDIA、AMD等大廠的訂單擴張。2020年以來台灣晶片出口年增幅最快的2026年8月，正值美國半導體法規放寬與AI模型規模升級，促使記憶體與高階製程需求同步上揚。投資人認為目前市場仍低估AI長期需求，因而提前抬升相關股票。\n🌐 影響：短期內晶片出口熱潮提升台灣貿易順差，提振台積電與供應鏈股價，帶動相關ETF表現。對台灣勞動市場而言，製程與測試人力需求將持續擴大，薪資上升空間出現。全球資金流入AI晶片亦可能推高美國半導體股價，增加台灣企業的議價能力與研發預算。但若AI需求被過度樂觀估計，股價已含太多預期，短線仍面臨超買回檔風險。",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6615698"
+      "link": "https://news.cnyes.com/news/id/6616255"
     }
   ],
   "candidates": [
     {
-      "title": "AI、機器人啟動中國工業5.0！大摩：未來10年估增投12兆美元資本支出",
-      "content": "摩根士丹利稱中國製造業進入「工業5.0」，重心轉向AI、機器人、自主工業技術與生態輸出。 預估2026至2035年工業累計資本支出50兆美元，其中12兆美元為工業5.0新增投資。 研判2035年中國製造業占全球比重將升至30%，工業企業利潤率由5%升至8%。",
+      "title": "宏碁華碩領銜首發Googlebook 結合Gemini催化高階AI PC新變局",
+      "content": "Google推出全新Googlebook筆電，開放預購，售價899美元起，10月4日美國上市。 首波由宏碁、華碩等五大品牌打造；宏碁14吋售899美元、華碩旗艦款售1299美元。 採Android技術架構結合ChromeOS並整合Gemini，挑戰Windows AI PC與蘋果低階筆電。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6615646"
+      "link": "https://news.cnyes.com/news/id/6615421"
     },
     {
-      "title": "川習國宴星光熠熠：華爾街、矽谷大咖齊聚 陸方17人無企業領袖",
-      "content": "美國總統川普周四為中國大陸國家主席習近平舉行國宴，華爾街和矽谷重量級人物齊聚白宮，也展現美國的科技與金融實力。",
+      "title": "拖了近10年 特斯拉Semi首批客戶交車！",
+      "content": "特斯拉Semi在內華達州Sparks專屬工廠量產，周四啟動首批客戶交付。 PepsiCo、DHL、US Foods、WattEV、ABF、Einride、IMC、OK Produce等加入訂單，馬斯克稱候補名單很長。 Semi滿載續航500英里、能耗約1,700瓦時/英里。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6616266"
+    },
+    {
+      "title": "川習都提美中二戰抗日歷史 高市回應：日美早已和解",
+      "content": "中國大陸國家主席習近平對美國進行國是訪問期間，24日表示，中美曾「並肩抗擊日本軍國主義侵略者」，川普當天也稱兩國是「二戰時期的盟友」。日本首相高市早苗25日表示，日本與美國在二戰後基於相互信任，已成為「關係非常牢固的盟友」。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9776996"
+      "link": "https://money.udn.com/money/story/5599/9778394"
     },
     {
-      "title": "〈熱門股〉富驊布局AI領域效益浮現2027年營運可期 周漲近3成",
-      "content": "富驊(5465-TW)積極布局AI業務，包括伺服器、網通及散熱等業務展望皆正面，加上明年泰國廠投產，將進一步貢獻，可望帶動明年營收與獲利表現，激勵富驊本周漲幅近3成，股價創近1年以來新高。 富驊本周漲幅28.09%，周一(21日)跳空漲停，周四(24日)收在最高34.2元，股價寫近1年",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6615512"
-    },
-    {
-      "title": "盤中速報 - AAVE大漲8.03%，報147.8美元",
-      "content": "AAVE(AAVE)在過去 24 小時內漲幅超過8.03%，最新價格147.8美元，總成交量達0.21億美元，總市值22.52億美元，目前市值排名第 22 名。近 1 日最高價：147.9美元，近 1 日最低價：134.9美元，流通供給量：15,373,926。Aave的前身為2017年推出的ETH",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6615714"
-    },
-    {
-      "title": "馬克宏：法將向沙烏地派軍　保護紅海石油運輸線",
-      "content": "法國總統馬克宏（Emmanuel Macron）今天表示，法國將向沙烏地阿拉伯派遣軍隊與防禦系統，以協助保護紅海港口城市...",
+      "title": "美最高法院恢復選民驗證系統　恐影響合格選民投票",
+      "content": "美國最高法院今天恢復一項擴大的移民資料庫。川普政府表示，這個資料庫目的在打擊非公民投票行為，但批評人士認為，這可能剝奪合...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9776971"
+      "link": "https://money.udn.com/money/story/5599/9778392"
     },
     {
-      "title": "川普國宴致詞稱從未與習如此要好 贈白頭海鵰雕像",
-      "content": "美國總統川普與夫人梅蘭妮亞24日晚間在白宮舉辦國宴，招待中國大陸國家主席習近平與夫人彭麗媛。紐約時報與NBC新聞報導，川普致詞時一開始對中國代表團表示：「你們真的是非常傑出、令人驚嘆的人。」他並說，希望以中國今年在他訪中期間給予的同等款待接待中方代表團。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9776969"
-    },
-    {
-      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S. - CNBC",
-      "content": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S. CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQRDhFVXRSTmlkSk5GZ2lQV01qMFZKU2VnTWhES0pjTG0xMlZPclZaSy1LWFJJTFNiMVN1YlktemI1NW5LdnlCR2pzUW5GcTBVb0p5VVBSdnAzQ1locGp1YWlsSUJQSVdmYWFyRGxXQ3lsMHBpc1hzSTczTmt6cXhxN18xRnlKWUHSAYwBQVVfeXFMTVJtcUxIa2x4d3A5WC05SWM0alBNRGR1Q194VXF4MGpFVHFKWjUtMjJvX0gyVGVnX21vWGpkVndGVmFOeURqaGxnRDRtdDNwTWNBRzZsa1R1ZkxnUFdGZHhyVmVoODAtUjdOTV83X0JRT3gyOWpUX3UtSXJJc05WUWlyY0U2SUdMNVNFelc?oc=5"
-    },
-    {
-      "title": "〈財報〉好市多Q4勝預期！低價加油站吸客 關稅退款回饋降價",
-      "content": "好市多Q4營收957.2億美元、EPS 6.60美元，皆優於預期，同店銷售成長6.7%。 通膨與低價加油站帶動客流，執行長稱汽油業務今年創「史上最佳表現」。 取得1.84億美元關稅退款後調降民生、肉類、飲料等商品價格。",
+      "title": "「AI會害死我們嗎？」祖克柏給出答案 對未來「相當樂觀」",
+      "content": "祖克柏稱AI公司不必業界全面協調，也能安全開發先進AI；各實驗室應自行處理風險。 他以Meta Muse AI為例，延後推出處理隱私與安全疑慮，強調信任、意圖理解與價值觀一致。 OpenAI、Anthropic呼籲政府協調管理AI風險；黃仁勳與川普則主張加速發展、避免過度監管。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6615625"
+      "link": "https://news.cnyes.com/news/id/6616003"
     },
     {
-      "title": "Here's who is attending the Trump-Xi state dinner - CNBC",
-      "content": "Here's who is attending the Trump-Xi state dinner CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZm9HUWNGX1Y1aEtGWmlLOXlTMDZmQk5qd3JOYzlZdlF3SnJjU0t3Z0VNNWh2LWd1RDFsSGJvT1pua2tqYXoyaDBCN0dncDUxZ2QwcHpUNVNmTWp2Q25GamZVcmVuOWVVWWpDeGM1dEl0ZHA5YjVrd0VVelBiVEN2ZDVhWlpCOHU5YXVDS1FB0gGTAUFVX3lxTE1MZEZkanBlOEV6Y2tpSDM5enVLZVExaDMyZmpUV3RNakk4RUk4LTZrMXhUN3dmMmFmcTU3Um5fQWY3b3dTY0R6cGJZakNSOEZPZXhaclpJVTFjeU1jWWVhMkRxTVBITU1YWGhZelEzanZRdS1GYm00NlJkLVRGVXNtRVlTQXI4WEMyVXZUNk1jejRJZw?oc=5"
+      "title": "巴西選舉監管機構出手　防AI演算法左右總統選戰",
+      "content": "巴西總統大選即將登場，人工智慧（AI）在選民互動中的角色引發爭議。CNN巴西新聞網報導指出，最新研究顯示，AI在模擬選民...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9778385"
     },
     {
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "title": "「AI通膨」真的來了！謝金河見「1指標」轉弱：台灣央行面臨大挑戰 - Yahoo新聞",
+      "content": "「AI通膨」真的來了！謝金河見「1指標」轉弱：台灣央行面臨大挑戰 Yahoo新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxNWVkwUzNtcXY1d3YxZ0RCSnBDQXZTRm5SX3UwYWo2SFBsR1I5em0weFVRaF9yNmlIWm9WRGZxVHhNYmRNN1pJT3VGMFRQSXZ5NWVTdzlOa2xWbUp4M1RzbkFXOG5Fc2hhdDZHTWE2T0pkdlMtTnp1bmNGSlQ0VEFlNUw3SzNscUdRMDF1YmU3Z0ZyRWl4cnNvczI5TGk5emc4dVA5T0F3VU9oMGhrSHZ1VjVVOU1KSTdpa210TzJ0OERYZzd3S0hiWkdWOGxVeXFaR1FhMEppNkhndURoajRVMHAyY0ttelZ0MU14NngwMlJYR3NRUFV5dGxLMGVtU0g3dHdVdA?oc=5"
+    },
+    {
+      "title": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms - CNBC",
+      "content": "Appeals court rules that states can regulate Kalshi’s sports prediction markets, dealing another legal blow to platforms CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQclo1MWlXUG52TFNMekJ5VUl4SFBXc0JEY09XV0VHVHNJRkNJeGxtamJGNlJPdWxrS09QSEphNlpMSVhzRXNQSDVEWmRkX0lqUXFsUjk2dkpmdEpVRE5RRHRiWXF3THNwQkNqUkp4QlNMZl9paW11WnBCdV9ETXEzekF3SEUwNl9qNEx3M1EtSnNOenYyMzUxdzFn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTTNOZ0M4eHBEV0c2eEVoQVdOUXh1M1dQUmhwN2pES21TaGJnQVlvT3pNdU54LWpZbTY4WkdXT2VXTFdXNUExcVk4c2x4N1dtQ0RrdlJqR3FMUjlSN0dwTUNmd1BuTEpmMEVxMFF1VjBVTDNhRzlJbmh5SWVnbTdUTUtjMDhQSmhKSUNpUXBDT0NfLXUzd0IxbFhXdlpzMFZaMzdvbNIBqgFBVV95cUxQMWRUSUw5eUFIY3M0WGNOcDBhQ0dOeFJ0UHYxNkF2LWo1Wk9fSnBEY2Z3b0RoN3pBdFJ2ZTB6RmY4MWcycGRZbWR6bGNrV0V4dU42NFU2QUJRbzdsQ1JGOHp6RmphVVMwanB4a29XQmJNWEVaTEw0SWQyd3pucUtYUHJ0QURpaHlVNWpWVUF5N0s4UWRiVTJ4bXRrdkZyVnltdGwxcmh3LXdpZw?oc=5"
+    },
+    {
+      "title": "Bond market alarms are ringing on Wall Street. Here's what's ahead - CNBC",
+      "content": "Bond market alarms are ringing on Wall Street. Here's what's ahead CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ1I0c09qbWF2dTZaZXpNNU5HNkx5VDA3WUdWbXhPd3RTQjh5djkxUVN1R0V1TDI2azVUZ1ZadG5qNHVvZVRHUnFkVnRvNXRyYUJoREFsOEJTSllYdUctZFVYN3NUbDZpOGI1djU0S1hzMmtTMWp2TjlIYWpfWjJMam1Fc3lzYmZ4X1NEbC1lZWNwYlpC?oc=5"
+    },
+    {
+      "title": "How recent grads and college students should be thinking about AI, the CV, and the job market - CNBC",
+      "content": "How recent grads and college students should be thinking about AI, the CV, and the job market CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUGFyNV8wbVdtQWsxU09IOHZ4Z3pUYTRKSWdVcVo2MS12YVJBeFZSTUtfRFZzeExYQTQ4MGZXaU83ZzlSR0xqNElESTRQVkhsWFhuekNZT2l3N3czWVJHaTZJeHZDMFhiXzRvSjJfNkNyMkRtb3ZLWGtEdUNjcGE1XzBLSdIBiAFBVV95cUxPNFJVY01wSkt2clNMeHdVOTFCdXlnS2dVUHVxcWRvZWRfWHhtdzFfbXZMdHZuc0RKMlFiNm5zcG0yWlplU3ZFN1FPdXRyMmZJcE82cnZ1TDdjOWxRa0tUdENZcU54a1B1Szc1dEpPN3ZyNXAzNldyOHUxSXkwNjNWTU5HLTR3NzND?oc=5"
     }
   ]
 }
