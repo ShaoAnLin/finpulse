@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-28",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Debt-hungry AI companies face increased risk as bond yields spike - CNBC",
+          "feature": "AI資金成本飆升，債務重負的AI企業面臨新風險\n📰 發生什麼事：美國10年期公債殖利率逼近5.2%，創2007年以來新高，導致大量依賴債務擴張的AI基礎建設公司借貸成本急升。JPMorgan估計至2030年AI相關債務將達4.1兆美元；日本軟銀本週發行7年期垃圾債，收益率高達9.75%。\n🔍 背景與來龍去脈：去年以來，OpenAI、Anthropic等大型模型推手刺激雲端巨頭（Amazon、Google、Meta、Microsoft）與新興資料中心企業（CoreWeave、Digit）砸下數千億美元建設GPU算力平台，資金大多透過低利率債券籌得。隨著美國通膨與聯準會加速升息，債市利率上揚，資金成本逆轉，原本依賴廉價資金的擴張計畫遭遇「利率牆」。\n🌐 影響：1️⃣ 市場波動：債務重的AI股如Oracle跌幅擴大，部分資金轉向收益率較高的傳統能源與金融股。 2️⃣ 台灣產業：本地AI晶片與資料中心廠商若仰賴海外發債，融資成本將上升，可能延後擴產或削減研發預算。 3️⃣ 投資者：高收益債券吸引風險偏好投資人，然而違約風險亦同步提升，需重新評估風險報酬。 4️⃣ 宏觀層面：資金成本上升可能抑制AI應用普及速度，間接影響台灣數位轉型與智慧製造的進程。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzNYWDdhN2lVRjBIZE9sdE92U1FQaDVXSDFmNm9SVEViZ3RIcEVkZnRCZGlFTmtpSUpOWHJmTF9URHQ3SWZGQ0FPcjV1cV9WQjFtZW14NUItaVBVZUJqM3BfcUNWU2pPc21hTUNWMnFBRTFmeVM0YjRoakZnSW14ZmwybkFQdW9XQmpKdC04NXNoekFmQ1NKMUxPZmhvRFJkY0F0Ni1B0gGrAUFVX3lxTE4wRTk3M2x2R04yRnc5MnVCWm9wZjNzSDRhX081cU5pRHItaEtKbExRT1RWeDZneEFTcmZlZ1l0VEpTdmpac181blNucXFQVlVZTm5oenJjbEc1QlVMQUZkNzFMV1l3V2llbEc3bnVYTUVnTlRfZjFXSkJjakY2ZWpnbXIwRVVfZ2JVREt4QmtoLVA5LXpabjNRblVBSzJkRVJubm5QblVJN2ZQTQ?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "房市低迷2年有救了？央行鬆綁第二戶房貸　台經院劉佩真揭後市 - setn.com",
+          "feature": "房市新暖風　央行鬆綁第二戶房貸 成數升至7成\n📰 發生什麼事\n央行在第3季理監事會議維持政策利率連十凍，同時將自然人第二戶住宅貸款成數由6成放寬至7成，並取消購地貸款18個月動工限期，旨在降低換屋族自備款負擔。\n🔍 背景與來龍去脈\n自2022年起房市成交量持續下滑，營建業營業氣候測驗點連四個月走低，主要因房貸成數受限與高利率抑制需求。政府先前實施「無差別凍結」的嚴格管制，導致換屋族資金壓力大。隨著通膨回升與建材成本居高，央行選擇精準鬆綁，提升貸款額度約200萬元（以2,000萬元房價計），同時讓建商在持有土地時減少開工壓力。\n🌐 影響\n短期內換屋族可減少1成自備款，成交量或見緩步回升，預計第四季房市呈「量小幅回升、價盤整」；但房貸利率仍高於2%，整體購屋負擔仍重，投機需求不太可能復甦。建商因取消動工限期或調整囤地策略，供給節奏較為彈性。對一般民眾而言，貸款條件改善有助自住需求，但整體市場仍受利率與全球經濟影響，需理性期待。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdm1HYmhNZ1pIMXpRUHBnS3QtcENmZVBZaV8tT0JHSDE4ZnFlWlNSLVBBMjltLUY3NGxxc3BUR1QzekIwQTN6VNIBTEFVX3lxTE1hT1JGbk9rZm5mNUpCX0xxRkRNUUpabkY0enlmTk5aZGp2S1NNTjBFMVJIeFFCY3JSS2VTa1VVRmVpclcySFpleVN5MEs?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-27",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "AI伺服器瓶頸從GPU轉向CPU，供應緊張推升價格\n📰 發生什麼事：2026 年底，英特爾與超微因AI伺服器CPU缺貨，與中國客戶簽訂1‑2 年長期採購協議，部分CPU型號今年漲幅逾40%，交期最長達6個月。\n🔍 背景與來龍去脈：AI 訓練依賴GPU，但推理、Agentic AI 及資料前處理逐漸需要大量CPU、記憶體與電源支援。2023‑2024 年GPU、HBM 已陷供應短缺，需求向整體伺服器系統擴散，導致CPU產能不足。英特爾Xeon、AMD EPYC需求持續超過供應，業者為確保產能提前簽訂長期協議。\n🌐 影響：伺服器建置成本上升、資料中心擴容受阻，台灣雲端與AI新創可能面臨延遲或轉向成本較低的雲服務；相關零組件（記憶體、載板、電源）亦同步緊俏，供應決定市場競爭格局，投資者關注半導體供應鏈與長期合約動向。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6612731"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-21",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Fed's Kashkari reportedly says inflation is still too high across the U.S. economy - CNBC",
-          "feature": "美聯儲加息仍未降溫通膨——Kashkari警告全域價格壓力\n📰 發生什麼事\nMinneapolis聯儲行長Neel Kashkari於本週日公開表示，美國通膨仍然過高，且不只限於能源與食品，所有產業皆受牽連，並支持上週聯邦公開市場委員會一致升息0.25個百分點，將基準利率區間調至3.75%至4.00%。\n🔍 背景與來龍去脈\n自2022年以來美國通膨高於目標2%，先因能源、食品暴漲，後雖有短暫回落，核心通膨（剔除能源與食品）仍維持在4%上下。聯儲為抑制通膨連續加速利率，2024年已進行多次加息。本次Kashkari發言延續他在上次FOMC會議中對政策偏鴿的少數異議，凸顯通膨結構已廣泛化，僅靠能源降溫不足以達標，需更長時間的緊縮政策。\n🌐 影響\n市場預期美聯儲將保持鷹派立場，短期美元指數可能持續走強，債券收益率上揚，對新興市場資金流出形成壓力。對台灣而言，美元升值會推升進口成本，尤其能源與原物料，進一步傳導至物價。另一方面，美國利率上升使台股資金外流風險提升，投資人需留意美債殖利率與台幣匯率波動，同時亦可能帶動台灣出口企業因美元需求旺盛而受惠。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ZVEFneno2MUFKYkdpMjZpQk94SXpCd3NRZ0pub3p4MFRnUUY2cngzMUhKOXBaQ1ZyR3hnajN5TGtRaTdDdy1kYUZ5OFJDaGJ6bXMtN0ZRa05oSXd4WDBzaHRMREFXdi1yQWttNUVnSWh1eDFFcWlV?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "川習會進入最後衝刺階段 中美高官在紐約啟動磋商",
-          "feature": "川習峰會前夕：美中高官在紐約密談貿易與AI\n📰 發生什麼事\n美國財政部長史蒂文‧斯貝森特與中國國務院副總理何立峰率團，於本週日在紐約舉行面對面磋商，重點包括延長中美貿易休戰、投資協議、人工智慧合作以及伊朗局勢。此舉旨在為即將於本週末舉行的川普與習近平史上首次峰會鋪路。\n🔍 背景與來龍去脈\n自2024年初雙方關稅升至1200億美元以來，貿易緊張持續升溫。去年底美國對中國部分高科技產品實施出口限制，致使供應鏈受擾。雙方在今年春季曾於北京與華盛頓分別舉行低階會談，僅取得暫時性「貿易休戰」協議。隨著美國大選臨近，川普政府希望透過峰會展示外交成績；北京則希望降低外部壓力，爭取在AI、稀土等關鍵領域取得合作空間。\n🌐 影響\n若談判成功，貿易休戰可能延長至2025年，對台灣出口美國市場的電子零組件、半導體有正面提振；同時AI與稀土合作框架或改變全球供應鏈布局，台灣相關產業需提前佈局。相反，若磋商破裂，市場情緒將再度惡化，美元走強、台幣承壓，投資者將加速調整持倉。此外，兩國在伊朗問題上的立場協調，亦可能影響油價波動，進一步衝擊能源成本。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9766984"
         }
       ]
     }
