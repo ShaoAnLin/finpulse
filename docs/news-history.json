@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-29",
+      "featured": [
+        {
+          "category": "international",
+          "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging - CNBC",
+          "feature": "（標題行）特朗普‑習近平峰會秀場化：背後是雙方國內政治訊號\n📰 發生什麼事：美國總統川普與中國主席習近平於華盛頓舉行第二次峰會，表面上簽署30億美元的關稅減免清單，延長貿易停火兩個月，並同意未來討論AI與高階晶片，但實質協議有限，更多是為兩國內部傳遞訊息。\n🔍 背景與來龍去脈：去年貿易戰升溫、科技禁運與選舉年政治壓力，使雙方在公開場合需要展現「競爭但不衝突」的姿態。美國選舉將至，川普需向選民示範對華強硬又能談判；中國則在兩會前要安撫國內對美貿易依賴的焦慮，同時推動自給自足。兩國都利用峰會作為國內宣傳工具，而非深度政策調整。\n🌐 影響：短期內美國消費者可享受更低進口商品價格，農產品受惠；中國企業在AI與晶片領域仍受限制，市場預期不會立即改善。對台灣而言，供應鏈上游的關稅變動可能稍降成本，但美中科技競爭升溫可能使台積電等高階晶片公司面臨更大出口管制與合規風險，投資人需留意政策走向。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTJiOXFCZnF3eUVpVHpBRXJTSmJocDVlNTRaVFAyN0F1eXE5U05Zc2tnRjhVQjdxUTdCX05GMm4xZkl2N25uejRBME8xLUhnTjBZdHNXSXVMaElYMkkxb2k0cmtrWXdqQzN4NHpMS3AtbmY4OW9uMXM0RnQ2SXlWdzIxSmp2UmZwNzB2U1ZvM21ScUFjSmJNMDUxUEdWeHBNSWUzUERtONIBrAFBVV95cUxObm03aGRyQ3lnc0dZdEtJeER0RTQ0a2otV2xfOHNBbE5RRGVIaHJLcWM0OXMzVUJocWdrS1RtaEp1QUczSEJ1aEdDQ09IWWFsWlp4NElac29WaFdrbW5BVHVyTmpfNFhRSEJfOG1nakY4dXlQOExxYkhSa0FlQ3lsSTA4LWtFWkhDY1FxNFJlMk8zRWFubjBheG9aM0hDcVRQM0pYYTBGODl4WnFv?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "攜手英特爾搶入先進封裝！台股震盪「這面板大廠」盤中爆量30萬張上攻登成交王群創、聯電也入列 - Yahoo股市",
+          "feature": "Intel聯手台灣面板大廠衝刺先進封裝，股價瞬間爆量30萬張\n📰 今日(9/29)台股加權指數跌0.4%，盤中群創成交量破30萬張成成交王，聯電也緊隨其後。兩家公司均公布與英特爾合作，投入先進封裝與微型LED技術，市場資金迅速集中買進。\n🔍 英特爾近年積極布局先進封裝（Foveros、EMIB）以提升晶片效能，面臨美國供應鏈重組，尋求台灣產能支援。群創作為全球第六大液晶面板廠，已與英特爾合作開發Micro LED封裝；聯電則提供先進晶圓製程與封裝測試平台。此前台灣半導體與顯示產業已因AI、5G需求擴大產能，形成供需缺口，英特爾的進入正好匹配此趨勢。\n🌐 短期看，成交量激增推高股價，可能帶動相關供應鏈股（光通、ABF載板）同步上漲；中長期則提升台灣在全球先進封裝佈局的話語權，吸引更多外資。對一般投資人而言，相關題材股波動加大，需留意產能擴張與技術驗證進度；對產業而言，將加速本土封裝技術升級，提升整體競爭力。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQT1VUMlR2RExoY1FHYjY3d3BWT2xOWmxNRDRIaGJnZVF5SWZ3enN4bTQ0NUxlRG9HbUZ0dWhQeUJINHpPMVlVZUh1ekdjTUpWVXZ2dVhLdXRKYU93UHpVaUlRTloyOU1tRHlyYV95cDRLQVUwT0xaOFM1R1A0LU5Vc0lUUE94ZTNfVVotenp0RFpYTWxaLXZUOUVtc3phQTU5N0FOMVFZNHBhdW1yZF9sYV9uN0ZYVXE5WDJab2hhT09GTDJDU1QyZTA4NVhFN2JybUs4WnRnNlhEWEE3LVNXQVRjTENTemM4NmtzNFZkWEZNV0dJREhVMFctbGR3WTNjQnd1NXIzQnM3QV91YXFFdUdZY29NQUNrcEJVWGhsbVFIWVFBc2xLSzhySmVnYW1zelFvUVBWeTlYOXFrR0ZDaWIyZE9UZXhEaGtyZlpFcEU3T0dER3lXVUJZVVlNRTN0eTd1NUFiYUwzU0M5ZVhocV85cDdYU29BNXlQSWM5RmQtNHBLU3JJelFaSXFMNEVnYTVQVVV5V0hIMkR6MUtfNS14cjZxbUJLOFdoYmRuWEpsZUxXVFprQ3ZzSC1jNHR3b0M0TUwwUU9DWHlpNHBhZDE3eG94LXlzVWlwVk10TTFkcW9lZ2V3UWNwTGtka2x0d3g1Z2I4bFNwbzA?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-28",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "川習會變形秀場　美國收斂公開挺台，聚焦儀式而非政策\n📰 發生什麼事：美國總統川普與中國國家主席習近平將於本週在馬里蘭安德魯斯聯合基地舉行為期三天的峰會，除例行會談外，雙方安排了近480名美軍、B‑2轟炸機與F‑22戰機的盛大迎接儀式，凸顯儀式感而非具體議題。\n🔍 背景與來龍去脈：中美關係近年因貿易戰、科技封鎖與台海緊張持續惡化，雙方缺乏實質共識。川普臨近2024美國中期選舉，急於塑造政治遺產，借峰會秀場提升形象；習近平則在中共二十大前夕鞏固內部權威，需展現對美「對等」姿態。兩國皆選擇以高規格接待取代深度談判，甚至財政部長主導議程，顯示外交僵局。\n🌐 影響：峰會雖未產生政策突破，但美方在公開場合對台支持的聲音減弱，降低了台灣的外交空間；同時中國藉美國聚焦儀式，得以在印太地區持續擴張軍事影響。投資人關注相關產業，如防務與航太供應鏈或受美國軍事展示刺激，股市短期波動或見升溫。民眾則需留意兩岸緊張情緒可能再度升溫的風險。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9772145"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-22",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch - CNBC",
-          "feature": "美中領袖會晤：延長貿易停火、AI與伊朗成關鍵變數\n📰 發生什麼事（把這則新聞說清楚）\n美國總統川普與中國國家主席習近平本週在華盛頓舉行雙邊峰會，雙方首要目標是延長目前於2024年簽署的貿易停火協議，並探討AI合作、關稅調整以及伊朗制裁的執行情況。會議召集了美國大型企業代表，預計不會有突破性的半導體或出口管制協議，但會簽署若干貿易便利備忘錄。\n🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）\n2022年美中貿易戰升溫，雙方互徵關稅逾4,000億美元。2023年簽署「第一階段」協議暫緩衝突，但關稅未完全撤除，且AI與高階晶圓仍受限制。2025年川普再次當選後，主張「美國優先」與「公平貿易」成為政策核心；習近平則在任內首次以國事訪美，意圖穩定雙邊經濟關係，同時應對西方對中國AI技術的管控與伊朗核問題的聯合制裁。此次峰會正值美國選舉年後的貿易協議即將到期，雙方均希望避免再度升級為全面關稅戰。\n🌐 影響（對市場、對台灣一般人可能造成的多方面影響）\n若停火協議得以延長，全球供應鏈波動將減緩，台灣半導體出口需求可望維持穩定；同時AI合作框架可能促成跨國研發資金流入，提升本地AI產業投資。另一方面，若關稅談判僅止於小幅調整，相關企業仍需因應成本上升，消費者物價或受小幅衝擊。伊朗制裁議題若在美中協調下緩和，能源市場波動可能降低，對台灣進口油氣成本有正面效應。整體而言，市場將密切觀察會後聲明的細節，短線可能出現資金在基本材料與高科技股之間輪動的情形。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aVmt4bHhfVUdsZTBkRWFfYzRTQ19jOHRPUVI3dV9oV19uT3pfcm8ySzk4UGZiN3pUVzgzYzR3Q2JBZE1lcFByRnFYdU5VQlRsUFRYZEFzZmxKNU45YzQ2QVZvX0NHWl9Eb016NGJzQWIzRXdKeWZqcFFkalXSAYIBQVVfeXFMTjZtNXN6blZPRUtFMHU1MHd5dHBwX3NacTl3azc0RngtUUU0Tk4xRjRKRHpQLW1JZUdjdlZrTjhHXzVRT3liaTdyY1hROWttZDh5Tlo0ZkFCdHpZaENLXzNIeEpzdEltaGswa0VteXVtNzJlSjJfaUNDdGFiZWFES1JsZw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "告別「唯GPU論」！伺服器CPU成AI新瓶頸　部分型號今年已漲逾40%",
-          "feature": "AI伺服器瓶頸從GPU轉向CPU，供應緊張推升價格\n📰 發生什麼事：2026 年底，英特爾與超微因AI伺服器CPU缺貨，與中國客戶簽訂1‑2 年長期採購協議，部分CPU型號今年漲幅逾40%，交期最長達6個月。\n🔍 背景與來龍去脈：AI 訓練依賴GPU，但推理、Agentic AI 及資料前處理逐漸需要大量CPU、記憶體與電源支援。2023‑2024 年GPU、HBM 已陷供應短缺，需求向整體伺服器系統擴散，導致CPU產能不足。英特爾Xeon、AMD EPYC需求持續超過供應，業者為確保產能提前簽訂長期協議。\n🌐 影響：伺服器建置成本上升、資料中心擴容受阻，台灣雲端與AI新創可能面臨延遲或轉向成本較低的雲服務；相關零組件（記憶體、載板、電源）亦同步緊俏，供應決定市場競爭格局，投資者關注半導體供應鏈與長期合約動向。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6612731"
         }
       ]
     }

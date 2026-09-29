@@ -1,91 +1,91 @@
 {
-  "date": "2026-09-28",
+  "date": "2026-09-29",
   "featured": [
     {
       "category": "international",
-      "title": "Debt-hungry AI companies face increased risk as bond yields spike - CNBC",
-      "feature": "AI資金成本飆升，債務重負的AI企業面臨新風險\n📰 發生什麼事：美國10年期公債殖利率逼近5.2%，創2007年以來新高，導致大量依賴債務擴張的AI基礎建設公司借貸成本急升。JPMorgan估計至2030年AI相關債務將達4.1兆美元；日本軟銀本週發行7年期垃圾債，收益率高達9.75%。\n🔍 背景與來龍去脈：去年以來，OpenAI、Anthropic等大型模型推手刺激雲端巨頭（Amazon、Google、Meta、Microsoft）與新興資料中心企業（CoreWeave、Digit）砸下數千億美元建設GPU算力平台，資金大多透過低利率債券籌得。隨著美國通膨與聯準會加速升息，債市利率上揚，資金成本逆轉，原本依賴廉價資金的擴張計畫遭遇「利率牆」。\n🌐 影響：1️⃣ 市場波動：債務重的AI股如Oracle跌幅擴大，部分資金轉向收益率較高的傳統能源與金融股。 2️⃣ 台灣產業：本地AI晶片與資料中心廠商若仰賴海外發債，融資成本將上升，可能延後擴產或削減研發預算。 3️⃣ 投資者：高收益債券吸引風險偏好投資人，然而違約風險亦同步提升，需重新評估風險報酬。 4️⃣ 宏觀層面：資金成本上升可能抑制AI應用普及速度，間接影響台灣數位轉型與智慧製造的進程。",
+      "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging - CNBC",
+      "feature": "（標題行）特朗普‑習近平峰會秀場化：背後是雙方國內政治訊號\n📰 發生什麼事：美國總統川普與中國主席習近平於華盛頓舉行第二次峰會，表面上簽署30億美元的關稅減免清單，延長貿易停火兩個月，並同意未來討論AI與高階晶片，但實質協議有限，更多是為兩國內部傳遞訊息。\n🔍 背景與來龍去脈：去年貿易戰升溫、科技禁運與選舉年政治壓力，使雙方在公開場合需要展現「競爭但不衝突」的姿態。美國選舉將至，川普需向選民示範對華強硬又能談判；中國則在兩會前要安撫國內對美貿易依賴的焦慮，同時推動自給自足。兩國都利用峰會作為國內宣傳工具，而非深度政策調整。\n🌐 影響：短期內美國消費者可享受更低進口商品價格，農產品受惠；中國企業在AI與晶片領域仍受限制，市場預期不會立即改善。對台灣而言，供應鏈上游的關稅變動可能稍降成本，但美中科技競爭升溫可能使台積電等高階晶片公司面臨更大出口管制與合規風險，投資人需留意政策走向。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzNYWDdhN2lVRjBIZE9sdE92U1FQaDVXSDFmNm9SVEViZ3RIcEVkZnRCZGlFTmtpSUpOWHJmTF9URHQ3SWZGQ0FPcjV1cV9WQjFtZW14NUItaVBVZUJqM3BfcUNWU2pPc21hTUNWMnFBRTFmeVM0YjRoakZnSW14ZmwybkFQdW9XQmpKdC04NXNoekFmQ1NKMUxPZmhvRFJkY0F0Ni1B0gGrAUFVX3lxTE4wRTk3M2x2R04yRnc5MnVCWm9wZjNzSDRhX081cU5pRHItaEtKbExRT1RWeDZneEFTcmZlZ1l0VEpTdmpac181blNucXFQVlVZTm5oenJjbEc1QlVMQUZkNzFMV1l3V2llbEc3bnVYTUVnTlRfZjFXSkJjakY2ZWpnbXIwRVVfZ2JVREt4QmtoLVA5LXpabjNRblVBSzJkRVJubm5QblVJN2ZQTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTJiOXFCZnF3eUVpVHpBRXJTSmJocDVlNTRaVFAyN0F1eXE5U05Zc2tnRjhVQjdxUTdCX05GMm4xZkl2N25uejRBME8xLUhnTjBZdHNXSXVMaElYMkkxb2k0cmtrWXdqQzN4NHpMS3AtbmY4OW9uMXM0RnQ2SXlWdzIxSmp2UmZwNzB2U1ZvM21ScUFjSmJNMDUxUEdWeHBNSWUzUERtONIBrAFBVV95cUxObm03aGRyQ3lnc0dZdEtJeER0RTQ0a2otV2xfOHNBbE5RRGVIaHJLcWM0OXMzVUJocWdrS1RtaEp1QUczSEJ1aEdDQ09IWWFsWlp4NElac29WaFdrbW5BVHVyTmpfNFhRSEJfOG1nakY4dXlQOExxYkhSa0FlQ3lsSTA4LWtFWkhDY1FxNFJlMk8zRWFubjBheG9aM0hDcVRQM0pYYTBGODl4WnFv?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "房市低迷2年有救了？央行鬆綁第二戶房貸　台經院劉佩真揭後市 - setn.com",
-      "feature": "房市新暖風　央行鬆綁第二戶房貸 成數升至7成\n📰 發生什麼事\n央行在第3季理監事會議維持政策利率連十凍，同時將自然人第二戶住宅貸款成數由6成放寬至7成，並取消購地貸款18個月動工限期，旨在降低換屋族自備款負擔。\n🔍 背景與來龍去脈\n自2022年起房市成交量持續下滑，營建業營業氣候測驗點連四個月走低，主要因房貸成數受限與高利率抑制需求。政府先前實施「無差別凍結」的嚴格管制，導致換屋族資金壓力大。隨著通膨回升與建材成本居高，央行選擇精準鬆綁，提升貸款額度約200萬元（以2,000萬元房價計），同時讓建商在持有土地時減少開工壓力。\n🌐 影響\n短期內換屋族可減少1成自備款，成交量或見緩步回升，預計第四季房市呈「量小幅回升、價盤整」；但房貸利率仍高於2%，整體購屋負擔仍重，投機需求不太可能復甦。建商因取消動工限期或調整囤地策略，供給節奏較為彈性。對一般民眾而言，貸款條件改善有助自住需求，但整體市場仍受利率與全球經濟影響，需理性期待。",
+      "title": "攜手英特爾搶入先進封裝！台股震盪「這面板大廠」盤中爆量30萬張上攻登成交王群創、聯電也入列 - Yahoo股市",
+      "feature": "Intel聯手台灣面板大廠衝刺先進封裝，股價瞬間爆量30萬張\n📰 今日(9/29)台股加權指數跌0.4%，盤中群創成交量破30萬張成成交王，聯電也緊隨其後。兩家公司均公布與英特爾合作，投入先進封裝與微型LED技術，市場資金迅速集中買進。\n🔍 英特爾近年積極布局先進封裝（Foveros、EMIB）以提升晶片效能，面臨美國供應鏈重組，尋求台灣產能支援。群創作為全球第六大液晶面板廠，已與英特爾合作開發Micro LED封裝；聯電則提供先進晶圓製程與封裝測試平台。此前台灣半導體與顯示產業已因AI、5G需求擴大產能，形成供需缺口，英特爾的進入正好匹配此趨勢。\n🌐 短期看，成交量激增推高股價，可能帶動相關供應鏈股（光通、ABF載板）同步上漲；中長期則提升台灣在全球先進封裝佈局的話語權，吸引更多外資。對一般投資人而言，相關題材股波動加大，需留意產能擴張與技術驗證進度；對產業而言，將加速本土封裝技術升級，提升整體競爭力。",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdm1HYmhNZ1pIMXpRUHBnS3QtcENmZVBZaV8tT0JHSDE4ZnFlWlNSLVBBMjltLUY3NGxxc3BUR1QzekIwQTN6VNIBTEFVX3lxTE1hT1JGbk9rZm5mNUpCX0xxRkRNUUpabkY0enlmTk5aZGp2S1NNTjBFMVJIeFFCY3JSS2VTa1VVRmVpclcySFpleVN5MEs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQT1VUMlR2RExoY1FHYjY3d3BWT2xOWmxNRDRIaGJnZVF5SWZ3enN4bTQ0NUxlRG9HbUZ0dWhQeUJINHpPMVlVZUh1ekdjTUpWVXZ2dVhLdXRKYU93UHpVaUlRTloyOU1tRHlyYV95cDRLQVUwT0xaOFM1R1A0LU5Vc0lUUE94ZTNfVVotenp0RFpYTWxaLXZUOUVtc3phQTU5N0FOMVFZNHBhdW1yZF9sYV9uN0ZYVXE5WDJab2hhT09GTDJDU1QyZTA4NVhFN2JybUs4WnRnNlhEWEE3LVNXQVRjTENTemM4NmtzNFZkWEZNV0dJREhVMFctbGR3WTNjQnd1NXIzQnM3QV91YXFFdUdZY29NQUNrcEJVWGhsbVFIWVFBc2xLSzhySmVnYW1zelFvUVBWeTlYOXFrR0ZDaWIyZE9UZXhEaGtyZlpFcEU3T0dER3lXVUJZVVlNRTN0eTd1NUFiYUwzU0M5ZVhocV85cDdYU29BNXlQSWM5RmQtNHBLU3JJelFaSXFMNEVnYTVQVVV5V0hIMkR6MUtfNS14cjZxbUJLOFdoYmRuWEpsZUxXVFprQ3ZzSC1jNHR3b0M0TUwwUU9DWHlpNHBhZDE3eG94LXlzVWlwVk10TTFkcW9lZ2V3UWNwTGtka2x0d3g1Z2I4bFNwbzA?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "台股秋節後48K多空對決！五利多撞五利空 兆元量成關鍵 - ctinews.com",
-      "content": "台股秋節後48K多空對決！五利多撞五利空 兆元量成關鍵 ctinews.com",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1kR25wbW9nN2JTX2dHTG1sMzFQeEZLSnIwdlQwRHZ5TEVCbEgySi1CdDVyNTZvdW1iSUU0UWExMllGOHRsRVBvZDBqd1ZUZGhrMWNJ?oc=5"
-    },
-    {
-      "title": "吳宗信：台灣太空中心人力已翻倍至650人 下一步發展太空產業",
-      "content": "台灣國家太空中心（TASA）主任吳宗信接受日媒訪問指出，太空中心人力已從幾年前約260人增至約650人，光學團隊更從兩人擴增至逾25人。台灣正加強衛星光學和通訊技術，並尋求與美國、英國、日本和澳洲深化合作，盼運用台灣的電子產業優勢，發展衛星技術和太空產業。",
+      "title": "教宗良十四世公開批評黃仁勳！質疑低估AI失控風險",
+      "content": "美國人工智慧（AI）晶片巨頭輝達28日宣布推出一款新的安全工具「開放代理安全平台」，號稱能替AI代理畫下權限界線，一旦偵測到AI試圖執行超出授權範圍的行動，最快可在數毫秒內將其隔離。對此，金融時報報導，教宗良十四世28日罕見表態，批評輝達執行長黃仁勳淡化AI風險，並呼籲各界嚴肅看待AI對人類構成的威脅。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9780881"
+      "link": "https://money.udn.com/money/story/5599/9782754"
     },
     {
-      "title": "涉協助電詐集團 柬埔寨精通中文移民警察被捕",
-      "content": "柬埔寨一名精通中文的移民員警據報涉嫌協助電詐人員入境，從中收取超過20萬美元，日前被柬埔寨反貪局逮捕並提告",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9780876"
-    },
-    {
-      "title": "日銀升息可能比市場預期快！7月會議紀錄揭原因",
-      "content": "路透報導，日本銀行（央行）周一（28日）公布的7月會議紀錄顯示，多名決策委員認為通膨風險正在升高，其中一些人主張加快升息步伐，顯示日銀可能進一步升息。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9780875"
-    },
-    {
-      "title": "iPhone 18 Pro系列支援5G SA 電信業SA進度曝光",
-      "content": "iPhone 18 Pro支援5G SA，台灣電信SA多仍在示範場域，現階段以NSA為主。 中華電信推Pre-6G與5G SA試驗，目標年底配合支援SA手機推出SA服務與資費。 遠傳稱與蘋果進行認證，盼年底前開放部分SA功能，並將SA網路準備到位。",
+      "title": "漢翔無人機反制系統參與靖安15期演練 拓國產應用領域",
+      "content": "隨著無人機應用日益普及，法務部矯正署日前辦理「第15期靖安小組成軍」總驗收活動，將反制外來無人機的情境納入監所維安演練，漢翔(2634-TW)表示，此次以自主研發的「無人機反制系統」支援，展現國產反制技術的實務能力，將持續拓展國產無人機反制系統的應用場域。 此次演練以監所發現外來無人機為情境，透過",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6615582"
+      "link": "https://news.cnyes.com/news/id/6617598"
     },
     {
-      "title": "控烏克蘭違反北韓戰俘保密協議　青瓦台要求道歉說明",
-      "content": "烏克蘭總統澤倫斯基日前公開表示將2名北韓戰俘送往南韓，引起韓方不滿。青瓦台今天再發表強硬聲明，指控烏克蘭不但違反不公開的...",
+      "title": "油價漲！伊朗封鎖荷莫茲海峽籌碼減弱 恐升高攻擊",
+      "content": "華爾街日報報導，伊朗藉封鎖荷莫茲海峽施壓美國的籌碼正在減弱。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9780851"
+      "link": "https://money.udn.com/money/story/5599/9782723"
     },
     {
-      "title": "風評：台股全球第四，為什麼台灣人沒有世界第四的感覺？ - Yahoo新聞",
-      "content": "風評：台股全球第四，為什麼台灣人沒有世界第四的感覺？ Yahoo新聞",
+      "title": "重大利多！中國八部門聯合發文",
+      "content": "中國人民銀行（央行）日前發布消息，為促進服務業優質高效發展，進一步增強政策支持的針對性有效性，促進金融資源更多投向服務業重點領域和薄弱環節，中國人民銀行、金融監管總局、證監會、國家發展改革委、工業和信息化部、財政部、商務部、文化和旅遊部等八部門印發《關於金融支持服務業擴能提質的指導意見》。 《意見",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6617532"
+    },
+    {
+      "title": "中秋連假後首開盤！台股早盤失守48K一路震盪 台積電平盤開出 - Yahoo新聞",
+      "content": "中秋連假後首開盤！台股早盤失守48K一路震盪 台積電平盤開出 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxNTEowOXVHUHROUnJkWldmSUpDank2RUxGdTEyVVg2V2RfaFJFdzBmU1BKTWdhRTBmTUdxajQ4NzE1NlJHd3ZYSHFTUlNpaExEQmwzRmliNHpVQTFINGxFSktpcUNoSVBibVhJaXhHN1p4aWFLLWhDWEpXT1ViOVJCS2dFU3BWZjFaR3ppODVmXzBXU0wzZEczTi1oa3E0VU9wa210UDNKU0FrZUxLM1N3SHd2bWk4djhGbVMzRWJmUHptSXJlM1FJZk9aUEFLUUtTTEkxcUhNYlpDTWpGamE3alNwcDNiQ1hMd1RXM3FXMENmN2lHZ1gtUFgzMGZhUTNPZ1Rxd0NpU3RvaXRzZTI0LXZQSjMwYUc5TFBKdzVpaXdpdkg5bnhFdzcxTzZfWTJMMTJIYk9tX0NMQjNFLVRqWG4zcjc0dnlUWGdwaGpDLUlEbTRPcGV1NldvRmlCTDgzTGFJYTZQR0tYQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNRzkydWNoR2t6Q1dMRE1JX2ZlVGN0bGw0aXFDRUtMd0ZNeWdncWRnTHlpMGhrSURqRVRWUzdFejgzaUZyQ0NWZnpZUnJVRU9XU2FUaENkM2NhX3hESUhLdDlvejlHdlpreUxQSk5wT085X0NaNTYyZ3JBcXpFMUMtdlY1QXE3bjV5MUJSYzRKS19sYlFYWkM0NjVuYTN6UmtVVC16MGw3NG1Tdk1mOVptMV9sMHJMTUJ1dk42alQ2M3JEUS1Jdmcxb1ZaQ0N4VXB5VDJlUlFRV3hVQUFtV2pVYlR3aEx6YlY0eE9zWWhQWF9PVFBzTkh3RDBFZ3laa29UWXlYOXRCcjNmcmUwWTkyeGc3anRTYlhnc3NwTExlNUprVE95andGekZURjhHYUxFSlNDcWhWQlhoU0xqdlF1RGhjbVdyM1ZyemlYdW5aSER3X2dYUEhMN1BVcENnYTVGT2I3dFN5enNZTWh4Y1BkX2xWbURTdlhRdjJN?oc=5"
     },
     {
-      "title": "Here are the 4 big things we're watching in the stock market in the week ahead - CNBC",
-      "content": "Here are the 4 big things we're watching in the stock market in the week ahead CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPX0p2MmpQNG1lWktLTzV3eDhjN21jN2pjV0VEM3V6SDhZVlE5N0JvVFJvbHJVaE9iOVN1ZzhDSkgwNFYyTWp2aGh3VlBsNjZieDVwc2pta1pRem1xYVdDY1ZlR2JXOGxhVHowQTlzTEstTHJlbUZoeFVxRlZ3eVIwRDRZWG5wRmJHWHIzQlZMeHdqODdqd2J0Q1lwVFJZbXVKWVA2cC1DOHlzSUZrQllsM2ZreFA?oc=5"
+      "title": "搶搭台股Q4旺季！4檔主動式ETF接棒募集選股策略、配息設計一次看| 財經 - Newtalk新聞",
+      "content": "搶搭台股Q4旺季！4檔主動式ETF接棒募集選股策略、配息設計一次看| 財經 Newtalk新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5iRGtfdDNLR1lYUVZhOWU5cXZTLWxJeGxrNUg4bUpfNDVGTVZRYnlIanUwTld1Z1UyN3VibDRzZGROZ2VEQ1h6aXUxbnlxQS0ycnk0N05NVDhFRjQ?oc=5"
     },
     {
-      "title": "Meta's Muse agent is attacking one of the economy's most profitable weak spots - CNBC",
-      "content": "Meta's Muse agent is attacking one of the economy's most profitable weak spots CNBC",
+      "title": "Anthropic leaders to control AI lab to promote public good over market forces: Reuters - CNBC",
+      "content": "Anthropic leaders to control AI lab to promote public good over market forces: Reuters CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ETGE2S1ZqMWk4djE5R3c5YnV6VGV0eUZqN0ZaNXZDaXlMY2RUcWNWdDI3V0stY2JrZXVMWjRzTUhGZ3dOTk8zSkUtY1ZmZlRiazkyYUVaYUZFdVlaT210WWdRYUlpa09yclZhb3JDWEVoQdIBd0FVX3lxTE12NGNnN0FJaVdSRWRVR0tQcklzNlRMTTBpSjFOcVB4OGhCeFBIWkUzUENxSXlpQThkY1FZX3F2NjRZSVhJaWVleHkxbDQtd3N4OVlkWVZuQ3FkYk02VjA4WTU4ZGdHUFdQWkxrYjlOVzNrRzZBQkhV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQOUZxT0I3RXFuOWpySEotYkx2SHpoOUt0MWtsNjllSWNyVU92bkM3bnUyN0lTaF9iVlVHNkFsSkp6OEhoc2dwVVFZUmtvX0dVUFJ6Nzl6endxU1lyZUZlZ2U1MDVySG0tN1VLZV9NWFlLQ2NjZmxqMEpKMTlhenZ4cVNXRVd5eGVHVUxQdVFEcV9iMmNXRGxkdktoc081bzR0bURybmV4YmI1akhuak9CLWRpSkNoeGRtSG93VXpFTdIBxAFBVV95cUxQbU9hc3Y3RG8walh3WE5lOHNRUzNiWEJFVUYycXNreGFoc1FXQWJTc21nTzVuRlNuTmFuei1FYWctd0VxR1VWSUVtUnB1TWdmZUM3VXpETmZydVFieEZTdHE2ZTluYXFNRUU1RS1zWUJBVENCWXBLR05kLU8wSVh4YS1sbU5hMkNuck82am1JRDh0VGFkbzdLUnJrd2Utay1UUHM0dTlOMTczVjJZX3ZCV3R3QnZFR09nTUlyX21TaUcxRXJz?oc=5"
     },
     {
-      "title": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation - CNBC",
-      "content": "Swiss voters reject tighter neutrality rules that would have curbed NATO cooperation CNBC",
+      "title": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets - CNBC",
+      "content": "Luckin Coffee, flush with Persian Gulf cash, weighs entry into Middle East markets CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRUk1ZnJXMGJjakVrRWhNTV9CRXBDenJGRDlORU4tck5vMHVpS2tYYWVnNjZpRUtRSXJDcGxRaEh0N19iMnM0ZWQ2OVh0WFotcmtkNEF3WmVjU2ZoUWxNLVdPZGhUSDVBenJHVkNfbkVobm9TOW9VSG1RX1pxTkFfaHlCdXdDdnlfX1g40gGQAUFVX3lxTFBna3ZFc3RzOE5oQlFTbUxpWThkNFZnc1paUk1aYXg4clNUWDFaaXhiVUd1bXhseDlNVm1CS0tLaFBubUNFZTlCUnZ3TUdIMVEzcVd4aDNNQ1RTOVZVbVZNM0RDLU1Mc3JGaVp6bEZldWpzRkVkOG44UklJbk41Si1vbGxxOTZ2d1psaTFlVkF6Uw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUWlIaUN1Mm5rRWJGUVZzMEFabm1qM21yMUpqSmxNUDltY0Mwd0c3dVdmTVRPQXgtV09rN0lUTWdmclYteGEzdDVzOXg4RnYtS19CSHZMWDNid0JHWXNpeWkxeDRhb1JlYkxtWFM3TjN2U1Q0amF0dlhEdk1KNFctX21TWUxINTB1MWQ1VjFXcE8yQXNoNEdhTDZGVjVvZ9IBowFBVV95cUxNS2RILUtGZGVkSUEtS0ZwNDl2VkRnRXdudVlsNXZ0dGIzOXhLaXBEMFJwZmpBUThLbndnUm5sQTYyNzZOaWlQTW5MeUducVNkUnNWS2U2cnkxQmFabUVsOWhiMXdXOHBIQS1vMVUzQmIyU3doaWlsdGJqLW5qSnZBa0lhTG00LUxjUVZxblVZbm1BUEpEaDdtSHhiOWlpT1dxNkVv?oc=5"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "content": "Tuesday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNck9zYzdjSHZNa0d2Q1I2aE52NFl3V3BTSG05MmxReklXMXlNSFg4ekJqWFNjejNaMXUyTmRoOFdMbzg0UFZyY09jOGh1N0JVdnRQcmFHNV8tcUpiekFrREM1ZWRwRXphYTVGc3RpbHNJdmwxX3FzM0FvYUtnbjZEZEkyZmhBM05tZFBTQjUtV1NqdGlQYVBvak9fUQ?oc=5"
+    },
+    {
+      "title": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low - thestreet.com",
+      "content": "Major gold holder suffers $2.65 billion paper loss on bullion hitting 7-week low thestreet.com",
+      "category": "international",
+      "source": "Reuters Business",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQazhwTTVqVmVySUdoQlJmVGktMUJiVHhTNHotWXVGTXBUSjlGdjVqSmZyMlBMQzNsUnFuV0RTMUlNclNHWXpiSDE4ZFZmNVk3Mjh5ZkVjWEhGWlgtWWd2VlE0dWNvczlETE85ZXlYMFYtUXVBd01iNVd5UFVUc0p6ZENQVENDSWxsMEdlUGQ4NDJUU2xjSnBuclkyNm1xZzVLbWozLVVrSG52VXgzRFJZRWlqNlg0VFd6eGh2Yw?oc=5"
     }
   ]
 }
