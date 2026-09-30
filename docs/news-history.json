@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-09-30",
+      "featured": [
+        {
+          "category": "international",
+          "title": "The Fed's main inflation measure will be released Wednesday. Here's what to expect - CNBC",
+          "feature": "美聯儲核心通膨指標即將公布，市場聚焦是否再升息\n📰 發生什麼事\n美國將於本週三公布個人消費支出價格指數（PCE），為聯儲最重要的通膨衡量指標。共識預測月增0.3%，全年約3.7%，仍高於2%目標，暗示通膨未見緩解，可能促使再度加息。\n🔍 背景與來龍去脈\n自2024年起美聯儲連續升息以抑制高通膨，9月會議已加0.25%且暗示年底前或有第2次升息。PCE核心排除能源與食品，較CPI更受決策者青睞。過去幾個月就業與消費持強，讓政策制定者難以宣稱已降溫。\n🌐 影響\n若數據仍顯高通膨，美元或持續走強，債券收益率上揚，台灣企業進口成本上升，通膨壓力傳遞至民眾生活費。相反若出現降幅，市場可能減少加息預期，資金回流新興市場，台股或受惠，投資人亦需留意匯率波動。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPakExZFdhdVJNaW5xUFAtSlRXTGtTU1YweGJpUk9uS0hoVjVjUmV5RlA2U05Scnh0a2tVZHNVa0hBaWVXd3ItVmxwbW41eU1SbUhSZFJpRUFlQ0c5aUVkVXNtT3RQZUVuS0NMQVdNTmNDUnVOQlBSVFU1SG9YYnBNMExEV3NzdlhvNUZoZzdBdTZpdFRSaFAxamFiYm1KcXdoZkJGN0NRd1Y2RDZLNG94WVBhaWhDVEXSAbwBQVVfeXFMUHdMclZnNXhxNlZGd0s0eC1XQ19fZGhLWEQwdVh2cjdyTEhBbTBLMFNhd1d4YWFVZ2QwZnItVTlkRzlsdXFHb2lkQUJQZFQ2TFltS29fdHRKMW1EbVh0TThWUE9uX2IzLVhCNzNYWlFPa29SdVlpSWdKbU9xNG9wZXczUGxvTG9IYmgzaTVuMFNNaVNUS1d5alpJREhOQkEtYlhXcTUwT2RVX2REZkE0WlA5Z1JuN0h5MHpEMjg?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "央行鬆綁房市吃補丸房仲：9月交易量年增一成| 房產新訊 - udn房地產",
+          "feature": "央行鬆綁第二戶貸款成數至七成，9月全台房市交易量較去年增10%，顯現回暖跡象。\n📰 發生什麼事\n央行於9月17日理監事會決議，將自然人第二戶住宅貸款最高成數由六成提升至七成，同時取消建商購地貸款的限期開工規定。住商不動產統計顯示，9月全台成交件數較去年同期增10%，北市+7%、新北+16%、台中+34%等，整體呈現小幅回升。\n🔍 背景與來龍去脈\n自2024年起，央行陸續實施「選擇性信用管制」限制第二戶貸款成數在五成至六成，旨抑制投機與房價過熱。兩年房市交易持續低迷、建商資金鏈緊繃，加上利率連十凍使融資成本維持高位。面對市場需求疲弱與即將到來的大選，央行在第七波調整中選擇局部放寬，以紓解換屋族與建商資金壓力，並觀察市場反應。\n🌐 影響\n短期內，第二戶貸款成數上調預計提升換屋與預售屋交屋需求，部分自備款負擔降低，交易量有望持續溫和回升；但供給仍在高峰期，餘屋去化速度慢，房價上漲空間受限。長期看，政策仍保留對第三戶以上、豪宅及法人購屋的嚴格成數，避免資金過度槓桬，房市將呈現「開低走穩」的復甦格局，對銀行貸款排撥、投資者配置以及一般民眾購屋決策皆產生關鍵影響。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dFJFcTRvSjZYM25VazlQQUlYMmZUTGdScnI1RWJYOWd0ajk4YmJ2ZHprQkpDa2tHOFhPbzBfTzNPX3R5aFk1S3ptcHZWRHdEcW4xeUR2eDVPNDhzVXJ4aVgyN21BS3BzWjRIT2RQQzNVTERLMmxhbmZHRTNCMnc?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-29",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "台美對台軍售卡關　共和黨參議員逼政府釋出150億美元援助\n📰 發生什麼事\n中華民國(台灣)的安全援助與軍售案逾150億美元被美國政府擱置。23日，四位共和黨參議員聯名致函國務卿魯比奧與國防部長，要求立即釋出包括3億美元外國軍事融資、10億美元防衛預算及約140億美元的軍售。魯比奧回應稱，美方還需顧及全球軍事需求與產能限制。\n🔍 背景與來龍去脈\n本次請求出現在習近平訪美的「川習會」前夕。美國對台軍售長期受國會撥款、國防部審批及執行層政治因素左右。去年美中關係升溫、台海緊張使台灣安全預算需求激增；同時美國國防工業供應鏈緊張、在烏克蘭與中東多線作戰，導致資源分配受限，形成卡關。\n🌐 影響\n若美方加速放行，將提升台海防禦能量，也可能刺激台股相關防務股上揚；但同時可能加劇中美戰略競爭，影響兩岸緊張局勢，甚至波及台灣企業的海外投資與供應鏈穩定。對普通民眾而言，安全感提升與防務預算上升或帶來稅收與公共支出討論。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9774621"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-23",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market - CNBC",
-          "feature": "【Qualcomm 推出 AI 專用新晶片，正逢記憶體短缺衝擊手機市場】\n📰 發生什麼事\nQualcomm 於 9 月 Snapdragon Summit 公布兩款新 Android 晶片——Snapdragon 8 Elite Gen 6 與 Snapdragon 8 Elite Extreme Gen 6，採 2nm 製程，主打本機 AI、8K 影像與高效能遊戲，同時宣稱可降低對雲端的依賴。\n🔍 背景與來龍去脈\n近年手機 AI 功能不斷升級，但大部分仍倚賴雲端運算，受限於網路延遲與資料隱私。加上 2024 起全球 DRAM 與 NAND 成本飆升，導致終端機價格上揚，市場預估 2026 年出貨量縮減 14%。Qualcomm 為保持競爭力、對抗 Apple A20 Pro，選擇以台積電 2nm 先進製程量產新芯，並提前與 HONOR、Xiaomi 等廠牌合作。\n🌐 影響\n新芯片若能在本機完成 AI 計算，可減少對記憶體的需求，緩解成本壓力，同時提升使用者體驗；對台灣而言，為台積電帶來高價值 2nm 訂單，提升半導體產值；對消費者則可能看到高階 Android 手機價格相對穩定，且在隱私與即時回應上優於雲端方案。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZzBlSVNtRVBBVmxmQm5EUngxUFBaY2Jxam51SzNuM2d5Yk9iOWNrNmxEb3EzXzhRbXdmVFhqODJuWDJvVHYyQ2JJVjhKTHl6ZkZpN2dDNTVmVWYteDFSTXptbTBtNGc5MW5fMl9TZmdCencyallHYUNvWUI2R0tIVGxYTFVHSmF2dUdJTjd3WllXYzJuUnRoUTlWNnFqNl9YVTZV?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "華郵：川習會重排場缺共識 密集會晤已讓美國收斂公開挺台",
-          "feature": "川習會變形秀場　美國收斂公開挺台，聚焦儀式而非政策\n📰 發生什麼事：美國總統川普與中國國家主席習近平將於本週在馬里蘭安德魯斯聯合基地舉行為期三天的峰會，除例行會談外，雙方安排了近480名美軍、B‑2轟炸機與F‑22戰機的盛大迎接儀式，凸顯儀式感而非具體議題。\n🔍 背景與來龍去脈：中美關係近年因貿易戰、科技封鎖與台海緊張持續惡化，雙方缺乏實質共識。川普臨近2024美國中期選舉，急於塑造政治遺產，借峰會秀場提升形象；習近平則在中共二十大前夕鞏固內部權威，需展現對美「對等」姿態。兩國皆選擇以高規格接待取代深度談判，甚至財政部長主導議程，顯示外交僵局。\n🌐 影響：峰會雖未產生政策突破，但美方在公開場合對台支持的聲音減弱，降低了台灣的外交空間；同時中國藉美國聚焦儀式，得以在印太地區持續擴張軍事影響。投資人關注相關產業，如防務與航太供應鏈或受美國軍事展示刺激，股市短期波動或見升溫。民眾則需留意兩岸緊張情緒可能再度升溫的風險。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9772145"
         }
       ]
     }
