@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-01",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good' - CNBC",
+          "feature": "美聯儲卡什卡里警告：通膨仍高，利率或再升\n📰 卡什卡里在紐約CFRA活動中表示，8月核心個人消費支出指數雖降至年率3%，但通膨仍「過高」；美聯儲本月首次三年內升息0.25%，並暗示年底前可能再加息。\n🔍 2021‑2023疫情後美國物價連升五年，2%目標持續失守。PCE是聯儲最重視指標，雖本次稍低於預期，仍高於長期平均。勞動市場仍堅挺，GDP與消費亦回升，讓決策者認為尚有空間再收緊貨幣。\n🌐 市場因通膨數據回暖而先升後跌，美元指數短暫走強，對台出口競爭力與新台幣匯率產生壓力；同時美債收益率上升，可能抬高台股債券投資成本，投資人需關注利率走向。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1I3WGJIczNiYmF2YXc1TmR4MS00Y1lCMHFEMFlGWnhIQ2F6aHBvNlpMZGlUWlRXSVVkSV82VzBNR21lZjEyVXp2T0xZb3o3ZWx5U2x0TVJwMC1CaG9xenpjSTZyVDY1a1BodTl0V1JTRktDRmhtMXJJN0dEamxBNS1DNzVKeEhzcGfSAY8BQVVfeXFMUHUzLVdXNTczeU1QYWxRVXBYYzBVaGR2Xzg5QW54bkFKTHdWVXRFVXZydVVHeXRJelJIbXlUNlNGMGtVaU81N3JjZEhGcm5YcGNZejh2Zm5ocS1jeGVaNUVTZWl3cGNZN0Q5YlVaZ2NHZ0cwT2VBUkt1Zi1ZYzJ1V0hDTEVyMGM0d0FnUVJ1ZEk?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美債殖利率飆 24 年新高，台股挑戰 48K 大關卡位 AI 供應鏈 - TechNews 科技新報",
+          "feature": "美債殖利率破 24 年新高，台股逼近 48,000 點 AI 供應鏈成焦點\n📰 發生什麼事：美國 10 年期公債殖利率單日升至 5.29%，30 年期突破 5.6%，創 24 年新高，帶動道瓊、標普下跌。台股受此衝擊收於 47,631 點，卻因三大法人合計買超逾 400 億、外資砸下 308.6 億，夜盤台指期暴漲逾 700 點，再度挑戰 48,000 點關卡，半導體與 AI 供應鏈股領漲。\n🔍 背景與來龍去脈：美國為因應能源價格高企與企業大規模 AI 基礎設施投資，發行長天期債券，需求上升推高殖利率；同時美聯儲持續加息，使債券收益率上揚。台灣半導體產業在全球 AI 熱潮下需求持續擴張，尤其矽智財、ABF 載板、記憶體與低軌衛星等領域獲資金青睞，法人資金因此從傳統藍籌轉向高成長子板塊。\n🌐 影響：短期內高債息可能壓縮高本益比科技股估值，投資人需關注殖利率走勢；但資金已在 AI 相關供應鏈聚集，提升相關股價波動性。對台灣一般民眾而言，AI 相關產業的擴產可帶來就業與產業升級機會；同時美債收益率上升亦可能傳導至本地債券市場，影響存款與債券投資的收益率。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHdwOTBKRENUdXlpSUVpSEZ5NGc5eWNubXBROElhdEF1YTEydGRMaGZLYUlER2JRb0Q2N0hvT18zWk9kR2RMcDZjLTBURnRCckd2amxkUm9EV1BVSFBfV3JlODctNUZ6Y3h0SjJ4eTVDZjlsMUpNeS0wZmZGQlpicEJuS1hva18zVFphVkI1OXhTV1hOT3JMUE1sQ0ZwTzFOYnd5TlBRYkdOenBXWTdEZ1ExNnV3SXU4WktSaWJ3YmRPN00?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-09-30",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "「土壤液化潛勢圖升級　北部六縣市住家安全即時查」\n📰 發生什麼事：經濟部地質調查及礦業管理中心於24日釋出115年最新土壤液化潛勢圖，覆蓋台北、新北、桃園、宜蘭、新竹縣市。圖資經全面復核，逾八成區域判定未變；鑽孔數從上版3571口增至11731口，密度提升至都會區每平方公里4口，民眾只要輸入地址即可查閱潛勢分級及說明。\n🔍 背景與來龍去脈：台灣位於環太平洋地震帶，歷次大型地震常伴隨土壤液化災害，如1999年集集與1999年九二一地震後的基礎建設受損。政府自90年代起持續建置液化監測站與鑽探資料庫，近年因氣候變遷導致地下水位波動，加速了資料更新需求。此次鑽孔量倍增，主要是因為都市擴張與再開發計畫，需要更細緻的微觀地層資訊，以避免未來建築風險。\n🌐 影響：1. 建築開發與都市更新業者可依圖資調整選址與基礎設計，降低工程成本與後續補強費用。2. 保險公司可精算液化相關險種，提升保費定價透明度。3. 民眾自助查詢提升防災意識，住宅買賣時可作為風險評估參考，可能影響房價走向。4. 各地方政府將結合圖資制定防災建築規範與緊急應變計畫，提升整體社會韌性。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6615698"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-24",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Here's what happens to the economy when Treasury yields soar like they are now - CNBC",
-          "feature": "（標題行）美債殖利率突破5%：經濟衝擊全景觀\n📰 發生什麼事：本週美國10年期國債殖利率重新突破5%，導致道瓊下跌300點、納指滑落1%，市場預期聯儲可能於十月再次加息。投資人開始擔憂殖利率持續上升至6%。\n🔍 背景與來龍去脈：5%長期被視為金融市場的警戒線，上一次突破出現在2008金融危機前夕，當時股市跌至半數。近年AI、醫療與服務業的資本支出增強，使傳統利率傳導效應減弱，讓市場對更高殖利率的容忍度提升。美國財政部與聯儲在通膨仍高企的情況下，維持緊縮政策，同時美中高層就AI與貿易展開對話，增加不確定性。\n🌐 影響：殖利率上升提高企業借貸成本，尤其是科技與新創公司；股市估值壓縮，可能觸發全球股指回調；對台灣而言，美元走強與美債收益率同步上揚，將推升新台幣匯率、抑制出口競爭力，同時提高本地債券收益率，吸引資金流入固定收益市場，但也增加房貸與企業債務負擔。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT2s3WlB5UEZOTGdybXRJVlNxdlNKZEpTakdLZm8xX3lic1NrNEh2UUxwRWZsOGlPTW85ckREQ25UREF2ZmNtZmZ3ejRTT3ZyYXF6Q21XdElVZzFCN2o3R19wRHJfZ2FlZm5YbHZMTHoxQWdJb0dDVG9YMUlqWUF0R3FKV3haUEJoTS1Ia0pZOUZoYXRG0gGaAUFVX3lxTE8wdW9JZC1kMGZHcTVycVJDbW5TT18tTnlGN1FmQjZheTlham5nU1Eya1JRZm0xbnBpSWF0VEpNSTZFMVRoSkszUXBmSlpHY0VNcHpuTW5NUnhBMEdPWXRvMlFIWkdnMWY1TElSUmlic3RvU3BlR09UZ1U1QXV3cGhfQkh3emg2RTNHR3QzM0V3SlZ3akV6R05WT0E?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "川習會明登場！共和黨4參議員催放行對台軍售 國務卿回應揭卡關考量",
-          "feature": "台美對台軍售卡關　共和黨參議員逼政府釋出150億美元援助\n📰 發生什麼事\n中華民國(台灣)的安全援助與軍售案逾150億美元被美國政府擱置。23日，四位共和黨參議員聯名致函國務卿魯比奧與國防部長，要求立即釋出包括3億美元外國軍事融資、10億美元防衛預算及約140億美元的軍售。魯比奧回應稱，美方還需顧及全球軍事需求與產能限制。\n🔍 背景與來龍去脈\n本次請求出現在習近平訪美的「川習會」前夕。美國對台軍售長期受國會撥款、國防部審批及執行層政治因素左右。去年美中關係升溫、台海緊張使台灣安全預算需求激增；同時美國國防工業供應鏈緊張、在烏克蘭與中東多線作戰，導致資源分配受限，形成卡關。\n🌐 影響\n若美方加速放行，將提升台海防禦能量，也可能刺激台股相關防務股上揚；但同時可能加劇中美戰略競爭，影響兩岸緊張局勢，甚至波及台灣企業的海外投資與供應鏈穩定。對普通民眾而言，安全感提升與防務預算上升或帶來稅收與公共支出討論。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9774621"
         }
       ]
     }
