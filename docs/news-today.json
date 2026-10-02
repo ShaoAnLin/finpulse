@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-01",
+  "date": "2026-10-02",
   "featured": [
     {
       "category": "international",
-      "title": "Fed's Kashkari says inflation is 'still too high' even after softer-than-expected PCE data, labor market is 'pretty good' - CNBC",
-      "feature": "美聯儲卡什卡里警告：通膨仍高，利率或再升\n📰 卡什卡里在紐約CFRA活動中表示，8月核心個人消費支出指數雖降至年率3%，但通膨仍「過高」；美聯儲本月首次三年內升息0.25%，並暗示年底前可能再加息。\n🔍 2021‑2023疫情後美國物價連升五年，2%目標持續失守。PCE是聯儲最重視指標，雖本次稍低於預期，仍高於長期平均。勞動市場仍堅挺，GDP與消費亦回升，讓決策者認為尚有空間再收緊貨幣。\n🌐 市場因通膨數據回暖而先升後跌，美元指數短暫走強，對台出口競爭力與新台幣匯率產生壓力；同時美債收益率上升，可能抬高台股債券投資成本，投資人需關注利率走向。",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY1I3WGJIczNiYmF2YXc1TmR4MS00Y1lCMHFEMFlGWnhIQ2F6aHBvNlpMZGlUWlRXSVVkSV82VzBNR21lZjEyVXp2T0xZb3o3ZWx5U2x0TVJwMC1CaG9xenpjSTZyVDY1a1BodTl0V1JTRktDRmhtMXJJN0dEamxBNS1DNzVKeEhzcGfSAY8BQVVfeXFMUHUzLVdXNTczeU1QYWxRVXBYYzBVaGR2Xzg5QW54bkFKTHdWVXRFVXZydVVHeXRJelJIbXlUNlNGMGtVaU81N3JjZEhGcm5YcGNZejh2Zm5ocS1jeGVaNUVTZWl3cGNZN0Q5YlVaZ2NHZ0cwT2VBUkt1Zi1ZYzJ1V0hDTEVyMGM0d0FnUVJ1ZEk?oc=5"
+      "title": "More swings for bond yields rattle financial markets worldwide - PBS",
+      "feature": "債券殖利率劇烈波動 打擊全球股市，台灣投資人警惕\n📰 發生什麼事: 美國10年期國債殖利率在一日內上下波動超過30個基點，導致標普500、道瓊及納斯達克分別小幅下跌；歐洲市場受衝擊更大，英國10年期國債殖利率一度攀升至5.53%，法國接近5%，致FTSE、CAC40跌超1%。\n🔍 背景與來龍去脈: 殖利率上升源自三大因素：一是美聯儲仍暗示利率維持高位以抑制仍高於目標的通膨；二是油價因伊朗局勢不確定再度突破100美元，推高能源成本；三是各國政府財政赤字持續擴大，市場擔憂未來債務供給增加。高殖利率提高借貸成本，抑制企業投資與消費，同時使股票相對吸引力下降。\n🌐 影響: 對台灣而言，殖利率上揚會直接提升新台幣兌美元的利差，可能支撐匯率，但同時也讓台幣存款與公司債的利息成本上升；外資持股的台股因估值壓縮出現短線回檔；此外，油價上漲與通膨壓力傳導至生活必需品價格，對家庭支出形成雙重衝擊。投資人需關注美聯儲政策走向與地緣政治發展，調整資產配置以降低波動風險。",
+      "source": "Reuters Business",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdjVnUHRMT1hta0t4WHB0RzAzWFEyQUxQTVE3VW9SWVpEZEo5TURhQWRpNXlZR0M1VWhnVUxNWDZtV0pEajQyekQ4dzVQdUF5WDNQWHBCZTd1VlZlalRNMHdPT2FFS3A1VWN4c01qVHQ5U1NPelhTS0d3S1NmY1lvSTU1OTFzZXdCMDBxM1I1RVhhWk1iNGV1c3lfSUFCbGh20gGmAUFVX3lxTE9lcFBsc051bnpGQ0o1QjVuTEtySko2ZW1DOXRNQWlYVG1sQ2d3RDZaSU1rZUdRMVp3TTB6WUtzaEdzRWhEQ1FzM3piYWJEVWhPazlmcFEzWlVGSFZBVFJVQ2Q2UmxGY1IwV2dJTGhxU0w2NU9Yckp2bGFvSDZhdGh6MnlhY0V3VzNTLUxwM2ppUVZuYjRreWJ3ajJPNlZ5dm1rNkJTaWc?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "美債殖利率飆 24 年新高，台股挑戰 48K 大關卡位 AI 供應鏈 - TechNews 科技新報",
-      "feature": "美債殖利率破 24 年新高，台股逼近 48,000 點 AI 供應鏈成焦點\n📰 發生什麼事：美國 10 年期公債殖利率單日升至 5.29%，30 年期突破 5.6%，創 24 年新高，帶動道瓊、標普下跌。台股受此衝擊收於 47,631 點，卻因三大法人合計買超逾 400 億、外資砸下 308.6 億，夜盤台指期暴漲逾 700 點，再度挑戰 48,000 點關卡，半導體與 AI 供應鏈股領漲。\n🔍 背景與來龍去脈：美國為因應能源價格高企與企業大規模 AI 基礎設施投資，發行長天期債券，需求上升推高殖利率；同時美聯儲持續加息，使債券收益率上揚。台灣半導體產業在全球 AI 熱潮下需求持續擴張，尤其矽智財、ABF 載板、記憶體與低軌衛星等領域獲資金青睞，法人資金因此從傳統藍籌轉向高成長子板塊。\n🌐 影響：短期內高債息可能壓縮高本益比科技股估值，投資人需關注殖利率走勢；但資金已在 AI 相關供應鏈聚集，提升相關股價波動性。對台灣一般民眾而言，AI 相關產業的擴產可帶來就業與產業升級機會；同時美債收益率上升亦可能傳導至本地債券市場，影響存款與債券投資的收益率。",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOeHdwOTBKRENUdXlpSUVpSEZ5NGc5eWNubXBROElhdEF1YTEydGRMaGZLYUlER2JRb0Q2N0hvT18zWk9kR2RMcDZjLTBURnRCckd2amxkUm9EV1BVSFBfV3JlODctNUZ6Y3h0SjJ4eTVDZjlsMUpNeS0wZmZGQlpicEJuS1hva18zVFphVkI1OXhTV1hOT3JMUE1sQ0ZwTzFOYnd5TlBRYkdOenBXWTdEZ1ExNnV3SXU4WktSaWJ3YmRPN00?oc=5"
+      "title": "整理包／川普擬要求歐洲釋出柴油庫存 美國若禁出口恐掀全球漲價潮",
+      "feature": "川普逼歐洲釋出柴油儲備，若不從速美方恐禁出口\n📰 發生什麼事：美國總統川普本週表示，將向歐洲國家施壓，要求釋放戰略柴油庫存，否則可能啟動對美國柴油出口的禁令。歐盟正就統一回應協商，尚未決定是否配合。\n🔍 背景與來龍去脈：自2023年伊朗與以色列衝突升溫，全球原油與柴油供應緊縮，美國能源部已先行釋出最多4000萬桶戰略原油。歐洲因2022年俄烏戰爭累積戰略儲備，且面臨內部能源危機，釋出意願有限。川普政府在2024年美國中期選舉前，面臨民眾對高油價的不滿，遂以「出口禁令」作為談判籌碼。\n🌐 影響：若美國實施禁令，全球柴油短缺將加劇，歐洲燃料價格可能再度飆升，運輸成本上揚波及供應鏈；同時美國內部汽油與航空燃油價格亦可能被推高，削弱選情。台灣因柴油進口比例高，燃料成本上揚將傳導至物流、航空票價與民生油價，企業成本上升、通膨壓力加劇。",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9790091"
     }
   ],
   "candidates": [
     {
-      "title": "台股開盤》台積帶頭衝 台股攻守48K！旺季、作帳、題材股成焦點 - Yahoo新聞",
-      "content": "台股開盤》台積帶頭衝 台股攻守48K！旺季、作帳、題材股成焦點 Yahoo新聞",
+      "title": "【台股盤中】權值股熄火 台股開高震盪一度翻黑 力守48200點 - 非凡新聞台",
+      "content": "【台股盤中】權值股熄火 台股開高震盪一度翻黑 力守48200點 非凡新聞台",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxQN0JscnZOeXoxa3pEN0xyMFkzVlNXU1ZlS1drelpLTVBGYW1jaUtRSzZIeXozM2dvQVpmMUZBR3lycmRLby1oalFCQkQ1R1NsbkF5eno4R3dDc2dEU0JMdS1jY0hDZ2s0dHgzM2xtTXVXLXRQdUcwWTctRGlxNFhXZFBWRndUbDl6S2VyaHo0VV9XWGlIaVRRZ3NaeFQ2ZndHS2l6STBhTDZGSHo2RWs3M21TRWlDOHA0TEUtdW95bVM2Nl9uTW9kVEJYR205aEJmckRTUS15aEVmUlZtemJKZ1YwazFyN215RDNCajFVamY3LThBYWVJS3RrV25vTS1Fa1gxSUtEQjhzbFZRQ2RuQWtlZmJnN0lxcTZzRGprOWF4bHM3Nno1eQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5UNWZOcUstSFd3d3lGQ0t5c211WE1kajhBbmFROHNSR3NhaWR0X0RMZXpaUTQwbGdzX0NJZFJKenVlRGFaVDRndXg4WXRsYUJFSFZwZXNCa1c4VVViVjI0LU5hVnZ5MURtd0ExOE5CRHEtMUF1ekQwVzB5R1BBOHc?oc=5"
     },
     {
-      "title": "台股ETF新寵是「這檔」？成交金額超車0050、受益人數狂飆355% 主動式ETF績效如何？ | 李瑋萱 | 新聞 - Storm.mg",
-      "content": "台股ETF新寵是「這檔」？成交金額超車0050、受益人數狂飆355% 主動式ETF績效如何？ | 李瑋萱 | 新聞 Storm.mg",
+      "title": "川普：任期結束前給予政府成員「預防性赦免」免受起訴威脅",
+      "content": "川普說會在任期結束前給予政府成員「預防性赦免」。 川普指拜登2025年卸任前曾赦免多名官員，已開創先例。 若民主黨打贏期中選舉，川普及家族商業版圖恐遭國會調查。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6620177"
+    },
+    {
+      "title": "台股開盤》大盤48K關卡震盪攻防、短線支撐、關鍵點位曝光| 財經 - Newtalk新聞",
+      "content": "台股開盤》大盤48K關卡震盪攻防、短線支撐、關鍵點位曝光| 財經 Newtalk新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5BTmlyQWRwQzAxQW55a1dKNEF4N2lQaVBNVUxuWW90alRMeFhsZlNsRlFkbnBSM20wOFJzNno2SGNHM0E0WTRxdHAza0R3QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9YVlREaHIwa3B1NkVGUUpYRG1BcHJnTVQzWHNhNFJKTklUVFB2QlVDMVM2U2diR2d5cVVfUlJ1WHdfb1BhQ2hxcGtLTkVIWnMtNzVqcnJXdW1FMnM?oc=5"
     },
     {
-      "title": "今年主動ETF新兵大閱兵！5檔9月績效勝大盤 00411A飆近1成最威",
-      "content": "時序進入光輝十月，2026 年也已走完前三季，主動式 ETF 今年加速擴張，目前市場檔數已來到40檔，有23檔為今年掛牌，占比超過一半。各路新兵也正式進入實戰比拚階段，觀察9月股價表現，在今年掛牌的23檔主動式ETF中，共有5檔單月績效跑贏大盤，其中主動統一前沿科技(00411A-TW)9月大漲9.",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6619367"
-    },
-    {
-      "title": "空中巴士新一代大型貨機A350F 成功完成首飛",
-      "content": "空中巴士29日（周二）成功完成新一代大型貨機 A350F 首飛任務，序列號 MSN 700 的首架測試飛機首航時長達到 4 小時 10 分鐘，飛行高度達到 25,000 英尺。 A350F 與 A350 客機共享技術平台，兩者發動機備件和工具 100% 通用、機身工具 99% 通用、備件 98%",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6619279"
-    },
-    {
-      "title": "台積電、聯發科領頭！台股上漲逾百點再回4萬8 記憶體族群黯淡 - Yahoo新聞",
-      "content": "台積電、聯發科領頭！台股上漲逾百點再回4萬8 記憶體族群黯淡 Yahoo新聞",
+      "title": "台股震盪！投資人從債券找收益 00988B高票息短債年化配息率達9.17% - Yahoo新聞",
+      "content": "台股震盪！投資人從債券找收益 00988B高票息短債年化配息率達9.17% Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMihgNBVV95cUxPTnQ0ZkI5OE14WmJTVXpWVnQwY2lPQ21Bd0FtS2lScXIxRkxkUjZxM3hWWk5BQngxVmxrRTN4bC1ZR3NsYW1leWxzYU1qc3Z3cUljbGlGMFl6MHZhd3VabUZpSGZKUGNJN0MyV3I1VWlodWdYTUlmNTNzWXNxMjl1UDdEOS1GZUZQTUo2LUhzQXVzamRMVEhDTm5pUzhweWxldDV4YVZZZlVyRXU3NTFJS3prUXFfbnByYjAxZXc0ZVEzVHZrbnNMYVlsRlozZEw2dE1BMUVGX2tHQ2xHLW1BNWI5NGJBNGNMc3RvNGNONjJUZXh1VkE3d1JGT1Z2SDhseFoyNEhzN3VZYWs4VzZfUkwwd0RvbTNndDVrMTRRcG5xVUlycmxEZUJTUnFUVXZreUpNbmFwaVE0eDFZODFPUEhRMDhKSG1uSnZCMXNTdEF6NHVsR19UV2xxU2U4akNQM0pmQmlCeDVTVEk4Z3VnS2hvQ0RyU0VVLVRDWTlwUjNaUzI0Vmc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwNBVV95cUxNUnRsbldha1ppRFJ6VXJyZlcwX0JFOVlVZWZaYzhTemFINU1qZWthMktGU3ltM3hTV25vM2I4YW1lMElMN0NMRlN2bElQR0pvVTkzVXlXd1ZVbmFTM01iaEU5T0RjT1ZscDEwYmloVXBibmNySGsxaTFuSWVQMkhMamEtZm80SkgwT2FJakNjV1Vkd0FxaHpTSmJxaENmOURxWUxpYmE5elZSMFZhVGVnUDBfNnAxX3QxWWhUYlB1aXFYV2RaTFRlb25EZTM4Z1NnaGJLUHF1X1FnUlpqaWE5ZVNJYXRLc1k3Y1hhTG1RYkZJSTF5dDBKTVctcE5Rb0lHTGU2RGUyaUZlaG1Wc2M5SjAzVGp4a0lrakplU28yYVRqbUJsckYxVmEtQUFKTjdWQjFBTzNON2ZGTzB0RmpRanZSbDFzVU9WY19yUTFPRjRlN0NoSm1QWmtVRFNCNnlIOW9WLTBwOG9nWE83ZnRoR09Wam4xVVFOcnFrVUptcG50Qms?oc=5"
     },
     {
-      "title": "研調：iPhone 18 Pro系列中國上市首週銷量年增12% 助功蘋果第38週銷售居冠",
-      "content": "iPhone 18 Pro 9/18中國開賣，僅計前三天，38週銷量年增12%，Apple市占33%居首。 Counterpoint指中國智慧機自7月起單週銷量年減，9月多款新機上市可望帶動市場回升。 記憶體與2nm SoC成本推升旗艦機售價，2026年Q4新Android旗艦銷量恐低於前代。",
+      "title": "SpaceX太空船抵達國際太空站　創美國最快航程紀錄",
+      "content": "美國太空探索科技公司（SpaceX）太空船「優雅號」（Grace）今天與國際太空站完成對接，創下美國太空船前往國際太空站...",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6619355"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9790035"
     },
     {
-      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Thursday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "title": "川普擬再攻伊　傳美軍增派第3艘航艦與萬名兵力",
+      "content": "根據美國官員，五角大廈正向中東派遣第3個航空母艦打擊群及更多陸戰隊艦艇，使該地區增加9000至1萬名美軍。與此同時，總統...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9790033"
+    },
+    {
+      "title": "打2劑毒針仍倖存疑全美首例　田納西州女囚命危送醫",
+      "content": "美國田納西州昨天以注射致命藥物方式執行女囚派克的死刑未成功，她的律師表示，派克倖存但病情危急，正接受「救命醫療」，痛斥行...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9790032"
+    },
+    {
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTURfSUtpaGxmMFVnRmNtVkJGOG1xOWxXa01kSHNJaUYxNzRkY25JVmpySUR5R3l1aFJaNGlXT3M3eXJPM0xDcDFSTmt0czU2ZTRCQjNZTTVsRGZwckg1VEhlMDk5RzlTTFhBcTJvR1dUclUwdGxUdGZMSkdDVjFNeXBqZjllbjhINndjd2M4Y2h5Mi10UjFFX0JlZlI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdERlV2xZeFRNUzVHTGh5UzNhYXpfdmpaVWtTVi1aV3ZPazNvRHJ3dWRYSkdULUZRMFNpWGcxQkcwX281U2wtU1VaR29INHA3eE1yOVVlTGdmeWJNLWtkaEtFa3NGZThKTU9IcWRKUTZreGpPRTE2YmxNWldkOFJvTXdWbTZTX0JCU2lqdzhkY0NRUEI3cmppTTh3?oc=5"
     },
     {
-      "title": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that - CNBC",
-      "content": "Cramer says 'frozen' conditions are holding many stocks back. Here's what could change that CNBC",
+      "title": "Cramer's lightning round: 'I think Sprouts Farmers Market is a winner' - CNBC",
+      "content": "Cramer's lightning round: 'I think Sprouts Farmers Market is a winner' CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE10dmVpYm1YWm1fbE1lZlV3RUNXUk1IWjJsbjJEdWczbDJvRHRSRUVxQ0k4WXBGcS1PcHdDZl9UZG9xQ3Y3Yk1IWFZfVkxxN1NkclFCVnAtM0ZBejBXbFJLNVB4UXBwd3hsUEVhTnhKX1JYQV8wem1JTdIBfkFVX3lxTE1ZeS14SkVPejRCRkxRM1dUclRtcHJ1VmZsMEZTRHoxdlc2RnJjOU9hQVIzZkhZZ2FDMk9pOFdDT2J6WHlTYTVic0F3MWNac1pGUFZ5bHozUy12NXBtQXU3cjhTdk5pSVhkUTZvTG8xbl9DNEh3MkZYdVJ2Rzd5UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNERVWGNnSVZnazNhWFMtNUNGdmY4cVRCN0hqS09IdXZuQmtCM19XUmQ4UTBjSjNSVHc5b0RqbXd6XzVwYkozVG9OUnhuMWRaMmtfM1B6U254MGg2WHAwOVBtNF9UaHkxUGRvM0ZhSkZFT01nTWd6NkpmdHhIcGxTUUVyZU9ESlU0OVQ5eFAyLW94dlI4UzdWUks1N2t5YVNBRXRPaERn0gGrAUFVX3lxTE5wUmxwR1A3elgxVTV4WU5lRmZIR3dCTDdiSWZiS2RDVmc4ekozNFoxTUVEMEliMVBpR1d0eVlYdFZ2YmtsT28wX05oMmxVUVAzc0tMS0lWX2l0YjMtVnBGdmhzX0tzSUVHa0pNcTRWRTMwaHNFV2F2a3JVM0lXSXVKbnY2UVNOM1ljSVVsZ0tyc2M3MUJHWWdYdmdncUlRRVgxdkNHam9rWi16cw?oc=5"
     },
     {
-      "title": "Blue Origin's first outside funding round is 'oversubscribed' and not closed yet, CEO says - CNBC",
-      "content": "Blue Origin's first outside funding round is 'oversubscribed' and not closed yet, CEO says CNBC",
+      "title": "The September jobs report will be released Friday. Here's what to expect - CNBC",
+      "content": "The September jobs report will be released Friday. Here's what to expect CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5vbmUzaExzU2habGdkZ1d4NEdYQ1RBaXpUZElZZnRSRzRSRmxWNld2SGhRMkR3V1BGT2xGeHJaWUVBWUo2bUptcWp5YTlDZzF1WTlOUnRLTWM0ZExUQlRZWTRBSFczN0lHZE9iTFoxa9IBdEFVX3lxTE1xNV9vQ0ptdENTYWRKdVg2TTFaVW1hQnBSVUMwVlpEM0RTajZDRGlhZDVJT2t3MDVTOGZoLXJuM3NFMGxJbDlwc2RuNUxPS3F0QkxXS25lcHNaQWc4aVV6b3ZQSTVjVUxpbjJGOURLR2J5bGc3?oc=5"
-    },
-    {
-      "title": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times - The Economic Times",
-      "content": "Share Market Live, Share Market Today: Latest Share Market News, Share Market Live Updates on The Economic Times The Economic Times",
-      "category": "international",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBvU1A3YXdwdkdEeEhvQ1lLLVhhUk9sWUdXUFdDb1F4NjUxRDlnVDFkOUNjdFVjbTBBc09kNmNkRl9UbzkyOFVvbjIxYjFoMVQ3MUNJNGFmOA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPUVBFSmhVUjIxM0VkdUtYVW9ER1JEREsyTUlmdGhQMnZCSjUzWERwQmpLSUlqd1BCTlRhUkVZZ3lYN2xaTjFhQ3BDcTZlVHcxR2ZicFMydkpCV2Z1Q2ZydHowZmhIMzFqNm91MmJ5UVdDbjdQanNmRDZ6UFhfTmVteUJqaEJqdnBVMXZ3TDFWNVVqcldvd1VZRDZHcHA0akJOWUFac0ZpM0o1ZjDSAbABQVVfeXFMTnk5QzhpaGlDdWRJT2VKOHU5V2xCRDJDb2pYcjhTdjc1RUxianJ1bi1lNldubmpsMU43Z2JaTnJEdXlZaW9QUGYyQVNjRmVKWHpwX09fbTloaXFTejlLTEpVSzJLNFBLOEplT01Rdmw3LVNwaGd0Z250dnZMaDhBZVdQeUdIeTczS1hsODVlM003MS01TkJhZ0kySUlXVUw5c0dacmd4eW1RUU1IUGZCZHo?oc=5"
     }
   ]
 }
