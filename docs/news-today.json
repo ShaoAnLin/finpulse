@@ -1,84 +1,91 @@
 {
-  "date": "2026-10-03",
+  "date": "2026-10-04",
   "featured": [
     {
       "category": "international",
-      "title": "States, cities sue U.S. agencies over weaker vehicle fuel economy rules - cnbc.com",
-      "feature": "（標題行）美國多州與城市起訴聯邦，阻止削弱燃油經濟標準\n📰 發生什麼事\n加州、紐約等兩十餘個州、市與縣於10月2日向美國第一巡迴上訴法院提告，指控交通部最終制定的2026‑2031年車輛平均油耗標準從原先的每加侖52.5英里降至34.9英里，認為此舉違反「最高可行」原則，並有利於石油產業。\n🔍 背景與來龍去脈\n拜登政府上任後推動更嚴格的燃油效率與電動車目標，2024年已逼迫車廠提升至約35 mpg。新任交通部長Sean Duffy 受前特朗普行政影響，認為市場已出現大量電動車與卡車，遂修正標準並限制卡車分類與信用交易。環保團體與消費者組織亦同步提訴，指新規將使未來數十年油耗與二氧化碳排放上升。\n🌐 影響\n若新標準生效，美國新車售價或下降，但油價上揚的成本將由車主承擔，對台灣進口車廠與能源進口商產生間接衝擊；同時也可能削弱全球減碳趨勢，影響台灣相關電動車供應鏈與碳交易市場，投資者需留意政策變動帶來的風險與機會。",
+      "title": "America’s data center fight is a preview of what's to come for the rest of the world - CNBC",
+      "feature": "美國資料中心抗爭：全球AI基礎建設的警訊\n📰 發生什麼事\n美國近期因AI需求激增，大量建設大型資料中心，卻因電力、用水與噪音等環境議題，引發社區反彈。地方政府與法院開始限制新案，已導致約770億美元的投資受阻。此波爭議正向歐洲、韓國等地擴散。\n🔍 背景與來龍去脈\n資料中心選址主要考量電力、光纖、供水與稅收，而非人口密度。AI算力需求爆發使美國郊區成為熱點，然而高耗電與大量用水使居民擔心電費上漲與水資源短缺。2026年歐洲已出現超過70案被阻，涉及約420億美元投資，蘇格蘭暫停審批、丹麥優先供電給其他產業、 西班牙要求80%再生能源供應。韓國亦提出更嚴格的地方限制，形成全球同步的政策壓力。\n🌐 影響\n對市場：投資人面臨更高的許可風險，資金成本上升，相關股價或受波動。對台灣：AI算力需求同樣推高本地資料中心規劃，若未妥善處理電力與環保議題，可能遭遇民眾抗議，影響電價與能源政策。企業應提前評估永續供電與社區溝通策略，以降低未來建設阻礙。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1RiZ2xYU0FOUmtvcjJlS3Y0Tnp2S2VvbXBVbjd2SDV0N2ItWTF5YlhYbnRQUVQ0NW1BdWtVaTBVRUgwd1FLT3hiZGtYdlhSZklRUmxYR0lHUFFvSUNLbzBHTkFNNFpoczEyMl9oSTZzZjNkaXJoNkFXdU1IT2w0SGxCa1dZbWFNR3JGMW5LSDVJbXdHMkg1VHd2S0VvMFdlUGdJcTBuX1XSAa4BQVVfeXFMT0ZqLS0xSnlOLXhtT1BTLTNrM2VlUnE5TXZQMWNrZjhienJuUDVQVHVtX3BaN20wZHNDSF9sUWRvVGJzbHh1RE12WmwwNlFiTTZvbk4wN1BGYlVCNUxYc293MUVmTjdYbk5QWUJzb2tsRFgxd2dybXVOd2ZaeW9Ddk0wLUVaMm02WlVIM2RDanM5a0pVOHB2ZHFZYU1BOVdSdHAydXRSZUpNamY4N3JB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3J5V1M0TDU3N0ZSdk56eEt4TUpIeHRJaUpSODRkX2hyR1VyY0ZEcXNGMWlSZnJ5ZkVYZ2RydHhuUDg3Z2FFQmVlRUVmVTBIUndJdHVQWTgwOHRLRnFaYlFXTEE0c3VJSFM0TFlXS215QXlQeE5US0IzYzZxVjBGam5B0gGHAUFVX3lxTE1DYTlqMHhFYXBiQVdoRnpyQVNkTERfV29zVXZMTnZVS0RRdjBIZGlveXF0cDFpMzJHMWJuTExvZXU3Ull6V3ctZGtsdlJJLTdkVTA2Y2ZxbnhxY2dsSVJ4RVJ1a2dCQnNIdy1JamcwUmU5R1k4MlJyejBRbVRYQ1AtZmZfUFlVOA?oc=5"
+    },
+    {
+      "category": "taiwan",
+      "title": "台股本周挑戰5萬點？台積電、大立光、南亞科重量級法說會將登場 分析師：震盪盤堅 - Yahoo新聞",
+      "feature": "台股衝擊5萬點：法說會聚焦與市場展望\n📰 發生什麼事\n本週台股指數逼近5萬點關卡，台積電、大立光、南亞科三大重量級企業將陸續召開法說會。市場普遍預期法人持續買超，成交量放大，指數在震盪中維持堅挺。\n🔍 背景與來龍去脈\n去年底美國就業數據不佳、升息預期降溫，使美股走高，帶動台指期夜盤突破4萬9千點。隨後AI熱潮推升半導體與面板供應鏈需求，台塑等傳產也布局半導體化學品，資金輪動至相關族群。第三季營收創新高，外資回補買盤，技術面均線站上40,000點，形成支撐，法說會則是公司公布第三季獲利與未來產能規劃的關鍵窗口。\n🌐 影響\n法說會若顯示營收持續成長、AI晶片與玻璃基板應用擴大，將提振市場信心，助攻指數破5萬。對一般投資人而言，相關個股可能出現短線波動，適合把握基本面強勢的AI供應鏈與半導體周邊布局。若法人持續買超，外資資金流入可提升台股國際形象，進一步支撐台幣與提升企業融資環境。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQRzVoSzhXdG40OUx3QXpSZTR4SG5kLVY0Y3RFZDBGX0RudUx1anozejYyUDJHQm1BVkdRUHZPV1JqRHYwU0ttcnZvYVhLNWpzT3J1SWxjSEk2WV9PRHFpTFpvNXl6Q0dpNlBuaURONDBmbzE1MGhkSC1DQ2VYNDZvLTcwQ1RfYnJ2c1lmUWIzUlQ1WFlySGx1bVJtQUZUNWNQREdKY3J0T0VTSG5TWnNyd2l4ZVF3Wm9ZYkhxT0NYSTNrT2NoN0VhNm5YdUExbFV5WHdsN05FU1dIaldKTm1sY2U0U0VvY3VPLTFFb0xlN3hyLTdWaDJfUEoxNlZ1UFRmRkRYbXZ1b24zSUszWXZMV0dISnEtQmR0cFc4U3F0ZTNwbXIwLWFPUUtzcmZHcFhXRTg2WWNLN0NPNnlXMXBiM2JsVDNqTklDeS1hX0NzNTBtSV9maVF5d3BWdmFGcXRCbERhelF0MTBDejFwVDY0RE01N3R0QWdFZTJBQWVUNnNyeUwxekFDRF9OcUIydFp5dE1rTTA1NGVpeXpEcHZFLXplWVRjS1FjNUhzb0pnVHZwMGNtT2ozMGtCd2hxVFNXQlNmYU9fXzdlWWlWdHExUnNZNGt6OWt6WXlTYWZuNGhhWjVnM3QzaTNHeTlWTENiUS1ETGNQZF91aWV3cVhxWVVvNDBXTm1UY1UyeXlPc2tfUQ?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "Netflix陷低潮 今年暴跌26% 美國收視降8.6% 德意志銀行仍喊買",
-      "content": "德意志銀行將Netflix評級由持有上調至買進，目標價由100美元降至95美元 Netflix今年股價年初至今跌26%，美國觀看分鐘數2026年上半年減8.6% 同期海外觀看分鐘數增5.4%，第2季營收125.6億美元、年增13%",
+      "title": "台股光輝10月行情！ 本周「兩利多」有望直攻5萬點 - Yahoo新聞",
+      "content": "台股光輝10月行情！ 本周「兩利多」有望直攻5萬點 Yahoo新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPeDl1Q0tCSzdRRjYwUTJJc2h0eGZ1OVhxSTVSSVNoYUZEZ0JxR2c0MUd6Yll4R0JYbnMxOU5tTDVsdjZUa2dCcUhBOGE1WUlxcG5wQ0tXa0xlMFdibDltUEthQmNiMmpKZHhLWFFHOXpTcDVIUU1iWjB2VDh6Ym1XdUZLeXBKS1BqWHhBOVRveFRmeW9oOUZheEN1RS1zdlprZ01JWUh1T0pWU2Mtb3UzejU4SGJxQjlNc0xUeTZ2d0JzdEZXb19FYU4wVkNJYklpUFEtRE5ZTGRubFplbHJyZUw0dVl6M05PUGtDeW5yS2ZYdldyS2k3ZFpQR2dqNV9sQ3hrNDZTYUdYM3BZWjNsNjJxMnBpUlRGU3Y5Q2lEVzRIbmdabFpOYWRtVlY2WnNoY0Uw?oc=5"
+    },
+    {
+      "title": "台股創新高、三大法人狂買104億！瑤池金母卻爆賣「這AI伺服器」72億元 專家點3警訊 - Yahoo股市",
+      "content": "台股創新高、三大法人狂買104億！瑤池金母卻爆賣「這AI伺服器」72億元 專家點3警訊 Yahoo股市",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMilgNBVV95cUxNRVhJZWp6QVplNGJOYXFZQ18yekU5MG51a1VqMkxOMWhCUmJka3Y0OHRNWGktamhpbVNuUS1EN19HbmtRXzVVaTRhUXphYmwtdGFRWGk1VjFycHFYcmlFX2lWTEFrRE1oXzl3UWNvUWwwaG5yQzFoUVk1UVNWaEtpU2FjTzVXcEYxeDFmeW5paG1BNUxiOWVVSUJTYnc3TzZmNXh0Vjk1alAzcHp1NmhzOGtGMkZqN3k2MG1aRS1VRXdJNWpjNktyckdFb24zSFpncHpvUDd5T29waklBMmMtU1JOeGgzZUJYSDZ1dHRISjRJSkZFSDJzQ01aMmlSdHQ5WjdqUURZUUVHTENEaGZ3T2xxMFNsZHpkeHRsMjNwdGR0b3ZrbTA5QTNjYTAxZkxaZ2xXTVVnX1ZfNWUtY0NUcGpqc1pVMzJ6Z3FiSEc5SUVwQk5Dc2R2bFd5Mjh1cHlWbWstY1JudHhWM1VIbWxPcjBHMlFtakNxY0Z5YnZHTHJFMDNVS2RyN0hndlhZbE5FUUtHR3Zn?oc=5"
+    },
+    {
+      "title": "鉅亨買幣速報 - USDC(USDC)24小時成交量超過12.51億美元，NFPrompt Token(NFP)24小時漲幅達65.8%",
+      "content": "指標幣種：比特幣(BTC)現報價格84,828美元，24小時漲跌幅+0.25%；以太幣(ETH)現報價格2,693.76美元，24小時漲跌幅+0.58%。亮點幣種：USDC(USDC)24小時成交量達12.51億美元；比特幣(BTC)24小時成交量達5.88億美元；以太幣(ETH)24小時成交量達1",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6620886"
+      "link": "https://news.cnyes.com/news/id/6621171"
     },
     {
-      "title": "台股夜盤狂噴677 點！下周攻5萬只差一步「矽光子」又暴走成最強火種- 要聞 - 中時新聞網",
-      "content": "台股夜盤狂噴677 點！下周攻5萬只差一步「矽光子」又暴走成最強火種- 要聞 中時新聞網",
+      "title": "精測9月、Q3營收雙創新高 前三季已超越去年全年",
+      "content": "測試介面廠精測(6510-TW)公布9月營收新台幣6.52億元，月成長2.1%，年增55.9%，第三季營收19.05億元，季成長16.2%，年增53.4%，累計前三季營收達49.02億元，年增35.8%，已超越2025年全年營收水準。精測指出，受惠AI相關應用晶片測試介面需求持續放量，產能利用率維持",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6620936"
+    },
+    {
+      "title": "台股創高還沒完？AI追單效應強 Q4供應鏈營收拚雙位數季增 - 壹蘋新聞網",
+      "content": "台股創高還沒完？AI追單效應強 Q4供應鏈營收拚雙位數季增 壹蘋新聞網",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YYTlNeE95WmIzbUd2OGlTWmpSenlaZC1yaDZkNmgtUnoyRWgyM2hSc1ZTUjdrMnIzeThoZWt0cDR5UGhtRU9obldidkFLUEdadm43VlVkaURpSWUyY3ZzT3IzNG5DSmlCR1Q5a3pn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWVZFN0N6U1NrMnVqWGJQcEpNZ1BwOXZrOE5jS2pEc2lVX29RU3Q1UExRa1d1aFBRYjQxck5XdGx2QmI3UTlHYnk3UlE0bDY1TVJPeWJmUFpHVTZUODREQS1VdXlmVmlFNk1FLXZZMHZmMFR2a2w2UVF1SVoybDhoX21R?oc=5"
     },
     {
-      "title": "杜拜航空安檢受矚　行凶副機師身分曝光曾遭禁飛",
-      "content": "阿拉伯聯合大公國杜拜航空1073號班機日前發生副機師刺傷機長事件，險些釀成墜機事故。據報副機師身分曝光，知情人士表示，他...",
+      "title": "希臘克里特島遭暴風雨侵襲　洪水成災撤離遊客",
+      "content": "希臘地方官員今天表示，暴風雨引發的洪水造成部分民眾被困在車內，並迫使希臘度假勝地克里特島（Crete）的部分遊客進行撤離",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9792057"
+      "link": "https://money.udn.com/money/story/5599/9793381"
     },
     {
-      "title": "康乃爾大學輪暴疑案　紐約州長矢言堵法律漏洞",
-      "content": "美國常春藤名校康乃爾大學傳出疑似輪暴案引發眾怒，紐約州長侯可今天矢言封堵法律漏洞；這個漏洞使得受害者在自願醉酒或吸毒的情...",
+      "title": "以色列空襲鎖定哈瑪斯高層　10月7日事件週年釀5死",
+      "content": "以色列今天表示，軍方對加薩走廊（Gaza Strip）一處公寓發動空襲，企圖擊殺哈瑪斯（Hamas）在加薩的最高領導人。...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9792041"
+      "link": "https://money.udn.com/money/story/5599/9793380"
     },
     {
-      "title": "iPhone 18 Pro Max在美出現須換機故障 蘋果將加強Mac控管AI代理風險",
-      "content": "蘋果（Apple）證實，少數使用美國AT&T網路的iPhone 18 Pro Max用戶因故障失去行動通訊服務，已受影響者必須換機。另外，蘋果將加強Mac隱私控管，提醒使用者，若授予AI代理完整資料存取權限，可能危及自己和他人的隱私。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9792039"
-    },
-    {
-      "title": "台股Q4拚5萬點！法人選股地圖曝光散熱、CPO與PCB成焦點- 證券 - 工商時報",
-      "content": "台股Q4拚5萬點！法人選股地圖曝光散熱、CPO與PCB成焦點- 證券 工商時報",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE42VnJoYzN5eTE3T0wtUFdiRjM1dFZxaXBpUURsTVNDN2MtVlBfNnVQWk12aG4tWEVtcjhQeng0bDlDWVJ4ZmRSUldleXBQMEJtRXJ4aVlGS3JCY2otQmFr?oc=5"
-    },
-    {
-      "title": "Cramer says this newly spun-off stock that helps our food grow is a buy. Here's why - cnbc.com",
-      "content": "Cramer says this newly spun-off stock that helps our food grow is a buy. Here's why cnbc.com",
+      "title": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskyy says - CNBC",
+      "content": "Ukraine will hit Russian refineries in response to Moscow's 'new doctrine' of airstrikes, Zelenskyy says CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkxmZUV2NXlhMVlIbnd3YWw4NEpiWlIwNDl0dXNFVm02QmlIb2gtd25JWk1kUllXcVhTM1NGcjlKY3F4UWJTd1Q0dnNQajk2dHU0YTg5c1N4RHhaUWtmQnZIMWVTMHVDRkF2cUZ5ZENEZ2h6LVk1STlrcmZObThEWFJFUkNPakN2SHl5Wm03NDFuY2dVa3lTa2dkdlF4cWticG95OEVVMVg4OU5kdWdpdl9teTItc0V4ZlE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUVNHbldZZktyankzbXBXczhzcTNydkJadXptUTNIRm9Dd09wRGpTYmpvN05mQV9rNGdVbkxkd3Y1eFNOQUF4cC1iV2FaRWZOaDlNVjFqWFVpUjZ6Rzhkdi1oMnRpall2ME01TzlDbWxTOHJEbk00cHlnYTBkcHlxdkRvMUU5YTlETENBczhpRWJkRTUxOXdkRVo3OTNqSmxVRWttWkU3dDVBZ9IBrwFBVV95cUxNTnI0d2tZUGpXOGtLZUdLNXByTFRpRkZMOUFzWEQ2ckp3LWNwN0xieG1qcVRyU2tDRFlxaUF6RFA1aVU3dzRxNnQxN0U4NUZOdjd1UF8yRFhYSTlYR2ZXMnNBd0llT1QzalBWZ3ExRm4zbGJCUGxfUk85ZWNxQWNvVTltMGhGTnVfWmVyZXVyc1VBUnhjQW85VFZ6b0s3UjVyWjhmTklUUDhBdkJBeWU0?oc=5"
     },
     {
-      "title": "Anthropic to invest $100 million to train AI engineer talent - cnbc.com",
-      "content": "Anthropic to invest $100 million to train AI engineer talent cnbc.com",
+      "title": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election - CNBC",
+      "content": "Lula or Bolsonaro: Wall Street braces for two wildly different results in Brazil election CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNc0VyVzRrRmNEN2NIRVpSUlRjLW41RDlOdFlzOUtDV0tvQ1ZjVGJOUXMwaFVaZGNWbXJMaVVhODdzcUZKY0dYdk9PQm9xOUQ5LW9hVFdwZDlUcmNSWkhsUG1FcmxuSS1zcmltN3Vnc0ZPRnBCNU52cW0yUWNreTY0eGVrZDZVRVhiczNjR1I2emc1dHVxOTJGa3l4alfSAaIBQVVfeXFMTWRBZndla2REclF0bUR3dTdZcWs2ZEdqLXdwNHEya1BSeXRNZXVEUWE1VkdCWUFQcFJWSk5Ec1U0QnF6VEhDQTlQRlUzTDhCc3ZONHE1SEVOMmVtTFNOM2laLXRKQnRWRkhjQk5ObzJSeERNZFBsQ1pjaEpiUFQzbk5Ga202WUVDMmNZZVhFRWNkRGx6aDRYMXY0b2c2QzFFSFpn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSjRDcGpXeEtrQWd2bjdtSFRXM3d5YVU1WVVIVXg2U2I4VFlldUt2UGtsRjhHSU1UZnhEUjFIY3JORm9yNXRtQ3pmM1VnVjlVa0RjLXR1MEtadDgtT1ZGUW5xTlhkbXRzNUxSOVBaUmFzOGlXdUIyQldXSTRoN1pvS1hKYnQ1RjR0UFRCMUtpU0pwY1ltMExwajZUNFM1WjduQXRXNS1Ka1dfQWpESWdnOWNIcF9nRlljSWtORFAtTHVNUkHSAcgBQVVfeXFMUFQ3NUZ6SzhXY08xYXlYLVpzbUM5Qmc2NzlGLVZuam5tZWpvR1FIS2FXdldEWmlSRnE3Q3FaLV9mWGpsQ2FLcjdnakJhdElqMGY2YXI4UDlFanVOR3pHX005RklqMWJ6MXphOEEwMjVHdzVYQ3I4bjl6aVdfS05GZ2RBWnNjYWZDdGcyRU9DdnlTUkVsekhDNmd5eVJNaGlzSXY5ZDg4cGNhQ09UM2ExZGdCdjlqZlEwdlBEMHJTczNHUzFiX0FaY1U?oc=5"
     },
     {
-      "title": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy - The New York Times",
-      "content": "The Powerful Yet Fragile Force Propping Up Stocks and the Economy The New York Times",
-      "category": "international",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1iVFo0X183d0hLTDdCZU9jamhyTFIxY3RIWmZYNWVfQlQ2TkVPbXRuMS1rM2hEUWtrOU8xRjBQWlV1MHMtRWFqWWVlSXIzOEtnRE9ua3l1NEpSaFFRcGZndTkwU2xUU2pLZ19ISjJ0alE5Mk50enlNZHYyb1c?oc=5"
-    },
-    {
-      "title": "Here's how high the 10-year Treasury yield needs to rise before income investors should worry, according to UBS - cnbc.com",
-      "content": "Here's how high the 10-year Treasury yield needs to rise before income investors should worry, according to UBS cnbc.com",
+      "title": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford - CNBC",
+      "content": "High mortgage rates are trapping homeowners in place, and making renovations harder to afford CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQzJGUkRNWUFpM2haZVk3aUlMd1RxXzFVRUd6ZGl0NkRjeFM2MmlaR19FaDVPYVlhaDd6Rm9oUTNTY3ZWa2xhbll5QzRRUUNteWl1dFpZS2p1ZEkwTXo4QS0wV0hjZG1HeGN2YXN1MTVZbWx6LVV6cVU0cGNxYjFESHlDcGlPOFY3VU1FVkQ0ODdmNlFfbFFiZVFpVEVXT3N2a0hoS05TZVRwaUF0amhtakdWaXRsWTVmdS01YmZvSjllc3pTTEp6TWFLRXRQd0poQ0lEQmxNNVo5Vk1RV1c0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPclk3LW4xT1ZHMGFvODV6TUpoNnRVOFlRRUdWN240VXowdVpLREJPQVh0WGRNWGY4UzA1MURTX3JvbE94blFWS2ZsZGYyc2kzNmxvSndyOW9nR2E5Y2dCYW5yU0pKQUJWZEVIbnVCcDBlWFJscVRfUDFXc3E3UXIzXzU5bWQtdjDSAYwBQVVfeXFMTzZEWHdIWENkRl95M29MRGhvcHhsTUE3MFZNMUExWlAwQ0UzZnZhZXpuNGZ3cGc0M1ozQnRvQ3hyRllRRlE5a3lzSldOZDduTDl6V0Q1SGhpdGlDUmxZUDNMMjRJYUl1bXhtaThrSEFmZnA4VE4wYVJsbmNSOFFFeUVMTmpxa3QzOUQwb1U?oc=5"
     }
   ]
 }

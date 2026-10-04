@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-04",
+      "featured": [
+        {
+          "category": "international",
+          "title": "America’s data center fight is a preview of what's to come for the rest of the world - CNBC",
+          "feature": "美國資料中心抗爭：全球AI基礎建設的警訊\n📰 發生什麼事\n美國近期因AI需求激增，大量建設大型資料中心，卻因電力、用水與噪音等環境議題，引發社區反彈。地方政府與法院開始限制新案，已導致約770億美元的投資受阻。此波爭議正向歐洲、韓國等地擴散。\n🔍 背景與來龍去脈\n資料中心選址主要考量電力、光纖、供水與稅收，而非人口密度。AI算力需求爆發使美國郊區成為熱點，然而高耗電與大量用水使居民擔心電費上漲與水資源短缺。2026年歐洲已出現超過70案被阻，涉及約420億美元投資，蘇格蘭暫停審批、丹麥優先供電給其他產業、 西班牙要求80%再生能源供應。韓國亦提出更嚴格的地方限制，形成全球同步的政策壓力。\n🌐 影響\n對市場：投資人面臨更高的許可風險，資金成本上升，相關股價或受波動。對台灣：AI算力需求同樣推高本地資料中心規劃，若未妥善處理電力與環保議題，可能遭遇民眾抗議，影響電價與能源政策。企業應提前評估永續供電與社區溝通策略，以降低未來建設阻礙。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3J5V1M0TDU3N0ZSdk56eEt4TUpIeHRJaUpSODRkX2hyR1VyY0ZEcXNGMWlSZnJ5ZkVYZ2RydHhuUDg3Z2FFQmVlRUVmVTBIUndJdHVQWTgwOHRLRnFaYlFXTEE0c3VJSFM0TFlXS215QXlQeE5US0IzYzZxVjBGam5B0gGHAUFVX3lxTE1DYTlqMHhFYXBiQVdoRnpyQVNkTERfV29zVXZMTnZVS0RRdjBIZGlveXF0cDFpMzJHMWJuTExvZXU3Ull6V3ctZGtsdlJJLTdkVTA2Y2ZxbnhxY2dsSVJ4RVJ1a2dCQnNIdy1JamcwUmU5R1k4MlJyejBRbVRYQ1AtZmZfUFlVOA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "台股本周挑戰5萬點？台積電、大立光、南亞科重量級法說會將登場 分析師：震盪盤堅 - Yahoo新聞",
+          "feature": "台股衝擊5萬點：法說會聚焦與市場展望\n📰 發生什麼事\n本週台股指數逼近5萬點關卡，台積電、大立光、南亞科三大重量級企業將陸續召開法說會。市場普遍預期法人持續買超，成交量放大，指數在震盪中維持堅挺。\n🔍 背景與來龍去脈\n去年底美國就業數據不佳、升息預期降溫，使美股走高，帶動台指期夜盤突破4萬9千點。隨後AI熱潮推升半導體與面板供應鏈需求，台塑等傳產也布局半導體化學品，資金輪動至相關族群。第三季營收創新高，外資回補買盤，技術面均線站上40,000點，形成支撐，法說會則是公司公布第三季獲利與未來產能規劃的關鍵窗口。\n🌐 影響\n法說會若顯示營收持續成長、AI晶片與玻璃基板應用擴大，將提振市場信心，助攻指數破5萬。對一般投資人而言，相關個股可能出現短線波動，適合把握基本面強勢的AI供應鏈與半導體周邊布局。若法人持續買超，外資資金流入可提升台股國際形象，進一步支撐台幣與提升企業融資環境。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQRzVoSzhXdG40OUx3QXpSZTR4SG5kLVY0Y3RFZDBGX0RudUx1anozejYyUDJHQm1BVkdRUHZPV1JqRHYwU0ttcnZvYVhLNWpzT3J1SWxjSEk2WV9PRHFpTFpvNXl6Q0dpNlBuaURONDBmbzE1MGhkSC1DQ2VYNDZvLTcwQ1RfYnJ2c1lmUWIzUlQ1WFlySGx1bVJtQUZUNWNQREdKY3J0T0VTSG5TWnNyd2l4ZVF3Wm9ZYkhxT0NYSTNrT2NoN0VhNm5YdUExbFV5WHdsN05FU1dIaldKTm1sY2U0U0VvY3VPLTFFb0xlN3hyLTdWaDJfUEoxNlZ1UFRmRkRYbXZ1b24zSUszWXZMV0dISnEtQmR0cFc4U3F0ZTNwbXIwLWFPUUtzcmZHcFhXRTg2WWNLN0NPNnlXMXBiM2JsVDNqTklDeS1hX0NzNTBtSV9maVF5d3BWdmFGcXRCbERhelF0MTBDejFwVDY0RE01N3R0QWdFZTJBQWVUNnNyeUwxekFDRF9OcUIydFp5dE1rTTA1NGVpeXpEcHZFLXplWVRjS1FjNUhzb0pnVHZwMGNtT2ozMGtCd2hxVFNXQlNmYU9fXzdlWWlWdHExUnNZNGt6OWt6WXlTYWZuNGhhWjVnM3QzaTNHeTlWTENiUS1ETGNQZF91aWV3cVhxWVVvNDBXTm1UY1UyeXlPc2tfUQ?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-03",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "房市新暖風　央行鬆綁第二戶房貸 成數升至7成\n📰 發生什麼事\n央行在第3季理監事會議維持政策利率連十凍，同時將自然人第二戶住宅貸款成數由6成放寬至7成，並取消購地貸款18個月動工限期，旨在降低換屋族自備款負擔。\n🔍 背景與來龍去脈\n自2022年起房市成交量持續下滑，營建業營業氣候測驗點連四個月走低，主要因房貸成數受限與高利率抑制需求。政府先前實施「無差別凍結」的嚴格管制，導致換屋族資金壓力大。隨著通膨回升與建材成本居高，央行選擇精準鬆綁，提升貸款額度約200萬元（以2,000萬元房價計），同時讓建商在持有土地時減少開工壓力。\n🌐 影響\n短期內換屋族可減少1成自備款，成交量或見緩步回升，預計第四季房市呈「量小幅回升、價盤整」；但房貸利率仍高於2%，整體購屋負擔仍重，投機需求不太可能復甦。建商因取消動工限期或調整囤地策略，供給節奏較為彈性。對一般民眾而言，貸款條件改善有助自住需求，但整體市場仍受利率與全球經濟影響，需理性期待。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdm1HYmhNZ1pIMXpRUHBnS3QtcENmZVBZaV8tT0JHSDE4ZnFlWlNSLVBBMjltLUY3NGxxc3BUR1QzekIwQTN6VNIBTEFVX3lxTE1hT1JGbk9rZm5mNUpCX0xxRkRNUUpabkY0enlmTk5aZGp2S1NNTjBFMVJIeFFCY3JSS2VTa1VVRmVpclcySFpleVN5MEs?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-27",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China, U.S. agree to $30 billion tariff cut, AI dialogue during Xi visit, Beijing says - CNBC",
-          "feature": "中美達成 300 億美元關稅削減、AI 對話新協議，緩和貿易緊張\n📰 發生什麼事：在習近平訪美三天會晤結束後，中國外交部公布，兩國在八點共識下同意互減關稅約 300 億美元，並成立貿易理事會、啟動人工智慧對話機制，延長先前貿易停火期兩個月。\n🔍 背景與來龍去脈：自 2024 年起，美中因高關稅、技術封鎖與供應鏈斷裂關係惡化，雙方在吉隆坡、北京多輪談判未能突破。2026 年 9 月美國總統特朗普與習在華盛頓舉行峰會，藉由個人外交與共同關注 AI 安全、半導體供應等議題，重新建立互信，最終形成「八點共識」包括關稅削減、貿易理事會、AI 對話等。\n🌐 影響：關稅減免將直接降低雙方企業的進口成本，提升美國農產品與中國高科技零部件的貿易額，對全球供應鏈穩定有正面作用；AI 對話機制可能促成技術標準協調，減少未來的政策衝突；對台灣而言，兩大市場的緊張緩和有望維持出口需求，尤其半導體與機械製造業，同時也需關注 AI 競爭格局的變化。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xSmZMbFZYV2FMZWJqSU9PdTI4QVNrT1lKS1FkSC1BdE54ZnpzN2RMZTFTNG11TW5sZWVSeGJZblBfVi0ybkctU0VRbnllOVBISU9iOTZEbTdlam1tQXNVazNULXlIRjN2WnVsRkF6czdCWDJSMHBz0gF8QVVfeXFMT3NpeHlJU3phd3RTbTFfNUlvdDJPd2R3QXRhQnhhQ29yZnJuX0M0Q3ZKQWhSNmZyanpMQ2ZUc1RPY0VadTRNRnYtNVpra3hwUjdBTmlxMkF3RFBnampNT3BaSVpaY3V0bnprMFBMNno4WUFiQVprY3Nud1JPWQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "川習會成果對不上！美中4問題說法有落差 晶片議題完全神隱",
-          "feature": "美中峰會成果模糊，AI對話亮點掩不住貿易與台灣僵局\n📰 發生什麼事：美國總統川普與中國主席習近平在白宮舉行第二次「川習會」，雙方公布包括設立「超級智慧」AI對話管道、雙向各300億美元非敏感商品關稅優惠、以及中國承諾2027‑2028年進口至少1,000萬噸美國煤炭等。但中方公布的軍事危機溝通備忘錄未見於美方清單，投資委員會也未被提及，且關稅優惠未立即落實，晶片等敏感領域仍未談。\n🔍 背景與來龍去脈：自2024年貿易休戰延長後，美中在AI安全、稀土供應與芬太尼管制等議題持續摩擦。美方以AI競爭為主軸推「Super Intelligence」稱謂，意在建立危機防範熱線；中國則在峰會前已限制芬太尼前驅化學品出口，並把焦點放在能源與軍事危機溝通。雙方對成果的敘述差異顯示，彼此仍在爭奪話語權，且對台灣問題的討論幾乎被省略。\n🌐 影響：短期內，AI對話可能降低意外升級風險，但關稅未即時降低及晶片議題缺席，使市場對供應鏈緊張感未減，台灣半導體產業仍面臨不確定性。煤炭協議若落實，將有助美國能源出口；但若雙方未就敏感商品持續談判，未來數月貿易緊張可能再升溫，投資人應關注11月AI對話及APEC、G20會議的後續動向。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9779581"
         }
       ]
     }
