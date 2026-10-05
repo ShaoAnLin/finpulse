@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-05",
+      "featured": [
+        {
+          "category": "international",
+          "title": "OPEC+ agrees to keep November oil output targets steady - CNBC",
+          "feature": "OPEC+維持11月產量目標不變，全球油市持續緊張\n📰 發生什麼事\nOPEC+核心七國（沙烏地、俄羅斯、伊拉克、科威特、阿爾及利亞、哈薩克、阿曼）於10月4日線上會議決定，11月石油產量上限保持不變，未見額外增減。\n🔍 背景與來龍去脈\n自2月伊朗戰爭爆發以來，波斯灣運輸受阻，OPEC成員產量普遍低於配額，且因美國‑以色列對伊朗的制裁導致出口波動。2026年雖多次宣佈提升產量，但多數僅停留在紙面，實際產量仍比戰前低約500萬桶/日。產量審查推遲至明年，市場預期短期內不會再調整產能。\n🌐 影響\n油價雖因歐洲釋放柴油儲備稍有回落，但布倫特仍逾100美元，對台灣的能源成本、航運與塑化產業構成上行壓力；同時油價高企可能推升通膨，影響消費者生活成本。投資人則持續關注OPEC+下次會議（11月1日）及中東局勢走向。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOempIUkZ0eTF0S01zTDE4OGo3cUNxT1I0MjVDeGpoOEhPZzRQTEhSZ0NYZzRHU094WE00aHNIcENDR2txMmR5dWF2YTdTLVJDVUdlaWRXbW9MY0ducm1QcE1sU2FDTldEcWFIU1gxWkxiRzg0ZTdBNmR6N3diWmhoWWhKanlSWWlyS3FzemFnQnBpRG5HdnfSAZsBQVVfeXFMT0tUdUs1TWpkSkFDWGpEd2NTc3VZOHF4Rm55VERuVmNpZXZyZHY1S2ktTzVRYUlfNHpDdGZuaE5IYmxfTHpsOG9rNUM5TTNiYjJ3Y3pNbW1CcTI5c1hDcjAwZmxiZkh1TU9Sb213WEEwLVdVaGQyOXlBSUNRakdIZVo3dkNxYTFmc1dTTHFkQVBQWkZZUlItakZBX1E?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "主桌坐穩了！ 台股變身全球第4大 揭背後底氣曝光 - Yahoo股市",
+          "feature": "【台股躍居全球第4大　主桌坐穩　底氣全揭】\n📰 發生什麼事：2026年10月4日，台灣證券交易所公布，台股市值突破1.6兆美元，正式成為全球第四大股票市場，僅次於美國、中國大陸與日本。外資持股比例升至約45%，連續三個月淨流入逾200億美元。\n🔍 背景與來龍去脈：台股崛起源自半導體產業的全球領先地位，台積電、聯電等公司市值持續飆升；同時美中科技脫鉤推動先進製程需求，台灣成為供應鏈關鍵。政府推動「上市公司治理加分」與「跨境資本路徑」(如陸股通、港股通)，降低外資進出門檻。再加上台幣相對穩健、低利率環境吸引全球資金配置，形成資金正循環。\n🌐 影響：一是提升台灣金融市場的國際能見度，未來將有更多外資ETF與指數基金納入台股；二是加速本土企業資金募集與併購活絡，提升產業升級動能；三是台幣匯率受益於資金流入，對進口成本有正面作用；四是民眾理財選擇更多元，退休金與基金配置將更傾向股票資產；五是政策層面需加強市場監理與風險防範，避免過度依賴單一產業造成波動。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOM3NJMXM0eEY1aElyYWVHUjl1dDhEb1RabzhQM2RsYVFZWVFVazlOaUxVMjZCQ0JoVUZoY0d5dG10NVQ5UEN3THp2dmZTcVBvN1ptX2R5czhna2xzVHdndm1sMXdCcWVpcTJaVkpuT1lfV0JkZENlck9zYTc2ZUlQZkJwY3lvd2NIVTgtakpsUDVnQ1pXQjg0dTdLWnU3cUtMa3dZWm1KWXpWdEx4amY1ejNFZkp3a3ZEM19oc0pWcnRnSDExV05EVzZfZ1pXRXpmT0MxV0xKSnNIOERhTmZYWHQ4TVpJMHpncVRnbEdReHdtcWRyV3JqSjJVLXV3aVM3RzBkU0laU0NwWnhDeW9wYTFKaDAzMWNmVTc5X2dBUjkyc2hLMW5IQXBnUW9MSmtYeWZUUVZVLU1JQmhHUUpUMENQRVpwNFhWSl9oZ0xPMA?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-04",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "Intel聯手台灣面板大廠衝刺先進封裝，股價瞬間爆量30萬張\n📰 今日(9/29)台股加權指數跌0.4%，盤中群創成交量破30萬張成成交王，聯電也緊隨其後。兩家公司均公布與英特爾合作，投入先進封裝與微型LED技術，市場資金迅速集中買進。\n🔍 英特爾近年積極布局先進封裝（Foveros、EMIB）以提升晶片效能，面臨美國供應鏈重組，尋求台灣產能支援。群創作為全球第六大液晶面板廠，已與英特爾合作開發Micro LED封裝；聯電則提供先進晶圓製程與封裝測試平台。此前台灣半導體與顯示產業已因AI、5G需求擴大產能，形成供需缺口，英特爾的進入正好匹配此趨勢。\n🌐 短期看，成交量激增推高股價，可能帶動相關供應鏈股（光通、ABF載板）同步上漲；中長期則提升台灣在全球先進封裝佈局的話語權，吸引更多外資。對一般投資人而言，相關題材股波動加大，需留意產能擴張與技術驗證進度；對產業而言，將加速本土封裝技術升級，提升整體競爭力。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQT1VUMlR2RExoY1FHYjY3d3BWT2xOWmxNRDRIaGJnZVF5SWZ3enN4bTQ0NUxlRG9HbUZ0dWhQeUJINHpPMVlVZUh1ekdjTUpWVXZ2dVhLdXRKYU93UHpVaUlRTloyOU1tRHlyYV95cDRLQVUwT0xaOFM1R1A0LU5Vc0lUUE94ZTNfVVotenp0RFpYTWxaLXZUOUVtc3phQTU5N0FOMVFZNHBhdW1yZF9sYV9uN0ZYVXE5WDJab2hhT09GTDJDU1QyZTA4NVhFN2JybUs4WnRnNlhEWEE3LVNXQVRjTENTemM4NmtzNFZkWEZNV0dJREhVMFctbGR3WTNjQnd1NXIzQnM3QV91YXFFdUdZY29NQUNrcEJVWGhsbVFIWVFBc2xLSzhySmVnYW1zelFvUVBWeTlYOXFrR0ZDaWIyZE9UZXhEaGtyZlpFcEU3T0dER3lXVUJZVVlNRTN0eTd1NUFiYUwzU0M5ZVhocV85cDdYU29BNXlQSWM5RmQtNHBLU3JJelFaSXFMNEVnYTVQVVV5V0hIMkR6MUtfNS14cjZxbUJLOFdoYmRuWEpsZUxXVFprQ3ZzSC1jNHR3b0M0TUwwUU9DWHlpNHBhZDE3eG94LXlzVWlwVk10TTFkcW9lZ2V3UWNwTGtka2x0d3g1Z2I4bFNwbzA?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-28",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Debt-hungry AI companies face increased risk as bond yields spike - CNBC",
-          "feature": "AI資金成本飆升，債務重負的AI企業面臨新風險\n📰 發生什麼事：美國10年期公債殖利率逼近5.2%，創2007年以來新高，導致大量依賴債務擴張的AI基礎建設公司借貸成本急升。JPMorgan估計至2030年AI相關債務將達4.1兆美元；日本軟銀本週發行7年期垃圾債，收益率高達9.75%。\n🔍 背景與來龍去脈：去年以來，OpenAI、Anthropic等大型模型推手刺激雲端巨頭（Amazon、Google、Meta、Microsoft）與新興資料中心企業（CoreWeave、Digit）砸下數千億美元建設GPU算力平台，資金大多透過低利率債券籌得。隨著美國通膨與聯準會加速升息，債市利率上揚，資金成本逆轉，原本依賴廉價資金的擴張計畫遭遇「利率牆」。\n🌐 影響：1️⃣ 市場波動：債務重的AI股如Oracle跌幅擴大，部分資金轉向收益率較高的傳統能源與金融股。 2️⃣ 台灣產業：本地AI晶片與資料中心廠商若仰賴海外發債，融資成本將上升，可能延後擴產或削減研發預算。 3️⃣ 投資者：高收益債券吸引風險偏好投資人，然而違約風險亦同步提升，需重新評估風險報酬。 4️⃣ 宏觀層面：資金成本上升可能抑制AI應用普及速度，間接影響台灣數位轉型與智慧製造的進程。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdzNYWDdhN2lVRjBIZE9sdE92U1FQaDVXSDFmNm9SVEViZ3RIcEVkZnRCZGlFTmtpSUpOWHJmTF9URHQ3SWZGQ0FPcjV1cV9WQjFtZW14NUItaVBVZUJqM3BfcUNWU2pPc21hTUNWMnFBRTFmeVM0YjRoakZnSW14ZmwybkFQdW9XQmpKdC04NXNoekFmQ1NKMUxPZmhvRFJkY0F0Ni1B0gGrAUFVX3lxTE4wRTk3M2x2R04yRnc5MnVCWm9wZjNzSDRhX081cU5pRHItaEtKbExRT1RWeDZneEFTcmZlZ1l0VEpTdmpac181blNucXFQVlVZTm5oenJjbEc1QlVMQUZkNzFMV1l3V2llbEc3bnVYTUVnTlRfZjFXSkJjakY2ZWpnbXIwRVVfZ2JVREt4QmtoLVA5LXpabjNRblVBSzJkRVJubm5QblVJN2ZQTQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "房市低迷2年有救了？央行鬆綁第二戶房貸　台經院劉佩真揭後市 - setn.com",
-          "feature": "房市新暖風　央行鬆綁第二戶房貸 成數升至7成\n📰 發生什麼事\n央行在第3季理監事會議維持政策利率連十凍，同時將自然人第二戶住宅貸款成數由6成放寬至7成，並取消購地貸款18個月動工限期，旨在降低換屋族自備款負擔。\n🔍 背景與來龍去脈\n自2022年起房市成交量持續下滑，營建業營業氣候測驗點連四個月走低，主要因房貸成數受限與高利率抑制需求。政府先前實施「無差別凍結」的嚴格管制，導致換屋族資金壓力大。隨著通膨回升與建材成本居高，央行選擇精準鬆綁，提升貸款額度約200萬元（以2,000萬元房價計），同時讓建商在持有土地時減少開工壓力。\n🌐 影響\n短期內換屋族可減少1成自備款，成交量或見緩步回升，預計第四季房市呈「量小幅回升、價盤整」；但房貸利率仍高於2%，整體購屋負擔仍重，投機需求不太可能復甦。建商因取消動工限期或調整囤地策略，供給節奏較為彈性。對一般民眾而言，貸款條件改善有助自住需求，但整體市場仍受利率與全球經濟影響，需理性期待。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFBXdm1HYmhNZ1pIMXpRUHBnS3QtcENmZVBZaV8tT0JHSDE4ZnFlWlNSLVBBMjltLUY3NGxxc3BUR1QzekIwQTN6VNIBTEFVX3lxTE1hT1JGbk9rZm5mNUpCX0xxRkRNUUpabkY0enlmTk5aZGp2S1NNTjBFMVJIeFFCY3JSS2VTa1VVRmVpclcySFpleVN5MEs?oc=5"
         }
       ]
     }
