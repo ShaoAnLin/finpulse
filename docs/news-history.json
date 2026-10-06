@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-06",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints - cnbc.com",
+          "feature": "標題：AI 資料中心建設受供應瓶頸限制，若無短缺速度可提升兩倍\n📰 發生什麼事：Nokia 執行長 Justin Hotard 於 CNBC 播客表示，全球 AI 資料中心的建設速度受記憶體晶片與電力供應短缺限制，若這兩大瓶頸解除，客戶的建設速度可提升至原先的兩倍，需求仍然強勁。\n🔍 背景與來龍去脈：自 2025 年 AI 應用爆炸式成長，相關基礎設施投資預計 2025‑2032 年累計達 10.3 兆美元。Nokia 於 2025 年由前 Intel AI 主管 Hotard 上任後，加速佈局光纖與互連技術，成為 AI 基礎建設的「挖土工具」供應商。儘管市場有人擔心過度擴建，但實際限制主要在 DRAM 記憶體缺貨與全球電網容量不足。\n🌐 影響：供應瓶頸若持續，資料中心建設成本與交付時間將上升，可能推高 AI 服務價格，對台灣雲端業者與大型企業的 AI 轉型成本產生連鎖效應；同時也為本地半導體與再生能源產業創造需求，投資者可關注相關供應鏈股價波動。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1BSlp1UXRmQ2tFMTVYVXB5Rll6aTFTVGZFZVJpUlI2ckNaSkZYRUlJUGlRcHZIV1ZaZHZHOHl6YVdaZTJLU1FBTkhiZXMwcVpLUkR1UFViVm0ySWVEZUJ0eEYxVnZ2WnZuQ1NiWkYwQUpXNUN00gF6QVVfeXFMUDd5LXNKLTNEdDNaeHhOOXRlbnM0RHl1S0VYOE9JYW1wY0JMMkJrY0FxVk52U1ltLXF5dlduT1NBVXRCUVZnUHBpU205allMZHFkQVB3N3M3MzRCQnpycXZwTHBUX2lLM1FUU0lzWUpvaFZqVlpGb09mQnc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "先進製程吃緊帶旺半導體供應鏈！台股爆兆元量逼近五萬大關，台積電創新高-財經焦點情報站 - cmnews.com.tw",
+          "feature": "先進製程瓶頸推升半導體鏈，台股成交破兆逼近五萬點\n📰 台積電股價創新高、外資加碼，台股加權指數單日成交量突破1兆元，逼近5萬點關卡。晶圓代工與AI伺服器供應鏈股如萬潤、帆宣等同步漲停，記憶體族群則受資金排擠走弱。\n🔍 近半年AI與資料中心需求激增，使先進製程（7nm/5nm）產能緊張；台積電已開始升價並與海外客戶談大型擴產計畫。全球晶圓代工產能供不應求，帶動設備與材料廠商訂單上升，同時外資看好台灣在供應鏈中的核心地位，持續流入資金。\n🌐 市場面，資金集中於晶圓代工與相關電子股，推升大盤指數與台積電市值，對台灣出口與稅收形成正向循環；但資金排擠可能使記憶體及傳產類股表現受抑，投資人須關注產能擴張與價格傳導對產業鏈的波及，亦提醒產業供應鏈韌性與未來AI投資規模。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQkp3ZDh1cXRPdHE3TVNJTjdQUE9qTFAzSXp4LUEtYWRyZGFRRUJtWURnMllORll6SjNlVk5yUkF6LVV6T05sdFZUVFlPYThQX0NMZXljYldRT0dweDNVSWZmY1RoSjRJTDJsbC0tTG9ScHpWdk4wYnhLT3I4a3lEQVhB?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-05",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "央行鬆綁第二戶貸款成數至七成，9月全台房市交易量較去年增10%，顯現回暖跡象。\n📰 發生什麼事\n央行於9月17日理監事會決議，將自然人第二戶住宅貸款最高成數由六成提升至七成，同時取消建商購地貸款的限期開工規定。住商不動產統計顯示，9月全台成交件數較去年同期增10%，北市+7%、新北+16%、台中+34%等，整體呈現小幅回升。\n🔍 背景與來龍去脈\n自2024年起，央行陸續實施「選擇性信用管制」限制第二戶貸款成數在五成至六成，旨抑制投機與房價過熱。兩年房市交易持續低迷、建商資金鏈緊繃，加上利率連十凍使融資成本維持高位。面對市場需求疲弱與即將到來的大選，央行在第七波調整中選擇局部放寬，以紓解換屋族與建商資金壓力，並觀察市場反應。\n🌐 影響\n短期內，第二戶貸款成數上調預計提升換屋與預售屋交屋需求，部分自備款負擔降低，交易量有望持續溫和回升；但供給仍在高峰期，餘屋去化速度慢，房價上漲空間受限。長期看，政策仍保留對第三戶以上、豪宅及法人購屋的嚴格成數，避免資金過度槓桬，房市將呈現「開低走穩」的復甦格局，對銀行貸款排撥、投資者配置以及一般民眾購屋決策皆產生關鍵影響。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12dFJFcTRvSjZYM25VazlQQUlYMmZUTGdScnI1RWJYOWd0ajk4YmJ2ZHprQkpDa2tHOFhPbzBfTzNPX3R5aFk1S3ptcHZWRHdEcW4xeUR2eDVPNDhzVXJ4aVgyN21BS3BzWjRIT2RQQzNVTERLMmxhbmZHRTNCMnc?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-09-29",
-      "featured": [
-        {
-          "category": "international",
-          "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging - CNBC",
-          "feature": "（標題行）特朗普‑習近平峰會秀場化：背後是雙方國內政治訊號\n📰 發生什麼事：美國總統川普與中國主席習近平於華盛頓舉行第二次峰會，表面上簽署30億美元的關稅減免清單，延長貿易停火兩個月，並同意未來討論AI與高階晶片，但實質協議有限，更多是為兩國內部傳遞訊息。\n🔍 背景與來龍去脈：去年貿易戰升溫、科技禁運與選舉年政治壓力，使雙方在公開場合需要展現「競爭但不衝突」的姿態。美國選舉將至，川普需向選民示範對華強硬又能談判；中國則在兩會前要安撫國內對美貿易依賴的焦慮，同時推動自給自足。兩國都利用峰會作為國內宣傳工具，而非深度政策調整。\n🌐 影響：短期內美國消費者可享受更低進口商品價格，農產品受惠；中國企業在AI與晶片領域仍受限制，市場預期不會立即改善。對台灣而言，供應鏈上游的關稅變動可能稍降成本，但美中科技競爭升溫可能使台積電等高階晶片公司面臨更大出口管制與合規風險，投資人需留意政策走向。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdTJiOXFCZnF3eUVpVHpBRXJTSmJocDVlNTRaVFAyN0F1eXE5U05Zc2tnRjhVQjdxUTdCX05GMm4xZkl2N25uejRBME8xLUhnTjBZdHNXSXVMaElYMkkxb2k0cmtrWXdqQzN4NHpMS3AtbmY4OW9uMXM0RnQ2SXlWdzIxSmp2UmZwNzB2U1ZvM21ScUFjSmJNMDUxUEdWeHBNSWUzUERtONIBrAFBVV95cUxObm03aGRyQ3lnc0dZdEtJeER0RTQ0a2otV2xfOHNBbE5RRGVIaHJLcWM0OXMzVUJocWdrS1RtaEp1QUczSEJ1aEdDQ09IWWFsWlp4NElac29WaFdrbW5BVHVyTmpfNFhRSEJfOG1nakY4dXlQOExxYkhSa0FlQ3lsSTA4LWtFWkhDY1FxNFJlMk8zRWFubjBheG9aM0hDcVRQM0pYYTBGODl4WnFv?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "攜手英特爾搶入先進封裝！台股震盪「這面板大廠」盤中爆量30萬張上攻登成交王群創、聯電也入列 - Yahoo股市",
-          "feature": "Intel聯手台灣面板大廠衝刺先進封裝，股價瞬間爆量30萬張\n📰 今日(9/29)台股加權指數跌0.4%，盤中群創成交量破30萬張成成交王，聯電也緊隨其後。兩家公司均公布與英特爾合作，投入先進封裝與微型LED技術，市場資金迅速集中買進。\n🔍 英特爾近年積極布局先進封裝（Foveros、EMIB）以提升晶片效能，面臨美國供應鏈重組，尋求台灣產能支援。群創作為全球第六大液晶面板廠，已與英特爾合作開發Micro LED封裝；聯電則提供先進晶圓製程與封裝測試平台。此前台灣半導體與顯示產業已因AI、5G需求擴大產能，形成供需缺口，英特爾的進入正好匹配此趨勢。\n🌐 短期看，成交量激增推高股價，可能帶動相關供應鏈股（光通、ABF載板）同步上漲；中長期則提升台灣在全球先進封裝佈局的話語權，吸引更多外資。對一般投資人而言，相關題材股波動加大，需留意產能擴張與技術驗證進度；對產業而言，將加速本土封裝技術升級，提升整體競爭力。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMi-wNBVV95cUxQT1VUMlR2RExoY1FHYjY3d3BWT2xOWmxNRDRIaGJnZVF5SWZ3enN4bTQ0NUxlRG9HbUZ0dWhQeUJINHpPMVlVZUh1ekdjTUpWVXZ2dVhLdXRKYU93UHpVaUlRTloyOU1tRHlyYV95cDRLQVUwT0xaOFM1R1A0LU5Vc0lUUE94ZTNfVVotenp0RFpYTWxaLXZUOUVtc3phQTU5N0FOMVFZNHBhdW1yZF9sYV9uN0ZYVXE5WDJab2hhT09GTDJDU1QyZTA4NVhFN2JybUs4WnRnNlhEWEE3LVNXQVRjTENTemM4NmtzNFZkWEZNV0dJREhVMFctbGR3WTNjQnd1NXIzQnM3QV91YXFFdUdZY29NQUNrcEJVWGhsbVFIWVFBc2xLSzhySmVnYW1zelFvUVBWeTlYOXFrR0ZDaWIyZE9UZXhEaGtyZlpFcEU3T0dER3lXVUJZVVlNRTN0eTd1NUFiYUwzU0M5ZVhocV85cDdYU29BNXlQSWM5RmQtNHBLU3JJelFaSXFMNEVnYTVQVVV5V0hIMkR6MUtfNS14cjZxbUJLOFdoYmRuWEpsZUxXVFprQ3ZzSC1jNHR3b0M0TUwwUU9DWHlpNHBhZDE3eG94LXlzVWlwVk10TTFkcW9lZ2V3UWNwTGtka2x0d3g1Z2I4bFNwbzA?oc=5"
         }
       ]
     }
