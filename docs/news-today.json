@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-07",
+  "date": "2026-10-08",
   "featured": [
     {
       "category": "international",
-      "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year - CNBC",
-      "feature": "美國貿易逆差突破千億 美中AI設備與關稅博弈成焦點\n📰 發生什麼事：美國商務部公布8月貿易逆差為1056億美元，較7月跳升13.7%，創自2025年3月以來最大月缺口。當月進口4208億美元，出口3152億美元，進口增幅4.3%，出口僅1.4%。\n🔍 背景與來龍去脈：逆差擴大主要來自AI資料中心用的高階晶片、伺服器及相關設備，大多來自亞洲供應鏈；同時石油、金屬等大宗商品進口也回升。去年特朗普政府大幅加徵鋼鐵、玩具等關稅，企業為避免關稅在新關稅生效前大量進口，形成季節性衝刺。經濟學者指出，關稅短期抑制部分進口，但無法抵消AI熱潮帶來的需求與整體經濟成長。\n🌐 影響：逆差拖累美國第三季GDP預估，可能削減2.5個百分點成長；對台灣而言，AI相關半導體與設備需求上揚，有望帶動出口，但同時美國對華高關稅與供應鏈重新布局或使台企面臨價格與市場波動；投資人則需關注美元走勢及貿易政策變化對股市與匯率的連鎖反應。",
+      "title": "CNBC Daily Open: Another Fed hike is on the horizon — but when? - CNBC",
+      "feature": "美聯儲再度升息在即　但時程仍未確定\n📰 發生什麼事：美聯儲九月會議紀要顯示官員預期在今年底前再加息一次，但未指明具體日期；下一次決策會議於10月28日、12月9日舉行。美國財政部同日拍賣393億美元10年期國債，雖抑制了5.365% 的高點，但收益率仍創2002年以來最高。股市因債券收益上升而回落，標普500跌0.22%。\n🔍 背景與來龍去脈：美國通膨已連續五年高於2%目標，核心PCE年增3%。勞動市場仍穩健，失業率低，使得聯儲認為僅靠先前的0.25%加息不足以抑制物價。自2022年以來聯儲已連續多次升息，市場預期在利率曲線平緩前仍會進一步緊縮。財政部大額發債則是因政府赤字與資金需求增加，投資人對高收益債券需求旺盛，導致競價強勁。\n🌐 影響：美國高收益債券推升全球利率，台灣新台幣面臨升值壓力，進口成本下降但出口競爭力受損；本地債市利率同步上揚，政府與企業債融資成本上升。股市短線受挫，金融股受惠於利差擴大。投資人需關注後續通膨數據與勞動市場報告，以判斷加息時程與幅度。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXNhRFdPWWdsWmt6UTFkT0QtN21pMFhmcEFHWHpoVVB1TS1TU1RaZU4wQl9ZYkxGbFhremJfdVpxa29aZkhOMnd1LVo0MVNhZ09Xby1FQmttSEp3bU01SWVyNUFYNFpxYktwYzlNck1ZbFpZcUdCWTkxcXA5VUdORU11ZGRwbjhMSVRyTmo2OEg3U3NQTTVHYnprVGE1NmRzYTFWQzJoZ0NnelZxMXQ2VGlBWXlVdC1KbmVwbzczbUhXek9YLS1uTDJB0gHPAUFVX3lxTE5PQVNNcV85d3RMaU9HMmc2VkJsbVNJb2RGRzNLZ1Z6aG1TZ0pyTk40RUxBbTduUkt5RjJLWm9EaFhfUEdnVlpPS3ZuUGpfQ01XTWtnT2FURlhtOEt0V1NxNFcwWU00UmNmblgxUm1sX0NjQllCcWM2NlhVZ0VYM2FCS2NORU1EMVJPcEhQMmw2WkZmbzRnYWd1TGZqTTB3MkU5dG56RUN2allvYWZiMUZJaDYyN05ZQXdhQWNKVlNYZDhBLUN4Y0JnSVU2b1dGSQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm5HYTdHemdhX3cydXdqckdYWHkxbW9wQUdianZyY19ValBBYjRoWDd2OEFqa2Y3T0VRaDZlanh0X3RRSUZmWnlJMkt2SjJMYURKQm1ZV3l5R09qenZ1MTBIRVZjaFRfUTJOYjVaY3NhbFdQSGFtQWZCODY5c01VNm5aNHBJZmxS0gGOAUFVX3lxTE4yMDBIbWVHeXNZZXFtWEtpd0I3NkZkQkxKRkFZWjVmeWdEeW5uLXZ2R1JJX19lWHZQWWVzZGhhQlVxaTlnNHNqUzdvdFV4TE5JVG1tNTlqQ25uVmZPWW5lU2hJM2ZZbnRJWkRFX243OXBGVm8xQzVfT2c3SHRQUkRCVFQ1eDVnNmVORmZ2MkE?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "Meta出手整頓AI代理人亂象 聯手多家企業推新協定 讓AI直接與企業「談生意」",
-      "feature": "Meta聯手打造AI代理人標準，讓AI直接與企業談生意\n📰 Meta與AI新創Sierra、Walmart、Stripe、Shopify共同推出「Personal Agent Protocol」0.1版，預計10月底上線。協定透過OAuth驗證AI身分與使用者授權，使個人AI代理人可代替消費者查詢、下單、付款等交易。\n🔍 背景是近年個人AI代理人（如Meta的Muse）功能從聊天擴展到執行實務任務，卻因缺乏統一介面，企業難以辨識是真人還是AI，也無法掌控權限。傳統瀏覽器模擬操作易受介面變動與防機器人機制影響，業界呼籲標準化。Meta藉此把AI從內容生成推向商業執行，同時結合自家AI平台與企業服務。\n🌐 影響方面，企業將需調整網站或API以支援協定，提升交易安全與效率；消費者授權流程更透明，降低詐騙風險。若標準被廣泛採用，將加速AI代理人商業化，促進電商、金融、旅宿等自動化，同時為Meta與夥伴創造新收入，也可能引發資料隱私與監管討論。",
+      "title": "〈房產〉928房市檔期效應+央行鬆綁 9月北台灣新案供給面增強",
+      "feature": "928檔期加央行鬆綁，北台新建案供給激增但成交仍低迷\n📰 發生什麼事：住展風向球9月分數升至36.1分，預售推案量較上月增300億至700多億，新成屋公開200餘戶。待售案數升至1579案，議價率維持約1成。但每週平均來客僅約12組，成交不足1組，市場仍在谷底。\n🔍 背景與來龍去脈：9月正值年度最後一次「928檔期」，建商常於此時集中推案；同時央行在理監事會議放寬房貸信用管制，降低貸款門檻，刺激部分建商打鐵趁熱。上半年受信用管制影響，新案量大減36%，導致庫存低且買氣冷卻。股市資金流向、升息預期與選舉不確定性亦抑制購屋意願，形成供需失衡的結構性瓶頸。\n🌐 影響：供給回溫有望在短期內緩解待售壓力，對建商營收是正面訊號；但低議價與成交低迷顯示買方仍持觀望，房價短期大幅下調可能性不高。對一般民眾而言，若未來利率持續上升，購屋成本將增加；同時市場供過於求的區域（如青埔、A7、竹東）出現價格回落，提供部分首次購屋族或投資客較佳入市時機。",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6623445"
+      "link": "https://news.cnyes.com/news/id/6624625"
     }
   ],
   "candidates": [
     {
-      "title": "台股5萬點近關情怯！早盤一度只差33點 PCB點火、被動元件2檔攻漲停 - Yahoo新聞",
-      "content": "台股5萬點近關情怯！早盤一度只差33點 PCB點火、被動元件2檔攻漲停 Yahoo新聞",
+      "title": "〈房產〉928房市檔期效應+央行鬆綁 9月北台灣新案供給面增強 - 鉅亨網",
+      "content": "〈房產〉928房市檔期效應+央行鬆綁 9月北台灣新案供給面增強 鉅亨網",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggNBVV95cUxNTU1YbmV6dVdHb2lWNjJ6MVoxZFhjNjBCNE5XVVBld0E2bGxLM0xQMXpiOWt2QUkyNERUMmhzaXMzRzVzRVVPa29iNVNWR1Q0OTA0RU1YWFVBWWZzVV9Wd3lSWGpQTkhPekJ4YloxMzlmQU5acktDVUJuUHAzM1FsalMzYzkzaGplUTF5MHZyZmppbGxidnZoV1EzNk1PUWdkUmpLOF9nY016U0JYczdHV1JpMnBDUTVmbm1wampmTWNDTUVWR1REeXJXSGVRbkNFMjFTcGRUVGZRNkRoZmRuYUMzZTVObmhOSzV5NlR2bGlnR200NzQxckp4bEFWemlua0hhc2wwcmN3NjJJc2ZuZXNscWcyUDdySVppNmlwMVNMZlBEakMxV2VNVHNsU2R3UHRWTmZWcy1ZQlNPMDcwTDNUYk5UM2FuR0lWWFJOa0ZKRGRCdy0xS2QzZVMyOHBBT24zNHRjT0NWOXd3eTU0Q1c4NFRpbGxVSmREa1FUVTFNZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE05eGNIcHA5a2M1Tnh0RFhNempiZlR4aGM2WE1zcGRnSDdQMl9Hcmt0X0drYnN0VEdDanRRckYzWDVpRGJGSTFSQ0NVaw?oc=5"
     },
     {
-      "title": "盤中速報 - 倉和(6538)股價拉至漲停，漲停價332.0元，成交7,206張",
-      "content": "倉和(6538-TW)07日10:23上漲30元，股價漲停報332.0元，委買1,467,000張，成交7,206張。主要業務為網版製造。網印耗材買賣。倉和(6538-TW)近5日股價下跌15.76%，櫃買市場加權指數上漲4.51%，短期股價無明顯表現。近5日籌碼 三大法人合計買賣超：-327",
+      "title": "保時捷啟動瘦身計畫 削減9000個職位、轉攻高獲利車型",
+      "content": "保時捷裁減9000職位、精簡車型與降成本，拚中期銷售報酬率10%至15%。 產品聚焦D/E級高利潤車型，車型衍生版減20%，並開發高於911的新旗艦與2028年純電718。 組織將減40%管理職、降開發與生產成本；今年財測仍受8億至9億歐元一次性費用與7億歐元關稅拖累。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6623474"
+      "link": "https://news.cnyes.com/news/id/6624619"
     },
     {
-      "title": "台股ETF受益人周增7萬 00919高股息11檔人氣逆勢創高| 財經焦點 - 太報 TaiSounds",
-      "content": "台股ETF受益人周增7萬 00919高股息11檔人氣逆勢創高| 財經焦點 太報 TaiSounds",
+      "title": "雙十連假提前變盤？台股5萬點久攻不下 專家揭後市3關鍵 - 中時新聞網",
+      "content": "雙十連假提前變盤？台股5萬點久攻不下 專家揭後市3關鍵 中時新聞網",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1zLVhWSEJDX3B1RTJPb2hvTFp1SlljaUdkNTM3bDZ3a3c5VU55ZHlxdF9lbFVCaG1HZjZUeWItc1VhUVpVdVFwbV9YNllfMU5iQ3FwVGVwc2QyTWxf?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQMUM0SXFtc2JKZmVTZk1ZWXZIcVhDQTE5bUV2a0dwLVhiTlZBMmJWRFZuTGRaYkQ5VGlPZDlHRWNfZWUwcHlSRG1DbTFoUUs1T0N3YXdwSXlPTzJiNnFhLTM1M2kyTVNlU2JTR29FdnBfejNLWWswUDVTQjdxdkUtUHhkOHRvNjdVNE4ydjhCQQ?oc=5"
     },
     {
-      "title": "台股洗三溫暖！「二哥」率先亮燈漲停 被動元件族群全面噴發 - Yahoo新聞",
-      "content": "台股洗三溫暖！「二哥」率先亮燈漲停 被動元件族群全面噴發 Yahoo新聞",
+      "title": "生命為何只有「一隻手」？法日科學家解百年之謎 奪諾貝爾化學獎",
+      "content": "2026諾貝爾化學獎由95歲法國凱根、日籍硤合憲三共享，表彰不對稱化學反應研究。 凱根證明手性催化有非線性效應；硤合憲三以不對稱自催化讓鏡像比例由2%升至87%，再達99.99%。 兩人成果解開同手性百年謎題，並廣泛應用於有機合成、製藥、香料與農業化學品。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6624618"
+    },
+    {
+      "title": "晶華9月營收創同期高 樂看飯店餐飲業Q4續迎利多",
+      "content": "晶華9月營收5.71億元，月減3.98%、年增9.16%，創同期新高，前三季營收53.02億元、年增5.93%。 第四季有雙十、光復節連假及ITF旅展，晶華看好住房、餐飲、零售與尾牙商機續強。 晶華於ITF將採跨品牌、跨地區策略，線上與實體旅展總業估破億元。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6624617"
+    },
+    {
+      "title": "台股股王、股后雙跌停！信驊營收創高也沒用，川湖2天慘賠223萬，外資目標價還能信嗎| 下班經濟學| 財經 - Storm.mg",
+      "content": "台股股王、股后雙跌停！信驊營收創高也沒用，川湖2天慘賠223萬，外資目標價還能信嗎| 下班經濟學| 財經 Storm.mg",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxPTlJRUDdhSC1sa0NKdElzaDUxOXRzVXJvTzBLQkxyd3VVd0tUbW5fNzNmNVI0ZmVuOWY0VVVYbEVscnNsVGVOOXJRSW9lMnp1clFGX2lyaTVmaXRvS3k1OEYza1JORk1Pd0RZalZWU2hiQklpQ0hqVXNNVzVnRTdUVkhFVEpmSFl1LTk5dEl1YVB5V09pU2M0QWp2TjhoenJ2RWR4R0M4UTI5ZElsZGRUM20yZVFNZzUxS3MtTF9XSFMzTnJ5dzFzNXdfYUZONmVlTnpHT1MzYWVJdlhHWkg5Z1hnMk1vQnFzUUlkbmk1ZXc1V0VmMl96TVFBd0NSMWlJTXJJOEQ5QjFTdkhLZEt6LUVhdnV1cTIzTU9LWHoxNTA0VzV1eHVFVlliSnBWb2lMenFvVk54bkcyTXdBM1lKMHpKR0hQcUpMb2JmUDdRLXk4QUtLSmtPb1FSRlNBMTNHRDdyYzNOMHFoQ0ZldXI0ZnQ3YnFCTTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5RZGpTQk9TYlMzdktlUVNXeVVENjN2aEh1Um1FVE0yY3FzUldpank4eUxPcnJxWU13YXZVRjhQMEtuRHRtYzd3b296Z0RRUQ?oc=5"
     },
     {
-      "title": "不只跟監賴總統兒子！FBI曝張婉瑩疑查一名台灣反共官員住址",
-      "content": "34歲美籍華裔女房仲張婉瑩（Wanying Zhang）4日在洛杉磯機場遭美國聯邦調查局逮捕，她涉嫌受中國大陸政府指示、在美國監視賴清德總統長子賴廷與一家。根據FBI文件，張婉瑩疑似也被中國官員囑咐取得一名台灣民選官員在加州爾灣的地址。",
+      "title": "諾貝爾文學獎即將揭曉 村上春樹名列熱門人選",
+      "content": "瑞典學院將於今天晚間公布諾貝爾文學獎得主，日本作家村上春樹依舊是許多人的預想名單，如果日本作家獲獎，將是繼1968年的川...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9799677"
+      "link": "https://money.udn.com/money/story/5599/9802124"
     },
     {
-      "title": "1100億美元！派拉蒙完成收購華納  好萊塢超級媒體帝國誕生",
-      "content": "派拉蒙週二以約1100億美元收購華納兄弟探索，完成美國傳媒業史上最大併購之一。 新公司簡稱天舞，David Ellison任董事長兼執行長，納入派拉蒙與華納兄弟影視、Paramount+、HBO Max及CNN、CBS。 Ellison擊敗奈飛並挺過反壟斷訴訟，交易落實後天舞躋身串流與媒體業頭列。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6623452"
-    },
-    {
-      "title": "鉅亨買幣速報 - USDC(USDC)24小時成交量超過30.05億美元，NFPrompt Token(NFP)24小時漲幅達65.8%",
-      "content": "指標幣種：比特幣(BTC)現報價格83,924.75美元，24小時漲跌幅-1.80%；以太幣(ETH)現報價格2,611美元，24小時漲跌幅-3.38%。亮點幣種：USDC(USDC)24小時成交量達30.05億美元；比特幣(BTC)24小時成交量達12.17億美元；以太幣(ETH)24小時成交量達",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6623469"
-    },
-    {
-      "title": "Wednesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Wednesday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "title": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño - CNBC",
+      "content": "Inside India newsletter: Food crisis, economic shock ahead as India braces for El Niño CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNaE85QlcwazZSb1ZrbHhhNjg3VUR0bTc1dWl4M1hOZXBJSTVHVUVTN3Ntc3hNZFJjXzhyZVZrNWpCY1Vic1Q1Q1c5Nl9YQXFjcjlDMVVZWnB6cHkzbTJxMDJVVTdNdUJ2b0xTRGE2bklDVWVYazRJWEJiTW11ZnNBb242cDEtaFlEcFFDX2V6bm1nX19ycDlKeWl4aFpGQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1jcXZXZHVQVnZDNXMyM2twbzhlUFJEbkxrTlZFLWZkX204TkwxZ2VfWFZXR3licHdTNXBSUXF3eDVRc3FKRXRCSmppU2Y1c292WjhuajViX1paRGVTUVN6ZDR5NTZocGwyQXRfVkZKeDZweU5iZlUtQlNn0gF_QVVfeXFMTlNIbVhjdjdmMi0zRFJIVlJ0YUJUVTRtZnJMTkE1RUhrdzh0OUZOR3NxeWVlU0plMVdDUC1VLUw4eUU1V2F2eXhHSUlKQ1lseW9LVjJzRVVfcDFOc0d6RW1aRk1KZVJUQkJWbmhtUUJXRUNfX3BRcGRIOG55YVhJcw?oc=5"
     },
     {
-      "title": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record - CNBC",
-      "content": "Chart: A look at the S&P 500's remarkable and defiant trip to a new record CNBC",
+      "title": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage - CNBC",
+      "content": "Cramer says higher rates are splitting the market in two — and AI stocks have a big advantage CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOQmlBdnVhWUNUNGhIWk8yakRHeUpxcHJNTGVvS2g5U3ZPZlNkUTVqOFFFZDhBRnktQ3RUSUd1THMzOXlmY1ZHYWlfY2lta2dxVEVYNlZXU1VPOGVrLUstTzltWTJubGZfcHZfM1FmN2t6SjhTSlJyWWo5Q1k4RE5WSDFETXFfeURVRllEcy0zdzlFOWpUbEJNZkw0aHJfc2FJWEdRUG5FSErSAa4BQVVfeXFMUFpCZXZQemlnTlYtVW9ELTljWFBZMTdWckJpcmZMRHB6cUZkZTB2dG1mMGkyZFVOdWc4QVJtQzBLMEVVNmdER0NFWFE5Rjkyc2tOUXZQNlgtcVN4TXZCQkliRktNSExVUnlubkRlSDJHMldIeUZ6VHVOSDRUdUFlSXRKSmdBNjdNcjhNSUVXZ2NnWFg2ak9JOFkwczJ0cDdWRTgtdk8tTEpKLW1jLTJR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSHVPcGYtZXRUd25OUk00bWpibDVJSlhOcF92S3JYdk1YcHU4REZOZWU5SnJPM190N2dtRlJTTmxqbno1elBzV3FJYjUwaFN5NFkyWTh2Ukd1NHJ1Z1VWeFd3ckM2X0NPUVpQc1MtcnpsdzdOMEw2dHJic29XSHhpU0FR0gGHAUFVX3lxTE9LSTY1M2FqU2I0UjhIbzh2aUFNd0x0dUN0ajRIUU1wOEcyaHgtaEJwSHVaeENkWTYwV2VHdWpzdlowWUJiRGR5YmZJbkFEWFJ5RjQzeDVKTXlSLWlMa2JONTI0b05zOTVfeU1zOXJST0M2eUF5cmx5TnZqczZhczY5anJPS21tRQ?oc=5"
     },
     {
-      "title": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal - CNBC",
-      "content": "Emmy Awards leave broadcast TV for Prime Video in 2027 under six-year deal CNBC",
+      "title": "The IRS is paying closer attention to funds that aim to slash taxes. What could be next for investors - CNBC",
+      "content": "The IRS is paying closer attention to funds that aim to slash taxes. What could be next for investors CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE14czIzNzZlUmRIMWx3WTJ2NmpoUFVtNTBlelhGR3l2dUU3MXdCdVh3aHFtUzBraHF0V3V3LWIwNlZncXJlQ2NFVmhGVU9iUzhJb3FGei1rX2F2X2FQMVpSdUF4RER5c1ctVFE2ZNIBckFVX3lxTE9CU2tIdUJvYkprd3ZMSkhwakRkeWJYb240ckxmZ0VUQVJ3eVg5VklNVnFIWHVjd2JwUm5qdEtDNi1LWkRFT0lkSHk5ZTRhV2pwcGdyc0JaV3lrSlJvVi1DdDZTLU1aRWwyZzlIVVpSbVRUQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMmFlUHR0Tkh4U2dpcFpqTjlQNW5oNHR4aE1ZVTZ6eWNySTVDNkRrNXFkenZQMDk3VVc1U240MG5XSHhQWmJFM3ZlVFN5Y3dJaV9fYkJ3ODN3Um9jZTJiYTJNLWliMUZuRS1PNFlfM0VkZ01NdUxjaVliY0hsb19NQk5WTDNWdFg5SVRZQ3RVQjdaRDFOQXhHY0x6eVFfUQ?oc=5"
     }
   ]
 }
