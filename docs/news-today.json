@@ -1,84 +1,91 @@
 {
-  "date": "2026-10-09",
+  "date": "2026-10-10",
   "featured": [
     {
       "category": "international",
-      "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility - CNBC",
-      "feature": "AI巨頭Nvidia加持的澳洲AI數據中心公司Firmus因市場波動撤回歷史性IPO計畫\n📰 發生什麼事：Firmus原訂以每股11澳元、募集約50億美元（約5,000億台幣）上市，估值約306億澳元，將成為澳洲第二大IPO。公司於10月9日宣布撤回IPO，理由是當前市場波動與定價未能反映其長期成長潛力，改向私募市場尋找資金。\n🔍 背景與來龍去脈：Firmus自2023年起快速擴張，2025年獲得Nvidia、Coatue、Blackstone、Jane Street等超過20億美元的投資，估值突破105億美元。其在東南亞部署的GPU算力中心以Nvidia DSX平台支援Meta等大型AI研發。2024年全球AI股熱潮推高估值，但2025年美股科技股大幅回檔、利率上升、地緣政治緊張，使投資人情緒轉弱，IPO定價難以達到預期。\n🌐 影響：撤回IPO顯示AI領域仍受宏觀環境限制，投資人將更謹慎評估高估值公司。對台灣AI產業而言，可能減少跨國合作機會與資金流入，但同時提醒本土企業在資本市場上市前需確保估值合理、營運穩健。對一般投資人，短期內相關AI股可能出現波動，長線則仍關注AI基礎建設需求持續增長的基本面。",
+      "title": "Bernstein's Madison Rezaei: SpaceX plan to buy spectrum portfolio is good for tower operators - CNBC",
+      "feature": "SpaceX 併購全美頻譜，塔台業者受益\n📰 SpaceX 宣布與美國政府達成協議，收購全國約 30 MHz 的 5G/4G 低頻段頻譜，將此頻段整合至 Starlink 衛星寬頻，並計畫以自有或租賃方式向行動業者提供服務。\n🔍 背景與來龍去脈：近年美國 FCC 釋出多波段頻譜，原屬大型電信業者 AT&T、Verizon、T‑Mobile 專屬。SpaceX 為加速 Starlink 進軍地面行動通訊市場，選擇一次性收購大量低頻頻譜，以提升覆蓋與穿透力。此舉延伸了 SpaceX 從純粹衛星寬頻到混合式電信的策略，也呼應了 2023 年併購微波頻譜的前例。\n🌐 影響：頻譜購買令塔台公司如 American Tower、Crown Castle、SBA Communications 股價上揚 6‑11%，因未來將出現第四大租戶，提升租金收入；同時傳統電信股因競爭加劇短期回檔。對台灣而言，若 Starlink 進一步布局亞洲，可能帶來跨境租賃或合作機會，提升本地塔台資產價值，也提醒本土電信加速自有頻譜與基礎建設布局。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMmdLRHRyeDk3OGFjdHA2YkJjREFLZDNxNENsWFdpN3cyOW1xQTRkRUtvY1YybXg4UzVwNUw4R1hUTFFDVVFibTRIX1RVZTc3MGZzWTN6ZmxNWndfcFpyVVZXRFNLV2tuSEHSAW9BVV95cUxORUQtcGkxbXJITWdJV2NCbUtWbEliczgzdHhTbWVXX2Z4blcxdy04TmxseUZYOXh2ZjlCYmY4b0FKZ2sydnZaLVJvcENoVll3MXN5aktLRkdWWkRORU5xbGtHQzFyQzFnLTBCSzBJRVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU180d0lCOHhCdVdoS3ZHSVdGVHRuUmVfdFZuQlQ5ekJBZWxFbmZDVDR1R2JGdkM5a09abjFjX3M5RUJXT2pKMXB2X25rX2RaTHVJbXY4R1J6WnZaSHJkMWtWb21jdmdGbjBxd21URDQ3V1VWaDRvbld4MWVPZXdya21CTXBsZzhLSGE4WFRhbGlOaHZYVVZjekJhTVhfOWgtSGswdmg5RUdVVmRNcmJKaVpnVTZ0U0UwN2x3Q3pDbnJhQ1hZRnhfekgyOU8ySkU?oc=5"
+    },
+    {
+      "category": "taiwan",
+      "title": "全球低軌衛星部署加速 啓碁、耀登卡位地面設備與天線長線看俏",
+      "feature": "低軌衛星熱潮加速，啓碁與耀登搶占地面設備市場\n📰 發生什麼事：SpaceX 星鏈推進 V3 部署，6G NTN 成形，全球低軌衛星發射市值預估2028 年達 404 億美元；地面裝置佔產值 54.58%。台廠啓碁（6285）與耀登（3138）分別布局衛星終端與射頻天線，啓碁與工研院共同研發 Ka 頻段模組，耀登拓展認證服務並於 Q3 在越南投產新廠。\n🔍 背景與來龍去脈：自 SpaceX、藍色起源等大型業者加速衛星星座建設，發射成本下降且 6G 非地面網路概念成熟，拉動地面設備需求。TrendForce 估算地面終端是供應鏈最大價值環節，台灣在光通訊、天線製造具競爭優勢，故啓碁、耀登提前布局，以降低單一客戶依賴並擴展海外產能。\n🌐 影響：短期內相關股價受惠，訂單可能提升 10‑20%；長期看，台灣供應鏈可成為全球低軌衛星地面市場重要角色，帶動光電、射頻與製造業的投資與就業，同時推動 5G/6G 應用於無人機、車聯網等高移動性場域。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6626114"
     }
   ],
   "candidates": [
     {
-      "title": "OpenAI年化營收較預期短少200億美元　AI前景疑慮上升",
-      "content": "英國媒體報導，根據OpenAI提供給投資人的財務文件，這家人工智慧（AI）公司的年化營收較先前預期短少約200億美元，這...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9804658"
-    },
-    {
-      "title": "賣一臺虧一臺！記憶體漲到三星都扛不住 手機被曝減產30%",
-      "content": "三星傳要求供應商下修第四季手機供貨量20%至30%, 全年產量恐降至約2億支。 12GB手機記憶體第二季價格年漲175%至146美元, 第三季估再漲20%。 TrendForce預估2026年全球手機產量年減10%至11.35億支, 記憶體漲價恐壓縮手機業者利潤。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6626603"
-    },
-    {
-      "title": "台股會不會破5萬點不重要！財經作家揭「這2檔ETF」：漲時開心、跌時安心 - FTNN",
-      "content": "台股會不會破5萬點不重要！財經作家揭「這2檔ETF」：漲時開心、跌時安心 FTNN",
+      "title": "國慶必看！擴大非紅軍防韌性 台股五雄出列 - Yahoo新聞",
+      "content": "國慶必看！擴大非紅軍防韌性 台股五雄出列 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBhRUhQYXkwTjdNUlFTLVdTRTAwS3lpd1c3eTY1VlBqT0FHTUotZV9mTTFvcHowNnY0MW9aT2tsVzJzSWY0alA4NjZ6UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxPVDhGempOS3FlY0xlWGs2U284d0pyQVMwQ29UdzMtTDRxUkpBNHN4YkM1aFFVaGlhVzZ0VmJ1TUE4aGRXY193c1pOT2dqbkoxaWRONzNlWUxra2tlVjJkblVlNFdkX3ItZlp4V2I5Zk5VUEZDaTNVUFFVZ0hoY1pRcHFRUW44a3VwUzJ1LW5oTUN3VGZqRl9OemE1Yi1xN05NMUNscUd2VXEzeC0xRU9CdUs5dThjSS1FV3U4RzlvMmJuNWFyTkY5Y2twX1F2Q3dESTk5VTJNV0lESS1EMFVZQWZVZmJBUWtVeHk0RTlQZndZVldzUVVIelVXSng1amg0aS1Fb1dIb09CbmhnWGRtRVZFZnl2LXAzQzRLdDhnNkxZZVZYVHNOdlFZenMzdw?oc=5"
     },
     {
-      "title": "俄羅斯空襲逾70人死　澤倫斯基痛批美國不作為",
-      "content": "俄羅斯連續2天的攻擊造成烏克蘭逾70人死亡，烏克蘭總統澤倫斯基指美國不願提供協助，要求開放星鏈供瞄準俄羅斯飛彈發射台。他...",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9804642"
-    },
-    {
-      "title": "AI光通訊缺貨看不到盡頭 Lumentum產能訂滿至2029年初",
-      "content": "AI資料中心帶動光通訊元件需求激增。Lumentum執行長赫爾斯頓（Michael Hurlston）表示，該公司產能已被訂滿至2029年初，即使加速擴產，仍遠遠趕不上客戶需求。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9804638"
-    },
-    {
-      "title": "台積電Q3營收1.49兆元創單季高、大立光攻CPO、9月進出口連35紅 本周大事回顧",
-      "content": "台積電周四(8日)公告9月營收5118.57億元，創歷史次高，第三季營收1.49兆元，同步寫新猷；長榮周四召開法說會，總經理吳光輝表示，旺季尚未結束，美國線旺到明年春節前；財政部周四公布9月進出口統計，連續35個月呈現正成長，以下為本周大事回顧： 台積電9月營收5118.57億元寫單月",
+      "title": "美俄元首通話 普丁：目前不可能恢復俄烏談判",
+      "content": "俄羅斯總統助理烏沙科夫10日（周六）凌晨介紹了俄美兩國領導人通話有關情況。烏沙科夫表示， 普丁在通話中詳細介紹了俄羅斯為回應烏克蘭武裝部隊恐怖襲擊而採取的措施。 普丁表示，烏克蘭方面試圖破壞俄羅斯國家杜馬選舉，並對民眾發動襲擊，導致俄烏立即恢復談判的可能性遭到破壞。 普丁指出，烏克蘭方面試圖阻止",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6626125"
+      "link": "https://news.cnyes.com/news/id/6627196"
     },
     {
-      "title": "漲的時候開心，跌的時候也安心！(#01J) 【台股5萬點還能買嗎？財經作家揭「2檔ETF」：漲開心、跌安心】 （示意圖／記者鄺郁庭攝） - Facebook",
-      "content": "漲的時候開心，跌的時候也安心！(#01J) 【台股5萬點還能買嗎？財經作家揭「2檔ETF」：漲開心、跌安心】 （示意圖／記者鄺郁庭攝） Facebook",
+      "title": "川普放行俄柴油自打臉！才簽制裁法就鬆綁 智庫反問：美國要關稅制裁自己？",
+      "content": "川普周五宣布與俄羅斯達成柴油協議，俄國將分批供應480萬桶，美國財政部也暫時解除禁令。 川普稱此舉可紓解民眾生活成本，但外界批評與打擊俄國石油銷售的制裁方針互相矛盾。 國會兩黨人士與學者質疑新措施資助戰爭機器，並削弱《Lindsey O. Graham 2026年制裁俄羅斯與伊朗法案》效果。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6627146"
+    },
+    {
+      "title": "居家產業走出二年來低谷 家具、家電Q4買氣續旺",
+      "content": "預售屋交屋潮帶動家具需求大增，居家產業快速復甦。 詩肯前三季營收18.61億元、年增15.67%；看好第4季傳統旺季續穩健成長。 集雅社稱住宅家電汰舊換新補助年底到期，冷氣、冰箱換機需求升溫。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6626791"
+    },
+    {
+      "title": "下注19美元可賺1896美元 預測平台調查白宮新聞秘書賭盤",
+      "content": "華爾街日報（WSJ）報導，預測市場平台Kalshi的發言人證實，已針對平台上的一系列可疑交易展開調查。這些交易精準押注保...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9805991"
+    },
+    {
+      "title": "高股息越領越心虛？台股5萬點前「資產體檢4件事」 內行示警：退休金別被通膨吃了| 李瑋萱 | 新聞 - Storm.mg",
+      "content": "高股息越領越心虛？台股5萬點前「資產體檢4件事」 內行示警：退休金別被通膨吃了| 李瑋萱 | 新聞 Storm.mg",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi6wRBVV95cUxOdnIyZ2F6VDhfZElpMENlMS1EeGlWWkpxei1ISWUzU245QS1wY29qVVI1M2NTX3Y4NkRTbFFwam5yYWw5aE1HTUFUbDVTYzJlak45X2RUTkx5d21NMjBLY2N4Wkx5aUdWSEJROW16RnJfZTB5bzROYk5GU1BfcHhnVnEyU1IwRnR1RFdXeVRYZ1ppNGROVnZBZ0cwSnhmNnljeWZGX0J4UzhOdmhEWUdpWjdNNTFfZnNYMkdRcGM3NnMyREhWREpBcW9LRDI5ZXFSbkVhYkVKQkREaGtTaWdGMkg3cTd2dVlNWllrOEpkckFXLUtGQ3JEZWdQbTJ5RTh3MkoydktkZE1hLUc4RW52amFtR29FcmktelJycXlqSFo5OVV2OTZOR3pzbXQtNWd5cXQtU2hmZHF3cjk3X2VQYklpZEZmcnJRSXdobDBZV2pfZ3pDeDVDQktUUDNuRHFZbkJScV9zSUNiUms2bGhqajJNcWF1SEFCS3l0TlFzZDlvem90emtpNXJ6MGlFeUNWaFFJYWkyNkhORlRCcE42ZUx4elZmNzNreUhzRFVTbXRmQUNNMGF0N1BUdlJRYkliWlFFQVgtYlhUSkNCS2hlQXFZdVdnQndLbk5uamdkTnFsekVFdlI2T1M3Y05nTW8wcUhUdDgyUTNQYTMtN1E1YTZSdDAzWDF5ckxUV2VWLTBOYjRpTWY2UGYxN2RzdnNtM0VEWTZzQVN6R3ZycDlJVFRuUmZKMU9ISHlBWUViRzdKXy1FNE14cUxSMnAwQVhWS2h4TmxjWjNicjZFN3phYjBIS05DRGFPZVlj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tRnplTVNtRlBScEhlV0tjNDk5eVQxSEMtYnRKc2tJekZrNUZKMDhDNHJyYXZZSGZ4bzh6a0VNVjg2Z1Zxa0gzZU1WNHhVZw?oc=5"
     },
     {
-      "title": "CNBC Daily Open: Is cheap gas America's Godot? - CNBC",
-      "content": "CNBC Daily Open: Is cheap gas America's Godot? CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOcE51UGVITXVrT3VjbG9mX1F3aVZHUEZvSGpRQnFXeGFLVGRKWEt2SmE0Z0I1eVd4NzJaZXJUbHpjTDJMeV9RTXNLQ0dfSERiRkM0Y0xCRUJnQTJwMGpRX3J0SEw0SVF5NHViVG1FRVRtSmxkY3ZyMHhfNEx5VEc1R0cxMHNCUUHSAYwBQVVfeXFMTl9IZ2YweEV2NGQxcl9kRUwxWFFFX21HcmJQemxyXzRxUFJxUWx6clVCZGRKSEE5UGZzdnpQSnZ6VlhwY0lCbkJkM05pLXVyN1Izb0NEQjNkVEtpUGwyUzF0RWhoY0tBQlFPczNqQ3FORTBFNDF6bDlNYk1MeUpEUHdaajVZamFwdC1aZWc?oc=5"
+      "title": "AI竟向警方亂報命案線索 Claude擅自操作政府網站 白宮要求業者處理",
+      "content": "Anthropic揭露，旗下Claude AI模型曾擅自操作其他機構及美國政府單位的網站，引發安全疑慮。川普政府要求AI業者通知受影響對象，並處理相關安全事件。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9805985"
     },
     {
-      "title": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says - CNBC",
-      "content": "Tokenization could unleash tens of billions of dollars in trapped capital, Nasdaq CEO says CNBC",
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law - CNBC",
+      "content": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPMUtiZDhmeDA3V3hzXzlVLUdXVHB1bWpuTUY4T0E0Q19HTXE4QWZ4Zmp4ZUxWSmhtcUVCVE5tNDE0TWdzOTJ5VlEwTy1PRk5Ganl1RFJGRXY1Y2FjNndPZ3BCc1Ric184TV83MmVvcG9JZWhQaFBPYm9jUkFJajE2RWNSajVlb1ZNQ05PVUloYWViTERoUndvRnQ5eEdiRG9mWjhUVmtR0gGrAUFVX3lxTE56QVZjYWQ1SVNDT1Y2NVVRNGdaenMzcjdzQzNzN05ZZ2paSUxvblQzVXA1aFJxeWZVQi0xd09TMjcxdno4aVFmWUVsaHlMeFY1X0JSVUxiTjJ5a2NQOTZuNHhJSTB0QV9wSkZQaEVPdjlNUDVoai1XT1BoOHFHaWxDVTlSQU9XU3h3bTBrSDJ5cHJ5a3FDUXd2LVU1amdEMVdBajBQcURWVFc4aw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbTB3TGU4cm8tNFhlSWRLeVlydl95WXA3RlMxdFhpd1NaNDY0MUZZaDFRQ0g5VVprZV9ERkNMV0lMTWRUc1ZYQlpYdEdiTG1vQjVkR2ZpZmlGT2h0RFppaHh2MTV2djZzQXp5Y0NJenRodENaSHp1djhFTWY4YXRfc3hZSDJTaEnSAYwBQVVfeXFMUEI4blVkNFA2U0p3ZV85TURQRFNFQm1WYjBXQWpVNW1TN05fWEpEcUFXdTVpQUV6c3htcndpcElIUzdKUG9RUjNUa3dVWFpsLUdFRnpHV1p4VExfLWUwM2YxVGZwT2ZsRHRZSFFVNGhVd0N4Wm1KcDNDNTFIM1lMNXpxNldMczA3Z19rcE0?oc=5"
     },
     {
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "title": "French yields are near levels not seen since 2002. Why that could give U.S. Treasurys a boost - CNBC",
+      "content": "French yields are near levels not seen since 2002. Why that could give U.S. Treasurys a boost CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNWmo5R3BpMGZubzZoQmtkTTZzaF9Da0dwZVM5ZTBJNkQzRXMzaU5tdjcybE5SYlc4V3Q4NTYyUlJ5VnppQVk4VzhESXZ4VFpkQllXdHdpUF9SZVR0NHNzcHNWUlBDM1hCRWxkNllybGFwVTdDMlVSZUg2aXBMQUZiUmd5VnRMUjd1eHJwbkFVSVV4UDlPVTFiT0J3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzaGJHQnJfT1dQbVBMRy1hNXAtRHFSSXBHWEpMb25qYnJGTjkzaWN3OC12MTJXZkZ1UlZCSU5pSWhhLUNGSzlmZmJSZ3FsS19BUnY5SXpDZ3BEV1RFNjBBV2V6NWhNeERMSUpENnFNcy1HZlhGVFZv?oc=5"
+    },
+    {
+      "title": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week - CNBC",
+      "content": "What's behind the recovery rally in tech stocks — plus, Elon Musk's very good week CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOSy1fYVdKeE1Bcm0yNTd0SXAxUi1naTAzSVE2Z2tmYVNmRDlsQi1BQlJucWFXWTJIVmtrXzlxQ0I1NkJkRk1pVFFXLVNmUzVZVWNrX2tKdE9xUGN0V0dBMTBwcGlCeFlLZjQxVmVjaU1QZkI2ZnZjWEN1X3FPRFJobE1FNnR2dExHcktYdjYtWmxRb0xOOXdxSXh3WW5JSS1NTnVaMlk2eDliTmVJQzkwdmxLM3pERGVMZ0E?oc=5"
     }
   ]
 }

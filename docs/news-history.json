@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-10",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Bernstein's Madison Rezaei: SpaceX plan to buy spectrum portfolio is good for tower operators - CNBC",
+          "feature": "SpaceX 併購全美頻譜，塔台業者受益\n📰 SpaceX 宣布與美國政府達成協議，收購全國約 30 MHz 的 5G/4G 低頻段頻譜，將此頻段整合至 Starlink 衛星寬頻，並計畫以自有或租賃方式向行動業者提供服務。\n🔍 背景與來龍去脈：近年美國 FCC 釋出多波段頻譜，原屬大型電信業者 AT&T、Verizon、T‑Mobile 專屬。SpaceX 為加速 Starlink 進軍地面行動通訊市場，選擇一次性收購大量低頻頻譜，以提升覆蓋與穿透力。此舉延伸了 SpaceX 從純粹衛星寬頻到混合式電信的策略，也呼應了 2023 年併購微波頻譜的前例。\n🌐 影響：頻譜購買令塔台公司如 American Tower、Crown Castle、SBA Communications 股價上揚 6‑11%，因未來將出現第四大租戶，提升租金收入；同時傳統電信股因競爭加劇短期回檔。對台灣而言，若 Starlink 進一步布局亞洲，可能帶來跨境租賃或合作機會，提升本地塔台資產價值，也提醒本土電信加速自有頻譜與基礎建設布局。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU180d0lCOHhCdVdoS3ZHSVdGVHRuUmVfdFZuQlQ5ekJBZWxFbmZDVDR1R2JGdkM5a09abjFjX3M5RUJXT2pKMXB2X25rX2RaTHVJbXY4R1J6WnZaSHJkMWtWb21jdmdGbjBxd21URDQ3V1VWaDRvbld4MWVPZXdya21CTXBsZzhLSGE4WFRhbGlOaHZYVVZjekJhTVhfOWgtSGswdmg5RUdVVmRNcmJKaVpnVTZ0U0UwN2x3Q3pDbnJhQ1hZRnhfekgyOU8ySkU?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "全球低軌衛星部署加速 啓碁、耀登卡位地面設備與天線長線看俏",
+          "feature": "低軌衛星熱潮加速，啓碁與耀登搶占地面設備市場\n📰 發生什麼事：SpaceX 星鏈推進 V3 部署，6G NTN 成形，全球低軌衛星發射市值預估2028 年達 404 億美元；地面裝置佔產值 54.58%。台廠啓碁（6285）與耀登（3138）分別布局衛星終端與射頻天線，啓碁與工研院共同研發 Ka 頻段模組，耀登拓展認證服務並於 Q3 在越南投產新廠。\n🔍 背景與來龍去脈：自 SpaceX、藍色起源等大型業者加速衛星星座建設，發射成本下降且 6G 非地面網路概念成熟，拉動地面設備需求。TrendForce 估算地面終端是供應鏈最大價值環節，台灣在光通訊、天線製造具競爭優勢，故啓碁、耀登提前布局，以降低單一客戶依賴並擴展海外產能。\n🌐 影響：短期內相關股價受惠，訂單可能提升 10‑20%；長期看，台灣供應鏈可成為全球低軌衛星地面市場重要角色，帶動光電、射頻與製造業的投資與就業，同時推動 5G/6G 應用於無人機、車聯網等高移動性場域。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6626114"
+        }
+      ]
+    },
+    {
       "date": "2026-10-09",
       "featured": [
         {
@@ -104,18 +123,6 @@
           "feature": "台股衝擊5萬點：法說會聚焦與市場展望\n📰 發生什麼事\n本週台股指數逼近5萬點關卡，台積電、大立光、南亞科三大重量級企業將陸續召開法說會。市場普遍預期法人持續買超，成交量放大，指數在震盪中維持堅挺。\n🔍 背景與來龍去脈\n去年底美國就業數據不佳、升息預期降溫，使美股走高，帶動台指期夜盤突破4萬9千點。隨後AI熱潮推升半導體與面板供應鏈需求，台塑等傳產也布局半導體化學品，資金輪動至相關族群。第三季營收創新高，外資回補買盤，技術面均線站上40,000點，形成支撐，法說會則是公司公布第三季獲利與未來產能規劃的關鍵窗口。\n🌐 影響\n法說會若顯示營收持續成長、AI晶片與玻璃基板應用擴大，將提振市場信心，助攻指數破5萬。對一般投資人而言，相關個股可能出現短線波動，適合把握基本面強勢的AI供應鏈與半導體周邊布局。若法人持續買超，外資資金流入可提升台股國際形象，進一步支撐台幣與提升企業融資環境。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQRzVoSzhXdG40OUx3QXpSZTR4SG5kLVY0Y3RFZDBGX0RudUx1anozejYyUDJHQm1BVkdRUHZPV1JqRHYwU0ttcnZvYVhLNWpzT3J1SWxjSEk2WV9PRHFpTFpvNXl6Q0dpNlBuaURONDBmbzE1MGhkSC1DQ2VYNDZvLTcwQ1RfYnJ2c1lmUWIzUlQ1WFlySGx1bVJtQUZUNWNQREdKY3J0T0VTSG5TWnNyd2l4ZVF3Wm9ZYkhxT0NYSTNrT2NoN0VhNm5YdUExbFV5WHdsN05FU1dIaldKTm1sY2U0U0VvY3VPLTFFb0xlN3hyLTdWaDJfUEoxNlZ1UFRmRkRYbXZ1b24zSUszWXZMV0dISnEtQmR0cFc4U3F0ZTNwbXIwLWFPUUtzcmZHcFhXRTg2WWNLN0NPNnlXMXBiM2JsVDNqTklDeS1hX0NzNTBtSV9maVF5d3BWdmFGcXRCbERhelF0MTBDejFwVDY0RE01N3R0QWdFZTJBQWVUNnNyeUwxekFDRF9OcUIydFp5dE1rTTA1NGVpeXpEcHZFLXplWVRjS1FjNUhzb0pnVHZwMGNtT2ozMGtCd2hxVFNXQlNmYU9fXzdlWWlWdHExUnNZNGt6OWt6WXlTYWZuNGhhWjVnM3QzaTNHeTlWTENiUS1ETGNQZF91aWV3cVhxWVVvNDBXTm1UY1UyeXlPc2tfUQ?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-03",
-      "featured": [
-        {
-          "category": "international",
-          "title": "States, cities sue U.S. agencies over weaker vehicle fuel economy rules - cnbc.com",
-          "feature": "（標題行）美國多州與城市起訴聯邦，阻止削弱燃油經濟標準\n📰 發生什麼事\n加州、紐約等兩十餘個州、市與縣於10月2日向美國第一巡迴上訴法院提告，指控交通部最終制定的2026‑2031年車輛平均油耗標準從原先的每加侖52.5英里降至34.9英里，認為此舉違反「最高可行」原則，並有利於石油產業。\n🔍 背景與來龍去脈\n拜登政府上任後推動更嚴格的燃油效率與電動車目標，2024年已逼迫車廠提升至約35 mpg。新任交通部長Sean Duffy 受前特朗普行政影響，認為市場已出現大量電動車與卡車，遂修正標準並限制卡車分類與信用交易。環保團體與消費者組織亦同步提訴，指新規將使未來數十年油耗與二氧化碳排放上升。\n🌐 影響\n若新標準生效，美國新車售價或下降，但油價上揚的成本將由車主承擔，對台灣進口車廠與能源進口商產生間接衝擊；同時也可能削弱全球減碳趨勢，影響台灣相關電動車供應鏈與碳交易市場，投資者需留意政策變動帶來的風險與機會。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQ1RiZ2xYU0FOUmtvcjJlS3Y0Tnp2S2VvbXBVbjd2SDV0N2ItWTF5YlhYbnRQUVQ0NW1BdWtVaTBVRUgwd1FLT3hiZGtYdlhSZklRUmxYR0lHUFFvSUNLbzBHTkFNNFpoczEyMl9oSTZzZjNkaXJoNkFXdU1IT2w0SGxCa1dZbWFNR3JGMW5LSDVJbXdHMkg1VHd2S0VvMFdlUGdJcTBuX1XSAa4BQVVfeXFMT0ZqLS0xSnlOLXhtT1BTLTNrM2VlUnE5TXZQMWNrZjhienJuUDVQVHVtX3BaN20wZHNDSF9sUWRvVGJzbHh1RE12WmwwNlFiTTZvbk4wN1BGYlVCNUxYc293MUVmTjdYbk5QWUJzb2tsRFgxd2dybXVOd2ZaeW9Ddk0wLUVaMm02WlVIM2RDanM5a0pVOHB2ZHFZYU1BOVdSdHAydXRSZUpNamY4N3JB?oc=5"
         }
       ]
     }
