@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-11",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Putin relayed Iran war proposal to Trump, Kremlin says - CNBC",
+          "feature": "普京傳遞伊朗停火方案給川普　俄美能源交易添波瀾\n📰 發生什麼事\n俄羅斯克里姆林宮稱，普京在與川普通話時轉達伊朗總統馬斯德·佩澤什基安的停戰提議，呼籲結束自2月28日以來持續的中東衝突。此舉同時伴隨美國宣布將大批俄製柴油納入市場，暫緩相關制裁。\n🔍 背景與來龍去脈\n伊朗與以色列、美國的空襲升級，導致波斯灣油輪頻遭襲擊，全球油價飆升。俄烏戰爭亦推高能源成本，俄方為緩解國際壓力，於2024年末與美國達成臨時柴油供應協議，並取得制裁豁免。普京借此機會以「調停者」身分，向川普傳遞伊朗的和平構想，意圖同時提升俄在能源與地緣政治的影響力。\n🌐 影響\n能源市場：俄柴油供應或短期壓低柴油價格，緩解燃油成本上漲。\n地緣政治：美俄在能源領域的合作或削弱對伊制裁力度，增加伊朗談判籌碼；同時加劇美國內部對俄政策的爭議。\n台灣層面：油價波動直接影響民生與運輸成本；若中東局勢緩和，對台灣的石化原料供應鏈及能源安全有正面效應，也提醒企業關注供應鏈多元化與地緣風險。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9reE82RTlXQ0dWeU9VQ2hqcTRId1hxZ0VSeEU2ZHBfa1NBd0dsQTAtbXFtMkpld1N2MWNjbFFrQWprZ1FLZU1ZQUVjcDlHbUFOdHF0T1JwdV9CRktCcFpSNUZzSEh3ZHU2a0FtZ0hKSEY4SzJtc3luU21PZw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美啟動337調查 鴻海、台達電、廣達、立訊精密等20家企業入列",
+          "feature": "美國337調查點名鴻海、台達電等20家台陸企業，AI伺服器供電技術陷專利風波\n📰 發生什麼事（USITC於9日依《關稅法》第337條啟動調查，指控20家企業包括鴻海、台達電、廣達、立訊精密等在美銷售的垂直供電系統與相關運算設備侵害美國電源公司Vicor的專利，可能面臨進口排除令或停止侵權命令）\n🔍 背景與來龍去脈（垂直供電技術可縮短電力傳輸路徑、降低損耗，是高效能AI伺服器與資料中心的關鍵配件。隨著GPU、TPU等AI晶片功耗激增，全球供電模組需求大增。Vicor於2025年已在台達等公司案獲裁定侵權，遂於2026年再次以相同專利向USITC提訴，擴大至整個供應鏈）\n🌐 影響（若調查最終認定侵權，相關產品將被限制進入美國市場，台灣AI伺服器產業出口受阻，股價及營收可能受壓；同時也促使企業加速自研或採購非侵權方案，提升供電技術本土化。對美國而言則是加強專利執行、限制中國供應鏈滲透；對投資人而言需關注案件進度與可能的法律成本）",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6627468"
+        }
+      ]
+    },
+    {
       "date": "2026-10-10",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "【台股躍居全球第4大　主桌坐穩　底氣全揭】\n📰 發生什麼事：2026年10月4日，台灣證券交易所公布，台股市值突破1.6兆美元，正式成為全球第四大股票市場，僅次於美國、中國大陸與日本。外資持股比例升至約45%，連續三個月淨流入逾200億美元。\n🔍 背景與來龍去脈：台股崛起源自半導體產業的全球領先地位，台積電、聯電等公司市值持續飆升；同時美中科技脫鉤推動先進製程需求，台灣成為供應鏈關鍵。政府推動「上市公司治理加分」與「跨境資本路徑」(如陸股通、港股通)，降低外資進出門檻。再加上台幣相對穩健、低利率環境吸引全球資金配置，形成資金正循環。\n🌐 影響：一是提升台灣金融市場的國際能見度，未來將有更多外資ETF與指數基金納入台股；二是加速本土企業資金募集與併購活絡，提升產業升級動能；三是台幣匯率受益於資金流入，對進口成本有正面作用；四是民眾理財選擇更多元，退休金與基金配置將更傾向股票資產；五是政策層面需加強市場監理與風險防範，避免過度依賴單一產業造成波動。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMizwJBVV95cUxOM3NJMXM0eEY1aElyYWVHUjl1dDhEb1RabzhQM2RsYVFZWVFVazlOaUxVMjZCQ0JoVUZoY0d5dG10NVQ5UEN3THp2dmZTcVBvN1ptX2R5czhna2xzVHdndm1sMXdCcWVpcTJaVkpuT1lfV0JkZENlck9zYTc2ZUlQZkJwY3lvd2NIVTgtakpsUDVnQ1pXQjg0dTdLWnU3cUtMa3dZWm1KWXpWdEx4amY1ejNFZkp3a3ZEM19oc0pWcnRnSDExV05EVzZfZ1pXRXpmT0MxV0xKSnNIOERhTmZYWHQ4TVpJMHpncVRnbEdReHdtcWRyV3JqSjJVLXV3aVM3RzBkU0laU0NwWnhDeW9wYTFKaDAzMWNmVTc5X2dBUjkyc2hLMW5IQXBnUW9MSmtYeWZUUVZVLU1JQmhHUUpUMENQRVpwNFhWSl9oZ0xPMA?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-04",
-      "featured": [
-        {
-          "category": "international",
-          "title": "America’s data center fight is a preview of what's to come for the rest of the world - CNBC",
-          "feature": "美國資料中心抗爭：全球AI基礎建設的警訊\n📰 發生什麼事\n美國近期因AI需求激增，大量建設大型資料中心，卻因電力、用水與噪音等環境議題，引發社區反彈。地方政府與法院開始限制新案，已導致約770億美元的投資受阻。此波爭議正向歐洲、韓國等地擴散。\n🔍 背景與來龍去脈\n資料中心選址主要考量電力、光纖、供水與稅收，而非人口密度。AI算力需求爆發使美國郊區成為熱點，然而高耗電與大量用水使居民擔心電費上漲與水資源短缺。2026年歐洲已出現超過70案被阻，涉及約420億美元投資，蘇格蘭暫停審批、丹麥優先供電給其他產業、 西班牙要求80%再生能源供應。韓國亦提出更嚴格的地方限制，形成全球同步的政策壓力。\n🌐 影響\n對市場：投資人面臨更高的許可風險，資金成本上升，相關股價或受波動。對台灣：AI算力需求同樣推高本地資料中心規劃，若未妥善處理電力與環保議題，可能遭遇民眾抗議，影響電價與能源政策。企業應提前評估永續供電與社區溝通策略，以降低未來建設阻礙。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb3J5V1M0TDU3N0ZSdk56eEt4TUpIeHRJaUpSODRkX2hyR1VyY0ZEcXNGMWlSZnJ5ZkVYZ2RydHhuUDg3Z2FFQmVlRUVmVTBIUndJdHVQWTgwOHRLRnFaYlFXTEE0c3VJSFM0TFlXS215QXlQeE5US0IzYzZxVjBGam5B0gGHAUFVX3lxTE1DYTlqMHhFYXBiQVdoRnpyQVNkTERfV29zVXZMTnZVS0RRdjBIZGlveXF0cDFpMzJHMWJuTExvZXU3Ull6V3ctZGtsdlJJLTdkVTA2Y2ZxbnhxY2dsSVJ4RVJ1a2dCQnNIdy1JamcwUmU5R1k4MlJyejBRbVRYQ1AtZmZfUFlVOA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "台股本周挑戰5萬點？台積電、大立光、南亞科重量級法說會將登場 分析師：震盪盤堅 - Yahoo新聞",
-          "feature": "台股衝擊5萬點：法說會聚焦與市場展望\n📰 發生什麼事\n本週台股指數逼近5萬點關卡，台積電、大立光、南亞科三大重量級企業將陸續召開法說會。市場普遍預期法人持續買超，成交量放大，指數在震盪中維持堅挺。\n🔍 背景與來龍去脈\n去年底美國就業數據不佳、升息預期降溫，使美股走高，帶動台指期夜盤突破4萬9千點。隨後AI熱潮推升半導體與面板供應鏈需求，台塑等傳產也布局半導體化學品，資金輪動至相關族群。第三季營收創新高，外資回補買盤，技術面均線站上40,000點，形成支撐，法說會則是公司公布第三季獲利與未來產能規劃的關鍵窗口。\n🌐 影響\n法說會若顯示營收持續成長、AI晶片與玻璃基板應用擴大，將提振市場信心，助攻指數破5萬。對一般投資人而言，相關個股可能出現短線波動，適合把握基本面強勢的AI供應鏈與半導體周邊布局。若法人持續買超，外資資金流入可提升台股國際形象，進一步支撐台幣與提升企業融資環境。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMikgRBVV95cUxQRzVoSzhXdG40OUx3QXpSZTR4SG5kLVY0Y3RFZDBGX0RudUx1anozejYyUDJHQm1BVkdRUHZPV1JqRHYwU0ttcnZvYVhLNWpzT3J1SWxjSEk2WV9PRHFpTFpvNXl6Q0dpNlBuaURONDBmbzE1MGhkSC1DQ2VYNDZvLTcwQ1RfYnJ2c1lmUWIzUlQ1WFlySGx1bVJtQUZUNWNQREdKY3J0T0VTSG5TWnNyd2l4ZVF3Wm9ZYkhxT0NYSTNrT2NoN0VhNm5YdUExbFV5WHdsN05FU1dIaldKTm1sY2U0U0VvY3VPLTFFb0xlN3hyLTdWaDJfUEoxNlZ1UFRmRkRYbXZ1b24zSUszWXZMV0dISnEtQmR0cFc4U3F0ZTNwbXIwLWFPUUtzcmZHcFhXRTg2WWNLN0NPNnlXMXBiM2JsVDNqTklDeS1hX0NzNTBtSV9maVF5d3BWdmFGcXRCbERhelF0MTBDejFwVDY0RE01N3R0QWdFZTJBQWVUNnNyeUwxekFDRF9OcUIydFp5dE1rTTA1NGVpeXpEcHZFLXplWVRjS1FjNUhzb0pnVHZwMGNtT2ozMGtCd2hxVFNXQlNmYU9fXzdlWWlWdHExUnNZNGt6OWt6WXlTYWZuNGhhWjVnM3QzaTNHeTlWTENiUS1ETGNQZF91aWV3cVhxWVVvNDBXTm1UY1UyeXlPc2tfUQ?oc=5"
         }
       ]
     }
