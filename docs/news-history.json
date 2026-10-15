@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-15",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Odds of recession in next year are '50/50', says researcher David Rosenberg - CNBC",
+          "feature": "美國經濟「半機率」陷入衰退 觀測員大衛·羅森伯格警示\n📰 發生什麼事：CNBC 於 10 月 14 日報導，Rosenberg Research 創辦人兼首席經濟學家大衛·羅森伯格在《Fast Money》節目中指出，未來 12 個月美國出現衰退的機率約為 50%。他提到近期通膨降溫、聯準會利率仍高於歷史平均，且 AI 相關投資熱潮帶來市場波動，增加經濟不確定性。\n🔍 背景與來龍去脈：2023 年底至 2024 年初，美國通膨率從 7% 下降至約 3.5%，聯準會在 2023 年連續升息 11 次後於 2024 年暫緩加碼，市場一度預期衰退機率下降。然而，AI 產業資金流入過熱、企業資本支出放緩、房市需求減弱，使得經濟增長動能受挫。羅森伯格引用過去三次美國衰退前的指標（如製造業 PMI、消費者信心指數）皆呈現類似走勢，因而給出「一半機率」的判斷。\n🌐 影響：若美國真的陷入衰退，美元走弱、美債收益率下降，將直接衝擊台灣的出口競爭力及資金流向，特別是半導體與高科技產業的訂單。投資人可能重新配置資產，增加黃金與新興市場股票比重，台股可能出現波動。消費者信心受挿，台灣本地房市與零售業亦可能感受到間接壓力。企業則需關注匯率變動與美國客戶的付款週期，提前佈局風險管理。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUhwRDl6dm1rSkZva2kydkNUZElZaDBsejR1OWNvUVZBcWUyWC1qTzBVd0JPOVhqRzBSWkFBYUVYY1Y3VElYTjBIeDhxYzJHVDlrZnU3bVVTRTBiM0dsQTN1bEtKR2dqS05fSVI5RWxHTGRSSGlMTV9oV3FtdzR1czZaMVBXTDVBR2pzeWpPbUxIeUQ5S05jYVlnQllpb0lSV0lVUlE1OFpZMm5kQVUxUEVYdGI?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "【Yahoo早盤】Fed鷹聲再起？台股重摔逾1470點失守4萬8 分析師郭憲政：快撿便宜 - Yahoo股市",
+          "feature": "（標題行）Fed鷹聲再起，台股狂跌1470點失守48,000點大關\n\n📰 發生什麼事：美國聯準會連續加碼鷹派訊號，今日台灣加權指數瞬間下挫超1470點，收盤跌至48,000點以下，創近月最低；券商郭憲政呼籲投資人把握低價逢低買進。\n\n🔍 背景與來龍去脈：自2024年起聯準會多次升息以抑制高通膨，近期又暗示利率可能再上調或維持高位，全球資金流向美元資產，導致新興市場股市承壓。台股本身受美股走勢、外資持股比例高及出口導向產業景氣影響，此次跌幅與去年美國升息週期初期相似。\n\n🌐 影響：短期內外資可能持續賣超，加劇台股波動；本地投資人資產帳面虧損，消費與房市信心受挫；但低點也為長線資金提供布局機會，若聯準會政策趨緩，台股有望快速回彈。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPRmpYdEQxVmJCNG5RbEJTSUNhOXpYVm5ubkRaYlZpTmRlcElXb21US1lxVG9zQVl2SWI0dWJjZXAzVVY5ZzZwOTRhRUI3ZnNKazBvSEFHdEtBbzdkZFYwTXl1U1NaSjZmSGRVU1BobFdadGZhODBVVGJIQjBXVjMyaDdzVkJzZ2R1NGIwaDM3UWhTME1YbVZBNWUwQ0w5NDd0c3Y3OHZ0am9oc0g1RjJfWXFDUF8wMGZ4OURPa0NHUE9IN29zWkxrZm81VzMyYmNyRDRjSVFzWE10OFBRTGVsdnlGWmM3YkYwMHJ3OFF6MHZ3dXp4cUpmcTBiYWFiWDl6YzF5VFlpNXFGRzNJbmJNT1FBei1OZmRyVzd4UUtud2U3dTRDNVFTZVh5RjZWTjJwdno5QVExUzJ3LWRxbW1lVXdyY3U1V1hackxLeWJDV3NSd1BXWWEwNDV1RkxBTUF4ODhrd3h4eXBXdmN1TjVValNJNWIteVVCX2oxS0Vqd2VQaWRkeUpwY3NZTUpxdnpwc0JiVTY0NUNQY3U0VjdvaVIyTHRCZzZrblNEWVRaaXJvZUZyTmxpNHVQLWNkRmE2T1FLeDVuN3QtNFk?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-14",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "AI巨頭Nvidia加持的澳洲AI數據中心公司Firmus因市場波動撤回歷史性IPO計畫\n📰 發生什麼事：Firmus原訂以每股11澳元、募集約50億美元（約5,000億台幣）上市，估值約306億澳元，將成為澳洲第二大IPO。公司於10月9日宣布撤回IPO，理由是當前市場波動與定價未能反映其長期成長潛力，改向私募市場尋找資金。\n🔍 背景與來龍去脈：Firmus自2023年起快速擴張，2025年獲得Nvidia、Coatue、Blackstone、Jane Street等超過20億美元的投資，估值突破105億美元。其在東南亞部署的GPU算力中心以Nvidia DSX平台支援Meta等大型AI研發。2024年全球AI股熱潮推高估值，但2025年美股科技股大幅回檔、利率上升、地緣政治緊張，使投資人情緒轉弱，IPO定價難以達到預期。\n🌐 影響：撤回IPO顯示AI領域仍受宏觀環境限制，投資人將更謹慎評估高估值公司。對台灣AI產業而言，可能減少跨國合作機會與資金流入，但同時提醒本土企業在資本市場上市前需確保估值合理、營運穩健。對一般投資人，短期內相關AI股可能出現波動，長線則仍關注AI基礎建設需求持續增長的基本面。",
           "source": "CNBC",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMmdLRHRyeDk3OGFjdHA2YkJjREFLZDNxNENsWFdpN3cyOW1xQTRkRUtvY1YybXg4UzVwNUw4R1hUTFFDVVFibTRIX1RVZTc3MGZzWTN6ZmxNWndfcFpyVVZXRFNLV2tuSEHSAW9BVV95cUxORUQtcGkxbXJITWdJV2NCbUtWbEliczgzdHhTbWVXX2Z4blcxdy04TmxseUZYOXh2ZjlCYmY4b0FKZ2sydnZaLVJvcENoVll3MXN5aktLRkdWWkRORU5xbGtHQzFyQzFnLTBCSzBJRVE?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-08",
-      "featured": [
-        {
-          "category": "international",
-          "title": "CNBC Daily Open: Another Fed hike is on the horizon — but when? - CNBC",
-          "feature": "美聯儲再度升息在即　但時程仍未確定\n📰 發生什麼事：美聯儲九月會議紀要顯示官員預期在今年底前再加息一次，但未指明具體日期；下一次決策會議於10月28日、12月9日舉行。美國財政部同日拍賣393億美元10年期國債，雖抑制了5.365% 的高點，但收益率仍創2002年以來最高。股市因債券收益上升而回落，標普500跌0.22%。\n🔍 背景與來龍去脈：美國通膨已連續五年高於2%目標，核心PCE年增3%。勞動市場仍穩健，失業率低，使得聯儲認為僅靠先前的0.25%加息不足以抑制物價。自2022年以來聯儲已連續多次升息，市場預期在利率曲線平緩前仍會進一步緊縮。財政部大額發債則是因政府赤字與資金需求增加，投資人對高收益債券需求旺盛，導致競價強勁。\n🌐 影響：美國高收益債券推升全球利率，台灣新台幣面臨升值壓力，進口成本下降但出口競爭力受損；本地債市利率同步上揚，政府與企業債融資成本上升。股市短線受挫，金融股受惠於利差擴大。投資人需關注後續通膨數據與勞動市場報告，以判斷加息時程與幅度。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZm5HYTdHemdhX3cydXdqckdYWHkxbW9wQUdianZyY19ValBBYjRoWDd2OEFqa2Y3T0VRaDZlanh0X3RRSUZmWnlJMkt2SjJMYURKQm1ZV3l5R09qenZ1MTBIRVZjaFRfUTJOYjVaY3NhbFdQSGFtQWZCODY5c01VNm5aNHBJZmxS0gGOAUFVX3lxTE4yMDBIbWVHeXNZZXFtWEtpd0I3NkZkQkxKRkFZWjVmeWdEeW5uLXZ2R1JJX19lWHZQWWVzZGhhQlVxaTlnNHNqUzdvdFV4TE5JVG1tNTlqQ25uVmZPWW5lU2hJM2ZZbnRJWkRFX243OXBGVm8xQzVfT2c3SHRQUkRCVFQ1eDVnNmVORmZ2MkE?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "〈房產〉928房市檔期效應+央行鬆綁 9月北台灣新案供給面增強",
-          "feature": "928檔期加央行鬆綁，北台新建案供給激增但成交仍低迷\n📰 發生什麼事：住展風向球9月分數升至36.1分，預售推案量較上月增300億至700多億，新成屋公開200餘戶。待售案數升至1579案，議價率維持約1成。但每週平均來客僅約12組，成交不足1組，市場仍在谷底。\n🔍 背景與來龍去脈：9月正值年度最後一次「928檔期」，建商常於此時集中推案；同時央行在理監事會議放寬房貸信用管制，降低貸款門檻，刺激部分建商打鐵趁熱。上半年受信用管制影響，新案量大減36%，導致庫存低且買氣冷卻。股市資金流向、升息預期與選舉不確定性亦抑制購屋意願，形成供需失衡的結構性瓶頸。\n🌐 影響：供給回溫有望在短期內緩解待售壓力，對建商營收是正面訊號；但低議價與成交低迷顯示買方仍持觀望，房價短期大幅下調可能性不高。對一般民眾而言，若未來利率持續上升，購屋成本將增加；同時市場供過於求的區域（如青埔、A7、竹東）出現價格回落，提供部分首次購屋族或投資客較佳入市時機。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6624625"
         }
       ]
     }
