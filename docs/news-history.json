@@ -1,6 +1,18 @@
 {
   "days": [
     {
+      "date": "2026-10-16",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Government Holds Emergency Review After Stock Market Plunge... \"Real-Time Monitoring of Financial Market Volatility\" - 아시아경제",
+          "feature": "韓國股市急速暴跌，政府緊急召開市場檢視會議\n📰 發生什麼事：10月15日，KOSPI 單日跌逾7%至5,554點，創7月以來最大跌幅。金融服務委員會即刻召開緊急檢視會議，與金監、交易所等啟動即時波動監測與應變機制。\n🔍 背景與來龍去脈：跌幅主因三方面：AI 晶片投資前景不佳、美元走強及美國持續高通膨預期導致加息、油價上揚增加成本。連續七交易日累計跌超21%，市場情緒已過度恐慌。\n🌐 影響：台股受外資賣壓波及，半導體相關 ETF 可能資金外流；同時顯示亞洲監理機構快速介入能力，對台灣金融監管有借鏡價值。投資人應留意美元、利率與能源價格變化，調整配置以降低風險。",
+          "source": "Reuters Business",
+          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6RTlVQnJFbTBvUEhQWlVBUHMyeWZlWVBFNVNkX2VrMmk5QVBWeEZHdTRoa2VJNE80Y2tiZzN0bGFDaFVoNlM3RGxLenZZWk05bXpUVzFjNV9UM2VTczJZSjRxQVR1Q0dhY3hNR0dpc1lGb1Rfakh0MXJn?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-15",
       "featured": [
         {
@@ -111,18 +123,6 @@
           "feature": "低軌衛星熱潮加速，啓碁與耀登搶占地面設備市場\n📰 發生什麼事：SpaceX 星鏈推進 V3 部署，6G NTN 成形，全球低軌衛星發射市值預估2028 年達 404 億美元；地面裝置佔產值 54.58%。台廠啓碁（6285）與耀登（3138）分別布局衛星終端與射頻天線，啓碁與工研院共同研發 Ka 頻段模組，耀登拓展認證服務並於 Q3 在越南投產新廠。\n🔍 背景與來龍去脈：自 SpaceX、藍色起源等大型業者加速衛星星座建設，發射成本下降且 6G 非地面網路概念成熟，拉動地面設備需求。TrendForce 估算地面終端是供應鏈最大價值環節，台灣在光通訊、天線製造具競爭優勢，故啓碁、耀登提前布局，以降低單一客戶依賴並擴展海外產能。\n🌐 影響：短期內相關股價受惠，訂單可能提升 10‑20%；長期看，台灣供應鏈可成為全球低軌衛星地面市場重要角色，帶動光電、射頻與製造業的投資與就業，同時推動 5G/6G 應用於無人機、車聯網等高移動性場域。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6626114"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-09",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Nvidia-backed Aussie AI firm Firmus withdraws historic IPO, citing market volatility - CNBC",
-          "feature": "AI巨頭Nvidia加持的澳洲AI數據中心公司Firmus因市場波動撤回歷史性IPO計畫\n📰 發生什麼事：Firmus原訂以每股11澳元、募集約50億美元（約5,000億台幣）上市，估值約306億澳元，將成為澳洲第二大IPO。公司於10月9日宣布撤回IPO，理由是當前市場波動與定價未能反映其長期成長潛力，改向私募市場尋找資金。\n🔍 背景與來龍去脈：Firmus自2023年起快速擴張，2025年獲得Nvidia、Coatue、Blackstone、Jane Street等超過20億美元的投資，估值突破105億美元。其在東南亞部署的GPU算力中心以Nvidia DSX平台支援Meta等大型AI研發。2024年全球AI股熱潮推高估值，但2025年美股科技股大幅回檔、利率上升、地緣政治緊張，使投資人情緒轉弱，IPO定價難以達到預期。\n🌐 影響：撤回IPO顯示AI領域仍受宏觀環境限制，投資人將更謹慎評估高估值公司。對台灣AI產業而言，可能減少跨國合作機會與資金流入，但同時提醒本土企業在資本市場上市前需確保估值合理、營運穩健。對一般投資人，短期內相關AI股可能出現波動，長線則仍關注AI基礎建設需求持續增長的基本面。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9tMmdLRHRyeDk3OGFjdHA2YkJjREFLZDNxNENsWFdpN3cyOW1xQTRkRUtvY1YybXg4UzVwNUw4R1hUTFFDVVFibTRIX1RVZTc3MGZzWTN6ZmxNWndfcFpyVVZXRFNLV2tuSEHSAW9BVV95cUxORUQtcGkxbXJITWdJV2NCbUtWbEliczgzdHhTbWVXX2Z4blcxdy04TmxseUZYOXh2ZjlCYmY4b0FKZ2sydnZaLVJvcENoVll3MXN5aktLRkdWWkRORU5xbGtHQzFyQzFnLTBCSzBJRVE?oc=5"
         }
       ]
     }
