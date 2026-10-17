@@ -1,84 +1,91 @@
 {
-  "date": "2026-10-16",
+  "date": "2026-10-17",
   "featured": [
     {
       "category": "international",
-      "title": "Government Holds Emergency Review After Stock Market Plunge... \"Real-Time Monitoring of Financial Market Volatility\" - 아시아경제",
-      "feature": "韓國股市急速暴跌，政府緊急召開市場檢視會議\n📰 發生什麼事：10月15日，KOSPI 單日跌逾7%至5,554點，創7月以來最大跌幅。金融服務委員會即刻召開緊急檢視會議，與金監、交易所等啟動即時波動監測與應變機制。\n🔍 背景與來龍去脈：跌幅主因三方面：AI 晶片投資前景不佳、美元走強及美國持續高通膨預期導致加息、油價上揚增加成本。連續七交易日累計跌超21%，市場情緒已過度恐慌。\n🌐 影響：台股受外資賣壓波及，半導體相關 ETF 可能資金外流；同時顯示亞洲監理機構快速介入能力，對台灣金融監管有借鏡價值。投資人應留意美元、利率與能源價格變化，調整配置以降低風險。",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6RTlVQnJFbTBvUEhQWlVBUHMyeWZlWVBFNVNkX2VrMmk5QVBWeEZHdTRoa2VJNE80Y2tiZzN0bGFDaFVoNlM3RGxLenZZWk05bXpUVzFjNV9UM2VTczJZSjRxQVR1Q0dhY3hNR0dpc1lGb1Rfakh0MXJn?oc=5"
+      "title": "Semiconductors are out, software is in. Why that’s not about to change anytime soon - CNBC",
+      "feature": "【AI時代軟體逆風翻盤，晶片資金撤退】\n📰 發生什麼事：自2026年上半年以來，全球資金從半導體轉向企業軟體。Workday、Microsoft等 SaaS 股在跌至 3 倍營收以下後，第三季大幅反彈，領先指數走高；同時半導體指數自 6 月起累計下跌逾 20%，市值蒸發逾 1 兆美元。\n🔍 背景與來龍去脈：AI 需求最初推升晶片訂單，卻因高利率、資金成本上升與 AI 設備資本支出放緩，導致芯片供需失衡。投資人開始質疑高資本支出回報，轉而看好以軟體訂閱模式、低資本需求、能快速抓住 AI 應用的 SaaS 公司。Jim Cramer、Wells Fargo 等策略師也公開宣稱「軟體王者回歸」。\n🌐 影響：對台灣而言，半導體出口短期可能受壓，但軟體產業、雲端服務及 AI 應用開發將受資金青睞，相關人才需求與投資機會同步上升；同時資金流向美國國債，台幣匯率或見短暫升值壓力。投資人可考慮配置高毛利 SaaS 股票或本土軟體公司，以分散晶片週期性風險。",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLU1XbVZCSzFIWllNZGd5c0ZYalpYXzZaUUd2LWtJZjkwbnVneWFKTVZpaXJzcTR4MEoxbUVONHZLTUgyaVNXNEpjdC1kaU1Tdmo5anZ1c2hHOGJGVWJnNlJPRU9YUnl3RzVkM3BYT1BQSzRUNGFockVZNGlBVDlrOQ?oc=5"
+    },
+    {
+      "category": "taiwan",
+      "title": "台積電法說會、經部擬赴德州設產業園區、外資單日賣超破紀錄 本周大事回顧",
+      "feature": "AI需求推升台積電營收，外資狂砍創單日賣超新高\n📰 發生什麼事：台積電15日法說會公布第三季每股盈餘29.43元創新高，預估第四季美元營收季增14%，全年成長上修至約44%。同時經濟部宣布將在德州投資20‑40億美元建置AI產業園區。美國CPI高於預期引發升息疑慮，外資當日賣超3025.55億台幣，創單日最大賣超紀錄，台股跌逾3%。\n🔍 背景與來龍去脈：受益於NVIDIA與蘋果等大客戶的AI晶片需求，台積電持續擴產先進製程與封裝，營收結構已從傳統手機轉向資料中心與AI加速器。美國為降低供應鏈風險，鼓勵台灣半導體企業赴美設廠，故經部與電電公會合推德州園區，旨在打造從設計到封測的一條龍供應鏈。美國通膨數據升溫、聯準會可能加碼升息，令資金回流外資拋售台股指數與市場情緒。\n🌐 影響：台積電營收上修鞏固其全球代工龍頭地位，提升本地相關產業與就業機會；德州園區將加速台灣AI硬體出口美國，降低地緣風險。外資大規模賣超短期衝擊台股指數與市場情緒，可能促使投資人重新配置資金至防禦性或美股ETF，同時提醒投資者關注利率變動對高成長科技股的估值壓力。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6628309"
     }
   ],
   "candidates": [
     {
-      "title": "輝達黃仁勳：AI晶片供應不求 訂單幾乎天天不斷湧入",
-      "content": "黃仁勳稱AI晶片訂單幾乎每週、甚至每天湧入，客戶需求持續超過輝達供應能力。 大型雲端服務商、新興AI雲端營運商與設備製造商大量下單，最大客戶已提前兩年規劃需求。 電力短缺、資料中心未完工與零件供應限制產能；黃仁勳稱CoreWeave財務改善，輝達毋須額外支持。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6631815"
-    },
-    {
-      "title": "〈房產〉出手打炒房奏效 全台房貸負擔率降至41.46% 房仲：買房難度仍高",
-      "content": "自2024年央行推出第七波選擇性信用管制以來，房市熱度逐步降溫，房價漲勢趨緩，民眾購屋負擔也因此出現改善。根據內政部資料，對比2024年第一季與2026年第一季全台及六都房貸負擔率變化，全台房貸負擔率已經由44.30%降至41.46%，減少2.84個百分點；進一步觀察六都表現，其中以台北市減幅最大，",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6631793"
-    },
-    {
-      "title": "17檔台股ETF除息前最後買進日曝！ 00927年息20%今年漲幅奪冠| 存股族愛ETF | 股市 - UDN",
-      "content": "17檔台股ETF除息前最後買進日曝！ 00927年息20%今年漲幅奪冠| 存股族愛ETF | 股市 UDN",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE81SDg1SzJZWlVTUjA1NlA2NHVETEhKTGJOeDVZb3BoZkVHTXVCNjlIWmNIY2FvTUFPNjFpSVd3TkRfdk5mRXNJTUpOMzJYYkVSZjdGall6YmNCcGZhMnpSV1hTbFh6cVFGcmk5RXJoaXJDeFJscFJNN1pMTHRXZnc?oc=5"
-    },
-    {
-      "title": "〈智慧能源週〉燁輝MAXITRA鋅鋁鎂鋼品跳脫單一市場 雙軌布局綠能及AI基建應用",
-      "content": "燁輝(2023-TW)於「2026 台灣國際智慧能源週（Energy Taiwan）」展出旗艦產品MAXITRA鋅鋁鎂鋼品，應用範圍涵蓋太陽光電、AI伺服器機殼、資料中心基礎建置及儲能系統等領域，跳脫單一市場，雙軌布局綠能與 AI 基建應用。 燁輝指出，隨著台灣光電市場逐步轉型，產業需求已從追求新",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6631817"
-    },
-    {
-      "title": "聯發科領軍、PCB 攜手記憶體助陣 台股開高彈升近500點 - UDN",
-      "content": "聯發科領軍、PCB 攜手記憶體助陣 台股開高彈升近500點 UDN",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE42M1JPWnlFeElVUl96RkQtclNld1JSWVRDdEIxb2U0X2RxcHJTTGg4eFhxcUd1bmk3ellhQVNaOHRkTXRoZFRvTVJBTVpnVjc50gFWQVVfeXFMT0NrOWVhckh1VU1kUGM5TFVULXp6blRSNGYycVlWWHh4SGpkaUdudkljSndqQlprd21vcTd6d2xtanNFRlNfc3BxSWJXS0s2dXJiWW9BV0E?oc=5"
-    },
-    {
-      "title": "科技股賣壓湧現 誰值得逢低買？專家點名布局標的與進場時機",
-      "content": "科技股近一周遭遇賣壓，投資人重新評估主要人工智慧（AI）企業的成長前景，也憂心聯準會下一步動向，會衝擊仰賴外部融資的業者。不過，MarketWatch報導指出，此時急於退出科技股可能代價高昂，因股價回檔也帶來逢低布局機會，關鍵在於慎選標的。",
+      "title": "張婉瑩監視賴清德兒子案外案！CBS追查人脈牽出柬埔寨太子集團",
+      "content": "美籍華裔女房仲張婉瑩涉嫌受中國大陸政府指示，在西雅圖監視賴清德總統長子賴廷與一家，7日遭聯邦法院裁定繼續羈押。CBS新聞調查揭露，張婉瑩及曾與他同行監視賴廷與一家的苗發太（Fatai Miao，音），都與涉嫌詐騙美國人數十億美元的柬埔寨太子集團有關。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9818290"
+      "link": "https://money.udn.com/money/story/5599/9820406"
     },
     {
-      "title": "台股止血反彈重拾47K！「這檔鋼鐵」受線纜題材加持、連日亮燈大眾控急搶AI、光通訊商機也登頂 - Yahoo股市",
-      "content": "台股止血反彈重拾47K！「這檔鋼鐵」受線纜題材加持、連日亮燈大眾控急搶AI、光通訊商機也登頂 Yahoo股市",
+      "title": "〈熱門股〉和碩AI伺服器動能啟動迎秋收 周漲逾1成站回百元關",
+      "content": "和碩(4938-TW)承接輝達(NVDA-US)GB300的雲端運算事業群「T1專案」首批完成出貨，AI伺服器動能啟動，正式迎來秋收，帶動第三季營收衝上3,890.26億元，年增5成，創歷史同期新高，激勵和碩本周漲逾1成，站回百元關卡，股價寫近2年新高。 和碩本周漲幅13.71%，周二",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6632365"
+    },
+    {
+      "title": "2492 華新科- 台股重挫別亂買！ - 股市爆料同學會 - CMoney",
+      "content": "2492 華新科- 台股重挫別亂買！ - 股市爆料同學會 CMoney",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMitwNBVV95cUxQb1NTV3paOVRkeGQ2cVhRd1VsLVFfVHZja2E3T2RTUjdNUzgxdVZfTHdlc3V2dFJCM1NLcEhLT1MwV1F4WDh0NlZzVThvN2QxZ3BUdzJ2UGtfeHpxaDdRUFRsdnhDX0JndHVzSG5xT3E4b2VzeDlPekl3N1lCRHBtazVENXdQeFNZeVBLLWZESnoxbzFaRFVVekpOaC0wOGhCX0JoMEVhVXpnREh5NjJnbTN5djNDbXNIWnlTUlJHelBHa3JTUzBTUmNOX201WWZmLW9rNnBuNUM2MGtnT0xoVzVLMmNBbE1pQ2xET1d2VXFzTzhVMkZ6Ui1kYnJQSFpFRGNQaVhjVXliWU5NVXZ2TkstNGlrbGpwR1NfTHYxR0t5MGhqYzlzWWwwQXpqTkhMVDdsYXo0a3RUV2wxZXVLejJ4SVVEZy13ODNQMGRNWE1YcnZvdXZUODl3MUNSV1VzWDk0b1pSRk1ZODdILW0yV21fWGYtQmRmX2d3RHoyZzA0VU5IbkNJZUxGTE13YVk0RmRVTDRuazFrX01JaGtHaUxxcVdsMWZvWng2QjNSY3B6MXRhQkRN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBMaVBiX3Z4NW1XVTZpMzNkWFQ4UHV2TEtQMGY4dFBvR1U5Nl8zRlh5ZzBGQkx2alBNOWZaSzZXTFYzQUFweDFVTmxFRUVOMk5FLUZMOGhwcTA?oc=5"
     },
     {
-      "title": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back - CNBC",
-      "content": "India's rupee forecast to weaken toward 100-per-dollar level even as RBI pushes back CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HcUxuY0hCWW8zeVdCNkl5S1pOSFJtTGV1Zkl1YUtmMllkVVE4Qnl4XzZzM25RRE9xNExFdFZaQmI2T1l4QVQ2NzhYay1TNGRVOVBVTy1UN3ZHaEJJTWVHWFNtakFtMFpLWnNKLWtqbnJtc3QtUVg40gF8QVVfeXFMUE02NGRjOW5NTDlaYTJUWHVTT2hxLWdQNmlDekpON2JTRi1jN29fYmpFQzA3cXVkRGk4OHVOVUdaSXQxVEdMVW1ZNXBiNGJRcVZTMU5ueHJUdk1ZQUxleVNnZ2J3UThsRENRYlptTHZ6MENmZ0FYOXBua09tbQ?oc=5"
+      "title": "台股一週重挫2202點 上市市值蒸發7.17兆元 - 壹蘋新聞網",
+      "content": "台股一週重挫2202點 上市市值蒸發7.17兆元 壹蘋新聞網",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPM1czWTh3Vl94MXZ5c0pkbFZpNllzS3RGc1Rqd1lhelRSSnA4NnlXbU5KZV80QmltVWFSODlNcHFBSEdyM2l1Q0JlaF9KeC1fc1VkRkFFSnBESDY5ZUkzN1d2czJuY09IOG9kUDlfaDd0UTlVR1VLOUFSLU5JV3JWaQ?oc=5"
     },
     {
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTHROSGV0cmV5eDBUMlFRUkd3N1g0OThVelkycWtzSTN4Q1JTT2E2bGI5LXp3YWtMUlpYd3JvSkE5eEY3SVJabkwzYTE0cndCbGNPQ00tVU1kajBsZDFERVFWbGRkMW1vS191TjVzb0tsLUQ0QXlNbVNDeC1xYy1mNzVqd3VkYmMyRmVyX3ZBMS1Gc2J1S1M3Tkdn?oc=5"
+      "title": "台股震盪、金融股成避風港？ 法人看好這6檔「殖利率最高4.85%」 - FTNN新聞",
+      "content": "台股震盪、金融股成避風港？ 法人看好這6檔「殖利率最高4.85%」 FTNN新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE14bFdnS1lTZVBSRlY5QTFlX0g4ZE1uZnBRZ1VLSjdvZ25TY25LYTZEdXpvWVpEM0NMWUdlcm9qY25URjhwWDhjZnl4NA?oc=5"
     },
     {
-      "title": "People in China are spending nearly as much of their income as Americans on healthcare - CNBC",
-      "content": "People in China are spending nearly as much of their income as Americans on healthcare CNBC",
+      "title": "美銀Hartnett轉趨避險 未來一個月風險升高",
+      "content": "美銀BofA轉向避險，預估未來3至4週經濟、政治與信用壓力升高，市場風險增加。 Hartnett稱Fed本月升息可重建公信力，10年期美債殖利率已自24年高點回落約25個基點。 美銀建議轉向非必需消費品、REITs與小型股，長期偏好黃金、大宗商品及新興市場。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6632572"
+    },
+    {
+      "title": "美國小學槍擊案英雄曝光！女教師與16歲槍手扭打 學生家長開槍擊斃",
+      "content": "美國俄勒岡州本德市銀軌小學（Silver Rail Elementary School）15日發生槍擊案，一名16歲前學生闖入校園開槍掃射，造成一名教師和3名兒童死亡，隨後遭一名開車經過、挺身介入的學生家長開槍擊斃。當局16日公布槍手、其中2名死者及制止槍手的家長身分，並說明案發經過。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9820361"
+    },
+    {
+      "title": "'Fast Money' traders talk what this market rotation signals about the AI trade - CNBC",
+      "content": "'Fast Money' traders talk what this market rotation signals about the AI trade CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPNWVuY2p1bVBlVlRWUFlLaF9Ca2FKVU5rU0JSTGNaWmViUmFMaGtPN203N2ZTZzNQdzJ1Z0N2OGUtRmlLWEI4WFZndldjd19aV2NZbnN2UUF4aEhqbUhvbVEzWjMwMXpKdXdKY1RfdHExTXlIV0FyWGhWWnJqV1ZBTmZjQWNnQkFtd2RIeEZuZHlCcjRSajM0YzlDY1NGM2tVRzJ5R2l0d3rSAa4BQVVfeXFMUFpGVGFWNUd4al81VkRmbUtmVzEtSGVQMHIyVkxxc3hFUEJCbFE5aldfM3dfQklHRld4ZUJqQ3VQdllBbUpaZXp5OFdjQUxqMFc4a1hBMDBUYWhFMVduM2ZrcUVucTlpeGxuQXBBdHlxdUVhRmxJUmt1TkN1QWVvQ2t5a0ZVdzN6NENMd21pemg2X3pkMFJBUVp6QkpjbW1jMWZUYld6VFlSYUVWdktB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVjFmTG1KUEdUNnpEdDV3Yk9tcGZwZDFDaHhBem5IQnp2bEY0UVg1NWpienh0R21CeERmUnh5ZkJMaTdGZFY5TWszM3c5STdXS01kVGtwc05INTBuOFR3bmxfNERNUEVMXzQxVzhLVEQwWTZLVzAwd2tlNFpZaWlpemxTSkd2WFY4dE1NT2NUVzlxdG40ZElrYmRGTXBBRnBiR0J2WkNDbGFiTXM5N1lMN0ZNLTM4OFB5NVBB?oc=5"
+    },
+    {
+      "title": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues - CNBC",
+      "content": "Why did CoreWeave stock get crushed this week? Look to this corner of the debt market for clues CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEFNbTJkZS16Qmw2cG1XaEdEZzZpbXNQY2lQWjVmODEyTzVwTVlWU2czMlpQT2QxZ0x4SnpYOTFncFR2eTM4OWh4dWFoaFBFXy01UEFieXJ5MXFUcG4wMEp6MGpReVRhQkNDd0hqU1NMY01IM1FyN1BZQWk2QVo0Qng3YUhLVmNh?oc=5"
+    },
+    {
+      "title": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis - CNBC",
+      "content": "The Austin Powers steamroller: How to trade CoreWeave's slow moving crisis CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5mVEJjLXVacGpYWDZCVmR3ZmZWT2kwQTdFaEtpRW5UcjZHekRXcWpjLUtpbWh0cjdfYmpfdXFMUlBVa0ZfOXVkcXdMdXFtaHE4OVVqRlZtek5MbE9HbDJIb2hxSjJKdDh3T09CS0x4U0lRVFEtX2tGdtIBfkFVX3lxTFBFbVdOd0FkOTBWektPLVZhbjhMSjI0eC1na1pIajdaRU85X2lrd3gxMEY0R0NWMThvcnNHVTF3Z3BQNkdvclZCZXVyM2pWb1pFRzZob1FtaHlYQUtqTHNZU3BSN2U0OHFjSG9qR1hQUzNPcmllbU9ORFFGVlVjUQ?oc=5"
     }
   ]
 }

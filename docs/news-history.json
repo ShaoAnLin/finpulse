@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-17",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Semiconductors are out, software is in. Why that’s not about to change anytime soon - CNBC",
+          "feature": "【AI時代軟體逆風翻盤，晶片資金撤退】\n📰 發生什麼事：自2026年上半年以來，全球資金從半導體轉向企業軟體。Workday、Microsoft等 SaaS 股在跌至 3 倍營收以下後，第三季大幅反彈，領先指數走高；同時半導體指數自 6 月起累計下跌逾 20%，市值蒸發逾 1 兆美元。\n🔍 背景與來龍去脈：AI 需求最初推升晶片訂單，卻因高利率、資金成本上升與 AI 設備資本支出放緩，導致芯片供需失衡。投資人開始質疑高資本支出回報，轉而看好以軟體訂閱模式、低資本需求、能快速抓住 AI 應用的 SaaS 公司。Jim Cramer、Wells Fargo 等策略師也公開宣稱「軟體王者回歸」。\n🌐 影響：對台灣而言，半導體出口短期可能受壓，但軟體產業、雲端服務及 AI 應用開發將受資金青睞，相關人才需求與投資機會同步上升；同時資金流向美國國債，台幣匯率或見短暫升值壓力。投資人可考慮配置高毛利 SaaS 股票或本土軟體公司，以分散晶片週期性風險。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNLU1XbVZCSzFIWllNZGd5c0ZYalpYXzZaUUd2LWtJZjkwbnVneWFKTVZpaXJzcTR4MEoxbUVONHZLTUgyaVNXNEpjdC1kaU1Tdmo5anZ1c2hHOGJGVWJnNlJPRU9YUnl3RzVkM3BYT1BQSzRUNGFockVZNGlBVDlrOQ?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "台積電法說會、經部擬赴德州設產業園區、外資單日賣超破紀錄 本周大事回顧",
+          "feature": "AI需求推升台積電營收，外資狂砍創單日賣超新高\n📰 發生什麼事：台積電15日法說會公布第三季每股盈餘29.43元創新高，預估第四季美元營收季增14%，全年成長上修至約44%。同時經濟部宣布將在德州投資20‑40億美元建置AI產業園區。美國CPI高於預期引發升息疑慮，外資當日賣超3025.55億台幣，創單日最大賣超紀錄，台股跌逾3%。\n🔍 背景與來龍去脈：受益於NVIDIA與蘋果等大客戶的AI晶片需求，台積電持續擴產先進製程與封裝，營收結構已從傳統手機轉向資料中心與AI加速器。美國為降低供應鏈風險，鼓勵台灣半導體企業赴美設廠，故經部與電電公會合推德州園區，旨在打造從設計到封測的一條龍供應鏈。美國通膨數據升溫、聯準會可能加碼升息，令資金回流外資拋售台股指數與市場情緒。\n🌐 影響：台積電營收上修鞏固其全球代工龍頭地位，提升本地相關產業與就業機會；德州園區將加速台灣AI硬體出口美國，降低地緣風險。外資大規模賣超短期衝擊台股指數與市場情緒，可能促使投資人重新配置資金至防禦性或美股ETF，同時提醒投資者關注利率變動對高成長科技股的估值壓力。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6628309"
+        }
+      ]
+    },
+    {
       "date": "2026-10-16",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "美國337調查點名鴻海、台達電等20家台陸企業，AI伺服器供電技術陷專利風波\n📰 發生什麼事（USITC於9日依《關稅法》第337條啟動調查，指控20家企業包括鴻海、台達電、廣達、立訊精密等在美銷售的垂直供電系統與相關運算設備侵害美國電源公司Vicor的專利，可能面臨進口排除令或停止侵權命令）\n🔍 背景與來龍去脈（垂直供電技術可縮短電力傳輸路徑、降低損耗，是高效能AI伺服器與資料中心的關鍵配件。隨著GPU、TPU等AI晶片功耗激增，全球供電模組需求大增。Vicor於2025年已在台達等公司案獲裁定侵權，遂於2026年再次以相同專利向USITC提訴，擴大至整個供應鏈）\n🌐 影響（若調查最終認定侵權，相關產品將被限制進入美國市場，台灣AI伺服器產業出口受阻，股價及營收可能受壓；同時也促使企業加速自研或採購非侵權方案，提升供電技術本土化。對美國而言則是加強專利執行、限制中國供應鏈滲透；對投資人而言需關注案件進度與可能的法律成本）",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6627468"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-10",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Bernstein's Madison Rezaei: SpaceX plan to buy spectrum portfolio is good for tower operators - CNBC",
-          "feature": "SpaceX 併購全美頻譜，塔台業者受益\n📰 SpaceX 宣布與美國政府達成協議，收購全國約 30 MHz 的 5G/4G 低頻段頻譜，將此頻段整合至 Starlink 衛星寬頻，並計畫以自有或租賃方式向行動業者提供服務。\n🔍 背景與來龍去脈：近年美國 FCC 釋出多波段頻譜，原屬大型電信業者 AT&T、Verizon、T‑Mobile 專屬。SpaceX 為加速 Starlink 進軍地面行動通訊市場，選擇一次性收購大量低頻頻譜，以提升覆蓋與穿透力。此舉延伸了 SpaceX 從純粹衛星寬頻到混合式電信的策略，也呼應了 2023 年併購微波頻譜的前例。\n🌐 影響：頻譜購買令塔台公司如 American Tower、Crown Castle、SBA Communications 股價上揚 6‑11%，因未來將出現第四大租戶，提升租金收入；同時傳統電信股因競爭加劇短期回檔。對台灣而言，若 Starlink 進一步布局亞洲，可能帶來跨境租賃或合作機會，提升本地塔台資產價值，也提醒本土電信加速自有頻譜與基礎建設布局。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNU180d0lCOHhCdVdoS3ZHSVdGVHRuUmVfdFZuQlQ5ekJBZWxFbmZDVDR1R2JGdkM5a09abjFjX3M5RUJXT2pKMXB2X25rX2RaTHVJbXY4R1J6WnZaSHJkMWtWb21jdmdGbjBxd21URDQ3V1VWaDRvbld4MWVPZXdya21CTXBsZzhLSGE4WFRhbGlOaHZYVVZjekJhTVhfOWgtSGswdmg5RUdVVmRNcmJKaVpnVTZ0U0UwN2x3Q3pDbnJhQ1hZRnhfekgyOU8ySkU?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "全球低軌衛星部署加速 啓碁、耀登卡位地面設備與天線長線看俏",
-          "feature": "低軌衛星熱潮加速，啓碁與耀登搶占地面設備市場\n📰 發生什麼事：SpaceX 星鏈推進 V3 部署，6G NTN 成形，全球低軌衛星發射市值預估2028 年達 404 億美元；地面裝置佔產值 54.58%。台廠啓碁（6285）與耀登（3138）分別布局衛星終端與射頻天線，啓碁與工研院共同研發 Ka 頻段模組，耀登拓展認證服務並於 Q3 在越南投產新廠。\n🔍 背景與來龍去脈：自 SpaceX、藍色起源等大型業者加速衛星星座建設，發射成本下降且 6G 非地面網路概念成熟，拉動地面設備需求。TrendForce 估算地面終端是供應鏈最大價值環節，台灣在光通訊、天線製造具競爭優勢，故啓碁、耀登提前布局，以降低單一客戶依賴並擴展海外產能。\n🌐 影響：短期內相關股價受惠，訂單可能提升 10‑20%；長期看，台灣供應鏈可成為全球低軌衛星地面市場重要角色，帶動光電、射頻與製造業的投資與就業，同時推動 5G/6G 應用於無人機、車聯網等高移動性場域。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6626114"
         }
       ]
     }
