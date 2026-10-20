@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-20",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Three big takeaways from the IMF-World Bank meetings - CNBC",
+          "feature": "IMF與世界銀行會議釋出三大警訊：債市波動、晶片熱潮與地緣政治新局\n📰 發生什麼事：10月在曼谷舉行的 IMF‑世界銀行年會召開逾 1.8 萬名代表，IMF 公布《全球金融穩定報告》，警告主權債券殖利率可能因通膨、債務與 AI 相關借貸而出現「失序」上升；同時，韓國財政部長在會上指出半導體需求仍超供給，晶片熱潮至少延伸至 2027 年；俄羅斯則提議美、中、俄三國舉行和平會談，烏克蘭被排除在外。\n🔍 背景與來龍去脈：近年能源危機推高先進國家通膨，政府債務已逼近二戰以來最高水平；AI 企業大量發行長期債券，與主權債競爭資金；半導體則因 AI 需求與供應鏈重組，持續拉高韓國及台灣的產能投資；俄美中三角外交則反映大國在烏克蘭問題上的策略調整。\n🌐 影響：債券殖利率飆升將提升台幣利率、增加企業融資成本，投資人可能重新配置資產；晶片產業的持續擴張有利於台積電等本土廠商，但也可能加劇產能過剩風險；地緣政治變局讓台灣在安全與出口市場上面臨更大不確定性，企業與投資人需同步關注政策走向與風險管理。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblRUeEhJa2ZudHZxRXVFcmJxTkc5clFqdmFIQVNpT292MTVVVS1fLUtCa2hPQ084ZUhEUXRKZUVqRzdUdm13ci1nU2NISU9HTUkzM3VIWnRDNzBPS3dBZVFoN2xUUy1qSUE1MGhVS2lDZ2lkYXNLSnUwSndVWmozSNIBhgFBVV95cUxObzgyTTBPM3hIZE5jakVpVTE5VGp3UjR4cHZlV1huT1lBTUlMcGNVaGIza0E3THdEMXEzR3ZWSWxkS2h5OTRQZ1NaNEZHclVkaVRCYU0xdnhHWm9CZUVWRk8yOE15MndJdTFKWHBfeTIxUFFOLWMySWxDRTFySjc0THZndVphZw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "中國LPR報價 連續第17個月保持不變",
+          "feature": "(標題行)中國LPR連續第17個月保持不變，暗示政策利率已進入穩定期\n\n📰 發生什麼事\n中國人民銀行於10月20日公布1年期LPR 3.00%、5年期以上LPR 3.50%，較上月未有變動，為連續第17個月持平。\n\n🔍 背景與來龍去脈\nLPR自2025年5月下調10個基點後，與7天期逆回購利率同步走勢，已連續17個月維持不變。央行行長潘功勝表示，正推動利率定價基準多元化，從單一LPR向“LPR+DR”等市場化指標轉型，同時加強結構性貨幣工具（如PSL下調、再貸款貼息）以支撐實體經濟。\n\n🌐 影響\n對企業貸款成本短期穩定，有助於降低資金波動；但結構性改革可能提升大企業利用市場利率融資的靈活度。對台灣而言，中國製造業資金成本持平或減少，可能抑制匯率波動，且相關產業供應鏈資金壓力不大，投資者可留意兩岸資金流向與利率傳導效應。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6633615"
+        }
+      ]
+    },
+    {
       "date": "2026-10-19",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "Fed波士頓總裁警示：年底前或再升息以遏制通膨\n📰 發生什麼事：美國波士頓聯邦儲備銀行總裁蘇珊·柯林斯在本週銀行業會議上表示，鑑於通膨仍高於2%目標，Fed可能在今年年底前再小幅加息，將政策利率再提升0.25個百分點。\n🔍 背景與來龍去脈：自2022年起美國通膨持續超標，Fed連續多次升息，近期已把基準利率提升至3.75%~4.00%。柯林斯指出，儘管就業市場仍強勁，AI投資、能源價格上漲與中東局勢等供需面因素讓通膨降溫變慢。她強調是否升息將視未來數據而定。\n🌐 影響：若再升息，美國借貸成本上升，將抑制企業投資與消費，美元走強可能推升新台幣匯率，降低進口物價但壓縮出口競爭力；同時債券收益率上升，台股受益於資金流向美債的調整，投資人需留意利率波動對資產配置的影響。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9813213"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-13",
-      "featured": [
-        {
-          "category": "international",
-          "title": "IMF warns bond yields could see a 'disorderly' spike as debt, inflation risks worsen - CNBC",
-          "feature": "（標題行）IMF 警告：政府債券殖利率或將因債務與通膨風險出現「無序」急升\n📰 IMF 在本週曼谷舉行的全球金融穩定報告指出，隨著能源成本上漲、央行收緊政策以及 AI 企業大規模發債，主要先進國家政府債券殖利率已逼近數十年高點，且可能出現「無序」的急速上升。\n🔍 背景包括自2024年以來能源危機推高通膨、全球公共債務已逼近二戰以來最高水平、且 AI 產業為爭奪資金來源，已佔投資級債券發行比例從不足1%飆升至約10%，使市場對債務展期與再融資的擔憂加劇。\n🌐 影響層面廣泛：殖利率急升將提升折現率，削弱政府債券及 AI 相關資產估值；企業融資成本上揚可能傳導至消費者物價，影響台灣出口競爭力；同時資金從安全性較高的主權債轉向高收益 AI 債，可能改變投資組合配置與銀行抵押品價值。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA0NWY5MjlmVk1PaHV0SU9EREZoSDU4bGNOelBuU3FZXzJ4VE1lbUNCd2ZtcHE1dDhOTlA3WHRlVmg1aDk2NnZmT09jZU96N2pLWFFRVTJiNjJtN2FyQ1JwNU9aOWdub3dseTZhU1BFaUdNdkI5QVJjRWo1X0LSAYIBQVVfeXFMT2tDQnB3Zml0UUI2Z0h3YUxtY1h2OUdNZVdMTEZmM3ZUTWVtSVBOVHJBeTBNSm5jRFJFcVEyTDdaN1RXTngybVhUazJmaXc2MjdGMF9CbzZ0cGlvQmlXenNvY0Q4MUdubHVWdktPdkNVZVd6NVRta1hMNlpnSmoyMlJXQQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "台灣今年經濟成長上看10.7%！IMF 最新預測曝光 大幅上修5.5個百分點",
-          "feature": "IMF大幅上修台灣2026年GDP成長至10.7%，成全球最高\n📰 發生什麼事：International Monetary Fund在《世界經濟展望》將台灣今年（2026）實質GDP成長率由先前的5.2%上調至10.7%，明年預估4.3%，同時通膨率略升至約2%。\n🔍 背景與來龍去脈：2025年起，全球半導體需求受AI算力推動持續走高，台灣晶圓代工產能滿載，加上出口比重提升、外需回暖；同時能源供應緩解、油價回落減輕通膨壓力。IMF先前已多次調整台灣成長預測，近期受AI投資熱潮與供應鏈韌性影響，才出現5.5個百分點的大幅上修。此數據亦反映亞太區唯一雙位數成長，與美國、歐洲僅維持低於3%形成對比。\n🌐 影響：高成長預期可能刺激外資持續流入，台幣匯率承壓但金融市場可望保持活躍；政府財政盈餘有望擴大，公共投資與薪資調整空間增大；對一般民眾而言，若通膨保持在2%左右，生活成本壓力不會大幅上升，但需留意AI產業對傳統工作崗位的衝擊，勞動市場可能出現結構性調整。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9811228"
         }
       ]
     }
