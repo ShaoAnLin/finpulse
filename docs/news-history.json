@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-22",
+      "featured": [
+        {
+          "category": "international",
+          "title": "AI and jobs: The hot new topic for central bankers - CNBC",
+          "feature": "AI熱潮衝擊央行決策：從產業投資到就業政策\n📰 發生什麼事：本月在曼谷舉行的IMF‑World Bank年會以及上海的Bund峰會上，聯儲主席Kevin Warsh、人民銀行行長潘功勝等多位央行高層把人工智慧列為貨幣政策與就業的關鍵議題，並宣示成立AI工作小組、檢視金融支援方案。\n🔍 背景與來龍去脈：AI 近期吸引巨額資本，從晶片、資料中心到能源基礎設施的投資激增，推高政府債券殖利率。央行擔憂此「需求端衝擊」在生產力提升前先刺激通膨，同時勞動市場出現職位不確定感，已成為政策討論的常態。自2024年AI相關投資增速超30%以來，歐洲、北美與亞洲央行紛紛將AI納入風險評估與生產力模型。\n🌐 影響：短期內AI資金流入可能導致利率持高、金融市場波動，加劇企業融資成本；長期則視AI提升生產力成效而定，若成功可緩解通膨、提升薪資增長。對台灣而言，AI產業鏈持續擴張，相關企業股價或受惠；同時勞工需提升數位技能以因應職位替代風險，政府與央行亦可能推出針對AI的培訓與資金補助政策。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUHVxRjFhb2k0d294NlhCZHFISnROcjRITjBZWjFtVm1BVmh2cjRSbHNITDNjVnNNdzg5Z0NMTThiVUFJQ253RmxyeUdFai1XdU92ajU1M1cxY1N5UzRpa0pkN24xMldxMXNrekRXRldYRTV2ZnA1bEJqcGZYNHJtc2lUcEMydWpkM0NncXRTdzhBY2PSAZgBQVVfeXFMUGdfcWpVa2ZERDBIX0RucUJjWXhMM2lJSlVlUTkzazFHV3IwWmxJVmk3M1JYOGpuejlUZ2F3Z1FFeG9zSkltcVFqZTBEZ1g3ZFBZaVd4ZTg2SXZLWVN2TVBuWHM5c09YRGV3Ui1CakJIWmFxWGFWZkZCTDg5QXZQTGpEYlJuQXJNUWdGMjdiWEthaDVIUzRZMEg?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "新加坡電子錢包PayLah!可在台使用 助攻赴台旅遊潮",
+          "feature": "新加坡PayLah!跨境支付上台，助力兩岸旅遊與消費升溫\n📰 發生什麼事\n新加坡星展銀行的PayLah!電子錢包今日正式在台灣超過25萬家商店支援掃碼付款，首波涵蓋便利商店、超市與觀光景點，未來將再擴至更多業者。\n🔍 背景與來龍去脈\n近年新加坡與台灣旅遊互訪持續成長，雙方已簽署多項旅遊便利協議；同時，跨境行動支付需求提升，PayLah!與台灣支付平台完成技術對接，符合台灣金管會的跨境支付安全規範。此舉亦回應星展銀行在東南亞擴張的策略，並與台灣推動「智慧支付」政策相呼應。\n🌐 影響\n旅客可免換匯直接以新幣或台幣結帳，提升消費便利，預估將刺激新加坡赴台旅遊人數與本地商家營收；對台灣金融業則是跨境支付生態的加速器，可能促使本土業者加速開放類似合作，長遠看有助於提升台灣在區域數位金融版圖的競爭力。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9830190"
+        }
+      ]
+    },
+    {
       "date": "2026-10-21",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "韓國股市急速暴跌，政府緊急召開市場檢視會議\n📰 發生什麼事：10月15日，KOSPI 單日跌逾7%至5,554點，創7月以來最大跌幅。金融服務委員會即刻召開緊急檢視會議，與金監、交易所等啟動即時波動監測與應變機制。\n🔍 背景與來龍去脈：跌幅主因三方面：AI 晶片投資前景不佳、美元走強及美國持續高通膨預期導致加息、油價上揚增加成本。連續七交易日累計跌超21%，市場情緒已過度恐慌。\n🌐 影響：台股受外資賣壓波及，半導體相關 ETF 可能資金外流；同時顯示亞洲監理機構快速介入能力，對台灣金融監管有借鏡價值。投資人應留意美元、利率與能源價格變化，調整配置以降低風險。",
           "source": "Reuters Business",
           "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB6RTlVQnJFbTBvUEhQWlVBUHMyeWZlWVBFNVNkX2VrMmk5QVBWeEZHdTRoa2VJNE80Y2tiZzN0bGFDaFVoNlM3RGxLenZZWk05bXpUVzFjNV9UM2VTczJZSjRxQVR1Q0dhY3hNR0dpc1lGb1Rfakh0MXJn?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-15",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Odds of recession in next year are '50/50', says researcher David Rosenberg - CNBC",
-          "feature": "美國經濟「半機率」陷入衰退 觀測員大衛·羅森伯格警示\n📰 發生什麼事：CNBC 於 10 月 14 日報導，Rosenberg Research 創辦人兼首席經濟學家大衛·羅森伯格在《Fast Money》節目中指出，未來 12 個月美國出現衰退的機率約為 50%。他提到近期通膨降溫、聯準會利率仍高於歷史平均，且 AI 相關投資熱潮帶來市場波動，增加經濟不確定性。\n🔍 背景與來龍去脈：2023 年底至 2024 年初，美國通膨率從 7% 下降至約 3.5%，聯準會在 2023 年連續升息 11 次後於 2024 年暫緩加碼，市場一度預期衰退機率下降。然而，AI 產業資金流入過熱、企業資本支出放緩、房市需求減弱，使得經濟增長動能受挫。羅森伯格引用過去三次美國衰退前的指標（如製造業 PMI、消費者信心指數）皆呈現類似走勢，因而給出「一半機率」的判斷。\n🌐 影響：若美國真的陷入衰退，美元走弱、美債收益率下降，將直接衝擊台灣的出口競爭力及資金流向，特別是半導體與高科技產業的訂單。投資人可能重新配置資產，增加黃金與新興市場股票比重，台股可能出現波動。消費者信心受挿，台灣本地房市與零售業亦可能感受到間接壓力。企業則需關注匯率變動與美國客戶的付款週期，提前佈局風險管理。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQYUhwRDl6dm1rSkZva2kydkNUZElZaDBsejR1OWNvUVZBcWUyWC1qTzBVd0JPOVhqRzBSWkFBYUVYY1Y3VElYTjBIeDhxYzJHVDlrZnU3bVVTRTBiM0dsQTN1bEtKR2dqS05fSVI5RWxHTGRSSGlMTV9oV3FtdzR1czZaMVBXTDVBR2pzeWpPbUxIeUQ5S05jYVlnQllpb0lSV0lVUlE1OFpZMm5kQVUxUEVYdGI?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "【Yahoo早盤】Fed鷹聲再起？台股重摔逾1470點失守4萬8 分析師郭憲政：快撿便宜 - Yahoo股市",
-          "feature": "（標題行）Fed鷹聲再起，台股狂跌1470點失守48,000點大關\n\n📰 發生什麼事：美國聯準會連續加碼鷹派訊號，今日台灣加權指數瞬間下挫超1470點，收盤跌至48,000點以下，創近月最低；券商郭憲政呼籲投資人把握低價逢低買進。\n\n🔍 背景與來龍去脈：自2024年起聯準會多次升息以抑制高通膨，近期又暗示利率可能再上調或維持高位，全球資金流向美元資產，導致新興市場股市承壓。台股本身受美股走勢、外資持股比例高及出口導向產業景氣影響，此次跌幅與去年美國升息週期初期相似。\n\n🌐 影響：短期內外資可能持續賣超，加劇台股波動；本地投資人資產帳面虧損，消費與房市信心受挫；但低點也為長線資金提供布局機會，若聯準會政策趨緩，台股有望快速回彈。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiywNBVV95cUxPRmpYdEQxVmJCNG5RbEJTSUNhOXpYVm5ubkRaYlZpTmRlcElXb21US1lxVG9zQVl2SWI0dWJjZXAzVVY5ZzZwOTRhRUI3ZnNKazBvSEFHdEtBbzdkZFYwTXl1U1NaSjZmSGRVU1BobFdadGZhODBVVGJIQjBXVjMyaDdzVkJzZ2R1NGIwaDM3UWhTME1YbVZBNWUwQ0w5NDd0c3Y3OHZ0am9oc0g1RjJfWXFDUF8wMGZ4OURPa0NHUE9IN29zWkxrZm81VzMyYmNyRDRjSVFzWE10OFBRTGVsdnlGWmM3YkYwMHJ3OFF6MHZ3dXp4cUpmcTBiYWFiWDl6YzF5VFlpNXFGRzNJbmJNT1FBei1OZmRyVzd4UUtud2U3dTRDNVFTZVh5RjZWTjJwdno5QVExUzJ3LWRxbW1lVXdyY3U1V1hackxLeWJDV3NSd1BXWWEwNDV1RkxBTUF4ODhrd3h4eXBXdmN1TjVValNJNWIteVVCX2oxS0Vqd2VQaWRkeUpwY3NZTUpxdnpwc0JiVTY0NUNQY3U0VjdvaVIyTHRCZzZrblNEWVRaaXJvZUZyTmxpNHVQLWNkRmE2T1FLeDVuN3QtNFk?oc=5"
         }
       ]
     }
