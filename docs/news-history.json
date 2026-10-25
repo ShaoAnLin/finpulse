@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-25",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
+          "feature": "（標題行）Nvidia成AI金融巨頭，首度面臨新雲端夥伴資金危機\n📰 發生什麼事：Nvidia不只供應GPU，還以投資級信用背書為多家「neocloud」提供逾360億美元的資金保證與貸款。近期CoreWeave、Nebius、IREN等合作夥伴股價跌超30%，信用違約掉期利差飆升，市場開始測試Nvidia的財務承諾能否站得住腳。\n🔍 背景與來龍去脈：自2023年生成式AI熱潮起，Nvidia藉芯片獲利巨額現金，CEO黃仁勳將資金轉向AI生態系統，透過「backstop」合約為OpenAI在俄亥俄州10GW資料中心、以及全球新雲端建設提供低息融資。截至7月，Nvidia在資產負債表外已列示360億美元雲端保證，未來至2029年可能超過5000億美元。此策略依賴持續的算力需求；若需求未達預期，違約風險將由Nvidia承擔。\n🌐 影響：若Nvidia被迫動用保證金，可能拉低公司股價並影響全球AI供應鏈；同時，台灣AI新創與資料中心業者若依賴Nvidia資金，將面臨融資成本上升或資金斷裂風險。投資者則需重新評估與Nvidia相關的信用風險與市場波動。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QQ?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "半導體AI供應鏈迎籌碼戰！外資狂砍台股逾3千億，歷史數據揭露後續走勢-財經焦點情報站 - CMoney投資網誌",
+          "feature": "半導體AI供應鏈遭外資狂砍　台股資金出走破3千億\n📰 發生什麼事\n外資在單日拋售台股超過3,000億新台幣，半導體與AI相關族群跌逾10%，台指跌破季線，創下近年最大單日賣超紀錄。外資賣超金額上週累計約5,862億，其中週四單日賣超3,025億。\n🔍 背景與來龍去脈\n美國費城半導體指數連續下跌，週跌幅逾11%，帶動全球半導體資金流出；同時新台幣匯率走貶、外資撤退與本土資金防守形成對峙。儘管AI需求長期看好、台積電與NVIDIA仍維持高資本支出，但短期內國際科技股財報不佳與美股波動加劇，使外資風險偏好下降，觸發大規模撤倉。\n🌐 影響\n短線看，台股指數可能持續在季線附近震盪，半導體股價回檔風險提升，投資人需留意資金流向與融資餘額。中長期而言，AI供應鏈基本面仍堅韌，若全球晶片需求恢復，相關股仍具成長空間；但新台幣貶值與外資持續賣壓可能抑制台灣出口競爭力，影響整體經濟成長與薪資水平。讀者應關注美國大型科技財報、匯率走勢與本土資金防守力度，才能判斷是否需要調整投資配置。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1pyaEE1LWNjbmd3NzhpRUs4LVk2Rmx6em5GNjJJMTNHdFc5b05La2c0aWhzZGhnaXVldTVMY1NOUmp4ZGZ0dUtaRGhuYTVFY3NPMU1MMm5MRTQ2ZEpDV2hMNmF1c3F0MlU1MnhSVUU3MmluSHA5ZkRfdDYtU1FseEhB?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-24",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "「油價突破110美元，台股夜盤狂跌千點，台積電首度遭大規模賣壓」\n📰 發生什麼事：受俄烏衝突升溫及中東緊張局勢影響，布蘭特原油期貨突破110美元大關；同步，台股加權指數夜盤跌逾千點，領跌的台積電股價在財報說明會後出現顯著賣壓，跌幅近2%。\n🔍 背景與來龍去脈：自2022年俄烏戰爭以來，全球能源供應已屢受干擾；近期伊朗與以色列間的衝突再次喚起市場對石油供應的擔憂，推升油價。美股半導體指數持續下滑，投資人風險偏好下降，使得資金撤離科技股，台積電作為全球代工龍頭，成為避險資金的首選出貨目標。\n🌐 影響：油價高企將提升台灣製造業與運輸成本，可能壓縮企業獲利；股市大幅波動加劇投資人情緒，外資連續賣超或導致新台幣匯率承壓。對一般民眾而言，油價上漲將直接推高油電費與生活成本，同時市場不確定性提升，理財與資產配置需更謹慎。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXpUMzhFQVB5ZHFMZHdZVDFuZGg3UEFuZ3Z5ck1IRnFkUzNRc0NxY3dHOWJfSkRKWS1oMlJJMVl6cFJkZFF6X3o2XzdtX1pCLU02d0tnR1ZTaUxPTi1jOURzTHZrLTQtTFE3TE8xcF9KS2F4d19QTl81SDNOdmhFYUZR?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-18",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Semiconductor market to remain solid ‘at least through next year,’ South Korea finance minister says - CNBC",
-          "feature": "（標題行）半導體需求仍熱，韓國財政部長預測市場至2027年仍保持強勁\n📰 發生什麼事：在曼谷IMF/世銀年會期間，韓國財政部長李炯一表示，全球半導體需求仍大幅超過供給，預計市場至少到明年（2027年）仍穩固。此言回應近期SK Hynix、Nvidia等股價下跌。\n🔍 背景與來龍去脈：過去五年，AI、資料中心、電動車推動晶片需求飆升；韓國是全球第三大晶圓代工，佔全球產能約20%。供應鏈瓶頸、先進製程投資高昂，使產能擴張速度落後於需求；同時中國晶片產業加速追趕，市場競爭升溫。\n🌐 影響：對全球資本市場，半導體股仍具防禦性，台積電與聯電可能受惠，投資者可關注供應鏈延伸的設備與材料公司；對台灣產業，持續需求支撐AI與車用電子產值，亦可能提升薪資與就業機會；對消費者，晶片供不應求的壓力或延續產品價格上揚，如高階手機、筆電。政府則需檢視產業政策與研發補助，以維持競爭優勢。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPZXhtaE1RUk5kMDU2aUdhQThmY1M1bzNaRmNYbDhMZGZsZ005eHVZWU1zM19WVHR5djJKcVIzVTFIZWpMMkZ0THljQXdmZTA4dU9nZms3OFhpd2IwdlVndGZzM3RkVlk5MXJLdmtNVDNZOHRKejNIbzVfaWJoUThhSTZyQm1WRng2blVuR9IBkgFBVV95cUxNazg5ZWV5amlrcnpLZkZnaDd5SjZsSmdXbVBEQVFfYUdZdUIzX20wbHJMNk9JRWtjZkhqRk8xZlpvenVvNGtoRWVHU3ZhMk1PZE1lOXBjZDFoNjY5cDFaOFpOd2Q3SkdxWXFLVHhUSUNqdDhJeGxWRkhwRXpoTnNiZVU3eGZiSzRFb1BZWEJiSVU5Zw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "雜音淡化回歸基本面 法人看台股：鎖定AI核心供應鏈 搭配金融多元配置",
-          "feature": "AI浪潮推升台股核心供應鏈　法人看好多元配置\n📰 法人調查顯示，AI需求持續爆發，台灣晶圓代工、ASIC、先進製程、封測、PCB/CCL、伺服器零件、光通訊與液冷等供應鏈公司獲利預估在2024‑2025年持續上修。投資策略建議以AI核心族群為主軸，並加碼金融控股提升配置彈性。\n🔍 AI算力需求來自全球資料中心擴建與生成式AI普及，去年美聯儲與地緣政治雜訊抑制情緒。隨利率明朗、晶圓代工公布產能規劃，雜音淡化，基本面再成焦點。台灣在IP、先進製程與高階封裝等關鍵環節具優勢，已累積產能與技術。\n🌐 需求持續成長將提升相關企業營收，帶動台股估值上揚，資金可能從金融股轉向科技股。投資人可聚焦AI供應鏈與金融ETF，兼顧成長與防禦；產業則面臨產能擴張與研發投入加速，鞏固台灣在全球AI鏈的競爭力。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6632471"
         }
       ]
     }

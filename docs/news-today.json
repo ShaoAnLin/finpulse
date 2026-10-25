@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-24",
+  "date": "2026-10-25",
   "featured": [
     {
       "category": "international",
-      "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets - CNBC",
-      "feature": "「美國液化天然氣大手筆突破，卡塔爾轉向美國供應，伊朗衝突改寫能源格局」\n📰 卡塔爾能源公司（QatarEnergy）與美國Cheniere Energy 簽下2026年10月23日的合約，未來至2054年每年購買400萬公噸液化天然氣，價格掛鉤美國Henry Hub，加固定費用，預計2030年代開始交付。\n🔍 先前卡塔爾是全球最大液化天然氣出口國，2024年伊朗對其關鍵生產設施Ras Laffan 進行空襲，導致約17%產能受損，並持續以不可抗力宣告停產。產能缺口迫使卡塔爾尋求替代供應，同時美國因頁岩氣技術成熟、出口基礎設施擴張，成為全球液化天然氣新興供應大國。此合約不僅是美國在戰爭背景下的最大單筆LNG銷售，也象徵能源版圖從海灣向美洲移轉。\n🌐 影響方面，短期內美國LNG出口商股價上漲，提升美國在全球能源安全的話語權；對卡塔爾而言，穩定長期供應有助於恢復其在全球市場的信譽；對台灣，能源成本波動或受美國天然氣價格牽動，電力與工業用氣價格可能上升，同時也提醒投資者關注中東地緣政治對能源供應鏈的衝擊。",
+      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
+      "feature": "（標題行）Nvidia成AI金融巨頭，首度面臨新雲端夥伴資金危機\n📰 發生什麼事：Nvidia不只供應GPU，還以投資級信用背書為多家「neocloud」提供逾360億美元的資金保證與貸款。近期CoreWeave、Nebius、IREN等合作夥伴股價跌超30%，信用違約掉期利差飆升，市場開始測試Nvidia的財務承諾能否站得住腳。\n🔍 背景與來龍去脈：自2023年生成式AI熱潮起，Nvidia藉芯片獲利巨額現金，CEO黃仁勳將資金轉向AI生態系統，透過「backstop」合約為OpenAI在俄亥俄州10GW資料中心、以及全球新雲端建設提供低息融資。截至7月，Nvidia在資產負債表外已列示360億美元雲端保證，未來至2029年可能超過5000億美元。此策略依賴持續的算力需求；若需求未達預期，違約風險將由Nvidia承擔。\n🌐 影響：若Nvidia被迫動用保證金，可能拉低公司股價並影響全球AI供應鏈；同時，台灣AI新創與資料中心業者若依賴Nvidia資金，將面臨融資成本上升或資金斷裂風險。投資者則需重新評估與Nvidia相關的信用風險與市場波動。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamRIUmExbTBlR1VjQ3ozejczY0VYOWY3ODBXakFJQ0tlaDJpLTZIZzlmRlIwa1B2aGpnRlZtR0NuRG43Wll4OWdGQ3NpdnNrdDhBVjFNVGVoZDB4MTdEQ1VOVWIxdkhWUmNXb2tPUnFFUjc4UXA1S3ZtYnVwQXNNWERIZDRPUjhvVUhjWWtHSUczV3pzNjA4YUFuamdnUdIBowFBVV95cUxNWDM1VFpwZENtdXF0aGF6ejZ2MWI5Y2w4dmtUUlpIR2NobjZHOHczaWVER1BRbmlVTUkyejc4eUtyMTVvUC1QV05CbklTOGFnZ3gtN2NiSnZwMjlPSF9KNFE2T29zZExxUjdzeGFicGhhLUtmQWJMZzhPY1lGVW1Qb3JMYlVqa2dqa2QtNmU4T21udjBNakhhNVRTbGdBZ2tlUVFr?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QQ?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "成長股、價值股分類大改 標普新規牽動3750億美元資金",
-      "feature": "標普新規大改 成長/價值股分類調整牽動超 3,750 億美元被動資金\n\n📰 標普道瓊宣布自12月21日開盤前，將無形資產、預估盈餘與自由現金流納入價值股評估，並在成長股評估時剔除過去12個月的價格動能，全面調整成長股與價值股的權重與成分股。估計至少有3,750億美元的被動基金需重新配置。\n\n🔍 近年價值指標如股價淨值比被批評未能反映科技公司的研發投入，導致價值股表現不佳。標普此次規則在廣泛徵詢意見後推出，旨在讓資產負債表更完整，同時避免動能偏誤。富時羅素亦在檢視類似調整，以因應科技巨頭在指數中的主導地位。\n\n🌐 資金將從傳統價值股流向具高無形資產的科技與生技公司，可能提升相關ETF的報酬率，也增加台灣投資人持有美國科技股的誘因；同時價值導向基金可能面臨波動，市場對估值模型的信心也將重新校準。",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6637033"
+      "title": "半導體AI供應鏈迎籌碼戰！外資狂砍台股逾3千億，歷史數據揭露後續走勢-財經焦點情報站 - CMoney投資網誌",
+      "feature": "半導體AI供應鏈遭外資狂砍　台股資金出走破3千億\n📰 發生什麼事\n外資在單日拋售台股超過3,000億新台幣，半導體與AI相關族群跌逾10%，台指跌破季線，創下近年最大單日賣超紀錄。外資賣超金額上週累計約5,862億，其中週四單日賣超3,025億。\n🔍 背景與來龍去脈\n美國費城半導體指數連續下跌，週跌幅逾11%，帶動全球半導體資金流出；同時新台幣匯率走貶、外資撤退與本土資金防守形成對峙。儘管AI需求長期看好、台積電與NVIDIA仍維持高資本支出，但短期內國際科技股財報不佳與美股波動加劇，使外資風險偏好下降，觸發大規模撤倉。\n🌐 影響\n短線看，台股指數可能持續在季線附近震盪，半導體股價回檔風險提升，投資人需留意資金流向與融資餘額。中長期而言，AI供應鏈基本面仍堅韌，若全球晶片需求恢復，相關股仍具成長空間；但新台幣貶值與外資持續賣壓可能抑制台灣出口競爭力，影響整體經濟成長與薪資水平。讀者應關注美國大型科技財報、匯率走勢與本土資金防守力度，才能判斷是否需要調整投資配置。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1pyaEE1LWNjbmd3NzhpRUs4LVk2Rmx6em5GNjJJMTNHdFc5b05La2c0aWhzZGhnaXVldTVMY1NOUmp4ZGZ0dUtaRGhuYTVFY3NPMU1MMm5MRTQ2ZEpDV2hMNmF1c3F0MlU1MnhSVUU3MmluSHA5ZkRfdDYtU1FseEhB?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "散戶抄底愈抄愈低！半導體槓桿ETF單周吸金61億美元 10月已暴跌逾40%",
-      "content": "SOXL上周吸引創紀錄61億美元資金流入，但半導體股本周續跌，SOXL本周跌10.8%，10月迄今可能跌逾43%。 SOXL周四重挫20.5%，創6月23日以來最差單日；iShares半導體ETF同日跌6.8%。 AI交易劇烈波動引發回報疑慮；iShares半導體ETF今年仍漲近59%。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6637016"
-    },
-    {
-      "title": "半導體供應鏈擁利多！外資大賣致台股失守季線，3檔科技ETF近一年逆勢漲逾108%-財經焦點情報站 - CMoney投資網誌",
-      "content": "半導體供應鏈擁利多！外資大賣致台股失守季線，3檔科技ETF近一年逆勢漲逾108%-財經焦點情報站 CMoney投資網誌",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSTZXbWoybTUxTEJPLVl4MXYzUTZLQkotMVdqVlBmMlNVQVZtdE9jNXNrRm1zR0NDOFl4T0RxRzVyMVNRdkkweFh4VFNDeEc3UDZPR1QwZ3RQSHdhNXFZR2hobFhQZC1sYzZjM2RNZFZSdDFWb1A4bmt5U25Icl9NOF9R?oc=5"
-    },
-    {
-      "title": "美國施壓古巴　川普談軍事干預盧比歐籲民合作",
-      "content": "美國總統川普今天在佛州造勢集會再提軍事干預的構想，表示伊朗戰事解決後將處理古巴問題。美國國務卿盧比歐今天也呼籲古巴人民與...",
+      "title": "影/80歲川普臉上突現神祕瘀青！事後一段話惹疑猜",
+      "content": "美媒「野獸日報」（Daily Beast）報導，現年80歲的美國總統川普23日公開露面時，臉部左側出現一塊明顯的新瘀青，從眉尾一路延伸至顴骨上緣，與前一天從白宮出發前往愛荷華州時的模樣明顯不同。事後川普突然在自家平台真實社群發布一則與健康有關的貼文，寫道：「健康的人有一千個夢想，生病的人只有一個（就是康復）！」但他沒有進一步解釋，再度引發外界對他健康狀況的揣測，甚至有網友猜川普是否曾摔倒。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9834530"
+      "link": "https://money.udn.com/money/story/5599/9835723"
     },
     {
-      "title": "台股基金今年績效亮眼！中小型、科技成主軸 AI選股轉向個股分化 - 壹蘋新聞網",
-      "content": "台股基金今年績效亮眼！中小型、科技成主軸 AI選股轉向個股分化 壹蘋新聞網",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPWElnRE1JOXlEcEliSjNSN0JnYXlhU0NBYklaUTRidWpZWThObTZVbEZvUTI0RmVRZVNMUmxSeWlHYjhlVC1vaHl1dEdSSW1vVHkwQW5hSlF2dDl6UjRMbVNDZmxyYjg3SUtFaDZoSjBndzFJa0pkRkQ4TG4zalJMRTBR?oc=5"
-    },
-    {
-      "title": "胖到140公斤仍活動自如！網瘋傳金正恩死訊 南韓國情院：假消息",
-      "content": "社群媒體18日起瘋傳北韓領導人金正恩死訊，至少兩個擁有大量追隨者的中國異議人士帳號在未提供證據的情況下，聲稱金正恩已經死亡，或陷入昏迷後被緊急送往北京一家醫院，相關傳聞隨後成為媒體炒作題材。不過，南韓國家情報院（國情院）23日向國會情報委員會報告指出，所謂「金正恩死亡傳聞」是假消息。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9834526"
-    },
-    {
-      "title": "英國砸1億英鎊建AI生物安全實驗室 OpenAI、Anthropic助陣",
-      "content": "英國撥款1億英鎊成立AI Biosecurity Lab，獲OpenAI、Anthropic、Google支援。 OpenAI與Anthropic另提供最高2億英鎊算力額度，實驗室將偵測監控生物威脅。 英國增資1.2億英鎊給AI Safety Institute，並撥6,500萬英鎊研發病原體對策。",
+      "title": "旅遊業衝刺線上旅展買氣 這些航點和機票都有優惠",
+      "content": "ITF台灣國際旅展11月6日登場前，雄獅、長榮航、華航先推線上旅展。 雄獅指冬季旅遊訂單人數年增3成，會員回流逾6成；日本6天以上團增4成，歐洲訂單增6成。 長榮航祭82折起航線、12月1日開航桃園-德里；華航主打76折起，10月25日起紐澳航線全面增班。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6637034"
+      "link": "https://news.cnyes.com/news/id/6637146"
     },
     {
-      "title": "America by the numbers: How voters feel about the economy, inflation, AI and Trump - CNBC",
-      "content": "America by the numbers: How voters feel about the economy, inflation, AI and Trump CNBC",
+      "title": "十月累漲4.6%！瑞士股市成為市場AI恐慌下的避風港",
+      "content": "瑞士股指本月漲4.6%，歐洲Stoxx 50跌3.2%，超額收益近8個百分點，創2020年3月以來最高。 羅氏、諾華、雀巢分別漲12%、6.7%、10%，三檔防禦龍頭帶動指數，合計佔近半權重。 資金撤出AI轉向醫藥食品；但比價回到近兩年高位，瑞郎反彈也恐壓抑出口股獲利。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6636500"
+    },
+    {
+      "title": "影/法國再爆80萬人示威！7萬警嚴防暴動 精品店木板封門畫面曝",
+      "content": "英國廣播公司（BBC）報導，法國各地24日再度爆發大規模示威，數十萬民眾走上街頭，巴黎、馬賽等多座城市入夜後陸續爆發警民衝突，近千人遭到逮捕。不過，相較於17日的大規模暴動，這次示威未重演廣泛縱火、搶劫及破壞的失控場面，對近期承受龐大維安壓力的法國當局而言，已算是一場小小的勝利。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9835716"
+    },
+    {
+      "title": "巴西決選前夕左翼紅潮對決右派浪潮　小波索納洛民調微幅領先魯拉",
+      "content": "里約熱內盧的柯帕加巴納海灘今天湧現支持總統魯拉的紅色人潮，數百名機車騎士則催動引擎，為右翼候選人佛拉維歐．波索納洛聲援。...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9835715"
+    },
+    {
+      "title": "006208擬分割一拆八！12/18開受益人會議 入手一張只要3萬元",
+      "content": "台股 ETF 人氣王之一－富邦台 50 ETF(006208-TW)終於走上分割之路，富邦投信將於12月18日以書面方式召開受益人會議，表決是否進行基金分割，初估分割倍數為8倍，藉此降低單位交易價格與投資門檻，屆時買進一張只要 3 萬元，讓小資族更容易入手。若議案順利通過，實際分割倍數將依會議通過當",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6637230"
+    },
+    {
+      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections - CNBC",
+      "content": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZUZxWnd0R0l5YWRCdHZxS1Q5aDJCaVVLbkJHcERDNk51bkkwejY1cFZQX0ZYcGZsaF9wSnR1LXRwd3BMZ0tVSWREeVVVSFRLYUJzN29RZ1VYZmNFU2JWUGNFaHR2UjdTb1FkT2txQldlTTFMd3RTNm5rUnQtcGY1ZGo1amYwRlVvT0QwT0VaMTFpRng0Tmdua1luWnhsM18zb21fOXMxZTN4cWt1a04xZXM4R0dPNHPSAbwBQVVfeXFMTXNBelBndzgyMTBsNkU3NlNsQVpQck9lSzlyNkN4NUM5QkpWandDSlFhbmppRHdyVkZ0cXF1VXZtNWxFa2J1TUNCZ3d5eERhWXhYUS1ZaEp2QTBZaU93ejljTkJQbnR6dGhheUVQbmNRTHVxSFJsaFhBQWRkVTd1RzhZUDZBZGxHdk1kSTVnNXBxRGFPX1d3WFZsNktBWGV4WFlmUmVmMWpuSE9GdW5ZLTl6Y1N2WWJfQ09SbXI?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jcDByc1pCbHFOTGQ2bmctZTc5WXRheFYzMW1NMWhUaVEtb1oxdFFYLVdmY2RieTNRTkJDWE5DMUFRTDdOdWZtcTVidHVZWHVvXzk3R3l4blBTblZFQW1Hd1hjSFhoMEpraXlzM2ptemN3aGVNR3NPTGFqRi01SG_SAYQBQVVfeXFMUG50WmZfWjJyR0t5clgtTTVuakRCcEkyZ0xiTE9TMlhLRzR6QWxLTGFYM1BCMkJYQ1lsMkZYTmpfWlVheHJGd3MxTVBpS3JEWE9FdTZMb3ZiTjZYMktQeDBUX3UwOU1wemFHSnBBZG9UcnZkMzkwSXpXTWp5QUIwWUpRMEFj?oc=5"
     },
     {
-      "title": "All-America Economic Survey - CNBC",
-      "content": "All-America Economic Survey CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5Ub0lkT1hmaVFkOWdsYmNhUkNwOEJobTcwWjJrSUs2U2xBaEVXLXFWaXBsb211RndXOER4SV8xcE14bzgwUGVYVWVEY3hUTndQbFIxZTBQM0RmZjZqLWc?oc=5"
-    },
-    {
-      "title": "Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top - CNBC",
-      "content": "Apple is set to take back the market-cap crown from Nvidia. Upcoming earnings may push it over the top CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFByaFdDRmtwUndpQXR1UjI4aFB5Z0FtTDRJZFV5ZlhDOFhZTk5lbktlVFFqdDlGLU5wX2p6WGhlM1g2YXdmNmIzS0Ffb09UWWJQVkJKQnNSbGhFVkdqNFBYM0o5aWNSU3dDNkhoUXZsdzFzU19QeWlnNw?oc=5"
-    },
-    {
-      "title": "How Worried Should We Be About the Economy? Let’s Look at 2008. - The New York Times",
-      "content": "How Worried Should We Be About the Economy? Let’s Look at 2008. The New York Times",
+      "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections - Yahoo Finance",
+      "content": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections Yahoo Finance",
       "category": "international",
       "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMkhaOEp0cXJmVGhjZnc5ampxRFFuelZOWndNUFJnVjg0Tm1KMUdJa1luTWNLQVhIZkhpRHNXeUFzQ0xaX0VVVlRUVTRTQjJJcVNHem9QN1FqNlhBamVLZzV2cmszeFpZUkx5YVVVOThQbkN0cExTQTBxR0cxWFNyZG9KQmM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5"
+    },
+    {
+      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it - CNBC",
+      "content": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHpyd0dWM0xXTi1Yenc5LWRtYlhZXzUydG5yc1BDaWRiWlZjZk0tYU5hVGRqYl9fNjhXNW5PRHN4T3F3azZmdU1EaWIzdG1BaWFwNzI5S0dDYUdyeFN0cWRMeUw3N2F5dkd5YjUzWFN6NWJOSENUQXNXVi1KY1oxNy1FVDJQbDRCdWfSAY8BQVVfeXFMTlIxSHBHSDdaQXpRdnBiQzdveFFyRWdFSXVnUkhGOFVHdGstSFNaSmhjVnNDNi1OcklJYktNSlNXOVRxbkt0VlNvRjRGeUUxbFNpX1V6VUhrLUVpS1lBRUJtNFducmRWbU5yQ3ptMFByX2xiOUd3SW56cDdCRW84VzVZeDE3dnF0QlFhVmc3MnM?oc=5"
+    },
+    {
+      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests - CNBC",
+      "content": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5"
     }
   ]
 }
