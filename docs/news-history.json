@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-26",
+      "featured": [
+        {
+          "category": "international",
+          "title": "SpaceX coverage network designs draw Wall Street's eye. Here's what analysts think - CNBC",
+          "feature": "SpaceX 目標 8 萬基站  攻佔電信市場\n📰 發生什麼事\nSpaceX 正與美國主要基地設施營運商談判，爭取接入多達 8 萬座手機基站，以部署 Starlink Mobile 服務，直接向 AT&T、Verizon、T‑Mobile 三大電信業者挑戰。\n🔍 背景與來龍去脈\n自 2015 年 Starlink 首次商業化以來，SpaceX 已累積超過 4,000 顆低軌道衛星。去年併購 800 MHz 頻段後，加速打造全球行動網路。業界預測若成功接入基站，將把地面與太空網路融合，削減建設成本，同時對傳統電信的頻譜壟斷構成衝擊。\n🌐 影響\n短期內相關電信股出現波動，T‑Mobile 股價因市場傳聞下跌；長期則可能加速 5G/6G 競爭，促使美國監管機構重新檢視頻譜分配政策。對台灣而言，若星鏈商業模式在美國成熟，未來也可能進入台灣市場，提供偏遠地區更廉價的行動上網選項，並刺激本地電信業者加速創新與價格調整。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQZzdRSnhOUDBpVUt5QTN1dU8wand5RTBxYjRrNWltMzMzNWt4SV8tUlA0bXpVUmU4eGhQS3FXd1VsYTRGSlI3RXVRMG1vMExPeEFiQWw3X0NqNXlKWkFzMl9qMVZzSDl0VlQxVGhYeUVPNV9POHBEUlE4MA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "AI基建商機、台電強韌電網計畫雙重助攻 重電四雄營運可期",
+          "feature": "AI基建與台電強韌電網雙驅 動能注入重電四雄\n📰 發生什麼事\n華城、亞力、士電與中興電四家重電龍頭受惠AI相關基礎建設與台電「強韌電網」計畫，2023下半年營收皆年增，手上訂單分別達220、130、600、431億元，出貨能見度延伸至2029-2031年。\n🔍 背景與來龍去脈\n全球AI算力需求推升電力與變壓設備需求；美國大型AI資料中心與台灣半導體擴產同時刺激電網升級。台電於2023啟動「強韌電網」計畫，要求高壓GIS、變壓器等本土供應，四雄因技術認證與先前美國AIDC合約，成為主要承接者。\n🌐 影響\n短期帶動股價回暖、營收季增，提升本土電力設備產業鏈自給率；中長期則支撐相關產業投資、創造就業，並減少對進口設備依賴，對台灣能源安全與產業競爭力具有正向效應。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6637130"
+        }
+      ]
+    },
+    {
       "date": "2026-10-25",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "(標題行)中國LPR連續第17個月保持不變，暗示政策利率已進入穩定期\n\n📰 發生什麼事\n中國人民銀行於10月20日公布1年期LPR 3.00%、5年期以上LPR 3.50%，較上月未有變動，為連續第17個月持平。\n\n🔍 背景與來龍去脈\nLPR自2025年5月下調10個基點後，與7天期逆回購利率同步走勢，已連續17個月維持不變。央行行長潘功勝表示，正推動利率定價基準多元化，從單一LPR向“LPR+DR”等市場化指標轉型，同時加強結構性貨幣工具（如PSL下調、再貸款貼息）以支撐實體經濟。\n\n🌐 影響\n對企業貸款成本短期穩定，有助於降低資金波動；但結構性改革可能提升大企業利用市場利率融資的靈活度。對台灣而言，中國製造業資金成本持平或減少，可能抑制匯率波動，且相關產業供應鏈資金壓力不大，投資者可留意兩岸資金流向與利率傳導效應。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6633615"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-19",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Why hedge funds could be making a bond market shock more likely - CNBC",
-          "feature": "（標題行）對沖基金大舉進軍債市，提升全球債券市場震盪風險\n\n📰 發生什麼事\n英國央行副行長Sarah Breeden在IMF‑世界銀行年會上警示，對沖基金持倉規模已逾13兆美元，利用高杠桿在政府債券市場大幅交易，使局部波動更易傳染，形成系統性衝擊。\n\n🔍 背景與來龍去脈\n過去十年，傳統的保險公司、年金基金逐漸退出，對沖基金因追求收益與流動性而進入主權債市場；其策略包括現金‑期貨基差與杠桿carry trade。IMF與歐洲央行數據顯示，2020年僅占30% 的交易量現在已超過50%。同時，歐洲近期法國十年債券收益率飆升，部分源於基金快速平倉放大波動。\n\n🌐 影響\n若市場出現突發賣壓，債券價格劇烈下跌將推高利率，影響企業融資成本與房貸利率；台灣投資人持有的美國與新興市場債券亦可能遭受流動性緊縮。金融機構的主經紀業務與資產管理部門將面臨風險敞口上升，監理機關可能加強杠桿限制與資訊披露要求。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5DUTlkcUxEOFoxN253NlFTZUN1WVhtN1FEWXRwaDBxLWJ0RHFEUW9EejB6bFpGT0Y0OXZ4aEk1eHV6S1J2WU1BUGlmNTd3aUFYeERqTGVMZ0gwbUhuQjJkVXloRlZxVjRJbmtFUUQ2MlUtd04xSHNJ0gF8QVVfeXFMTzFINVFLSkU5alRoYklkbk5KRS1sZEdJaGZaRmxDR0RhZnl0OGFSLVZZTkRHZV9MejRIaWNUdVUwR2R2cWJhdWdUYkttOURTUzByRzVsZXR6dk52OWw3dzFTTk9IX3NKMVNiM0RKMlo4ZHpqbWJwZ3Eyc3FLOA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "最新地緣政治推升油價破110美元！台股夜盤跌千點，台積電遇賣壓-財經焦點情報站 - CMoney投資網誌",
-          "feature": "「油價突破110美元，台股夜盤狂跌千點，台積電首度遭大規模賣壓」\n📰 發生什麼事：受俄烏衝突升溫及中東緊張局勢影響，布蘭特原油期貨突破110美元大關；同步，台股加權指數夜盤跌逾千點，領跌的台積電股價在財報說明會後出現顯著賣壓，跌幅近2%。\n🔍 背景與來龍去脈：自2022年俄烏戰爭以來，全球能源供應已屢受干擾；近期伊朗與以色列間的衝突再次喚起市場對石油供應的擔憂，推升油價。美股半導體指數持續下滑，投資人風險偏好下降，使得資金撤離科技股，台積電作為全球代工龍頭，成為避險資金的首選出貨目標。\n🌐 影響：油價高企將提升台灣製造業與運輸成本，可能壓縮企業獲利；股市大幅波動加劇投資人情緒，外資連續賣超或導致新台幣匯率承壓。對一般民眾而言，油價上漲將直接推高油電費與生活成本，同時市場不確定性提升，理財與資產配置需更謹慎。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSXpUMzhFQVB5ZHFMZHdZVDFuZGg3UEFuZ3Z5ck1IRnFkUzNRc0NxY3dHOWJfSkRKWS1oMlJJMVl6cFJkZFF6X3o2XzdtX1pCLU02d0tnR1ZTaUxPTi1jOURzTHZrLTQtTFE3TE8xcF9KS2F4d19QTl81SDNOdmhFYUZR?oc=5"
         }
       ]
     }

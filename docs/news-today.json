@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-25",
+  "date": "2026-10-26",
   "featured": [
     {
       "category": "international",
-      "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
-      "feature": "（標題行）Nvidia成AI金融巨頭，首度面臨新雲端夥伴資金危機\n📰 發生什麼事：Nvidia不只供應GPU，還以投資級信用背書為多家「neocloud」提供逾360億美元的資金保證與貸款。近期CoreWeave、Nebius、IREN等合作夥伴股價跌超30%，信用違約掉期利差飆升，市場開始測試Nvidia的財務承諾能否站得住腳。\n🔍 背景與來龍去脈：自2023年生成式AI熱潮起，Nvidia藉芯片獲利巨額現金，CEO黃仁勳將資金轉向AI生態系統，透過「backstop」合約為OpenAI在俄亥俄州10GW資料中心、以及全球新雲端建設提供低息融資。截至7月，Nvidia在資產負債表外已列示360億美元雲端保證，未來至2029年可能超過5000億美元。此策略依賴持續的算力需求；若需求未達預期，違約風險將由Nvidia承擔。\n🌐 影響：若Nvidia被迫動用保證金，可能拉低公司股價並影響全球AI供應鏈；同時，台灣AI新創與資料中心業者若依賴Nvidia資金，將面臨融資成本上升或資金斷裂風險。投資者則需重新評估與Nvidia相關的信用風險與市場波動。",
+      "title": "SpaceX coverage network designs draw Wall Street's eye. Here's what analysts think - CNBC",
+      "feature": "SpaceX 目標 8 萬基站  攻佔電信市場\n📰 發生什麼事\nSpaceX 正與美國主要基地設施營運商談判，爭取接入多達 8 萬座手機基站，以部署 Starlink Mobile 服務，直接向 AT&T、Verizon、T‑Mobile 三大電信業者挑戰。\n🔍 背景與來龍去脈\n自 2015 年 Starlink 首次商業化以來，SpaceX 已累積超過 4,000 顆低軌道衛星。去年併購 800 MHz 頻段後，加速打造全球行動網路。業界預測若成功接入基站，將把地面與太空網路融合，削減建設成本，同時對傳統電信的頻譜壟斷構成衝擊。\n🌐 影響\n短期內相關電信股出現波動，T‑Mobile 股價因市場傳聞下跌；長期則可能加速 5G/6G 競爭，促使美國監管機構重新檢視頻譜分配政策。對台灣而言，若星鏈商業模式在美國成熟，未來也可能進入台灣市場，提供偏遠地區更廉價的行動上網選項，並刺激本地電信業者加速創新與價格調整。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBQZzdRSnhOUDBpVUt5QTN1dU8wand5RTBxYjRrNWltMzMzNWt4SV8tUlA0bXpVUmU4eGhQS3FXd1VsYTRGSlI3RXVRMG1vMExPeEFiQWw3X0NqNXlKWkFzMl9qMVZzSDl0VlQxVGhYeUVPNV9POHBEUlE4MA?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "半導體AI供應鏈迎籌碼戰！外資狂砍台股逾3千億，歷史數據揭露後續走勢-財經焦點情報站 - CMoney投資網誌",
-      "feature": "半導體AI供應鏈遭外資狂砍　台股資金出走破3千億\n📰 發生什麼事\n外資在單日拋售台股超過3,000億新台幣，半導體與AI相關族群跌逾10%，台指跌破季線，創下近年最大單日賣超紀錄。外資賣超金額上週累計約5,862億，其中週四單日賣超3,025億。\n🔍 背景與來龍去脈\n美國費城半導體指數連續下跌，週跌幅逾11%，帶動全球半導體資金流出；同時新台幣匯率走貶、外資撤退與本土資金防守形成對峙。儘管AI需求長期看好、台積電與NVIDIA仍維持高資本支出，但短期內國際科技股財報不佳與美股波動加劇，使外資風險偏好下降，觸發大規模撤倉。\n🌐 影響\n短線看，台股指數可能持續在季線附近震盪，半導體股價回檔風險提升，投資人需留意資金流向與融資餘額。中長期而言，AI供應鏈基本面仍堅韌，若全球晶片需求恢復，相關股仍具成長空間；但新台幣貶值與外資持續賣壓可能抑制台灣出口競爭力，影響整體經濟成長與薪資水平。讀者應關注美國大型科技財報、匯率走勢與本土資金防守力度，才能判斷是否需要調整投資配置。",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1pyaEE1LWNjbmd3NzhpRUs4LVk2Rmx6em5GNjJJMTNHdFc5b05La2c0aWhzZGhnaXVldTVMY1NOUmp4ZGZ0dUtaRGhuYTVFY3NPMU1MMm5MRTQ2ZEpDV2hMNmF1c3F0MlU1MnhSVUU3MmluSHA5ZkRfdDYtU1FseEhB?oc=5"
+      "title": "AI基建商機、台電強韌電網計畫雙重助攻 重電四雄營運可期",
+      "feature": "AI基建與台電強韌電網雙驅 動能注入重電四雄\n📰 發生什麼事\n華城、亞力、士電與中興電四家重電龍頭受惠AI相關基礎建設與台電「強韌電網」計畫，2023下半年營收皆年增，手上訂單分別達220、130、600、431億元，出貨能見度延伸至2029-2031年。\n🔍 背景與來龍去脈\n全球AI算力需求推升電力與變壓設備需求；美國大型AI資料中心與台灣半導體擴產同時刺激電網升級。台電於2023啟動「強韌電網」計畫，要求高壓GIS、變壓器等本土供應，四雄因技術認證與先前美國AIDC合約，成為主要承接者。\n🌐 影響\n短期帶動股價回暖、營收季增，提升本土電力設備產業鏈自給率；中長期則支撐相關產業投資、創造就業，並減少對進口設備依賴，對台灣能源安全與產業競爭力具有正向效應。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6637130"
     }
   ],
   "candidates": [
     {
-      "title": "影/80歲川普臉上突現神祕瘀青！事後一段話惹疑猜",
-      "content": "美媒「野獸日報」（Daily Beast）報導，現年80歲的美國總統川普23日公開露面時，臉部左側出現一塊明顯的新瘀青，從眉尾一路延伸至顴骨上緣，與前一天從白宮出發前往愛荷華州時的模樣明顯不同。事後川普突然在自家平台真實社群發布一則與健康有關的貼文，寫道：「健康的人有一千個夢想，生病的人只有一個（就是康復）！」但他沒有進一步解釋，再度引發外界對他健康狀況的揣測，甚至有網友猜川普是否曾摔倒。",
+      "title": "台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」 - 今周刊",
+      "content": "台積電聯電、南亞科聯發科…台股開盤再殺撿誰？16檔外資狂砍、本益比跌回7月股災、KD賣超區「先蹲後跳」 今周刊",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQcHAyc0RZVDNOaTZrZDBlc3ZzcDBZSHR6RVVzaVU3bWM1SGtJUk5CN1FYdjFWQ3U5NWlLVmhiaEhjLWNvcUtBbFJtTGVKeUF1X2lmanpockMtVTZqd3JXbGlHRmladFBsSUhiSE1NbU9tTTh0MUhZWmI5MzMtNmlXWQ?oc=5"
+    },
+    {
+      "title": "魯拉逆轉連任 巴西五大經濟挑戰等著他",
+      "content": "巴西總統大選第二輪決選落幕，左派現任總統魯拉（Luiz Inacio Lula da Silva）逆轉擊敗極右派參議員佛拉維歐．波索納洛（Flavio Bolsonaro），將在明年1月展開第4個非連續任期。巴西近年經濟表現多次優於預期，失業率降至歷史低點，薪資成長也跑贏通膨，但債務、物價與高利率等結構性問題並未消失。路透整理，魯拉新任期至少面臨五大經濟挑戰。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9835723"
+      "link": "https://money.udn.com/money/story/5599/9837124"
     },
     {
-      "title": "旅遊業衝刺線上旅展買氣 這些航點和機票都有優惠",
-      "content": "ITF台灣國際旅展11月6日登場前，雄獅、長榮航、華航先推線上旅展。 雄獅指冬季旅遊訂單人數年增3成，會員回流逾6成；日本6天以上團增4成，歐洲訂單增6成。 長榮航祭82折起航線、12月1日開航桃園-德里；華航主打76折起，10月25日起紐澳航線全面增班。",
+      "title": "穆迪未降評法國國債　為什麼歐元空頭部位仍升至逾6年高位？",
+      "content": "穆迪維持法國主權信評不變，展望仍「負面」，假定法國可通過2027年削減赤字預算 法國10年債殖利率一度升至5.14%，法德利差擴至178個基點，市場已先行定價風險 政府拚將2027年赤字壓至5%，但國會無多數；分析師稱預算博弈與ECB預期續牽動歐元與法債",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6637146"
+      "link": "https://news.cnyes.com/news/id/6636584"
     },
     {
-      "title": "十月累漲4.6%！瑞士股市成為市場AI恐慌下的避風港",
-      "content": "瑞士股指本月漲4.6%，歐洲Stoxx 50跌3.2%，超額收益近8個百分點，創2020年3月以來最高。 羅氏、諾華、雀巢分別漲12%、6.7%、10%，三檔防禦龍頭帶動指數，合計佔近半權重。 資金撤出AI轉向醫藥食品；但比價回到近兩年高位，瑞郎反彈也恐壓抑出口股獲利。",
+      "title": "訂單滿載到2027年底！「這工具大廠」逆勢台股震盪爆量5萬張登量價王PCB鑽孔機、擴產動能看俏 - Yahoo股市",
+      "content": "訂單滿載到2027年底！「這工具大廠」逆勢台股震盪爆量5萬張登量價王PCB鑽孔機、擴產動能看俏 Yahoo股市",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6636500"
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMijwRBVV95cUxOT1BCYTVwcG05RHRGbDJoeThjTFdCMElyUHIzWFZMMFUtbnZuSlc0QkVqTjVPU1ZqRTlhdmtTTFRrb1U0elVVLS15MWdTWFhBYmxJNHY3d25HbWdvcnpobXltVEZ6dzlHUXBoXzJBd2dtRVpQVlBaSnBVdWVWWDU2VGpaams0QkFHUjk0ZUpqRTk4NGYzd01nYlJBSHJmQmhONU4xX2stNWJXaTNvVURsZVZoTlgwUWRSVk5HbklOb1g4aEVRSWd6YWI4d2h4cVZGYjZlaUg4U3ZFZW9wdXhRVWx4S0J1ZVNla3F6UXNZUVdjaVh0dW9LU2RnczFxQ2UyNWw1WXVZQnhxanlqcW5hZTE0c2k3b3VZOUJXZUM4U3BTanU5QzVFWjBuVTV5MWhPRUVYN3J0MEpIRGFlNVZfcHFET3djWFExaC1WVk5LWk5SeTAxUmNNNlZmM0MxSk1sNEpvMzlhR3dfR0o1Tnh0dnFNMTllTUpuZ2ROLXVZa3JEczNRS3NBUEtiSm9nUU1BazljaWVlVjlrQktOOHJkQmtpVzhxSi1JRVZHV1JUMUxkaVZUQnl1WFkwdXBKU2JMMGw4Mm9ZeVRxTTRhVjZwSnhFX0o2NWJoNEdEUU5wUklzaVRPUmhFX0xIeGdIUlVPd1k2ZDNCRnJTb1NfTmFuUEFPelhwLW1jdW9hd243MA?oc=5"
     },
     {
-      "title": "影/法國再爆80萬人示威！7萬警嚴防暴動 精品店木板封門畫面曝",
-      "content": "英國廣播公司（BBC）報導，法國各地24日再度爆發大規模示威，數十萬民眾走上街頭，巴黎、馬賽等多座城市入夜後陸續爆發警民衝突，近千人遭到逮捕。不過，相較於17日的大規模暴動，這次示威未重演廣泛縱火、搶劫及破壞的失控場面，對近期承受龐大維安壓力的法國當局而言，已算是一場小小的勝利。",
+      "title": "名師操盤》台股明開盤決戰！關鍵點位不能破2檔千張大戶加碼股逆襲- 財經 - 中時新聞網",
+      "content": "名師操盤》台股明開盤決戰！關鍵點位不能破2檔千張大戶加碼股逆襲- 財經 中時新聞網",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBYQ3paMUlGc21IRlVyNXAzOHBBN2ktY0VOdE5OMkRkVlhZWS1FMGdpcEJUTDhKQ0FkVUdhalNBTTFUVlEtTnRMWExwOU9Oc1JrcmdnOUNlU1RjOHNCcmtwOTlmUzF1b3hTbVd0Yjh3?oc=5"
+    },
+    {
+      "title": "北韓拒為地雷事件負責　警告主權遭侵犯將自衛反擊",
+      "content": "北韓中央通信社（KCNA）今天報導，北韓已致函聯合國安全理事會，指控南韓捏造9月發生的地雷事件，並危及在邊境進行防禦工事...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9835716"
+      "link": "https://money.udn.com/money/story/5599/9837110"
     },
     {
-      "title": "巴西決選前夕左翼紅潮對決右派浪潮　小波索納洛民調微幅領先魯拉",
-      "content": "里約熱內盧的柯帕加巴納海灘今天湧現支持總統魯拉的紅色人潮，數百名機車騎士則催動引擎，為右翼候選人佛拉維歐．波索納洛聲援。...",
+      "title": "美俄烏三方會談要來了！俄方鬆口時間點 澤倫斯基證實已準備好",
+      "content": "烏克蘭總統澤倫斯基25日表示，烏克蘭、美國及俄羅斯將於11月舉行三方會談，試圖重啟陷入停滯的和平談判。俄羅斯媒體同日引述克宮幕僚鄂夏柯夫指出，莫斯科已準備好在11月4日之後恢復三方談判。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9835715"
+      "link": "https://money.udn.com/money/story/5599/9837106"
     },
     {
-      "title": "006208擬分割一拆八！12/18開受益人會議 入手一張只要3萬元",
-      "content": "台股 ETF 人氣王之一－富邦台 50 ETF(006208-TW)終於走上分割之路，富邦投信將於12月18日以書面方式召開受益人會議，表決是否進行基金分割，初估分割倍數為8倍，藉此降低單位交易價格與投資門檻，屆時買進一張只要 3 萬元，讓小資族更容易入手。若議案順利通過，實際分割倍數將依會議通過當",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6637230"
-    },
-    {
-      "title": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections - CNBC",
-      "content": "American embassies tighten security as Iran threat warnings intensify ahead of U.S. midterm elections CNBC",
+      "title": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift - CNBC",
+      "content": "Serbia’s strongman leader Vucic concedes defeat to student-led movement in seismic political shift CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jcDByc1pCbHFOTGQ2bmctZTc5WXRheFYzMW1NMWhUaVEtb1oxdFFYLVdmY2RieTNRTkJDWE5DMUFRTDdOdWZtcTVidHVZWHVvXzk3R3l4blBTblZFQW1Hd1hjSFhoMEpraXlzM2ptemN3aGVNR3NPTGFqRi01SG_SAYQBQVVfeXFMUG50WmZfWjJyR0t5clgtTTVuakRCcEkyZ0xiTE9TMlhLRzR6QWxLTGFYM1BCMkJYQ1lsMkZYTmpfWlVheHJGd3MxTVBpS3JEWE9FdTZMb3ZiTjZYMktQeDBUX3UwOU1wemFHSnBBZG9UcnZkMzkwSXpXTWp5QUIwWUpRMEFj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUllPQ1hIcjZfQjVZNmVLbVNrYXNkemk4TDU2dnhFdVNqS0Y5NHN5dUxiaWxab3Ziakg0M1NDZzdNQ2xJWnpFZS1xdlN0MnRxLW9jR3BBazR2Z2poQnZ3UlZnZkN3QWJ0WmtmMVdzUG1xRTNtMFBiNV9wVm5rNnhhQlpKVElYRGpVbUx4c2hKekZOOHdKXzE5TVg2WjjSAaIBQVVfeXFMT1UzbTdqRU1fNFlHMk9ZQTBNbWlKVWdhOHZ1Rnl2WExNMjlnZzRXZHh0WE5JRi1fVTE3SkZrYmkyTlBrX0FoMHpOSTB1aVpRNmpSc014WmhmM1VzQTRXWEFMQnBBWUplRzRmR2czSTd0bXZkdkE0NGNlVkxJalpENmYwRHUwNHltYVMwbnRNNDhOd0JmUWJ1ZUZpeUZ6T1dUNDl3?oc=5"
     },
     {
-      "title": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections - Yahoo Finance",
-      "content": "Why Peter Schiff says a stock market crash could happen before 2026 midterm elections Yahoo Finance",
-      "category": "international",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZ0Ftajh0VEZWbXpMV2ZCNmZCSHU4QXNNMWJkX1RLTmFLalM3X3g4OUNSQXU1LWY3YzV3WHpFQnFCS2J1dU53TDh0Nk9lLTRGT3pGdi1tYU5oaC1BSE9UTVFaa3NDOVNtUE5uQTZHd3ktVkZkckdveGkyMEdNSkJ1b1U1eG10ak8zc0ZscmZtR2doUHp3RmZZ?oc=5"
-    },
-    {
-      "title": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it - CNBC",
-      "content": "Trump is pushing a massive AI buildout. His own voters are wary of what comes with it CNBC",
+      "title": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis - CNBC",
+      "content": "Saudi Arabia says it intercepted missiles and drones from Iran-backed Houthis CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNcHpyd0dWM0xXTi1Yenc5LWRtYlhZXzUydG5yc1BDaWRiWlZjZk0tYU5hVGRqYl9fNjhXNW5PRHN4T3F3azZmdU1EaWIzdG1BaWFwNzI5S0dDYUdyeFN0cWRMeUw3N2F5dkd5YjUzWFN6NWJOSENUQXNXVi1KY1oxNy1FVDJQbDRCdWfSAY8BQVVfeXFMTlIxSHBHSDdaQXpRdnBiQzdveFFyRWdFSXVnUkhGOFVHdGstSFNaSmhjVnNDNi1OcklJYktNSlNXOVRxbkt0VlNvRjRGeUUxbFNpX1V6VUhrLUVpS1lBRUJtNFducmRWbU5yQ3ptMFByX2xiOUd3SW56cDdCRW84VzVZeDE3dnF0QlFhVmc3MnM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdjVjTmdHOUVQdHBNYk9zRUlGWDVXXzRFTmFzUWJaZno0Y2ZkU2ZQcDJ4YUt4Q29lclZwWmw5eTdaWEczNDY4ZTVQNnI5OVFCQjl1VndQVkN6SFM4NzJRb0pfTUVDejVSMktPeENjd3NxVnRTRUpPMWU4OWFKYkhIZkI0UjJDSXVEcG9fY9IBkgFBVV95cUxPQzlTRWw1RFVBdlVvT1VpdkdQSkh3UjhQZURkZElXRTlMWFZQT29UVFJRTXhCbXlEbjY5ZW01dDZnRFBiaWNnbGVrTGtDS0QwRzF6ZGZOYzVtemkzUDVPSlFqbHBsSTZHRnVOazhkNWNaX2NIWmVmcEc2eUlGZ3Z5d01QLXJ0TWxGRjVoa1ZEdG5sdw?oc=5"
     },
     {
-      "title": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests - CNBC",
-      "content": "What next for France as riots rattle markets? Three questions facing investors ahead of more protests CNBC",
+      "title": "What Democrats and Republicans fear most about each other: CNBC survey has the answers - CNBC",
+      "content": "What Democrats and Republicans fear most about each other: CNBC survey has the answers CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42SU5XYVUwMmU4cUtKdGZNOEdZRk1wRVFUYkNPNE1xTFRUWEJlN0dSMnBPQUN3NGpZZ1R3Z1lSeVBpRkRMSlpqZV9oSmRIVFhVS1FPRXVPUkc5Y3NGOUJDdFc5ZEtfTnZUTXFOMWlnTWtIekg4V2w1a2RVVGZqSG_SAYQBQVVfeXFMTmRjYS1LU0J1RjR0cnZTQU9DcFhFV3pyM2JVSXhpazhLdDh2aWdfaXBjRW9VajdGbXA0bm5HZ2RqczJ5MTg1NVpOZ2VTUURuNVlJUHU5WlM5TUp6WDNBZGtEeWNORTIxa0JmNXdfRlJOMmNpT3o5ek5RYmVSU2M2YWZYWHgy?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOb3UyOUIzOTlZRnZMcU55UnBablU1UzJyNDg4VDFXWkwxTkdTQlI4UHVRZldvVjM3ZUN0ajJ1VXpBYU9YRTdoa29WSXJCc3Y2UUhPeHBMQmNnR2ljWkJoX0Y4ckwwMnBsa3VJOE51cHVMSVVGWUp6YnViRXFNOW5YZkJ3TdIBiAFBVV95cUxOb1lMNE5JanoycnZaUmt5U0dLUTJrZWhFSlh4ZEdLS0YtVXVvbGQtbnNiSTVpWl84UzRVTUY2cFpaTC1ZdW1DYTFhRHd5bm9kdzRhV1RnSmJEWjFUejZjN3A0NmkyOUNYVWhFUWg5eFVoOGN4QUNEYUhMczdhMk85eXRkSU9RQnNG?oc=5"
     }
   ]
 }
