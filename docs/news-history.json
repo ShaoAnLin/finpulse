@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-27",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey - CNBC",
+          "feature": "日銀維持1.25%利率、鷹派基調不變　—　日本央行本週兩日會議預計不調整政策利率，但仍暗示年底或明年初升息可能。\n📰 發生什麼事\n根據CNBC調查，全部16位受訪者預測日本央行將在本週會議中維持1.25%政策利率不變，同時保持鷹派語調，並可能於12月或明年1月啟動加息。核心通膨9月升至2.1%，薪資連續第八個月成長1.5%。\n🔍 背景與來龍去脈\n日本自2023年起結束長期負利率，去年10月首次升至31年最高的1.25%。弱日圓推高進口成本，能源價格上漲進一步刺激物價，同時工資同步上揚，形成「薪資驅動」的通膨。儘管通膨已逼近2%目標，國內債市脆弱與政策委員會內部意見分歧，使得連續加息仍有阻力。此輪決策同時與美聯儲、歐央行在同一週公布利率政策相呼應，全球能源價格波動亦是關鍵變數。\n🌐 影響\n日圓持續貶值將提升台灣企業的出口競爭力，但進口原料成本亦可能上升，壓縮利潤。日本債券收益率維持高位，可能吸引資金流出新興市場，包括台灣股市。若年底加息，台幣匯率可能承壓，投資人需留意匯率與利率傳導效應。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "中國1至9月工業企業利潤增長15.5%",
+          "feature": "（標題行）中國工業企業利潤大幅回升 1‑9月增15.5%\n📰 發生什麼事：國家統計局公布，2026年1‑9月全國規模以上工業企業利潤總額6.03兆人民幣，同比增15.5%。其中國有控股企業利潤1.94兆，增13.1%；股份制企業4.67兆，增20.8%；外商及港澳台投資企業增0.5%。\n🔍 背景與來龍去脈：受益於去年底至今年的宏觀刺激政策、需求回暖以及新能源、先進製造等「新質生產力」推動，工業產值持續擴張。疫情後供應鏈恢復、內需擴大、政府加大基礎設施投資，使製造業利潤上升17%。相較於2025年增速放緩，此次回升顯示政策效果初見。\n🌐 影響：利潤增長提升企業資金鏈穩定，或促進投資與招聘，對全球供應鏈恢復有正面帶動。對台灣而言，中國製造業需求回升有助於原料與零組件出口，同時也可能加劇產業競爭；投資人可關注相關產業ETF與大宗商品價格波動。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6637839"
+        }
+      ]
+    },
+    {
       "date": "2026-10-26",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "美陸軍新作戰準則：台海衝突首日即投入作戰\n📰 美國國防部公開46頁《美陸軍作戰方式》，將兵力集中於印太第一島鏈（日本、台灣、菲律賓），規定一旦台海爆發，駐當地部隊須於戰爭首日直接參戰，並部署長程精準打擊武器、彈藥燃料儲備與多領域特遣隊。\n🔍 背景：近年中國解放軍加速海空遠征與A2/AD能力，令美軍認為傳統遠距增援已難及時。自2022年起美軍逐步把重心從中東、歐洲轉向印太，成立第四支MDTF、擴建第二島鏈補給站，並要求駐韓第八軍團具備跨區快速部署能力，形成「子午線」防禦構想。\n🌐 影響：台灣防務將被迫加速整合美軍前線資源，提升即戰力；區域外交可能出現美、日、韓更緊密合作，同時刺激防務股與相關產業需求；市場上投資者對台海衝突風險的預期上升，匯率與債券利差或出現波動。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9827720"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-20",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Three big takeaways from the IMF-World Bank meetings - CNBC",
-          "feature": "IMF與世界銀行會議釋出三大警訊：債市波動、晶片熱潮與地緣政治新局\n📰 發生什麼事：10月在曼谷舉行的 IMF‑世界銀行年會召開逾 1.8 萬名代表，IMF 公布《全球金融穩定報告》，警告主權債券殖利率可能因通膨、債務與 AI 相關借貸而出現「失序」上升；同時，韓國財政部長在會上指出半導體需求仍超供給，晶片熱潮至少延伸至 2027 年；俄羅斯則提議美、中、俄三國舉行和平會談，烏克蘭被排除在外。\n🔍 背景與來龍去脈：近年能源危機推高先進國家通膨，政府債務已逼近二戰以來最高水平；AI 企業大量發行長期債券，與主權債競爭資金；半導體則因 AI 需求與供應鏈重組，持續拉高韓國及台灣的產能投資；俄美中三角外交則反映大國在烏克蘭問題上的策略調整。\n🌐 影響：債券殖利率飆升將提升台幣利率、增加企業融資成本，投資人可能重新配置資產；晶片產業的持續擴張有利於台積電等本土廠商，但也可能加劇產能過剩風險；地緣政治變局讓台灣在安全與出口市場上面臨更大不確定性，企業與投資人需同步關注政策走向與風險管理。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNblRUeEhJa2ZudHZxRXVFcmJxTkc5clFqdmFIQVNpT292MTVVVS1fLUtCa2hPQ084ZUhEUXRKZUVqRzdUdm13ci1nU2NISU9HTUkzM3VIWnRDNzBPS3dBZVFoN2xUUy1qSUE1MGhVS2lDZ2lkYXNLSnUwSndVWmozSNIBhgFBVV95cUxObzgyTTBPM3hIZE5jakVpVTE5VGp3UjR4cHZlV1huT1lBTUlMcGNVaGIza0E3THdEMXEzR3ZWSWxkS2h5OTRQZ1NaNEZHclVkaVRCYU0xdnhHWm9CZUVWRk8yOE15MndJdTFKWHBfeTIxUFFOLWMySWxDRTFySjc0THZndVphZw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "中國LPR報價 連續第17個月保持不變",
-          "feature": "(標題行)中國LPR連續第17個月保持不變，暗示政策利率已進入穩定期\n\n📰 發生什麼事\n中國人民銀行於10月20日公布1年期LPR 3.00%、5年期以上LPR 3.50%，較上月未有變動，為連續第17個月持平。\n\n🔍 背景與來龍去脈\nLPR自2025年5月下調10個基點後，與7天期逆回購利率同步走勢，已連續17個月維持不變。央行行長潘功勝表示，正推動利率定價基準多元化，從單一LPR向“LPR+DR”等市場化指標轉型，同時加強結構性貨幣工具（如PSL下調、再貸款貼息）以支撐實體經濟。\n\n🌐 影響\n對企業貸款成本短期穩定，有助於降低資金波動；但結構性改革可能提升大企業利用市場利率融資的靈活度。對台灣而言，中國製造業資金成本持平或減少，可能抑制匯率波動，且相關產業供應鏈資金壓力不大，投資者可留意兩岸資金流向與利率傳導效應。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6633615"
         }
       ]
     }
