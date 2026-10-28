@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-28",
+      "featured": [
+        {
+          "category": "international",
+          "title": "SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats estimates - CNBC",
+          "feature": "SK Hynix 逾250億美元回饋股東　AI 記憶體熱潮創歷史最高季盈\n📰 SK Hynix 公布 2026 第三季營收 104.6 兆韓元（≈788 億美元），營業利潤 83.3 兆韓元，較預期大幅超出，同時宣佈近 100 兆韓元（≈250 億美元）回饋計畫，包括 30 兆韓元現金股息、60 兆韓元自購並部分註銷股份，特別股息來自 Kioxia 投資收益。\n🔍 背後是 AI 伺服器對高頻寬記憶體（HBM）需求激增。SK Hynix 為 Nvidia 主要 HBM 供應商，HBM4 產能在 Cheongju M15X 廠升溫，全年長期供貨協議覆蓋 2027‑2028 超過半產能。去年 AI 熱潮推動 DRAM、NAND 價格上揚，公司的營收年增 327.9%，營業利潤年增 632.1%，創下歷史新高。\n🌐 影響方面，全球 AI 產業鏈資金流向加速，股價短期可能受回購刺激上揚；對台灣半導體供應鏈而言，AI 記憶體需求持續擴大，可能帶動本地 DRAM、NAND 代工訂單與投資布局，同時投資人對相關 ETF、ETF 及 AI 相關股的關注度亦將提升。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "盼支持油電撥補穩住物價！龔明鑫曝：若完全反映能源漲幅今年CPI早衝破3%",
+          "feature": "「油電撥補成通膨防線　能源漲幅若全反映，CPI或破3%」\n📰 立法院經濟委員會上，經濟部長龔明鑫說明，國際油價與電價持續上揚，台電與中油自行吸收成本，導致財務虧損。行政院因此撥補預算，避免將全部成本轉嫁給民眾。\n🔍 近年俄烏戰爭與全球供應鏈瓶頸推高油氣價格，台灣能源高度依賴進口，油電兩大國營事業本應維持價格穩定。主計總處估算，油價每升10%會使CPI上升0.24個百分點，電價同幅上升則加0.27。若全額反映，2026年CPI將突破3%。各國亦採預算補貼或凍漲政策，台灣走的是撥補路線，同時中油與美國Cheniere簽長約，布局多元LNG供應。\n🌐 若撥補成功，短期可抑制食品與生活必需品價格，減輕民眾負擔；但長期財政壓力累積，或迫使未來提升電價或徵收能源稅。市場方面，能源股因撥補預期出現波動，投資者關注政府預算規模。民眾則期待穩定電費與油價，同時關注能源安全與通膨走向。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6639201"
+        }
+      ]
+    },
+    {
       "date": "2026-10-27",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "新加坡PayLah!跨境支付上台，助力兩岸旅遊與消費升溫\n📰 發生什麼事\n新加坡星展銀行的PayLah!電子錢包今日正式在台灣超過25萬家商店支援掃碼付款，首波涵蓋便利商店、超市與觀光景點，未來將再擴至更多業者。\n🔍 背景與來龍去脈\n近年新加坡與台灣旅遊互訪持續成長，雙方已簽署多項旅遊便利協議；同時，跨境行動支付需求提升，PayLah!與台灣支付平台完成技術對接，符合台灣金管會的跨境支付安全規範。此舉亦回應星展銀行在東南亞擴張的策略，並與台灣推動「智慧支付」政策相呼應。\n🌐 影響\n旅客可免換匯直接以新幣或台幣結帳，提升消費便利，預估將刺激新加坡赴台旅遊人數與本地商家營收；對台灣金融業則是跨境支付生態的加速器，可能促使本土業者加速開放類似合作，長遠看有助於提升台灣在區域數位金融版圖的競爭力。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9830190"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-21",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Japan exports post huge miss in September as growth slows to 16.7% - CNBC",
-          "feature": "日本九月出口增速放緩至16.7%　—　成長仍持續但未達預期\n📰 日本財務省公布，2026年9月日本出口較去年同期成長16.7%，為連續第13個月增長，但低於路透調查預估的20.1%。主要出口仍以半導體、AI相關晶片為主，對美國、東協與韓國增幅顯著；對中國、香港與中東則出現下滑，導致貿易逆差擴大至5366億日圓。\n🔍 背景方面，去年日本受惠於全球供應鏈重組與日圓貶值，出口大幅上揚。2025年起美國與歐洲加速AI與高端製程投資，帶動日本半導體需求；同時中東衝突及能源價格波動提升供應鏈風險，使部分傳統製造業出貨受阻。內需疲弱與日圓升值抑制了出口競爭力，致使增速放緩至四個月低點。\n🌐 影響上，短期內日圓走強可能削弱日本企業的價格優勢，台灣半導體供應鏈若轉向日本或面臨成本上漲；但日本對AI晶片的需求持續，亦為台灣相關零組件提供機會。出口放緩加劇貿易逆差，或迫使日本央行調整寬鬆政策，間接影響全球資金流向與新興市場匯率，台灣投資人需留意日圓與美元走勢以及相關產業的供應鏈變動。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9aTU1JaGJTTUNFU2Y3SXBVMnF4TGdLNDIzT1V0UDJHYm00SUxBZ2N3TEdZUzJ3VGZIMFRFY0NLdFoydW00ZkljQUFqa25TMW5TaVdYQTJ2SjROOUtDV19HYzRncEN2ekFVOE1EdHlYcUJwckdRMlNCYWk4aktpVTDSAYQBQVVfeXFMTTBNN3hmTmQxd0g0c3oyU3dFNk0ydThhN2Vhd2JDa0hhbWRuNnhZQVU1b2daLTc1QW1neGQ3YjJycllxbER3Q3lra3VESnpsbE9vT0hna2o0UERJWjc1bTVBbnJIMFplTlZjVFduTDgwTnFBZ0xSbC1FWWFhYzRHRnRnOEZY?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "美國陸軍新作戰準則曝光！擬台海戰爭首日立即投入作戰",
-          "feature": "美陸軍新作戰準則：台海衝突首日即投入作戰\n📰 美國國防部公開46頁《美陸軍作戰方式》，將兵力集中於印太第一島鏈（日本、台灣、菲律賓），規定一旦台海爆發，駐當地部隊須於戰爭首日直接參戰，並部署長程精準打擊武器、彈藥燃料儲備與多領域特遣隊。\n🔍 背景：近年中國解放軍加速海空遠征與A2/AD能力，令美軍認為傳統遠距增援已難及時。自2022年起美軍逐步把重心從中東、歐洲轉向印太，成立第四支MDTF、擴建第二島鏈補給站，並要求駐韓第八軍團具備跨區快速部署能力，形成「子午線」防禦構想。\n🌐 影響：台灣防務將被迫加速整合美軍前線資源，提升即戰力；區域外交可能出現美、日、韓更緊密合作，同時刺激防務股與相關產業需求；市場上投資者對台海衝突風險的預期上升，匯率與債券利差或出現波動。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9827720"
         }
       ]
     }
