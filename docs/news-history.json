@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-30",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance - CNBC",
+          "feature": "Intel 受PC 市場低迷拖累，指引走弱股價狂跌21%\n📰 Intel 在2026年第3季營收雖較去年增長21%至165.1億美元，且每股盈餘達0.52美元，仍因客戶電腦與實體AI部門營收下降5%以及對下季營收與每股盈餘僅預期15至16億美元、0.25美元，導致股價盤後跌逾21%。\n🔍 PC 市場自2024年起因記憶體與零組件成本飆升、遠距工作需求下降，全球出貨量在2026年第二季跌幅達4%。Intel 仍高度依賴客戶電腦業務，儘管資料中心與AI營收大幅成長78%，但整體指引仍受PC 市場疲軟制約。公司財務長指出PC 衰退將持續至明年上半年，並將持續投資產能與營運資金以備未來需求。\n🌐 影響方面，短期內投資人恐慌情緒升高，使Intel 股價承壓，波及半導體相關ETF；對台灣而言，PC 需求下降可能衝擊本地代工廠與記憶體供應鏈，進一步影響台積電與南亞科等公司的訂單與毛利。另一方面，資料中心與AI 需求持續成長，為台灣的GPU、FPGA 供應商提供新機會，亦提醒投資者在布局半導體時需平衡傳統PC 與新興AI 兩大領域的風險與回報。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlczFWcC1WVTdsdENmNVdsNnJpczI0SzZqRkZuel9NLTdsUG85UlJDVEV4NllwUmRUXy1QZGV6ci1BamdFQTVtQ2hlelhiR21LNzJsQ2dCSzdTc1JCQUdDVU90bGY2a3hIeldPa043TnYtelgtZFh2b04xblrSAYIBQVVfeXFMT0lPRHpDdlR4ZlpnZWc1SS1mTHNjZGE3VVItSnA5bndoU3ByQVFPa2Rzakx2QlFoWW52ZVM1dF9aWjdlczFEby05eHhwaEQ5YllseUJlbjkwRzNva0VWdkM0Tkp3a2tZcTZydktHUXdmZEZwamdwMTBuUUNwY3hDZHRDZw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "AI資本支出疑慮引發賣壓，台股重挫逾1600點失守半年線，台積電等供應鏈回檔-財經焦點情報站 - CMoney投資網誌",
+          "feature": "AI資本支出疑慮掀起台股大跌，權值股首當其衝\n📰 發生什麼事：受美國巨頭Alphabet公布第三季自由現金流轉負90.7億美元，市場對AI資本支出效益產生疑慮，全球科技股普遍回檔。台灣加權指數單日跌逾1,600點，失守半年線，台積電、聯電、聯發科、台達電等供應鏈權值股同步下跌，外資當日賣超逾600億台幣。\n🔍 背景與來龍去脈：2024 年起，AI 伺服器需求激增，台灣半導體與硬體供應鏈大幅擴產，資本支出累計逾千億美元。近期美國大型科技公司財報顯示資本支出回收期拉長、現金流轉負，投資人擔心AI熱潮短期內無法持續產生盈餘，加上美聯儲升息預期與全球通膨壓力，資金從高風險科技股撤回，轉向防禦性金融與債券。台積電雖持續擴產並收購友達廠房，聯電亦宣布追加32億美元投入先進封裝與矽光子，卻因市場情緒逆轉而遭賣壓。\n🌐 影響：短期內台股波動加劇，資金流向出現顯著輪動，金融股逆勢受惠，投資人需留意外資動向與大盤均線支撐。中長期看，若AI伺服器需求穩定成長，相關產業仍具布局價值；但企業需在資本支出與現金流之間找到平衡點，否則股價修正風險仍存。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb25SMlFTU3B5VkxnZGx6WldhUlF0dzFTQ1pPM24wdmx4RGhEVzY5TmNodEhVVVZkaXhzYVJvNWpKRXZJUjF1NUM4ZVNGY3RCSUU3T2ZyNUNPRmZUUFlyU2RxdU1wS1BibElnWklJa25OdkVWamM3YV8tM2ZQV19UakJ3?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-29",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "標普新規大改 成長/價值股分類調整牽動超 3,750 億美元被動資金\n\n📰 標普道瓊宣布自12月21日開盤前，將無形資產、預估盈餘與自由現金流納入價值股評估，並在成長股評估時剔除過去12個月的價格動能，全面調整成長股與價值股的權重與成分股。估計至少有3,750億美元的被動基金需重新配置。\n\n🔍 近年價值指標如股價淨值比被批評未能反映科技公司的研發投入，導致價值股表現不佳。標普此次規則在廣泛徵詢意見後推出，旨在讓資產負債表更完整，同時避免動能偏誤。富時羅素亦在檢視類似調整，以因應科技巨頭在指數中的主導地位。\n\n🌐 資金將從傳統價值股流向具高無形資產的科技與生技公司，可能提升相關ETF的報酬率，也增加台灣投資人持有美國科技股的誘因；同時價值導向基金可能面臨波動，市場對估值模型的信心也將重新校準。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6637033"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-23",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Trump invokes Cold War era Defense Production Act for oil production, refining - CNBC",
-          "feature": "（標題行）特朗普動用冷戰防衛生產法　為油氣產業注資以應對能源危機\n📰 發生什麼事：2026年10月22日，總統特朗普在備忘錄中宣布，將冷戰時期的《防衛生產法》（DPA）部分條款應用於石油生產、煉油及相關管線與儲存設施，視其為國防必需，並允許提供財務激勵與資金支援。\n🔍 背景與來龍去脈：自2026年2月底美國與以色列聯合空襲伊朗後，全球油運受阻；俄羅斯煉油廠又遭烏克蘭無人機襲擊，原油與柴油價格持續飆升。美國2025年日均產量約1360萬桶，仍是全球最大產油國，但面臨資金、許可與基礎建設瓶頸。特朗普去年已簽署含10億美元DPA能源資金的法案，此次召回旨在快速提升產能，避免供應短缺影響國防與民生。\n🌐 影響：短期可能刺激美國油氣企業擴產與煉油擴建，提振相關股價與就業；同時可能抑制油價回升，減輕通膨壓力，對台灣進口油價及運輸成本有間接正面。政治層面則加劇美國選舉中的能源政策爭論，若成效不彰，或影響共和黨在2026年中期選舉的表現。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTFAtRWszSkFOZEpkbWJ0ekJkVEFNaWlEWkN4Vm1oa3ZJLVl2V3R0elRNMGR3dmF5VEI0TDc4a2pGWFhMOEMyT01fRTJTVENBa0ZHSUc5OVEybmhURzNCYnRGeTJsNGlFRFR0QVpVb0JhTmhKX2vSAXhBVV95cUxQQmZpdVFYR1BvQVNmZWpOdV9tek91QTAyYkxCRFcxclJ4SlF5SGtyM0Q1VWsyWEpTZF80WTNzNk4tWHhQWXRfZG5tMmM1Tjc5czEtbGRwemdyX3o1TG9lQjFmMGtsYVN6UENpMWNkRTlqbXZrSGZCVkM?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "不只禁晶片出口！美國再從資金下手 AI、量子運算、極音速與生技都納管",
-          "feature": "美國新資金管制擴大至AI、量子、極音速與生技，直指中國等敏感國家\n📰 美國財政部於22日公布草案，將美資流向中國、俄羅斯、北韓、伊朗、古巴等「受關注」國家之半導體、人工智慧、量子資訊、高效能運算、極音速系統及部分生技技術列為禁止或須申報交易。違規罰金最高25萬美元或違規金額兩倍，預估每年合規成本約231至527萬美元，意見徵詢至2026年12月7日。\n🔍 此規範源自2025年通過的《全面對外投資國家安全法》（COINS Act），將拜登2023年行政命令制度化並擴大範圍。美國擔憂美資被利用提升對手的軍事、情報及網路作戰能力，尤其在AI、量子與生技領域的雙用途技術。過去僅限制晶片出口，現在改以資金流向切斷供應鏈。\n🌐 若規則生效，相關美國投資人將需重新審查對華投資，可能削減跨境併購與風險投資，影響半導體供應鏈與台灣相關企業的融資渠道。中國企業或加速本土化、尋求替代市場，台灣投資者則須關注合規成本與投資標的變動，市場波動或增大。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6636450"
         }
       ]
     }

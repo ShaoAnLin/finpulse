@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-29",
+  "date": "2026-10-30",
   "featured": [
     {
       "category": "international",
-      "title": "Here are five key takeaways from the Fed rate decision and Warsh news conference - CNBC",
-      "feature": "（標題行）美聯儲維持利率不變，暗示2027年會議流程調整\n\n📰 美國聯邦公開市場委員會(FOMC)於10月28日投票決議，將基準利率維持在3.75%‑4%區間。會後主席Kevin Warsh說明，未來一年將有一次不投票、無聲明的「策略」會議，2028年起策略會議增至兩次，真正的調整機會僅剩六次。\n\n🔍 此次決策符合市場預期，因通膨仍高於2%目標且勞動市場仍緊俏。值得注意的是，委員Lisa Cook與克里夫蘭Fed總裁Beth Hammack首次表態反對，主張再升息0.25%。Warsh亦提到AI正推動經濟成長，並透露會議流程將精簡，以提升決策透明度。\n\n🌐 對市場而言，利率持平短期支撐債券與股市；但會議次數減少意味未來升息空間受限，投資人需留意政策彈性。對台灣，美元利率穩定有助外資持續流入台股與新台幣匯率穩定，同時AI相關產業受美國鼓勵，可能帶來技術合作與投資機會。",
+      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance - CNBC",
+      "feature": "Intel 受PC 市場低迷拖累，指引走弱股價狂跌21%\n📰 Intel 在2026年第3季營收雖較去年增長21%至165.1億美元，且每股盈餘達0.52美元，仍因客戶電腦與實體AI部門營收下降5%以及對下季營收與每股盈餘僅預期15至16億美元、0.25美元，導致股價盤後跌逾21%。\n🔍 PC 市場自2024年起因記憶體與零組件成本飆升、遠距工作需求下降，全球出貨量在2026年第二季跌幅達4%。Intel 仍高度依賴客戶電腦業務，儘管資料中心與AI營收大幅成長78%，但整體指引仍受PC 市場疲軟制約。公司財務長指出PC 衰退將持續至明年上半年，並將持續投資產能與營運資金以備未來需求。\n🌐 影響方面，短期內投資人恐慌情緒升高，使Intel 股價承壓，波及半導體相關ETF；對台灣而言，PC 需求下降可能衝擊本地代工廠與記憶體供應鏈，進一步影響台積電與南亞科等公司的訂單與毛利。另一方面，資料中心與AI 需求持續成長，為台灣的GPU、FPGA 供應商提供新機會，亦提醒投資者在布局半導體時需平衡傳統PC 與新興AI 兩大領域的風險與回報。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5HTy1FRHJET2ZsWjdodm1pYU11UnkxQnJwU09YdjVUQV9xaEJfc2V6blhkdHJNV3ZLTGtaZ3lYZ2pYTElPQXVLMFl5T2IwVkhaWUo4Y2hrZGxfMXJ3d1NaYXhTSHBXM3RnS2NJMzA1cUppWGxRelEta1pR0gF_QVVfeXFMTXBjUk5HbWZHZHBtbFdrTDU0c2FpdUxrQmtCakJZTUxQUWdCYXcydWFfVmFDdnViazVkRmxhOHNuR1ZNdmdpSUFZUEt4OXphUlR2bjNqejg4UkpZZ3VNWU9DZ0RTMnUzd1lPUEphVTZXV2ktV3BUYXBJNDZrVVRZaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlczFWcC1WVTdsdENmNVdsNnJpczI0SzZqRkZuel9NLTdsUG85UlJDVEV4NllwUmRUXy1QZGV6ci1BamdFQTVtQ2hlelhiR21LNzJsQ2dCSzdTc1JCQUdDVU90bGY2a3hIeldPa043TnYtelgtZFh2b04xblrSAYIBQVVfeXFMT0lPRHpDdlR4ZlpnZWc1SS1mTHNjZGE3VVItSnA5bndoU3ByQVFPa2Rzakx2QlFoWW52ZVM1dF9aWjdlczFEby05eHhwaEQ5YllseUJlbjkwRzNva0VWdkM0Tkp3a2tZcTZydktHUXdmZEZwamdwMTBuUUNwY3hDZHRDZw?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "三星估2奈米製程訂單將倍增 明年AI與HPC晶圓代工銷售占比衝破50%",
-      "feature": "2奈米訂單翻倍，AI/HPC晶圓營收破半\n📰 三星電子於29日財報會議透露，2024年2奈米先進製程晶圓代工訂單量將較去年成長逾100%，預計明年AI與高效運算（HPC）相關銷售佔代工總營收超過50%。公司同時宣佈擴大位於美國德州泰勒的2奈米產線，並與多家雲端與AI大廠簽訂長期供貨協議。\n🔍 背景與來龍去脈：近年AI算力需求激增，尤其大型語言模型與資料中心對高頻寬記憶體（HBM）與先進節點晶圓的需求遠超傳統手機與PC。三星早在2022年即啟動2奈米研發，2023年開始試產，並在2024上半年取得多家主要雲服務供應商（如AWS、Azure）與AI晶片設計公司（如NVIDIA、AMD）訂單。與此同時，全球晶圓代工市場已由台積電與聯電主導的成熟製程，向4奈米以下的先進製程快速轉移，競爭焦點聚焦在產能與良率。\n🌐 影響：對市場而言，三星2奈米產能的快速擴張可能削弱台積電在先進製程的議價空間，提升全球晶圓價格波動性；對台灣而言，若產能分流，可能刺激本土代工廠加速升級同時帶動相關設備與材料產業需求；對一般民眾與企業，AI雲服務成本或因供應更穩定而下降，加速AI應用普及，但同時也提醒投資人注意半導體產業的供需變化與地緣政治風險。",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9844032"
+      "title": "AI資本支出疑慮引發賣壓，台股重挫逾1600點失守半年線，台積電等供應鏈回檔-財經焦點情報站 - CMoney投資網誌",
+      "feature": "AI資本支出疑慮掀起台股大跌，權值股首當其衝\n📰 發生什麼事：受美國巨頭Alphabet公布第三季自由現金流轉負90.7億美元，市場對AI資本支出效益產生疑慮，全球科技股普遍回檔。台灣加權指數單日跌逾1,600點，失守半年線，台積電、聯電、聯發科、台達電等供應鏈權值股同步下跌，外資當日賣超逾600億台幣。\n🔍 背景與來龍去脈：2024 年起，AI 伺服器需求激增，台灣半導體與硬體供應鏈大幅擴產，資本支出累計逾千億美元。近期美國大型科技公司財報顯示資本支出回收期拉長、現金流轉負，投資人擔心AI熱潮短期內無法持續產生盈餘，加上美聯儲升息預期與全球通膨壓力，資金從高風險科技股撤回，轉向防禦性金融與債券。台積電雖持續擴產並收購友達廠房，聯電亦宣布追加32億美元投入先進封裝與矽光子，卻因市場情緒逆轉而遭賣壓。\n🌐 影響：短期內台股波動加劇，資金流向出現顯著輪動，金融股逆勢受惠，投資人需留意外資動向與大盤均線支撐。中長期看，若AI伺服器需求穩定成長，相關產業仍具布局價值；但企業需在資本支出與現金流之間找到平衡點，否則股價修正風險仍存。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb25SMlFTU3B5VkxnZGx6WldhUlF0dzFTQ1pPM24wdmx4RGhEVzY5TmNodEhVVVZkaXhzYVJvNWpKRXZJUjF1NUM4ZVNGY3RCSUU3T2ZyNUNPRmZUUFlyU2RxdU1wS1BibElnWklJa25OdkVWamM3YV8tM2ZQV19UakJ3?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "台股狂飆939點是逃命波？ 陳嘉偉示警「台積電季線恐下彎」 最壞情境曝 - Yahoo新聞",
-      "content": "台股狂飆939點是逃命波？ 陳嘉偉示警「台積電季線恐下彎」 最壞情境曝 Yahoo新聞",
+      "title": "台股3原因大逃殺！ 暴跌逾1500點分析師最新看法曝光- 上市櫃 - 旺得富理財網",
+      "content": "台股3原因大逃殺！ 暴跌逾1500點分析師最新看法曝光- 上市櫃 旺得富理財網",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMinwNBVV95cUxQOVV4OUZxSzdiZW9yV3ZzaTYyQmxaRnROZVJGeENYRDJFdElORVg1RUY1X1RjVm8xNEhmNUpXdnBHbHo1TzBTZ0ZWaTZ4R1hXYnlaSWpnRUJiZFVjR2t0N1ozMk5uZklMbXRFbHg3d0VQUjlzeVh6S283QXFxZm1nS2RCMl9FV3ZIODhkaGdsODlrN2ZvaDU1NFUxVDFIYVk0M2toaUJpckF2N0VCSUV0cVFHRDJocW1mc3otMElTeTNqdFVzcmdtdW9RMko3azBsMndPWll2WnkwZ0gzREdiQ1RoRWhxeUhEUVdPd3RMNF9GNlBaZmlPbWRQVWhOVms0bXlYRHk3TGd2TEhFRjV3OW5SRVFjeWc1UFFlcXFtbWduRVJpLVZfRkNVVHp6akZJc01COFk3OWxvM0tiRWhYcGd1enI5SzRuQzZPVWVrSTF4MkwxVVo0T19RRWNtLWZMTkcxU1N4R1JtNEdxWWt0YjBrRWdTenVPSlhKTzNYQ1NaUWdWTzBxYXBaTENKUWg4eWdfVHpjczBBZVpOZTFN?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRWFMU0thZDhzdF9GaEdRZ2VFRXhMR0x0VUlnLWZtX1Fxczg2cFp0R1ExNlhRLVBKRlVHak9CN0EyQXlrWlFSTWJsdm9FOFBURUp3ZEQ4UGM0UXNBc1VPaTJRN2psUjZfanc?oc=5"
     },
     {
-      "title": "〈台股開盤〉電子權值熄火 挫逾700點再度失守季線 - 鉅亨網",
-      "content": "〈台股開盤〉電子權值熄火 挫逾700點再度失守季線 鉅亨網",
+      "title": "台股30日開盤下殺跌破半年線 統一超止跌反彈強漲2%以上 - 台灣好新聞",
+      "content": "台股30日開盤下殺跌破半年線 統一超止跌反彈強漲2%以上 台灣好新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5xeVUzRkM3cURmNHhCWERVcnNQWDRfYnpQRmF4TzJiOVVXdHRaVWhHcU1HS21vd2pneUJFRUZpbDZPZnBRTUl0QTR3OEJWYnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOM3pLaElIOWsyYWc2UGpaelZHLTl4MGg5cVczZk82Zm1oZEZqY3MzNFp1aWtzVjdkWlQ1Z0h6SGx0Um5Wd2hDb2pVLWVoZjJ1cjV0YkZvZDdXcGtodDdyaHJJTmlud3lxVXZpN3VqZWk4YnZyXzFaTGUwYmQ2NmFrTkRueTRRNExxN1ZRWHppNmdkclQxQk1PU3Bkd2pWNnc1eUlhOUdPNHlkZGRtMVhreGtDcDdwc1JLcXdHX0FrYTNuNlh0WDhBY2FMY2I0NjEyQktYZW9oanBpQWZRWmlYejhFR1ljMVNGdDUxNF81SlpFX3VTY2FtOHJmZ0xEZ1M5ZE5sM3pRVzZOYmFlcHZlem9vUk1pV3ZITXp3aGtxTHhmNkJtQVktX2FPemEtWTVDSGU3T2stbkxYVkhHdkNlUjVTUk9FVnlKRUFqak5idk1LN0I4MjBqUUQ5eG1NR0traGxGWVEtVGxmU1BGaGZj?oc=5"
     },
     {
-      "title": "0050創高該All in還是先賣？清流君回測揭「All in勝率8成」，分批進場反而落後？《雅筑會客室》EP66｜清流君、張雅筑 - 永豐金證券",
-      "content": "0050創高該All in還是先賣？清流君回測揭「All in勝率8成」，分批進場反而落後？《雅筑會客室》EP66｜清流君、張雅筑 永豐金證券",
+      "title": "台股摜破半年線！巴逆逆喊「1句話」 股民轉悲為喜：穩了 - Yahoo新聞",
+      "content": "台股摜破半年線！巴逆逆喊「1句話」 股民轉悲為喜：穩了 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi0gRBVV95cUxPQU9qbG5Ca2phVF9OOEk5Tm9nYUFEeDNsaVFFd0g4YmZUTUJjbENQUWExZENaTmxDQzc5emVYTTZLYjhfNDBfaGphblYwbkxydUEyb1hxLTdrRzMyT09JZTQ5YlFJd1lPLVlNMGdHVWRvdGRGaEt6MmJuQ2tneWkzYmo3TzhQN28xRm9GQTRaQTNmTDVRWEZtNnN4RElTNS1uODctSFI2N19DQVJldEdidF9tTllsNF9DOTg2cE9kNVdOa2I0NjhlOERVWVVnREc2bWRfc1Y0N0stajZyeTROTHk5SThYRlAtS19Cbkc5YURSZVJqVF9wWFV3dGs1WHdXS1Z5LUlnclNVd3owVlZQV2M2TVBZMjRraVFyQ1Nzeks4SjJ5S2VvTUNVc0ZBZENTd19vZEJXaXFYS3V1cUFQNzJjNEVrdG52M1k1QzFkeTZCSzlsckFnNW9acnZmSHhSaEM4UkEtcEhyanc0a1IxUGNsU0tIZDktanJ6bGdfYktNUVFFRlFRYUlCNlBDcS1DOVlndDVrX1JvaFFreGFIWE5Tbmd3LWtWbWNBaDBOOVlETnR6cjJVS1VCZ3JtX0NrczJzcE9kX3hUQnpQOW9mdEJzWklYTjlQU0g5SlBsRnZqeDRsakpSajU2b0xWOEl5NDd6RUw0MGZjNl9SMkVXcExKU3NDRnE4Tk5jNENsUE40Yi05OEJiaVR5UlBWTWNJLU93cjVkZjRzMjZDVGdYamNpRHJDbG5kMlV4RGo4VFE2b2pUSm40d0xBTVJPNzBaQ1E?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOck1DT1A3WkNsM3l0WDYzWWFLd1lKcWZlM29iZXhUT1V2eU9UY29SZnhDQm9UTG5naEtVVm5jcUMyRnZSRmVULTIzcGpPd2ZhcG1MUlZxOW5IajBGcFFIak5UMXBrQVBlZFJvTzBGNVZIUmdfZ0t2XzRnTXFjR19qdTZpU3MzNDVtYml3dVdDYUtnaGh1TlZVMllXUHg4cWZFMlA3LXhpMjlJMGNGZzRWODJpSEc4eVYydUFlM3RHZDJ5ZUUwdy1xa1dRbFlsd2E3dk5Da2NUaE5BNGlOOURDaVQyLXBwbmJyaFhCSzFnTThXc0ltd2JzOEhMZHhjWGVUTERVemFPTHF3SkIxYXlqdFk1eTZIQkJaNDhSVTkzNmoxUHFZXy1EN3ozbTlKZGZRSTVZOFFSaTh4Ri1LT29JM2JyMy1obEJHWjhBa0hQelJWS3BaeVE?oc=5"
     },
     {
-      "title": "葡萄田罷工改寫美國勞動史　民權先鋒伍爾達96歲辭世",
-      "content": "曾催生歐巴馬經典競選口號、為無數底層移工爭取生存權益的美國民權領袖伍爾達今天辭世，享耆壽96歲。她打破資方壟斷，為農工贏...",
+      "title": "影像大師克拉耶伯義大利首辦大型個展 探索科技自然關係",
+      "content": "享譽國際的比利時影像藝術大師克拉耶伯（David Claerbout），29日起在波隆那（Bologna）舉行在義大利的...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9844014"
+      "link": "https://money.udn.com/money/story/5599/9846420"
     },
     {
-      "title": "高鐵追撞細節曝光 西班牙大臣直言「令人費解」",
-      "content": "西班牙托萊多省兩列高速列車追尾，釀68人死亡。 首相桑切斯宣布29日起全國哀悼三天。 事故初步調查指向人為調度失誤。",
+      "title": "Google搜尋業務失速後換亞馬遜零售業！科技巨頭搖錢樹接連踢鐵板 現金流惡化引發拋售潮",
+      "content": "Alphabet自由現金流連兩季為負；Google搜尋與YouTube廣告疲弱，股價跌12.3%。 亞馬遜第3季EPS 1.89美元、淨銷售2,019億美元略遜預期，零售業務放緩，盤後跌逾7%。 AWS營收年增39%至460億美元。但自由現金流連三季為負；與Anthropic合約受關注。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6640280"
+      "link": "https://news.cnyes.com/news/id/6641337"
     },
     {
-      "title": "力晶投控庫藏股引爆未上市流動性 每股42元已成功回購逾440萬股",
-      "content": "力晶投控(5346-TW)啟動總額10億元庫藏股回購，迅速活化未上市股權交易，僅二個交易日已審核通過逾440萬股、總金額1億8600餘萬元的售股申請。 力晶投控表示，10月27、28二個交易日該公司公告每股收購價為42元，共有216筆交易通過審核。這項庫藏股購買計畫首批次將於11月6日",
+      "title": "華航787新機躍2027年月曆主題 展現職人團隊服務",
+      "content": "華航(2610-TW)將迎接全新787客機，因此，2027年月曆以「飛閱787夢幻時刻」為主題，並聚焦團隊合作精神，串起華航的職人專業與服務，華航強調，從多元視角記錄各個部門為新機到來的準備與投入，傳遞全體團隊攜手迎接787的共同使命。 月曆自1月黎明機坪揭開序幕，機師、空服、地勤及修護人員同框，",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6622785"
+      "link": "https://news.cnyes.com/news/id/6641551"
     },
     {
-      "title": "台灣科威特攜手　AI機器人科技輔具助自閉症青年發揮潛能",
-      "content": "駐科威特代表處攜手科威特合作夥伴，共同舉辦首屆跨國倡議活動「神經多樣性青年創意藝術營」。課程規劃運用台灣AI機器人科技輔...",
+      "title": "〈電商備戰雙11〉經濟成長刺激內需 富邦媒拚全年業績創高",
+      "content": "富邦媒momo購物網攜手逾萬家品牌迎戰雙11，打造購物嘉年華。 總經理谷元宏樂觀看今年國內經濟成長創新高，可望帶動雙11買氣，全年營收和獲利拚新高。 momo推個人回饋最高3,600元、隊伍消費最高送15,555元等優惠，並邀SUPER JUNIOR-83z利特、希澈任大使。",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9843991"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6641484"
     },
     {
-      "title": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips - CNBC",
-      "content": "Samsung Electronics third-quarter profit in line with estimates amid rising demand for AI memory chips CNBC",
+      "title": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets - CNBC",
+      "content": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOanRhTXNhc0dhVWVuU1R2czVZME9uX1AwRUQ4TUhNWFNlUWllOWFpd3F0Y3NrNlVWTnNkOG1ManI5a2lEUU9rcERuOTZqNUtZampraXdIZkhyY01nWVRUSkgwVnc1WTZWbnp1RzlLbGw5T2Z1clFYNlFYT2d2THdmYjlNUFZTZ9IBiwFBVV95cUxPMlJfRno2MkJZOUJpRElyemhVOUpIZWpEbGJyaTBuSTZYODdTd1A3a0k3RDZZY1RMZ21sWG1UWDRUSXdNc2tMenZMR3pSWjRlS0pDa0tCMGlaeHNZbEtDcUFoWFVXUXAwZ2hpdVJOd0JhWkhqNDRPNGpvaFFYcXJHb0NBNjFxSFFQd1NB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV95cUxNR3lRVHNvRWxOY21XeW9NZnFCb2JxRlpSbUxaRXM5NldrMWdIVmJCejhWZ0NZZ21VMWR0d0ZMQUNZTlM5Y3lKZjBKeDJYTkhpaVl5NE5ZZ2hSalhSU0JFemlFdmF5aTZIUjZfUkUySUVEUHhTRkxNZGJCQXk3Rml2S1gyUWw3TmVQR3l1Z2hBQUNTU09Pa1hWcEtWVXhxYTYxa01xSjZxQ3NhZw?oc=5"
     },
     {
-      "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions - CNBC",
-      "content": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions CNBC",
+      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNRHZmQ0pBT2JwSEJxYmhwZlpyTDFZT3F0MzUxNEJNUTBzc3htMm1sRE0tdEY4S1AzRmdlU3dEdVpZVGxoR0FxbG5zU2c1S0UxSHlfODZ4WGllTWkwVG5FXy1BUXNxenpLcVpRT0tHTldfODVHdzEwbVZjUndTZWMzUWt30gGHAUFVX3lxTE1zellUcGE3OFBGUXF3eFpGOEVKYlJjRjdPdnpaOWdMeW9TZkcyZjdUMVZpV3NuVU1iUV9ycWhfRXBWMlJsRDNodUYyUUhWdTBUaGQ2UEZFU0trd1NENFZvQy0yRVF3VHNBdTJ5Ykd1QnZGS25TN1M1ZEN1NXR3UUUxX3ZGbEg5QQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORldrZ2pOTUZna1VES3lITU95T2JSSlM1R0lUWWpIc1ZPb0Y2TDFObHhsX2NpVk5YU2RQTTAweElsRjdGZXo3NUZBUEU4LTIxWnJVRjdIY183SDRIbmpPVDN5b1ZVcFdWNGE2cTMwbE82WnRaa1R4OXpSYy1tRUlZUmdndFR0OGJuQmlGOW1aTWJuYkdzdk9ZQmhB?oc=5"
     },
     {
-      "title": "Jim Cramer sees major implications from SK Hynix's home-run quarter - CNBC",
-      "content": "Jim Cramer sees major implications from SK Hynix's home-run quarter CNBC",
+      "title": "Jim Cramer says Wall Street is punishing the wrong tech stocks - CNBC",
+      "content": "Jim Cramer says Wall Street is punishing the wrong tech stocks CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9WODd5ZDhnYVhTcW4yQTY2TFZhZXotdUQwcjZoRWUwQnQ1SkdJelVzTU1kdWJRUVhJOEtjR0xzT1pOMmpsNFJXa2pwak9UNTdKcDhUYUExNzBXRDhVa1NzeE9GTGZtdEs5MXowWWE4YzhDZERWaEHSAXtBVV95cUxPeElMWmMwUkdMTW41bE1KY0JIX2VtWFZncGpsSG9lck9BNjRwT0hjVVYtTzRFMTFpTlRVZHUxQ2pLTDEwdm9LenZPVmpUVWhfMGpIWjBnbUhoQmVTZjhRelZCUzcyd19STkR5NHlZbUJURFJ5WDBWdnV4Z3M?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5"
     }
   ]
 }
