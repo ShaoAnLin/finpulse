@@ -1,91 +1,91 @@
 {
-  "date": "2026-10-30",
+  "date": "2026-10-31",
   "featured": [
     {
       "category": "international",
-      "title": "Intel stock plunges 21% as chipmaker blames PC slowdown for weak guidance - CNBC",
-      "feature": "Intel 受PC 市場低迷拖累，指引走弱股價狂跌21%\n📰 Intel 在2026年第3季營收雖較去年增長21%至165.1億美元，且每股盈餘達0.52美元，仍因客戶電腦與實體AI部門營收下降5%以及對下季營收與每股盈餘僅預期15至16億美元、0.25美元，導致股價盤後跌逾21%。\n🔍 PC 市場自2024年起因記憶體與零組件成本飆升、遠距工作需求下降，全球出貨量在2026年第二季跌幅達4%。Intel 仍高度依賴客戶電腦業務，儘管資料中心與AI營收大幅成長78%，但整體指引仍受PC 市場疲軟制約。公司財務長指出PC 衰退將持續至明年上半年，並將持續投資產能與營運資金以備未來需求。\n🌐 影響方面，短期內投資人恐慌情緒升高，使Intel 股價承壓，波及半導體相關ETF；對台灣而言，PC 需求下降可能衝擊本地代工廠與記憶體供應鏈，進一步影響台積電與南亞科等公司的訂單與毛利。另一方面，資料中心與AI 需求持續成長，為台灣的GPU、FPGA 供應商提供新機會，亦提醒投資者在布局半導體時需平衡傳統PC 與新興AI 兩大領域的風險與回報。",
+      "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech - CNBC",
+      "feature": "美國中期選舉、蘋果財報與就業數據齊聚，華爾街迎來波動密集週\n📰 發生什麼事：本週美國將舉行2026年中期選舉，同時蘋果公司於收盤後公佈季報，且勞工部將發布10月就業報告。受AI產業前景不確定、近期科技股大幅回檔的衝擊，納指、標普與道瓊指數全線下跌，市場情緒緊繃。\n🔍 背景與來龍去脈：上週AI相關股票因供應鏈瓶頸與政府對資料中心的監管討論而出現劇烈波動，導致科技股先升後跌。蘋果雖創新產品持續受熱，但其市盈率近40倍，市場對其營收成長容忍度有限。中期選舉結果將影響美國對AI基礎建設、國防與藥價的政策走向，進一步左右資金流向。\n🌐 影響：1）台股科技板塊可能受美股波動牽連出現短線跌勢；2）若選舉結果使資料中心政策收緊，台灣的AI晶片與代工廠商（如台積電）將面臨需求變數；3）蘋果供應鏈（鴻海、立訊等）財報表現將直接影響其股價走勢；4）美國就業報告若顯示勞動市場放緩，美元走弱或提振新興市場資金流入，台幣匯率與出口產業亦將受惠。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBlczFWcC1WVTdsdENmNVdsNnJpczI0SzZqRkZuel9NLTdsUG85UlJDVEV4NllwUmRUXy1QZGV6ci1BamdFQTVtQ2hlelhiR21LNzJsQ2dCSzdTc1JCQUdDVU90bGY2a3hIeldPa043TnYtelgtZFh2b04xblrSAYIBQVVfeXFMT0lPRHpDdlR4ZlpnZWc1SS1mTHNjZGE3VVItSnA5bndoU3ByQVFPa2Rzakx2QlFoWW52ZVM1dF9aWjdlczFEby05eHhwaEQ5YllseUJlbjkwRzNva0VWdkM0Tkp3a2tZcTZydktHUXdmZEZwamdwMTBuUUNwY3hDZHRDZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXRoRjlKQ2xUdm85RThaVVZWSEZLa3E0SkxqczlRN1YxWmtNc1FTZkJyZEUtQ3JES3RtTzE3TVlUY1JSTmNZYWFqbFNxcjJPOTZrajhpb19RTXJVTmFfSFhPTGh4SUlNc0g0YXJIV3QyRkVUYmhrQnBydGtuZTlZYlZSLU0xeERodlAzVA?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "AI資本支出疑慮引發賣壓，台股重挫逾1600點失守半年線，台積電等供應鏈回檔-財經焦點情報站 - CMoney投資網誌",
-      "feature": "AI資本支出疑慮掀起台股大跌，權值股首當其衝\n📰 發生什麼事：受美國巨頭Alphabet公布第三季自由現金流轉負90.7億美元，市場對AI資本支出效益產生疑慮，全球科技股普遍回檔。台灣加權指數單日跌逾1,600點，失守半年線，台積電、聯電、聯發科、台達電等供應鏈權值股同步下跌，外資當日賣超逾600億台幣。\n🔍 背景與來龍去脈：2024 年起，AI 伺服器需求激增，台灣半導體與硬體供應鏈大幅擴產，資本支出累計逾千億美元。近期美國大型科技公司財報顯示資本支出回收期拉長、現金流轉負，投資人擔心AI熱潮短期內無法持續產生盈餘，加上美聯儲升息預期與全球通膨壓力，資金從高風險科技股撤回，轉向防禦性金融與債券。台積電雖持續擴產並收購友達廠房，聯電亦宣布追加32億美元投入先進封裝與矽光子，卻因市場情緒逆轉而遭賣壓。\n🌐 影響：短期內台股波動加劇，資金流向出現顯著輪動，金融股逆勢受惠，投資人需留意外資動向與大盤均線支撐。中長期看，若AI伺服器需求穩定成長，相關產業仍具布局價值；但企業需在資本支出與現金流之間找到平衡點，否則股價修正風險仍存。",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPb25SMlFTU3B5VkxnZGx6WldhUlF0dzFTQ1pPM24wdmx4RGhEVzY5TmNodEhVVVZkaXhzYVJvNWpKRXZJUjF1NUM4ZVNGY3RCSUU3T2ZyNUNPRmZUUFlyU2RxdU1wS1BibElnWklJa25OdkVWamM3YV8tM2ZQV19UakJ3?oc=5"
+      "title": "美期中選舉民主黨若奪回國會多數 對台軍售等四大影響一次看",
+      "feature": "美國期中選舉若翻盤，台灣軍售與經貿關係迎四大變局\n📰 發生什麼事\n11月3日美國舉行期中選舉，眾議院全席與參議院35席同時改選。若民主黨在參、眾任一院取得多數，將能加強對總統對華政策的審查，聚焦台灣軍售、對中高科技出口、關稅與外交預算。\n🔍 背景與來龍去脈\n自2022年中期選舉以來，共和黨掌握眾院，使對華鷹派立場較為統一；今年民進黨執政的台灣正依賴美國先進武器與半導體供應鏈，且美國對華高科技管制持續升溫。民主黨若奪回眾院或參院，將利用預算審查與立法程序，迫使行政部門更嚴格執行對台軍售與對中技術限制，同時可能推動降低對華關稅。\n🌐 影響\n對台灣而言，最直接是軍售審批時間可能延長或規模被調整，影響防禦部署；若關稅下調，台灣出口美國的半導體與農產品成本或下降；相對的，對中科技出口限制加碼，台積電等公司在美國的供應鏈布局或受限。投資人亦將重新評估美股、台股與美中緊張局勢的相關風險。",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9848416"
     }
   ],
   "candidates": [
     {
-      "title": "台股3原因大逃殺！ 暴跌逾1500點分析師最新看法曝光- 上市櫃 - 旺得富理財網",
-      "content": "台股3原因大逃殺！ 暴跌逾1500點分析師最新看法曝光- 上市櫃 旺得富理財網",
+      "title": "台股暴跌逾1600點嚇壞股民！阮慕驊曬對帳單進場「這3檔」 喊話再跌還有子彈 - Yahoo股市",
+      "content": "台股暴跌逾1600點嚇壞股民！阮慕驊曬對帳單進場「這3檔」 喊話再跌還有子彈 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBTRWFMU0thZDhzdF9GaEdRZ2VFRXhMR0x0VUlnLWZtX1Fxczg2cFp0R1ExNlhRLVBKRlVHak9CN0EyQXlrWlFSTWJsdm9FOFBURUp3ZEQ4UGM0UXNBc1VPaTJRN2psUjZfanc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwgNBVV95cUxQekpQQ1E1a3hkWjBoNXVWdG9FM3ZWbGV4LXF5ZURDejlWUW1XakxVY1dXSkdDNHRJdkJqbVF2ejZqS2V5VklJN3EtM3l4TV9EalZxZ2VUUnozUWJ2ejlPWUxrWFQzT1NVbzlRZGd4bDJWRG1NUHN2a0w3UG9rR1BlNGw1TkIwVGM0alRUaFlqVFAxOXh5X3JGZGR4Qmp3M0ZjMFR3SzZRa21OWU85OHRBS1ltYXBFeENPQjV1VkNqYUtfZTRGRXBCcl9wZElFZGhmSG9aMm1MUE55dHZRM19DanJ4bGNxbWR5SDNXeEZtcnctalJjekxBdnFlYVE2R2ZBUnh4aDRaNDdpZW1xbXdZa1NqR3BHdXlWTnhZckx5NUZISTBHc2tJaEliSDc4TVB5NGYxd0FJcmlZTkdtVzVLNXNtVHhiRlJzZGx5QUFtc2gwZ1pUOHdqSjhvWTRUNGtxRDljaEFpU0FuOV80LXZ2UlUydlVnc1JQNVA4bjZrUzR4SmhsaWRLZ1lxcnNIa1RwR2cyVkxDWTAtcmRhRDBJT1hhd1ZZSWRjNWQxYkpwQllqazktV3VPRC1tV3BJSmVHNmc?oc=5"
     },
     {
-      "title": "台股30日開盤下殺跌破半年線 統一超止跌反彈強漲2%以上 - 台灣好新聞",
-      "content": "台股30日開盤下殺跌破半年線 統一超止跌反彈強漲2%以上 台灣好新聞",
+      "title": "台股周一開盤恐再跌近千點？費半崩7%、台指期夜盤殺867點，分析師點名2訊號才能止跌| 下班經濟學| 財經 - 風傳媒",
+      "content": "台股周一開盤恐再跌近千點？費半崩7%、台指期夜盤殺867點，分析師點名2訊號才能止跌| 下班經濟學| 財經 風傳媒",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi7wJBVV95cUxOM3pLaElIOWsyYWc2UGpaelZHLTl4MGg5cVczZk82Zm1oZEZqY3MzNFp1aWtzVjdkWlQ1Z0h6SGx0Um5Wd2hDb2pVLWVoZjJ1cjV0YkZvZDdXcGtodDdyaHJJTmlud3lxVXZpN3VqZWk4YnZyXzFaTGUwYmQ2NmFrTkRueTRRNExxN1ZRWHppNmdkclQxQk1PU3Bkd2pWNnc1eUlhOUdPNHlkZGRtMVhreGtDcDdwc1JLcXdHX0FrYTNuNlh0WDhBY2FMY2I0NjEyQktYZW9oanBpQWZRWmlYejhFR1ljMVNGdDUxNF81SlpFX3VTY2FtOHJmZ0xEZ1M5ZE5sM3pRVzZOYmFlcHZlem9vUk1pV3ZITXp3aGtxTHhmNkJtQVktX2FPemEtWTVDSGU3T2stbkxYVkhHdkNlUjVTUk9FVnlKRUFqak5idk1LN0I4MjBqUUQ5eG1NR0traGxGWVEtVGxmU1BGaGZj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE54cFhWejQ2NW1hVEw1ODdhbTRlbXBmbl9VTzFDU1NhaDJJTzJBWlN2dmw2bW9rX0h3emg0UklVVGN6TzMxVWJwLUVOakZlQQ?oc=5"
     },
     {
-      "title": "台股摜破半年線！巴逆逆喊「1句話」 股民轉悲為喜：穩了 - Yahoo新聞",
-      "content": "台股摜破半年線！巴逆逆喊「1句話」 股民轉悲為喜：穩了 Yahoo新聞",
+      "title": "護盤？台股重挫1156點一度跌破半年線 金管會、國安基金信心喊話 - Yahoo新聞",
+      "content": "護盤？台股重挫1156點一度跌破半年線 金管會、國安基金信心喊話 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxOck1DT1A3WkNsM3l0WDYzWWFLd1lKcWZlM29iZXhUT1V2eU9UY29SZnhDQm9UTG5naEtVVm5jcUMyRnZSRmVULTIzcGpPd2ZhcG1MUlZxOW5IajBGcFFIak5UMXBrQVBlZFJvTzBGNVZIUmdfZ0t2XzRnTXFjR19qdTZpU3MzNDVtYml3dVdDYUtnaGh1TlZVMllXUHg4cWZFMlA3LXhpMjlJMGNGZzRWODJpSEc4eVYydUFlM3RHZDJ5ZUUwdy1xa1dRbFlsd2E3dk5Da2NUaE5BNGlOOURDaVQyLXBwbmJyaFhCSzFnTThXc0ltd2JzOEhMZHhjWGVUTERVemFPTHF3SkIxYXlqdFk1eTZIQkJaNDhSVTkzNmoxUHFZXy1EN3ozbTlKZGZRSTVZOFFSaTh4Ri1LT29JM2JyMy1obEJHWjhBa0hQelJWS3BaeVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi_gJBVV95cUxQTmlVbnNpOGpEYjhRUTlWWlJodHhwTTF2LUJCUHVrbVNSUm1wbUlGWFdEaDBDLW1HWlJQRk9GRVcxMXRDR1NZSTNfcXRqOWFBSlJPUjJYNTVFd3R6RjZBRnZaQm1FS3NJVjlXZU9pSldZYVVtUUpBeU81Z2VUdUwwZ1lEQjlFWTdKSy16N2x1Wk1DQTgzU0ZZWW9zaU0yODROLUlZaWlsQkU3ZjNHbHBhaXlvZkhCa29ndklWckswMVU3enZzUGxZOUFHcFlBeXFDczByOE94dXJuQkwwWWdCaDBXVUxybF91T3Z1RDhUbUNDYnVZYnd3LS1xeE9tZnVaX0lQbjJKMnlvQVRha2toWjQyc093YVBReDEwOVJHRktoaXdLeHNUcTIwUFVvZEx0Z2RmYi1DOHkxVUgzZXZXVTZla2kzQ2lQMGNRMHQ0UWgzWTltMGRrZmU0Rk5LVGJzQzdWckhVTU1uVHBwOWc2bkdWUEpOOTFhZGt6NW1n?oc=5"
     },
     {
-      "title": "影像大師克拉耶伯義大利首辦大型個展 探索科技自然關係",
-      "content": "享譽國際的比利時影像藝術大師克拉耶伯（David Claerbout），29日起在波隆那（Bologna）舉行在義大利的...",
+      "title": "〈分析〉Anthropic IPO前景蒙陰 黑石為何不再看好投資級評等？",
+      "content": "黑石稱Anthropic上市後恐難即時拿到投資級評等，較可能落在BB級附近。 Anthropic 630億美元Project North Star融資中，黑石承諾約90億美元第二順位債務。 若僅獲投機級，融資成本恐升、機構資金受限，AI擴張計畫壓力加大。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6642822"
+    },
+    {
+      "title": "中東戰火波及巴拿馬籍油輪　阿聯官媒：已停止漏油",
+      "content": "阿拉伯聯合大公國官方媒體「阿拉伯聯合大公國通訊社」（WAM）今天引述阿聯能源部報導，一艘自10月9日遇襲以來持續向波斯灣...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9846420"
+      "link": "https://money.udn.com/money/story/5599/9848426"
     },
     {
-      "title": "Google搜尋業務失速後換亞馬遜零售業！科技巨頭搖錢樹接連踢鐵板 現金流惡化引發拋售潮",
-      "content": "Alphabet自由現金流連兩季為負；Google搜尋與YouTube廣告疲弱，股價跌12.3%。 亞馬遜第3季EPS 1.89美元、淨銷售2,019億美元略遜預期，零售業務放緩，盤後跌逾7%。 AWS營收年增39%至460億美元。但自由現金流連三季為負；與Anthropic合約受關注。",
+      "title": "德日宣布深化核融合合作　打造下一代能源供應鏈",
+      "content": "德國總理梅爾茨本週訪日期間，與日本首相高市早苗宣布深化核融合合作，德國核融合新創公司Proxima Fusion也同步與...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9848423"
+    },
+    {
+      "title": "Alphabet財報被SpaceX紙上虧損拖累！《巴隆》建議學波克夏揭露核心獲利",
+      "content": "Alphabet財報後股價周四重挫13%，創上市以來最慘單日表現。 第3季淨利262億美元、EPS 2.12美元，低於市場預期；SpaceX帳面虧損折損每股55美分。 《巴隆》建議Alphabet仿效波克夏，財報營業獲利排除大型股權投資未實現損益。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6641337"
+      "link": "https://news.cnyes.com/news/id/6641345"
     },
     {
-      "title": "華航787新機躍2027年月曆主題 展現職人團隊服務",
-      "content": "華航(2610-TW)將迎接全新787客機，因此，2027年月曆以「飛閱787夢幻時刻」為主題，並聚焦團隊合作精神，串起華航的職人專業與服務，華航強調，從多元視角記錄各個部門為新機到來的準備與投入，傳遞全體團隊攜手迎接787的共同使命。 月曆自1月黎明機坪揭開序幕，機師、空服、地勤及修護人員同框，",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6641551"
-    },
-    {
-      "title": "〈電商備戰雙11〉經濟成長刺激內需 富邦媒拚全年業績創高",
-      "content": "富邦媒momo購物網攜手逾萬家品牌迎戰雙11，打造購物嘉年華。 總經理谷元宏樂觀看今年國內經濟成長創新高，可望帶動雙11買氣，全年營收和獲利拚新高。 momo推個人回饋最高3,600元、隊伍消費最高送15,555元等優惠，並邀SUPER JUNIOR-83z利特、希澈任大使。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6641484"
-    },
-    {
-      "title": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets - CNBC",
-      "content": "Bitcoin tumbles below $78,000, extending losses as Binance security scare rattles crypto markets CNBC",
+      "title": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes - CNBC",
+      "content": "Jim Cramer says it's time to look beyond tech. Here are 4 consumer stocks he likes CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbi1kcVNYWHc2TXJmY2R5ajNFdy0zaUxQZFVZeTEtdmo4Vk1XbGJzM2p2cUdvSU8yS05zdDNaRmR3Z0R6MXpsUGplZVpjcFdVMHJscUZpRFZVdGFMQXdQQzV6NE16QUg0aTBfSU1mUFFCc2IwcGlMMWliV2hqbW5JOUlOSjkzSXVmMFBHbEJwUThkbHkyWnFXd29BeWFtQl9SaGRJWdIBqgFBVV95cUxNR3lRVHNvRWxOY21XeW9NZnFCb2JxRlpSbUxaRXM5NldrMWdIVmJCejhWZ0NZZ21VMWR0d0ZMQUNZTlM5Y3lKZjBKeDJYTkhpaVl5NE5ZZ2hSalhSU0JFemlFdmF5aTZIUjZfUkUySUVEUHhTRkxNZGJCQXk3Rml2S1gyUWw3TmVQR3l1Z2hBQUNTU09Pa1hWcEtWVXhxYTYxa01xSjZxQ3NhZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTFA5b1lyVFR6dUZaSi1kU1JJNTFKYmJvaC0zTkpkZm1FSzZLMXZvWE9BQVpUOUNhdVQ4T1o5REp1bUd4aG5RZFZLYXlIaWYwN3BZc29XcjdMb3oyVEN1a1pHM2pmWTByS29pczd3ZDFTZFp3RXhFTEgyZklxNNIBgAFBVV95cUxOcmpFQlQ3SVJ0cHpNaXpSNHZaOHZUdGwtTXdjSGk2RWVYaGdSbGhlTE5HUUZQSkE5VVhnMFVydGs2Uk5CNmhMSl93enJXRWowTHQ2RUpyTXVCWTZNQVF4R29BaU15WWFPa2xKTVlOdkVvdFpsY1lnM0VEVzFZbnpaTA?oc=5"
     },
     {
-      "title": "Friday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Friday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "title": "3Fourteen's Warren Pies: Tech selloff is technical, not fundamental - CNBC",
+      "content": "3Fourteen's Warren Pies: Tech selloff is technical, not fundamental CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORldrZ2pOTUZna1VES3lITU95T2JSSlM1R0lUWWpIc1ZPb0Y2TDFObHhsX2NpVk5YU2RQTTAweElsRjdGZXo3NUZBUEU4LTIxWnJVRjdIY183SDRIbmpPVDN5b1ZVcFdWNGE2cTMwbE82WnRaa1R4OXpSYy1tRUlZUmdndFR0OGJuQmlGOW1aTWJuYkdzdk9ZQmhB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbUd2UU9iUGhyOGg2MkhzX0htcGFjS1R0NnNoUWxKQWlGcGFtc2FiSkJ6TS05ck9fRjh1LUVEQ1QwSmRBWWRDZ1lGRlc5cjNjRzNLMTQ1WjhHanhuTlpBcHhQa1NuNV9PbzZYcGxobnJ2MHFzdVozMmxHeFlidzhDck1tRmxrN2Q2ODQ0SS1qTU1DRDk2NURXempaOXc5c2JheEFuYUVjd1hBaGs?oc=5"
     },
     {
-      "title": "Jim Cramer says Wall Street is punishing the wrong tech stocks - CNBC",
-      "content": "Jim Cramer says Wall Street is punishing the wrong tech stocks CNBC",
+      "title": "Beware these stock funds for big capital gains distributions this year. How to manage the tax bill - CNBC",
+      "content": "Beware these stock funds for big capital gains distributions this year. How to manage the tax bill CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRmVnSjQ2MFV3UDBoRTVsTUIwWHJMa1pLX1FfTXR2Q184WVRoVW1MWFlWa05tT0hHYnJBLXJwTHVKb2oxZ2hRc1dBSE9UTTFJZDlObTh0SVpYT090d0syTW00RUNIdzU2djBFNXlLS0lkSzJURVJoVFdIME1HVmJVdDRqUdIBiAFBVV95cUxNNTgwQkZMTE5peTB2aGljMXFyWGVScDBLTmtMMGdEZkd3T2ZONnluejFlcHctRmNFcFJQOG1NcnNnYlNEVkZydHRYUmUwRGhOdWRpQ0t0Wi1BX2lPYVR0TDlFRHRlaHJsN0M0cnplQjhmZ2lSZFVrNHRPbUg4NjdWTUF0YnhzQW02?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNaDZPNUJTbUNuZXI4YkVnbDRzRDZSZlBoS1Y3ZXJVdzRvU0diVk9hUW5EWnJoUHJxMnYyWFZBcmowTTR3ZnIxdlgtZ0I5RC1sdnpkZEpMSGs2MklDVmowR2hBV0J2eE5qQkdpSXBZQnhJcXBGRlQ3bS1IcXRzYWRHUTBYY05ZakdD?oc=5"
     }
   ]
 }

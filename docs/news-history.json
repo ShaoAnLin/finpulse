@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-10-31",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Midterms, Apple earnings, jobs report. Wall Street faces a big week ahead just as investors dump tech - CNBC",
+          "feature": "美國中期選舉、蘋果財報與就業數據齊聚，華爾街迎來波動密集週\n📰 發生什麼事：本週美國將舉行2026年中期選舉，同時蘋果公司於收盤後公佈季報，且勞工部將發布10月就業報告。受AI產業前景不確定、近期科技股大幅回檔的衝擊，納指、標普與道瓊指數全線下跌，市場情緒緊繃。\n🔍 背景與來龍去脈：上週AI相關股票因供應鏈瓶頸與政府對資料中心的監管討論而出現劇烈波動，導致科技股先升後跌。蘋果雖創新產品持續受熱，但其市盈率近40倍，市場對其營收成長容忍度有限。中期選舉結果將影響美國對AI基礎建設、國防與藥價的政策走向，進一步左右資金流向。\n🌐 影響：1）台股科技板塊可能受美股波動牽連出現短線跌勢；2）若選舉結果使資料中心政策收緊，台灣的AI晶片與代工廠商（如台積電）將面臨需求變數；3）蘋果供應鏈（鴻海、立訊等）財報表現將直接影響其股價走勢；4）美國就業報告若顯示勞動市場放緩，美元走弱或提振新興市場資金流入，台幣匯率與出口產業亦將受惠。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRXRoRjlKQ2xUdm85RThaVVZWSEZLa3E0SkxqczlRN1YxWmtNc1FTZkJyZEUtQ3JES3RtTzE3TVlUY1JSTmNZYWFqbFNxcjJPOTZrajhpb19RTXJVTmFfSFhPTGh4SUlNc0g0YXJIV3QyRkVUYmhrQnBydGtuZTlZYlZSLU0xeERodlAzVA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美期中選舉民主黨若奪回國會多數 對台軍售等四大影響一次看",
+          "feature": "美國期中選舉若翻盤，台灣軍售與經貿關係迎四大變局\n📰 發生什麼事\n11月3日美國舉行期中選舉，眾議院全席與參議院35席同時改選。若民主黨在參、眾任一院取得多數，將能加強對總統對華政策的審查，聚焦台灣軍售、對中高科技出口、關稅與外交預算。\n🔍 背景與來龍去脈\n自2022年中期選舉以來，共和黨掌握眾院，使對華鷹派立場較為統一；今年民進黨執政的台灣正依賴美國先進武器與半導體供應鏈，且美國對華高科技管制持續升溫。民主黨若奪回眾院或參院，將利用預算審查與立法程序，迫使行政部門更嚴格執行對台軍售與對中技術限制，同時可能推動降低對華關稅。\n🌐 影響\n對台灣而言，最直接是軍售審批時間可能延長或規模被調整，影響防禦部署；若關稅下調，台灣出口美國的半導體與農產品成本或下降；相對的，對中科技出口限制加碼，台積電等公司在美國的供應鏈布局或受限。投資人亦將重新評估美股、台股與美中緊張局勢的相關風險。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9848416"
+        }
+      ]
+    },
+    {
       "date": "2026-10-30",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "半導體AI供應鏈遭外資狂砍　台股資金出走破3千億\n📰 發生什麼事\n外資在單日拋售台股超過3,000億新台幣，半導體與AI相關族群跌逾10%，台指跌破季線，創下近年最大單日賣超紀錄。外資賣超金額上週累計約5,862億，其中週四單日賣超3,025億。\n🔍 背景與來龍去脈\n美國費城半導體指數連續下跌，週跌幅逾11%，帶動全球半導體資金流出；同時新台幣匯率走貶、外資撤退與本土資金防守形成對峙。儘管AI需求長期看好、台積電與NVIDIA仍維持高資本支出，但短期內國際科技股財報不佳與美股波動加劇，使外資風險偏好下降，觸發大規模撤倉。\n🌐 影響\n短線看，台股指數可能持續在季線附近震盪，半導體股價回檔風險提升，投資人需留意資金流向與融資餘額。中長期而言，AI供應鏈基本面仍堅韌，若全球晶片需求恢復，相關股仍具成長空間；但新台幣貶值與外資持續賣壓可能抑制台灣出口競爭力，影響整體經濟成長與薪資水平。讀者應關注美國大型科技財報、匯率走勢與本土資金防守力度，才能判斷是否需要調整投資配置。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1pyaEE1LWNjbmd3NzhpRUs4LVk2Rmx6em5GNjJJMTNHdFc5b05La2c0aWhzZGhnaXVldTVMY1NOUmp4ZGZ0dUtaRGhuYTVFY3NPMU1MMm5MRTQ2ZEpDV2hMNmF1c3F0MlU1MnhSVUU3MmluSHA5ZkRfdDYtU1FseEhB?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-24",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Qatar deal to buy U.S. natural gas shows how Iran war has redrawn global energy markets - CNBC",
-          "feature": "「美國液化天然氣大手筆突破，卡塔爾轉向美國供應，伊朗衝突改寫能源格局」\n📰 卡塔爾能源公司（QatarEnergy）與美國Cheniere Energy 簽下2026年10月23日的合約，未來至2054年每年購買400萬公噸液化天然氣，價格掛鉤美國Henry Hub，加固定費用，預計2030年代開始交付。\n🔍 先前卡塔爾是全球最大液化天然氣出口國，2024年伊朗對其關鍵生產設施Ras Laffan 進行空襲，導致約17%產能受損，並持續以不可抗力宣告停產。產能缺口迫使卡塔爾尋求替代供應，同時美國因頁岩氣技術成熟、出口基礎設施擴張，成為全球液化天然氣新興供應大國。此合約不僅是美國在戰爭背景下的最大單筆LNG銷售，也象徵能源版圖從海灣向美洲移轉。\n🌐 影響方面，短期內美國LNG出口商股價上漲，提升美國在全球能源安全的話語權；對卡塔爾而言，穩定長期供應有助於恢復其在全球市場的信譽；對台灣，能源成本波動或受美國天然氣價格牽動，電力與工業用氣價格可能上升，同時也提醒投資者關注中東地緣政治對能源供應鏈的衝擊。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPamRIUmExbTBlR1VjQ3ozejczY0VYOWY3ODBXakFJQ0tlaDJpLTZIZzlmRlIwa1B2aGpnRlZtR0NuRG43Wll4OWdGQ3NpdnNrdDhBVjFNVGVoZDB4MTdEQ1VOVWIxdkhWUmNXb2tPUnFFUjc4UXA1S3ZtYnVwQXNNWERIZDRPUjhvVUhjWWtHSUczV3pzNjA4YUFuamdnUdIBowFBVV95cUxNWDM1VFpwZENtdXF0aGF6ejZ2MWI5Y2w4dmtUUlpIR2NobjZHOHczaWVER1BRbmlVTUkyejc4eUtyMTVvUC1QV05CbklTOGFnZ3gtN2NiSnZwMjlPSF9KNFE2T29zZExxUjdzeGFicGhhLUtmQWJMZzhPY1lGVW1Qb3JMYlVqa2dqa2QtNmU4T21udjBNakhhNVRTbGdBZ2tlUVFr?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "成長股、價值股分類大改 標普新規牽動3750億美元資金",
-          "feature": "標普新規大改 成長/價值股分類調整牽動超 3,750 億美元被動資金\n\n📰 標普道瓊宣布自12月21日開盤前，將無形資產、預估盈餘與自由現金流納入價值股評估，並在成長股評估時剔除過去12個月的價格動能，全面調整成長股與價值股的權重與成分股。估計至少有3,750億美元的被動基金需重新配置。\n\n🔍 近年價值指標如股價淨值比被批評未能反映科技公司的研發投入，導致價值股表現不佳。標普此次規則在廣泛徵詢意見後推出，旨在讓資產負債表更完整，同時避免動能偏誤。富時羅素亦在檢視類似調整，以因應科技巨頭在指數中的主導地位。\n\n🌐 資金將從傳統價值股流向具高無形資產的科技與生技公司，可能提升相關ETF的報酬率，也增加台灣投資人持有美國科技股的誘因；同時價值導向基金可能面臨波動，市場對估值模型的信心也將重新校準。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6637033"
         }
       ]
     }
