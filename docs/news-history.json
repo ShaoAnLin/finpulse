@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-01",
+      "featured": [
+        {
+          "category": "international",
+          "title": "The booming stock market is masking a deeper American financial crisis - AlterNet",
+          "feature": "美股表面狂飆，實則美國經濟暗流湧動\n📰 發生什麼事：近期美股指數持續創新高，然而民調顯示選民對經濟前景極度悲觀，消費者信心指數跌至十年低點，且AI與半導體投資泡沫浮現，企業負債上升，能源成本飆升，形成「表面繁榮、底層危機」的格局。\n🔍 背景與來龍去脈：2024 年以來美國 GDP 增長與低失業率掩蓋了通膨與實質購買力下降。2025 年 AI 資本熱潮推高資料中心與晶片需求，股價短暫上揚；但同年中國 AI、晶片指數暴跌 40%，顯示全球供需失衡。加上燃油與電費飆升、農業補貼不足，民眾生活成本居高不下，成為2026 年中期選舉的關鍵議題。\n🌐 影響：短期內資金仍流向科技股，波動性加大；長期則可能觸發企業裁員與債務重組，影響全球供應鏈。對台灣而言，美股波動會影響外資流向，科技產業出口需求可能受 AI 需求波動衝擊，同時美元強勢與油價上漲會推高進口成本，對消費者物價與企業獲利形成雙重壓力。",
+          "source": "Reuters Business",
+          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrRnRSRnZkelVJRjBLSngxeE1UTXFHenI0QmRmRlh4X29Sc1RiLUpuaG1MeFotSXUyb1ZIX2hwQm83eUQ3NGdvNjUwLTBDdDh0TkRKNFJSdw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "半導體供應鏈營運爆發 台股ETF前五名全包 - 自由時報",
+          "feature": "「半導體供應鏈火熱」台股ETF前五名全被半導體類別包圍\n📰 發生什麼事：截至10月19日，台股上市（不含槓桿、期貨）的ETF中，報酬率最高的前五名全部屬於半導體相關基金，年初至今漲幅逾120%，遠超大盤表現。\n🔍 背景與來龍去脈：全球AI浪潮持續推動晶片需求，台積電、聯電等產能擴張，2023年外銷訂單首度突破千億美元，年增逾7成。資金因此回流台灣半導體產業，ETF成為投資人快速追蹤產業的工具。過去一年半導體ETF規模普遍成長1至5倍，成為市場最熱的資產類別。\n🌐 影響：投資人配置顯著向半導體ETF傾斜，帶動相關基金資金流入，進一步支撐台股權值。企業獲得更多資金與市場關注，可能加速新製程與AI晶片研發。對一般民眾而言，持有相關ETF可分享產業紅利，但仍須留意產業週期與技術風險。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JNElrSmVwd2g2elBQUmlXSFpFbVZ3cm5WaGlOVTVuTlUxd1I5M2g2N2tObHcyR003eHo1ME9LVjBHR2VOVllJVUFvdGlvZkVHcVZMRXRucEc?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-10-31",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "AI基建與台電強韌電網雙驅 動能注入重電四雄\n📰 發生什麼事\n華城、亞力、士電與中興電四家重電龍頭受惠AI相關基礎建設與台電「強韌電網」計畫，2023下半年營收皆年增，手上訂單分別達220、130、600、431億元，出貨能見度延伸至2029-2031年。\n🔍 背景與來龍去脈\n全球AI算力需求推升電力與變壓設備需求；美國大型AI資料中心與台灣半導體擴產同時刺激電網升級。台電於2023啟動「強韌電網」計畫，要求高壓GIS、變壓器等本土供應，四雄因技術認證與先前美國AIDC合約，成為主要承接者。\n🌐 影響\n短期帶動股價回暖、營收季增，提升本土電力設備產業鏈自給率；中長期則支撐相關產業投資、創造就業，並減少對進口設備依賴，對台灣能源安全與產業競爭力具有正向效應。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6637130"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-25",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Nvidia's role as AI financier faces first big test as neoclouds take market hit - CNBC",
-          "feature": "（標題行）Nvidia成AI金融巨頭，首度面臨新雲端夥伴資金危機\n📰 發生什麼事：Nvidia不只供應GPU，還以投資級信用背書為多家「neocloud」提供逾360億美元的資金保證與貸款。近期CoreWeave、Nebius、IREN等合作夥伴股價跌超30%，信用違約掉期利差飆升，市場開始測試Nvidia的財務承諾能否站得住腳。\n🔍 背景與來龍去脈：自2023年生成式AI熱潮起，Nvidia藉芯片獲利巨額現金，CEO黃仁勳將資金轉向AI生態系統，透過「backstop」合約為OpenAI在俄亥俄州10GW資料中心、以及全球新雲端建設提供低息融資。截至7月，Nvidia在資產負債表外已列示360億美元雲端保證，未來至2029年可能超過5000億美元。此策略依賴持續的算力需求；若需求未達預期，違約風險將由Nvidia承擔。\n🌐 影響：若Nvidia被迫動用保證金，可能拉低公司股價並影響全球AI供應鏈；同時，台灣AI新創與資料中心業者若依賴Nvidia資金，將面臨融資成本上升或資金斷裂風險。投資者則需重新評估與Nvidia相關的信用風險與市場波動。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN1kwNGVDOVM2RzM1UHRXSGxMb2t0bVR5U3F2ektqUGFGSDFwcEx4MzVsUVJWNjZobzhHSWoydXFZSVc0Y2ZuVmtGaWZ4UlpIelVnWlRGeF9fSllBSXlDNDd2U0NLenF4aVlGRy1MQWZ2bHVlTWVROUh6cVdrT2ZZU1E4N1ZaS2MxZEIyaG5QeXBEVUx0X1dLZmd5bk01RXVtc0stTG5oT1RJNk1tQ2lndi1jYV85QQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "半導體AI供應鏈迎籌碼戰！外資狂砍台股逾3千億，歷史數據揭露後續走勢-財經焦點情報站 - CMoney投資網誌",
-          "feature": "半導體AI供應鏈遭外資狂砍　台股資金出走破3千億\n📰 發生什麼事\n外資在單日拋售台股超過3,000億新台幣，半導體與AI相關族群跌逾10%，台指跌破季線，創下近年最大單日賣超紀錄。外資賣超金額上週累計約5,862億，其中週四單日賣超3,025億。\n🔍 背景與來龍去脈\n美國費城半導體指數連續下跌，週跌幅逾11%，帶動全球半導體資金流出；同時新台幣匯率走貶、外資撤退與本土資金防守形成對峙。儘管AI需求長期看好、台積電與NVIDIA仍維持高資本支出，但短期內國際科技股財報不佳與美股波動加劇，使外資風險偏好下降，觸發大規模撤倉。\n🌐 影響\n短線看，台股指數可能持續在季線附近震盪，半導體股價回檔風險提升，投資人需留意資金流向與融資餘額。中長期而言，AI供應鏈基本面仍堅韌，若全球晶片需求恢復，相關股仍具成長空間；但新台幣貶值與外資持續賣壓可能抑制台灣出口競爭力，影響整體經濟成長與薪資水平。讀者應關注美國大型科技財報、匯率走勢與本土資金防守力度，才能判斷是否需要調整投資配置。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOU1pyaEE1LWNjbmd3NzhpRUs4LVk2Rmx6em5GNjJJMTNHdFc5b05La2c0aWhzZGhnaXVldTVMY1NOUmp4ZGZ0dUtaRGhuYTVFY3NPMU1MMm5MRTQ2ZEpDV2hMNmF1c3F0MlU1MnhSVUU3MmluSHA5ZkRfdDYtU1FseEhB?oc=5"
         }
       ]
     }
