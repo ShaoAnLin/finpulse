@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-03",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
+          "feature": "Intel 失守晶圓代工野心，股價十月狂跌 45%\n📰 發生什麼事：Intel 今季公布第三季營收 165 億美元，較去年增 21%，但因 PC 市場持續低迷，第四季營收預估僅 150‑160 億美元，較分析師預期少 10‑20 億美元。股價因此在 10 月單月跌逾 45%，週五一日狂跌 29%，創 1970 年代以來最大單日跌幅，週一再跌 8%。\n🔍 背景與來龍去脈：Intel 近五年投入逾千億美元建設自有先進製程，目標挑戰台積電成為全球代工巨頭；2025 年美國政府取得 10% 股權、Nvidia 投入 50 億美元，曾推高股價六倍至 2026 年中。但 Intel 仍缺乏旗艦客戶，先進晶圓大多自用；PC 銷售因記憶體與零組件成本上升而縮減，佔營收約半數；同時供應鏈緊張限制了資料中心與 AI 伺服器芯片的產能擴張。2026 年第三季資料中心營收猛增 78%，顯示 AI 需求強勁，卻因產能不足未能抵銷 PC 衰退。\n🌐 影響：股價大幅回檔削弱投資人信心，可能迫使 Intel 加速將產能從 18A 先進製程轉向較成熟的 Intel‑3 以供應資料中心，影響台灣相關供應鏈如光罩、測試與材料廠。若 Intel 無法在 2027 前簽下旗艦代工客戶，將加深與台積電的差距，台股半導體板塊可能受惠於資金流向；另一方面，AI 伺服器需求持續成長，對台灣的高效能運算晶片與記憶體供應商仍是正向動能。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlNTdDFxNVE4aG5RNlM0ZHN0eEx2QXRQRDUxNlI4bmJhNDh4R1kwYzE4TUFrOUJ4NWNKdS1qMENjTDBuSUhIc1E5al9OSGM3bW01SXZrSjZLaElqYWtrSTg2YkZEYzNnRVJua201a2VZcjhqZmxpRDREc29QSEx5dndzM2JSaDI5d2JQVWpPbE9XeWVoNlV1QlJzbEZ5ZGY2RDEyTUYtM3l2V1lGRVZKNdIBtgFBVV95cUxQbTBBOEFUSTR2MkZaNFBDbnppS0lraTVFRGFfdE1LTV91WDBUUkRKWURyZ0VCNUVoV2JweDN1dVBPZy1SVGU4M21pd2haZDFWVlRrckUxMXNtRWtpOUM5aHktYjhYMml0SzR2UXNlVnY4dlpPSE9ZUHllQzA5ZkFybHY4WDVtRFlyc25zRUZ4WTVQeGNwb3V6OFNMS1kyVENJYmhYX2pSakgyLURQQ29DcEhJY3lhdw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "台積電跌破2300元台股又下殺近900點 ETF受益人卻創新高- 上市櫃 - 旺得富理財網",
+          "feature": "台積電跌破2300 元 市場大跌 但ETF受益人破2000萬\n📰 發生什麼事\n台積電今早盤跌逾2%跌破2300元，帶動加權指數一度下殺近900點，最低至44,012點。科技股普遍回檔，聯發科、鴻海等同樣走低。但同時台股ETF受益人數連續三週創新高，已突破1975萬，逼近2000萬大關。\n🔍 背景與來龍去脈\n美股科技股因AI資本支出回報不確定、聯準會利率政策謹慎等因素全面回檔，傳導至台灣半導體供應鏈，導致投資人拋售台積電等權值股。資金因此流向風險較低、成分較分散的ETF，群益投信指出台股仍屬多頭整理，只是資金輪動至防禦性標的。\n🌐 影響\n短線看，指數波動加劇、投資情緒偏謹慎；中長期則 AI、雲端與台灣供應鏈基本面仍支撐市場。ETF受益人持續增加顯示散戶偏好分散投資，未來可能加速主動與被動ETF資金流入，也為一般投資人提供低門檻布局台股的管道。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIS2JUWG1ySU1SaXFrRExaYWhrelRjODUydlRkc3U4a1Btd1hFTzlSQzFDU25JVGtvNDdQbGIxbm04QXNfYnk0WUJMbjN5Z0taYmUyczRlSkNpdG42M2M5T0xKUVhjUnZ5clE?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-11-02",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "「油電撥補成通膨防線　能源漲幅若全反映，CPI或破3%」\n📰 立法院經濟委員會上，經濟部長龔明鑫說明，國際油價與電價持續上揚，台電與中油自行吸收成本，導致財務虧損。行政院因此撥補預算，避免將全部成本轉嫁給民眾。\n🔍 近年俄烏戰爭與全球供應鏈瓶頸推高油氣價格，台灣能源高度依賴進口，油電兩大國營事業本應維持價格穩定。主計總處估算，油價每升10%會使CPI上升0.24個百分點，電價同幅上升則加0.27。若全額反映，2026年CPI將突破3%。各國亦採預算補貼或凍漲政策，台灣走的是撥補路線，同時中油與美國Cheniere簽長約，布局多元LNG供應。\n🌐 若撥補成功，短期可抑制食品與生活必需品價格，減輕民眾負擔；但長期財政壓力累積，或迫使未來提升電價或徵收能源稅。市場方面，能源股因撥補預期出現波動，投資者關注政府預算規模。民眾則期待穩定電費與油價，同時關注能源安全與通膨走向。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6639201"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-27",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Bank of Japan is expected to hold rates this week — but stay hawkish: CNBC survey - CNBC",
-          "feature": "日銀維持1.25%利率、鷹派基調不變　—　日本央行本週兩日會議預計不調整政策利率，但仍暗示年底或明年初升息可能。\n📰 發生什麼事\n根據CNBC調查，全部16位受訪者預測日本央行將在本週會議中維持1.25%政策利率不變，同時保持鷹派語調，並可能於12月或明年1月啟動加息。核心通膨9月升至2.1%，薪資連續第八個月成長1.5%。\n🔍 背景與來龍去脈\n日本自2023年起結束長期負利率，去年10月首次升至31年最高的1.25%。弱日圓推高進口成本，能源價格上漲進一步刺激物價，同時工資同步上揚，形成「薪資驅動」的通膨。儘管通膨已逼近2%目標，國內債市脆弱與政策委員會內部意見分歧，使得連續加息仍有阻力。此輪決策同時與美聯儲、歐央行在同一週公布利率政策相呼應，全球能源價格波動亦是關鍵變數。\n🌐 影響\n日圓持續貶值將提升台灣企業的出口競爭力，但進口原料成本亦可能上升，壓縮利潤。日本債券收益率維持高位，可能吸引資金流出新興市場，包括台灣股市。若年底加息，台幣匯率可能承壓，投資人需留意匯率與利率傳導效應。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUUdYT3Q2d2tjanR2Y3I3d3VsWDFmVzItU3IxVUhiR196a1hxVmhqQXBqYjB0WU92eEw4Nk9TN0hITXdZbERSUlZIb1lReXprTHhob2ZLMlQzTGp5NTZfQUFlclZhRjI4eGpDbDZkSU5TX202R3E2Sm53MFdad9IBgwFBVV95cUxQQ3NXMS1aeTdJQ01XbEZzNFRLcktKaDhuUDZQRVR4SXk3MUFZNGhWeE8zaVluT29Ua1NGa1VjbkxaWXhFU2prLXpkUjNqT0FKVEVXUExPcVJ1ajdKQ2o0RF9adEpkTFUtRjUtNi1RSWUtZ1NKb2JydFhiVFJVRlBkbHZPOA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "中國1至9月工業企業利潤增長15.5%",
-          "feature": "（標題行）中國工業企業利潤大幅回升 1‑9月增15.5%\n📰 發生什麼事：國家統計局公布，2026年1‑9月全國規模以上工業企業利潤總額6.03兆人民幣，同比增15.5%。其中國有控股企業利潤1.94兆，增13.1%；股份制企業4.67兆，增20.8%；外商及港澳台投資企業增0.5%。\n🔍 背景與來龍去脈：受益於去年底至今年的宏觀刺激政策、需求回暖以及新能源、先進製造等「新質生產力」推動，工業產值持續擴張。疫情後供應鏈恢復、內需擴大、政府加大基礎設施投資，使製造業利潤上升17%。相較於2025年增速放緩，此次回升顯示政策效果初見。\n🌐 影響：利潤增長提升企業資金鏈穩定，或促進投資與招聘，對全球供應鏈恢復有正面帶動。對台灣而言，中國製造業需求回升有助於原料與零組件出口，同時也可能加劇產業競爭；投資人可關注相關產業ETF與大宗商品價格波動。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6637839"
         }
       ]
     }
