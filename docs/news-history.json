@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-04",
+      "featured": [
+        {
+          "category": "international",
+          "title": "China’s AI stock-market struggles are a warning - The Economist",
+          "feature": "中國AI股市暴跌揭示投資熱潮與產業實力脫節的警訊\n📰 發生什麼事：2026 年底，包含 AI、半導體在內的 STAR50 指數在短短四個月跌逾 40%，市值蒸發近 4800 億美元。領頭羊 Unitree、晶片製造商等多家公司股價跌半，市場估值仍維持在盈餘 100 倍左右，遠高於美國 Nasdaq 100 的 30 倍。\n🔍 背景與來龍去脈：自 2024 年起，中國將 AI 定為國家戰略，資金大量湧入新創與大型企業，IPO 熱潮與政策扶持推升估值。政府同時放寬金融監管、鼓勵國家隊介入股市。隨著 AI 技術逐漸成熟、模型成本下降，產業增速放緩，投資者開始質疑商業化前景，導致資金撤退。央行與證監會於 11 月初召開會議，討論加大再貸款支持股份回購，以穩住股價，顯示官方已介入但仍難快速扭轉市場情緒。\n🌐 影響：一方面，股市暴跌削弱了中國創新企業的融資渠道，可能延緩 AI 相關硬體與應用的商業化，對本地供應鏈產生連鎖效應。二是全球資金重新評估中國 AI 產業的風險與回報，外資可能減少配置。對台灣而言，AI 晶片與自動化設備的出口需求可能受波及，同時投資者情緒傳導至台股科技板塊，需留意相關公司的股價波動與政策動向。",
+          "source": "Reuters Business",
+          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5SYzV2RVRZQkdoM0syTWN4M010ZjVBWXJrVjBWdkNoNGE1ajd4Q2Y0eTdEMkJhbC1JVnNzdkJJSkNkSHhTbDNoNmw4Z1pZQk5EbGxkNUxJbTBQOTRJRGRrUzlKcTRGTWZxVVZxM2Rmb3FCVnJFQ2oyUTQ5UzhrODR4V29jM2toZFIyYVRXTVpRTVI1QXNBYk96a00weFk3T3NGZkQ3cXo?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "〈焦點股〉宏碁資訊Q3獲利繳佳績 惟毛利率下滑股價跌逾7%",
+          "feature": "宏碁資訊Q3獲利創新高　毛利率跌破兩年低 股價應聲下滑\n📰 發生什麼事\n宏碁資訊2026年第三季稅後純益1.94億元，年增31%，EPS 4.68元，創季內最高；但毛利率僅9.88%，較去年同期下降3.87個百分點，創2021年以來最低，公布後股價盤中跌逾7%。\n🔍 背景與來龍去脈\n近年PC需求受全球經濟放緩與供應鏈壓力衝擊，毛利率持續受原物料、記憶體與CPU價格上漲侵蝕。宏碁為應對，已於2025年啟動AI Service Provider戰略，聚焦AI雲端、智慧製造與企業解決方案，以提升高毛利服務比重，減少對傳統筆電營收的依賴。類似情況亦見於英特爾、達方等業者，皆在轉型期出現獲利成長但毛利縮減的現象。\n🌐 影響\n短期內投資人對毛利率不佳的擔憂導致股價回檔；長期看，若AI服務能快速佔領市場，營收結構將更趨高附加價值，對台灣科技供應鏈與相關人才需求有正向拉動；同時亦提醒同業須加速產品升級與成本控管，以免在PC需求持續低迷下被動承受利潤壓力。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6645988"
+        }
+      ]
+    },
+    {
       "date": "2026-11-03",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "2奈米訂單翻倍，AI/HPC晶圓營收破半\n📰 三星電子於29日財報會議透露，2024年2奈米先進製程晶圓代工訂單量將較去年成長逾100%，預計明年AI與高效運算（HPC）相關銷售佔代工總營收超過50%。公司同時宣佈擴大位於美國德州泰勒的2奈米產線，並與多家雲端與AI大廠簽訂長期供貨協議。\n🔍 背景與來龍去脈：近年AI算力需求激增，尤其大型語言模型與資料中心對高頻寬記憶體（HBM）與先進節點晶圓的需求遠超傳統手機與PC。三星早在2022年即啟動2奈米研發，2023年開始試產，並在2024上半年取得多家主要雲服務供應商（如AWS、Azure）與AI晶片設計公司（如NVIDIA、AMD）訂單。與此同時，全球晶圓代工市場已由台積電與聯電主導的成熟製程，向4奈米以下的先進製程快速轉移，競爭焦點聚焦在產能與良率。\n🌐 影響：對市場而言，三星2奈米產能的快速擴張可能削弱台積電在先進製程的議價空間，提升全球晶圓價格波動性；對台灣而言，若產能分流，可能刺激本土代工廠加速升級同時帶動相關設備與材料產業需求；對一般民眾與企業，AI雲服務成本或因供應更穩定而下降，加速AI應用普及，但同時也提醒投資人注意半導體產業的供需變化與地緣政治風險。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9844032"
-        }
-      ]
-    },
-    {
-      "date": "2026-10-28",
-      "featured": [
-        {
-          "category": "international",
-          "title": "SK Hynix announces over $25 billion in dividends and buyback as third-quarter profit beats estimates - CNBC",
-          "feature": "SK Hynix 逾250億美元回饋股東　AI 記憶體熱潮創歷史最高季盈\n📰 SK Hynix 公布 2026 第三季營收 104.6 兆韓元（≈788 億美元），營業利潤 83.3 兆韓元，較預期大幅超出，同時宣佈近 100 兆韓元（≈250 億美元）回饋計畫，包括 30 兆韓元現金股息、60 兆韓元自購並部分註銷股份，特別股息來自 Kioxia 投資收益。\n🔍 背後是 AI 伺服器對高頻寬記憶體（HBM）需求激增。SK Hynix 為 Nvidia 主要 HBM 供應商，HBM4 產能在 Cheongju M15X 廠升溫，全年長期供貨協議覆蓋 2027‑2028 超過半產能。去年 AI 熱潮推動 DRAM、NAND 價格上揚，公司的營收年增 327.9%，營業利潤年增 632.1%，創下歷史新高。\n🌐 影響方面，全球 AI 產業鏈資金流向加速，股價短期可能受回購刺激上揚；對台灣半導體供應鏈而言，AI 記憶體需求持續擴大，可能帶動本地 DRAM、NAND 代工訂單與投資布局，同時投資人對相關 ETF、ETF 及 AI 相關股的關注度亦將提升。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9WSGlVV0ltbDV1RHZFQld6QTVzelBPSFJ2YWl0ZG9kcVJtZ2xzVzl3Vlh4SmRfWUdmMkJSYmY1U21rS2tXdkZmOFNnYkRLWDViX0cyNEhVMnFzVHhGeklNbkhhQUNrbDVYNnNWWDBoUnFLVFQ10gF6QVVfeXFMTmhMRnVyVFhXRjdRbGtZT1dkVzZJVzVMNzN0VjNMNzVEZy1YYXZuQi1SOWVhLUx4OG5iS3UyLVM5OXZHZnRqcDluWGRoTkZvVl82WTk5VzVFZ2V1RXAySGZGdmhGUXo2Z1hYVklPUDBNbDV0VzBPQWlZZXc?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "盼支持油電撥補穩住物價！龔明鑫曝：若完全反映能源漲幅今年CPI早衝破3%",
-          "feature": "「油電撥補成通膨防線　能源漲幅若全反映，CPI或破3%」\n📰 立法院經濟委員會上，經濟部長龔明鑫說明，國際油價與電價持續上揚，台電與中油自行吸收成本，導致財務虧損。行政院因此撥補預算，避免將全部成本轉嫁給民眾。\n🔍 近年俄烏戰爭與全球供應鏈瓶頸推高油氣價格，台灣能源高度依賴進口，油電兩大國營事業本應維持價格穩定。主計總處估算，油價每升10%會使CPI上升0.24個百分點，電價同幅上升則加0.27。若全額反映，2026年CPI將突破3%。各國亦採預算補貼或凍漲政策，台灣走的是撥補路線，同時中油與美國Cheniere簽長約，布局多元LNG供應。\n🌐 若撥補成功，短期可抑制食品與生活必需品價格，減輕民眾負擔；但長期財政壓力累積，或迫使未來提升電價或徵收能源稅。市場方面，能源股因撥補預期出現波動，投資者關注政府預算規模。民眾則期待穩定電費與油價，同時關注能源安全與通膨走向。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6639201"
         }
       ]
     }
