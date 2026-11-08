@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-08",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Decisive election. Dramatic stock swings. How we handled the market last week - CNBC",
+          "feature": "選舉定局、股市劇震：美國中期選舉掀起資金大洗牌\n📰 發生什麼事：本週美股在中期選舉結果公布後先大幅上漲，道瓊指數單日跳升3%，標普500與納指各上升約0.5%。隨即在選舉翌日出現大幅回檔，納指跌5.5%進入修正區間，三大指數皆錄得自2025年4月以來最糟單日表現。AI、資料中心相關股如Micron、Intel、Nvidia分別下跌超過10%。\n🔍 背景與來龍去脈：2026年美國中期選舉結果出人意料，民主黨同時奪得眾議院、參議院多數席位，並贏得數個關鍵州長。民主黨新上任的立法者主張限制大型資料中心擴張，擔憂過度投資與能源需求。此前數週AI相關股已因高額借貸建置算力而承壓，選舉結果成為市場情緒的觸發點。市場先因選舉結束而出現「止血」買盤，隨後投資人重新評估AI供應鏈前景，導致技術股大幅拋售。\n🌐 影響：美國股市波動直接衝擊全球資金流向，台灣以半導體與AI產業為主的出口市場將感受到需求不確定性；外資投資台股的風險偏好可能下降，短期內台股防禦性板塊（如醫療、消費必需）或受青睐。對一般民眾而言，退休金、ETF等被動投資的波動性將提升，建議檢視資產配置，避免過度集中於單一科技股。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPeUx5RU12UVplODFqSmNGM2U3dGlNV2N5dXIyelhBdzI4U3RxTFQ1Zms1QVo4TThnYlo1dVg1ZWVGczc0UDR4RVJ1amxvdUJXWnBXdFdxOWthQXhPUTZIdGFJS3p2NVlYNzM3Q0dRZTFfdlEwVlVoWnBjWG91TFJSVDA1VHpicElzb2dDYWlwRnVMWHgwY2I4Y180b25xRHdubTNWWHNTenBqTVRZbmNYZVBTdlpDRDNaMUljRE5zOFh3SzNj?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "台股4萬點失守「市值蒸發近33兆」 排名退至全球第7遭印度超車 - 鏡報",
+          "feature": "台股跌破4萬點　市值蒸發33兆　全球排名被印度超越\n📰 發生什麼事（把這則新聞說清楚）\n今日收盤，台灣加權指數跌至39,127點，單日下跌1,873點，市值瞬間縮減約33兆新台幣，連續六個交易日跌破4萬關卡，國安基金第10度啟動護盤機制，授權視情況進場。\n🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）\n自2024年高點13,000點以來，受美聯儲持續升息、全球半導體需求回落及本地經濟成長放緩衝擊，資金大量流出；同時美國科技股大幅回調拖累台灣電子股，外資賣壓加劇。去年台股市值曾位列全球第六，隨著印度股市持續吸納外資、企業市值快速擴張，2026年已超過台灣，排名跌至第七。\n🌐 影響（對市場、對台灣一般人可能造成的多方面影響）\n市值蒸發對散戶與退休基金的資產安全構成衝擊，短期內可能促使央行與金管會加強市場穩定措施；企業融資成本上升，出口導向產業面臨資金壓力。全球投資者亦重新評估新興市場風險，印度的崛起可能吸走部分資金，台灣需加強創新與高附加價值產業以維持競爭力。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0eGMyMnlKbXMwdVVhbnE0TU1QQm9LUEZSa0tFb3k4T3o2aDk1LTd3OS1wRUlpUzZSelNnRUp3ZGJHRFl4c2hZdDVOWDRSaDkxMHc?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-11-07",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "(標題行) 央行10月減發2兆存單、同時賣美元防貶，雙向操作維持新台幣穩定\n📰 發生什麼事：10月央行削減未到期定期存單發行額2,165億新台幣，餘額降至5.88兆；同時在外匯市場大量賣出美元、收回新台幣，以阻止新台幣匯率快速貶值。10月外資大規模賣出台股、匯出資金，外匯成交量屢創新高。\n🔍 背景與來龍去脈：外資在美股、科技股獲利回吐、全球風險偏好下降，導致熱錢撤離台灣，台股單月賣超近兆元，匯出壓力使新台幣跌破32元關口。央行過去以升息、賣美元收匯抑制貶勢，然而單純收縮流動性會推高隔夜拆款利率、影響銀行放款。為兼顧匯率與市場流動性，央行選擇減發定存單，讓資金回流銀行體系，同時在外匯市場介入。\n🌐 影響：匯率短期維持在32.4~32.5元區間，降低企業與進口商的匯兌成本；隔夜拆款利率持平於0.81%，顯示資金供給未緊縮，有助於企業短期融資與房市需求。對散戶而言，存款利率未大幅上揚，投資債券與外幣存款吸引力仍有限。市場觀感上，央行雙向操作提升政策彈性，但若外資持續撤退，未來仍可能面臨更大匯率波動風險。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTVWFPZ0w1UXpucFg5NWZnZlM5X3c5bkIyMmpnUF8xbjhvVU5DcFI0Rm5aQnlMUkNTSkRrNkxrak50blNLZ05TVEo5RjdybW1K0gFWQVVfeXFMUHBlazl0YXluSE9JaUprY29lcjFkSnp6SmZ5a2M3MjJCSjlINUlkY3RqQXFSV0JoNkpnajhMcmRqdFFWck5rODduQUYxNFotU2kzb3RoM0E?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-01",
-      "featured": [
-        {
-          "category": "international",
-          "title": "The booming stock market is masking a deeper American financial crisis - AlterNet",
-          "feature": "美股表面狂飆，實則美國經濟暗流湧動\n📰 發生什麼事：近期美股指數持續創新高，然而民調顯示選民對經濟前景極度悲觀，消費者信心指數跌至十年低點，且AI與半導體投資泡沫浮現，企業負債上升，能源成本飆升，形成「表面繁榮、底層危機」的格局。\n🔍 背景與來龍去脈：2024 年以來美國 GDP 增長與低失業率掩蓋了通膨與實質購買力下降。2025 年 AI 資本熱潮推高資料中心與晶片需求，股價短暫上揚；但同年中國 AI、晶片指數暴跌 40%，顯示全球供需失衡。加上燃油與電費飆升、農業補貼不足，民眾生活成本居高不下，成為2026 年中期選舉的關鍵議題。\n🌐 影響：短期內資金仍流向科技股，波動性加大；長期則可能觸發企業裁員與債務重組，影響全球供應鏈。對台灣而言，美股波動會影響外資流向，科技產業出口需求可能受 AI 需求波動衝擊，同時美元強勢與油價上漲會推高進口成本，對消費者物價與企業獲利形成雙重壓力。",
-          "source": "Reuters Business",
-          "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBrRnRSRnZkelVJRjBLSngxeE1UTXFHenI0QmRmRlh4X29Sc1RiLUpuaG1MeFotSXUyb1ZIX2hwQm83eUQ3NGdvNjUwLTBDdDh0TkRKNFJSdw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "半導體供應鏈營運爆發 台股ETF前五名全包 - 自由時報",
-          "feature": "「半導體供應鏈火熱」台股ETF前五名全被半導體類別包圍\n📰 發生什麼事：截至10月19日，台股上市（不含槓桿、期貨）的ETF中，報酬率最高的前五名全部屬於半導體相關基金，年初至今漲幅逾120%，遠超大盤表現。\n🔍 背景與來龍去脈：全球AI浪潮持續推動晶片需求，台積電、聯電等產能擴張，2023年外銷訂單首度突破千億美元，年增逾7成。資金因此回流台灣半導體產業，ETF成為投資人快速追蹤產業的工具。過去一年半導體ETF規模普遍成長1至5倍，成為市場最熱的資產類別。\n🌐 影響：投資人配置顯著向半導體ETF傾斜，帶動相關基金資金流入，進一步支撐台股權值。企業獲得更多資金與市場關注，可能加速新製程與AI晶片研發。對一般民眾而言，持有相關ETF可分享產業紅利，但仍須留意產業週期與技術風險。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE9JNElrSmVwd2g2elBQUmlXSFpFbVZ3cm5WaGlOVTVuTlUxd1I5M2g2N2tObHcyR003eHo1ME9LVjBHR2VOVllJVUFvdGlvZkVHcVZMRXRucEc?oc=5"
         }
       ]
     }
