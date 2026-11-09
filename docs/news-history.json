@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-09",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link - CNBC",
+          "feature": "Nvidia執行長被美國兩黨議員追問與中國疑似間諜關係\n📰 發生什麼事：美國眾議院外委會、對華特別委員會與情報委員會三位共和黨主席聯名致函，要求 Nvidia CEO Jensen Huang於11月18日出席閉門簡報，說明他與新加坡公司Megaspeed執行長、華裔澳洲籍人士Alice Huang的交往細節，因後者被美情報機構指為中國國安部招募的間諜。\n🔍 背景與來龍去脈：AI晶片需求暴增使 Nvidia 成為美中科技競爭焦點。去年美國已實施AI晶片出口禁令，防止關鍵技術被北京取得。早在春季，國安部情資備忘錄指出Alice Huang可能協助中國規避禁令，並與Jensen Huang有過多次業務會面。此事在近期被《紐約時報》與多家媒體曝光，引發兩黨對國安風險的共同關注。\n🌐 影響：\n• 市場層面：投資人擔憂潛在制裁或合規調查，Nvidia股價短線出現波動。\\n• 供應鏈：若美國加碼審查，可能進一步限制 Nvidia 向中國出口高階GPU，影響中國AI產業布局。\\n• 台灣產業：台積電等代工廠若受美國政策波及，將面臨產能分配與合約重新談判的風險；同時，台灣AI新創若依賴 Nvidia技術，也需審視合規風險。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlFBMTZ4RFd1bzZnam9ka1FLSTYwWFBVYmt2aHpxZlJ4YnlpWGJabUZMVEt1cENPOU84VnhRLVJWM3YyaFlMeFNxNWExLUNqWk8wQ1NoTmdUZVY0ckpyUlJlVHc5aHZ0V1RtUmFib1J2Rl8waXBiLVZyNzZoNWU5Nw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "傳輝達推進台積電進軍3D DRAM市場  三星、SK海力士無懼逆風大漲3%及5%",
+          "feature": "Nvidia 促使台積電切入 3D DRAM 市場，AI 記憶體格局或再洗牌\n📰 發生什麼事\nNvidia 向台積電提出規劃 3D DRAM 產能的需求，台積電正評估新廠或改造既有設施。消息傳出後，台積電 ADR 盤前跳漲 7.6%，而三星與 SK 海力士股價分別上漲約 3% 與 5%。\n🔍 背景與來龍去脈\nAI 訓練與資料中心需求激增，使全球 DRAM 價格飆升，2026 年 Q3 全球 DRAM 營收較去年增 369%，市場高度集中，三星占 38%、SK 海力士 29%、Micron 21%。Nvidia 作為 AI 晶片龍頭，為確保供應鏈穩定，開始尋找新記憶體供應商。台積電雖以先進邏輯製程為主，已布局先進封裝，客戶需求驅使其考慮跨足記憶體領域。\n🌐 影響\n若台積電成功投入 3D DRAM，將成為 AI 記憶體供應鏈新節點，可能削弱三星等廠商的市場份額，同時提升台灣半導體產值與就業。短期內相關股價受惠，投資人關注供應鏈多元化風險。對一般消費者而言，記憶體成本下降或促使 AI 產品價格下修。政策層面，政府或加碼研發補助，以支援先進記憶體技術發展。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6652839"
+        }
+      ]
+    },
+    {
       "date": "2026-11-08",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "台積電跌破2300 元 市場大跌 但ETF受益人破2000萬\n📰 發生什麼事\n台積電今早盤跌逾2%跌破2300元，帶動加權指數一度下殺近900點，最低至44,012點。科技股普遍回檔，聯發科、鴻海等同樣走低。但同時台股ETF受益人數連續三週創新高，已突破1975萬，逼近2000萬大關。\n🔍 背景與來龍去脈\n美股科技股因AI資本支出回報不確定、聯準會利率政策謹慎等因素全面回檔，傳導至台灣半導體供應鏈，導致投資人拋售台積電等權值股。資金因此流向風險較低、成分較分散的ETF，群益投信指出台股仍屬多頭整理，只是資金輪動至防禦性標的。\n🌐 影響\n短線看，指數波動加劇、投資情緒偏謹慎；中長期則 AI、雲端與台灣供應鏈基本面仍支撐市場。ETF受益人持續增加顯示散戶偏好分散投資，未來可能加速主動與被動ETF資金流入，也為一般投資人提供低門檻布局台股的管道。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIS2JUWG1ySU1SaXFrRExaYWhrelRjODUydlRkc3U4a1Btd1hFTzlSQzFDU25JVGtvNDdQbGIxbm04QXNfYnk0WUJMbjN5Z0taYmUyczRlSkNpdG42M2M5T0xKUVhjUnZ5clE?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-02",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Why AI is boosting Meta's ad business while hurting Google search - CNBC",
-          "feature": "（標題行）AI 讓 Meta 廣告飛升、Google 搜尋受挫\n\n📰 發生什麼事\nMeta 第三季廣告收入年增 26% 到 631 億美元，超越 Google 搜尋 12% 成長的 634 億美元。Meta 受益於 AI 強化的受眾定位與 Instagram 滾動時長提升；Google 則因聊天機器人（ChatGPT、Claude、Meta Muse）分流搜尋流量，藍鏈點擊下降，廣告收入受壓。\n\n🔍 背景與來龍去脈\n過去二十年 Google 與 Meta 幾乎壟斷網路廣告。自 2023 年 ChatGPT 爆紅，AI 變成新資訊發現工具，使用者開始直接向聊天機器人提問，減少傳統關鍵字搜尋。Meta 早在 2024 年投入大規模 AI 研發，推出自家 AI 助手 Muse，提升廣告投放精準度；Google 雖持續投資 AI，卻未能立即替代搜尋藍鏈，導致廣告需求下降。\n\n🌐 影響\n對市場而言，Meta 股價短期或受 AI 投資成本拖累，但廣告收入增速提升，提升整體估值；Google 股價在財報後單日跌超 12%，市值蒸發約 5000 億美元。對台灣企業與一般消費者，廣告預算可能向社群平台傾斜，行銷策略需加強 AI 受眾分析；同時搜尋服務變化可能衝擊本地 SEO 產業，相關人才需求與技術培訓將出現新趨勢。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96VFFxN2pKNFVfSEdGZVpaUmU0ZUVyWGE2VnEwUE5oZE41bmo5Z2dsTnM2alRKM1VaV0g5ZWcxb2FKcXZxdUZsWUktQzJVel9aelpQQ2FScE43X0RncXl2cnJDY2FjdVBYb3EzR1NySdIBdEFVX3lxTFAxZ0VWZ1FUemdMTjR6NktfMmpJUmYyY3BycTBTQ2tocUZLa2RoaEJZVFAyamFxU1ZwdmJOYjdOZ2xqVWMxbGNVLXNOSjBrUFVFQ0lwZ1ZQcGRXYmtjaERRaE10b3JEWDBnTG1IUHU3YTZZLVNa?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "阻貶新台幣 央行10月減發存單逾2000億元 - UDN",
-          "feature": "(標題行) 央行10月減發2兆存單、同時賣美元防貶，雙向操作維持新台幣穩定\n📰 發生什麼事：10月央行削減未到期定期存單發行額2,165億新台幣，餘額降至5.88兆；同時在外匯市場大量賣出美元、收回新台幣，以阻止新台幣匯率快速貶值。10月外資大規模賣出台股、匯出資金，外匯成交量屢創新高。\n🔍 背景與來龍去脈：外資在美股、科技股獲利回吐、全球風險偏好下降，導致熱錢撤離台灣，台股單月賣超近兆元，匯出壓力使新台幣跌破32元關口。央行過去以升息、賣美元收匯抑制貶勢，然而單純收縮流動性會推高隔夜拆款利率、影響銀行放款。為兼顧匯率與市場流動性，央行選擇減發定存單，讓資金回流銀行體系，同時在外匯市場介入。\n🌐 影響：匯率短期維持在32.4~32.5元區間，降低企業與進口商的匯兌成本；隔夜拆款利率持平於0.81%，顯示資金供給未緊縮，有助於企業短期融資與房市需求。對散戶而言，存款利率未大幅上揚，投資債券與外幣存款吸引力仍有限。市場觀感上，央行雙向操作提升政策彈性，但若外資持續撤退，未來仍可能面臨更大匯率波動風險。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBTVWFPZ0w1UXpucFg5NWZnZlM5X3c5bkIyMmpnUF8xbjhvVU5DcFI0Rm5aQnlMUkNTSkRrNkxrak50blNLZ05TVEo5RjdybW1K0gFWQVVfeXFMUHBlazl0YXluSE9JaUprY29lcjFkSnp6SmZ5a2M3MjJCSjlINUlkY3RqQXFSV0JoNkpnajhMcmRqdFFWck5rODduQUYxNFotU2kzb3RoM0E?oc=5"
         }
       ]
     }
