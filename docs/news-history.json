@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-10",
+      "featured": [
+        {
+          "category": "international",
+          "title": "China exports, imports soar past expectations in October — surplus narrows sharply - CNBC",
+          "feature": "十月中國貿易激增，出口創新高但盈餘大幅縮小\n📰 海關資料顯示，10 月中國出口較去年同期跳升 35.2%，遠高於路透 33.5% 的預估；同時進口更猛，年增 41.6%，致月盈餘由 9 月的 1335 億美元跌至 1053 億美元。\n🔍 今年以來，中國受惠於 AI、半導體與電動車等高科技產品需求回暖，加上美歐關稅政策前置，企業提前下單形成所謂「前置出貨」；然而隨著美元走強、人民幣升值以及歐盟與中國於 10 月 9 日達成限制混合動力車出口的協議，進口需求與成本同步上升，貿易結構出現逆轉。\n🌐 對市場而言，出口持續強勁提振相關產業股價，但盈餘縮窄加劇外界對中國需求可持續性的疑慮；對台灣而言，半導體與零組件供應鏈仍受惠於中國高科技出口，但進口成本上升可能傳導至本地製造成本，亦提醒投資人關注人民幣匯率與美中貿易政策變化。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因",
+          "feature": "AI 股災衝擊台日韓股市，富達警示亞股三大隱憂，央行凍漲背後因素\n📰 發生什麼事　美國2026年中期選舉後，民主黨掌握國會，AI概念股在美股大跌後引發全球賣壓，亞洲股市連續下挫。台灣、韓國與日本指數單日跌幅逾6%，半導體權值股成最大拖累。富達資產管理警告亞太市場面臨「金融環境緊縮、能源價格波動、AI投資回報不確定」三大隱憂；同時透露台灣央行因通膨可控，將維持利率不變，暫不跟隨美聯儲升息。\n🔍 背景與來龍去脈　美國民主黨掌權後，市場預期AI監管將加嚴，資料中心與晶片需求前景受疑，導致投資人大規模平倉。亞洲半導體比重高，使台、日、韓股市對此特別敏感；外資持續抽離，台股本季已賣超逾450億美元。另一方面，台灣通膨率持續低於2%，加上外匯流入減緩，央行行長劉培乾指出「凍漲」是為避免過度緊縮，維持經濟韌性。\n🌐 影響　短期內股市波動加劇，外資持續減碼，台股技術性熊市可能持續至金融環境緩和；企業資金成本上升，半導體與高科技供應鏈投資計畫面臨延期。對一般民眾而言，股價下跌削弱家庭資產感受，保險與退休金投資組合受波及；同時利率維持不變有助於房貸與企業融資成本穩定，減少經濟衝擊。長遠看，若AI政策明朗化、能源與供應鏈穩定，亞太市場仍有回彈空間。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6650280"
+        }
+      ]
+    },
+    {
       "date": "2026-11-09",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "宏碁資訊Q3獲利創新高　毛利率跌破兩年低 股價應聲下滑\n📰 發生什麼事\n宏碁資訊2026年第三季稅後純益1.94億元，年增31%，EPS 4.68元，創季內最高；但毛利率僅9.88%，較去年同期下降3.87個百分點，創2021年以來最低，公布後股價盤中跌逾7%。\n🔍 背景與來龍去脈\n近年PC需求受全球經濟放緩與供應鏈壓力衝擊，毛利率持續受原物料、記憶體與CPU價格上漲侵蝕。宏碁為應對，已於2025年啟動AI Service Provider戰略，聚焦AI雲端、智慧製造與企業解決方案，以提升高毛利服務比重，減少對傳統筆電營收的依賴。類似情況亦見於英特爾、達方等業者，皆在轉型期出現獲利成長但毛利縮減的現象。\n🌐 影響\n短期內投資人對毛利率不佳的擔憂導致股價回檔；長期看，若AI服務能快速佔領市場，營收結構將更趨高附加價值，對台灣科技供應鏈與相關人才需求有正向拉動；同時亦提醒同業須加速產品升級與成本控管，以免在PC需求持續低迷下被動承受利潤壓力。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6645988"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-03",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Intel foundry push faces critical test after stock's 45% plunge in October - CNBC",
-          "feature": "Intel 失守晶圓代工野心，股價十月狂跌 45%\n📰 發生什麼事：Intel 今季公布第三季營收 165 億美元，較去年增 21%，但因 PC 市場持續低迷，第四季營收預估僅 150‑160 億美元，較分析師預期少 10‑20 億美元。股價因此在 10 月單月跌逾 45%，週五一日狂跌 29%，創 1970 年代以來最大單日跌幅，週一再跌 8%。\n🔍 背景與來龍去脈：Intel 近五年投入逾千億美元建設自有先進製程，目標挑戰台積電成為全球代工巨頭；2025 年美國政府取得 10% 股權、Nvidia 投入 50 億美元，曾推高股價六倍至 2026 年中。但 Intel 仍缺乏旗艦客戶，先進晶圓大多自用；PC 銷售因記憶體與零組件成本上升而縮減，佔營收約半數；同時供應鏈緊張限制了資料中心與 AI 伺服器芯片的產能擴張。2026 年第三季資料中心營收猛增 78%，顯示 AI 需求強勁，卻因產能不足未能抵銷 PC 衰退。\n🌐 影響：股價大幅回檔削弱投資人信心，可能迫使 Intel 加速將產能從 18A 先進製程轉向較成熟的 Intel‑3 以供應資料中心，影響台灣相關供應鏈如光罩、測試與材料廠。若 Intel 無法在 2027 前簽下旗艦代工客戶，將加深與台積電的差距，台股半導體板塊可能受惠於資金流向；另一方面，AI 伺服器需求持續成長，對台灣的高效能運算晶片與記憶體供應商仍是正向動能。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMlNTdDFxNVE4aG5RNlM0ZHN0eEx2QXRQRDUxNlI4bmJhNDh4R1kwYzE4TUFrOUJ4NWNKdS1qMENjTDBuSUhIc1E5al9OSGM3bW01SXZrSjZLaElqYWtrSTg2YkZEYzNnRVJua201a2VZcjhqZmxpRDREc29QSEx5dndzM2JSaDI5d2JQVWpPbE9XeWVoNlV1QlJzbEZ5ZGY2RDEyTUYtM3l2V1lGRVZKNdIBtgFBVV95cUxQbTBBOEFUSTR2MkZaNFBDbnppS0lraTVFRGFfdE1LTV91WDBUUkRKWURyZ0VCNUVoV2JweDN1dVBPZy1SVGU4M21pd2haZDFWVlRrckUxMXNtRWtpOUM5aHktYjhYMml0SzR2UXNlVnY4dlpPSE9ZUHllQzA5ZkFybHY4WDVtRFlyc25zRUZ4WTVQeGNwb3V6OFNMS1kyVENJYmhYX2pSakgyLURQQ29DcEhJY3lhdw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "台積電跌破2300元台股又下殺近900點 ETF受益人卻創新高- 上市櫃 - 旺得富理財網",
-          "feature": "台積電跌破2300 元 市場大跌 但ETF受益人破2000萬\n📰 發生什麼事\n台積電今早盤跌逾2%跌破2300元，帶動加權指數一度下殺近900點，最低至44,012點。科技股普遍回檔，聯發科、鴻海等同樣走低。但同時台股ETF受益人數連續三週創新高，已突破1975萬，逼近2000萬大關。\n🔍 背景與來龍去脈\n美股科技股因AI資本支出回報不確定、聯準會利率政策謹慎等因素全面回檔，傳導至台灣半導體供應鏈，導致投資人拋售台積電等權值股。資金因此流向風險較低、成分較分散的ETF，群益投信指出台股仍屬多頭整理，只是資金輪動至防禦性標的。\n🌐 影響\n短線看，指數波動加劇、投資情緒偏謹慎；中長期則 AI、雲端與台灣供應鏈基本面仍支撐市場。ETF受益人持續增加顯示散戶偏好分散投資，未來可能加速主動與被動ETF資金流入，也為一般投資人提供低門檻布局台股的管道。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBIS2JUWG1ySU1SaXFrRExaYWhrelRjODUydlRkc3U4a1Btd1hFTzlSQzFDU25JVGtvNDdQbGIxbm04QXNfYnk0WUJMbjN5Z0taYmUyczRlSkNpdG42M2M5T0xKUVhjUnZ5clE?oc=5"
         }
       ]
     }

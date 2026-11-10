@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-09",
+  "date": "2026-11-10",
   "featured": [
     {
       "category": "international",
-      "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link - CNBC",
-      "feature": "Nvidia執行長被美國兩黨議員追問與中國疑似間諜關係\n📰 發生什麼事：美國眾議院外委會、對華特別委員會與情報委員會三位共和黨主席聯名致函，要求 Nvidia CEO Jensen Huang於11月18日出席閉門簡報，說明他與新加坡公司Megaspeed執行長、華裔澳洲籍人士Alice Huang的交往細節，因後者被美情報機構指為中國國安部招募的間諜。\n🔍 背景與來龍去脈：AI晶片需求暴增使 Nvidia 成為美中科技競爭焦點。去年美國已實施AI晶片出口禁令，防止關鍵技術被北京取得。早在春季，國安部情資備忘錄指出Alice Huang可能協助中國規避禁令，並與Jensen Huang有過多次業務會面。此事在近期被《紐約時報》與多家媒體曝光，引發兩黨對國安風險的共同關注。\n🌐 影響：\n• 市場層面：投資人擔憂潛在制裁或合規調查，Nvidia股價短線出現波動。\\n• 供應鏈：若美國加碼審查，可能進一步限制 Nvidia 向中國出口高階GPU，影響中國AI產業布局。\\n• 台灣產業：台積電等代工廠若受美國政策波及，將面臨產能分配與合約重新談判的風險；同時，台灣AI新創若依賴 Nvidia技術，也需審視合規風險。",
+      "title": "China exports, imports soar past expectations in October — surplus narrows sharply - CNBC",
+      "feature": "十月中國貿易激增，出口創新高但盈餘大幅縮小\n📰 海關資料顯示，10 月中國出口較去年同期跳升 35.2%，遠高於路透 33.5% 的預估；同時進口更猛，年增 41.6%，致月盈餘由 9 月的 1335 億美元跌至 1053 億美元。\n🔍 今年以來，中國受惠於 AI、半導體與電動車等高科技產品需求回暖，加上美歐關稅政策前置，企業提前下單形成所謂「前置出貨」；然而隨著美元走強、人民幣升值以及歐盟與中國於 10 月 9 日達成限制混合動力車出口的協議，進口需求與成本同步上升，貿易結構出現逆轉。\n🌐 對市場而言，出口持續強勁提振相關產業股價，但盈餘縮窄加劇外界對中國需求可持續性的疑慮；對台灣而言，半導體與零組件供應鏈仍受惠於中國高科技出口，但進口成本上升可能傳導至本地製造成本，亦提醒投資人關注人民幣匯率與美中貿易政策變化。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTlFBMTZ4RFd1bzZnam9ka1FLSTYwWFBVYmt2aHpxZlJ4YnlpWGJabUZMVEt1cENPOU84VnhRLVJWM3YyaFlMeFNxNWExLUNqWk8wQ1NoTmdUZVY0ckpyUlJlVHc5aHZ0V1RtUmFib1J2Rl8waXBiLVZyNzZoNWU5Nw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "傳輝達推進台積電進軍3D DRAM市場  三星、SK海力士無懼逆風大漲3%及5%",
-      "feature": "Nvidia 促使台積電切入 3D DRAM 市場，AI 記憶體格局或再洗牌\n📰 發生什麼事\nNvidia 向台積電提出規劃 3D DRAM 產能的需求，台積電正評估新廠或改造既有設施。消息傳出後，台積電 ADR 盤前跳漲 7.6%，而三星與 SK 海力士股價分別上漲約 3% 與 5%。\n🔍 背景與來龍去脈\nAI 訓練與資料中心需求激增，使全球 DRAM 價格飆升，2026 年 Q3 全球 DRAM 營收較去年增 369%，市場高度集中，三星占 38%、SK 海力士 29%、Micron 21%。Nvidia 作為 AI 晶片龍頭，為確保供應鏈穩定，開始尋找新記憶體供應商。台積電雖以先進邏輯製程為主，已布局先進封裝，客戶需求驅使其考慮跨足記憶體領域。\n🌐 影響\n若台積電成功投入 3D DRAM，將成為 AI 記憶體供應鏈新節點，可能削弱三星等廠商的市場份額，同時提升台灣半導體產值與就業。短期內相關股價受惠，投資人關注供應鏈多元化風險。對一般消費者而言，記憶體成本下降或促使 AI 產品價格下修。政策層面，政府或加碼研發補助，以支援先進記憶體技術發展。",
+      "title": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因",
+      "feature": "AI 股災衝擊台日韓股市，富達警示亞股三大隱憂，央行凍漲背後因素\n📰 發生什麼事　美國2026年中期選舉後，民主黨掌握國會，AI概念股在美股大跌後引發全球賣壓，亞洲股市連續下挫。台灣、韓國與日本指數單日跌幅逾6%，半導體權值股成最大拖累。富達資產管理警告亞太市場面臨「金融環境緊縮、能源價格波動、AI投資回報不確定」三大隱憂；同時透露台灣央行因通膨可控，將維持利率不變，暫不跟隨美聯儲升息。\n🔍 背景與來龍去脈　美國民主黨掌權後，市場預期AI監管將加嚴，資料中心與晶片需求前景受疑，導致投資人大規模平倉。亞洲半導體比重高，使台、日、韓股市對此特別敏感；外資持續抽離，台股本季已賣超逾450億美元。另一方面，台灣通膨率持續低於2%，加上外匯流入減緩，央行行長劉培乾指出「凍漲」是為避免過度緊縮，維持經濟韌性。\n🌐 影響　短期內股市波動加劇，外資持續減碼，台股技術性熊市可能持續至金融環境緩和；企業資金成本上升，半導體與高科技供應鏈投資計畫面臨延期。對一般民眾而言，股價下跌削弱家庭資產感受，保險與退休金投資組合受波及；同時利率維持不變有助於房貸與企業融資成本穩定，減少經濟衝擊。長遠看，若AI政策明朗化、能源與供應鏈穩定，亞太市場仍有回彈空間。",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6652839"
+      "link": "https://news.cnyes.com/news/id/6650280"
     }
   ],
   "candidates": [
     {
-      "title": "台股盤中／強彈近6%重返4萬2千點 台積電、聯發科領軍反攻 - 優分析UAnalyze",
-      "content": "台股盤中／強彈近6%重返4萬2千點 台積電、聯發科領軍反攻 優分析UAnalyze",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE0zMS1QYVVRYm44VDJ3VHVqdWMyeWFyelkyTnJrX3JQLVMtWUVvamkzZ1Y0MVJjdWd1c3d6a1VkMG9zUlVvRGRERndwbkRRM2dUUmRqbnBB?oc=5"
-    },
-    {
-      "title": "黃仁勳會下台？這些CEO因婚外情丟了職位 但這兩位大佬屹立不搖的關鍵",
-      "content": "輝達（NVIDIA）執行長黃仁勳坦承與涉嫌替中國從事間諜活動的女子發生婚外情，而董事會已宣布展開獨立調查。在美國企業史上，不乏大公司執行長緋聞纏身而痛失職位的例子，但也有大老闆繼續掌舵、不影響執行長職位的前例。然而，黃仁勳的事件可能涉及違反美國制裁措施與有損國安領域，使後續發展更添複雜因素。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9866261"
-    },
-    {
-      "title": "整理包／共和黨掌國會剩55天！變天前五大攻防一次看",
-      "content": "美國共和黨在期中選舉慘敗、失去參眾兩院多數後，議員周一重返華府，掌握兩院多數的時間只剩55天。他們可以趕推自家法案，也可能與民主黨達成協議。但若敗選後士氣低迷、議事停滯，國會可能只處理必要法案後，就提前放聖誕假期。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9866258"
-    },
-    {
-      "title": "商周-台股要止跌了？台積電ADR大漲6.33%、國安基金護盤，投顧點名看3指標 - 商業周刊 - 商業周刊",
-      "content": "商周-台股要止跌了？台積電ADR大漲6.33%、國安基金護盤，投顧點名看3指標 - 商業周刊 商業周刊",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBtWnZmQmw0OEZkcU5hZGd1UXFyZGVORE0zUjFQTW5FeUJXWnNrRzB3ejZSb1lJTnFUTlZwYnVXSndwVFVjN3cydlFNTWxNZ01GT244dEJ1eWN4QVUySlRfckFNQW1NQQ?oc=5"
-    },
-    {
-      "title": "掃蕩無證移民惹議　川普受訪時坦言執法可能太嚴厲",
-      "content": "美國總統川普接受哥倫比亞廣播公司（CBS）節目專訪時表示，政府在執行法規、大規模驅逐無證移民時採取的手段可能「太過強硬」",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9866252"
-    },
-    {
-      "title": "國安基金發威！台股2哥、3哥率175檔亮燈　指數飆2600點收復42K - ETtoday財經雲",
-      "content": "國安基金發威！台股2哥、3哥率175檔亮燈 指數飆2600點收復42K ETtoday財經雲",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5tb0VFLTRpd2R2bktfWVQ0cU9STm5VMGdHRWd1SVlHZC1hVVljVDVYX2dYTFNaNWNaUkhyZ0NJSzdsbXNXUGdfaVMxWUc2Z1B3SUHSAVBBVV95cUxQZkw1VEx4TmsyalBFT1Noc0liOF94b3V0LTJfdVBDaWNLS3UyOXRoODQ1ODZ2UFBWMy1yVW5uMnM1VVA3TjZqMnNEdnpKd2U4Tw?oc=5"
-    },
-    {
-      "title": "巨鎧開發CAPA認證產品 本季起出貨予美大型客戶",
-      "content": "巨鎧精密-創取得CAPA認證，預計本季起出貨美國大型客戶，並已有多件CAPA產品認證到手。 巨鎧去年10月申請、11月取得CAPA認證，顯示生產與品質體系可對接北美售後市場。 巨鎧今年前三季營收7182萬元、年減83.17%，虧損2.14億元。",
+      "title": "盤中速報 - 旭然(4556)股價拉至漲停，漲停價99.0元，成交347張",
+      "content": "旭然(4556-TW)10日12:33上漲9元，股價漲停報99.0元，委買2,000張，成交347張。主要業務為過濾分離設備及周邊產品之研發、設計、製造與銷售。旭然(4556-TW)近5日股價下跌10.89%，櫃買市場加權指數下跌12.8%，股價漲幅表現優於大盤。近5日籌碼 三大法人合計買賣超",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6652933"
+      "link": "https://news.cnyes.com/news/id/6655444"
     },
     {
-      "title": "China wholesale inflation hits over four-year high as consumer measure slows - CNBC",
-      "content": "China wholesale inflation hits over four-year high as consumer measure slows CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOa3VDQVdKcnVEdTB1WDhYZFQzY3Z2b05ydE1yNnc3Nm1mTE5sa2cwUTNURjUtVXNzb1gwem9kaXhZVENaaUY4Nm9LUGp3NDctaFhtRjJCeTJZLWpsdmZkQkg3TENxekZIRUpVakVwT09GRjNva1BLMjI5b1paUW4yTGd6UQ?oc=5"
+      "title": "盤中速報 - 鼎固-KY(2923)股價殺至跌停，跌停價25.5元，成交219張",
+      "content": "鼎固-KY(2923-TW)10日12:32下跌2.8元，股價跌停報25.5元，委買39張、委賣8張，成交219張。主要業務為不動產開發。不動產租售。不動產管理及其他。鼎固-KY(2923-TW)近5日股價下跌3.41%，集中市場加權指數下跌7.25%，股價漲幅表現優於大盤。近5日籌碼 三大法",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6655443"
     },
     {
-      "title": "Read Huang's email to his staff and statement from Nvidia's board of directors - CNBC",
-      "content": "Read Huang's email to his staff and statement from Nvidia's board of directors CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMlpNM1NTcjhpWU5kMWcxbWhnQmh4SnZFTWU4My1EV1RvNGRNdHR2bUtXckstZlJTWmc3a1Nqeng1SjB1RjQ4UkZKakdTLWdxdkwzYV81ckhEU1R5TUtTRmFhaEd0NW0wcXdZdXJkNGc4R19iN1FoOXg4ZWZXODdaZmZnZWNMbk42Y09PdHdiZmZjaGlFS2c?oc=5"
+      "title": "台股一度大漲逾千點！外資匯出壓力未歇 新台幣翻貶再逼近33元 - 自由時報",
+      "content": "台股一度大漲逾千點！外資匯出壓力未歇 新台幣翻貶再逼近33元 自由時報",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBlR0FCTko0eVd6ODZPMkh4OVJIdjV0TENpT2FhVlZhU2VPVlR3SC1TcmF2eWw5anFRcVNLRDRpQWJkUVBZUkRhLWxidmFoNFlhbEpUdmZtRmE?oc=5"
     },
     {
-      "title": "Here are the 2 big things we're watching in the stock market in the week ahead - CNBC",
-      "content": "Here are the 2 big things we're watching in the stock market in the week ahead CNBC",
+      "title": "台股反彈還要繼續買！009816、00406A達人曝加碼計畫 網卻喊換抱「這檔」放10年 - Yahoo股市",
+      "content": "台股反彈還要繼續買！009816、00406A達人曝加碼計畫 網卻喊換抱「這檔」放10年 Yahoo股市",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMihANBVV95cUxQZ2JKTHVaZnFjVFVHRVYteTVSVVVNb01MTHZOeUZ0UWhKbGRSNHc4clpEd2RBZ0hGMC1Sc1hfS1Vocm94aHpCel8zQ3I0ZnZCcUVRdHY5WXo5UlFic04yNjByeFJyNmxubS01VjRIZnVOaE96Q2JwYWpKRmJkV2UydHFfVnQzR3FOeVYzb0dRU3pVclM1SEpySlRJenJ3V09JUW16RkF1YzhwUXduaERfNm9YNVNMNkxWc2s2bGU2YnBLWThRRjFJamtPcUxGYWk3eDd6WXY3MGJKd1FqMG9CSmQ4ZGlXMGNPU2FlcjdpbzhwNC1NYlB0cGZrLWpUcUFWc2laOVp2dFZwMmtUZlhDWnUwWm5zLXZ2RUNNcjJTLXF3LTcxdUhvMTQxRmNyOVFUT2l0ZTNIQTV4eWZCQm1BU28xcDBpZ01ERXUtODNHOGdmODdaV3ZsZEN6NU80M3VLLVc0WFFWcUEwX2dJRFZCby1nWVpOYS0zNjFkQzB1eE9NM2xT?oc=5"
+    },
+    {
+      "title": "盤中速報 - 集中市場加權指數上漲855.87點至42517.57點，漲幅2.05%",
+      "content": "截至台北時間10日12:27，集中市場加權指數上漲855.87點（或2.05%），暫報42517.57點。歷史漲跌幅近 1 週：-7.25%近 1 月：-15.52%近 3 月：-5.8%近 6 月：+0.14%今年以來：+43.84%焦點個股矽光子元件概念領漲+6.91%。其中 光環(323",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6655439"
+    },
+    {
+      "title": "台股開高走低、漲點急縮逾600點 新台幣由升轉貶逼近33元 - UDN",
+      "content": "台股開高走低、漲點急縮逾600點 新台幣由升轉貶逼近33元 UDN",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1TWUdib0FzaDFnNWo3S0FTVWdhcFFpdnJjckQ1YWVLbUl6TW4xTFdHY0FBaG9pZ3hJM0tFd0k5cmkwTTRVUnVUNFVOQzBfMC1U0gFWQVVfeXFMUGphS3U1MFlMbTk4aW5nSUVlX0IzR1I5enphNUJGajBCNFVQeW54ZlFWQXdmS1l3bzR1cmxhcjRsOFZPNXRmWVJETnNMMFF3NTZkVks1eVE?oc=5"
+    },
+    {
+      "title": "「AI股拋售過度！」大摩放話別瞎賣：資料中心建設僅延後非取消  續抱亞馬遜、微軟等四騎士",
+      "content": "大摩指市場因美國期中大選憂心資料中心建設受阻，掀起AI概念股拋售，但跌勢明顯過度 大摩稱AI資本支出大勢未變，部分項目僅時程遞延；原預計2028年落成的約5GW美國資料中心容量，可能順延至2029年 大摩重申看好亞馬遜、微軟、Meta、Alphabet，並稱節奏微調有助紓解供應瓶頸、支撐算力定價",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6655354"
+    },
+    {
+      "title": "Anthropic's IPO is the next big test for tech, says Jim Cramer - CNBC",
+      "content": "Anthropic's IPO is the next big test for tech, says Jim Cramer CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc0dUYUM4cUNUeXNpYVFoNmNpMjctVy1oelZYUDJGdkFSTEVhMVhiNlB1LTRWWXEwS3pLV2dxMlRwNHg1R3doQjFvNWdFTVNRUmhzU2VKdmNZeGQ0ZWw2eFk3R2RrM01hV1F4b05UcFFnbW8xbElhWENvQml3SVVBNWdOeTFpNmkwWDI4d3JMYmZZeHk3MXBnQzNTTXExcHhIU2xJdG10V19lRXNBV0EzV1lNZ0VxcDY3YzROVW5YWXRuTXRmenZF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOekYzTGliTHpUdVhQSzJSb29xR1Z2X0lDR3ItRVdaMGRWQ3NpTnFEckM5d0hEa3hUbzBqTU03NTdEeFRHd1YzWFB6TjUzcnRGTUk2MkV1ZnFWYUUtV3J3d2VmZF8yT29seXYtMnhsZ0JWTEFER3hCUE1yNGx0Rktkd0NfcExEZHZIYUxYVWU3UUFRUThCMUdFMlh3bjZSbmFZd0xaek53?oc=5"
+    },
+    {
+      "title": "Tuesday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
+      "content": "Tuesday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMzVVYzR3YjdtOU5vSHVCTDl0YmFYWVlPaTRpNFlKRXlvZ0RWM3ZieGJ0THNMZTd1a2JwS0tqcDJYQjVCcXU3T2k4NTVfVWFLd3ZETzd1dGV3b1NNVmV2N2R0czQ4UzA3Tzk3VzV0aEJKU1BMellzdFkxeXdOakI4d3kzSlJzTkpQTEoyeWR1T1RvcnZLSzNXVDMwNA?oc=5"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right - CNBC",
+      "content": "CNBC's The China Connection newsletter: Wall Street dips in again. What needs to go right CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTVg1UGUxM3Ffb19ScHhmZmxtNkIwTHNYVWFOcm9yZHVxUzR6M3ZWdngzaUlLSU9uVzM1cGw2dXpNZHlHZzhWQWljMTRFbV9xejFaTjUtbFdYdGFwdml0aEwwZzdreXhaX1Fkb05FcDBxaTFuWVlTQ1ZUUnR0UmVXOTdKbXpkaERPdnp3aktnTVMtbG9iTm1TWmZYbDBhclZYdEE?oc=5"
     }
   ]
 }
