@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-11",
+      "featured": [
+        {
+          "category": "international",
+          "title": "GE Vernova sellers have it all wrong — plus, why Fed rate hike odds are soaring - CNBC",
+          "feature": "GE Vernova股價暴跌 牽動AI資料中心與美聯儲升息預期\n📰 發生什麼事：11月10日，GE Vernova（GEV）股價開盤即跌逾7%，主因是日本軟銀因美國AI資料中心項目調整設備採購，計入37億美元減值，同時美國10年期國債殖利率回升至5%，通膨數據高於預期，推升市場對美聯儲12月加息25基點甚至50基點的預期。\n🔍 背景與來龍去脈：GE Vernova自2024年起被視為AI資料中心供電關鍵供應商，靠燃氣渦輪與電氣化設備支撐營收。去年公司背書的近2000億美元訂單堆積，讓投資人對未來現金流抱持樂觀。但近季風力部門利潤受供應鏈瓶頸拖累，加上軟銀大幅調整採購策略，顯示AI資料中心需求可能因美國中期選舉後監管審查而放緩。此時通膨升溫再次刺激市場對美聯儲緊縮政策的擔憂。\n🌐 影響：短線看，GE Vernova股價回檔拖累相關能源與基礎設施ETF；若美聯儲真的升息50基點，美元走強將抬高能源成本，進一步壓縮AI資料中心的營運利潤。對台灣而言，AI算力需求與電力供應成本可能同步上揚，半導體與雲端服務公司需留意電費與資本支出變動，同時投資人亦應警惕能源股的波動風險。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQnlZWlVGdHVqSnZHN0NXeFg3Qk80RFNMY3pyVGt2aGVjUE9OU3liMW9KTUxmMEZOZkpsR05ZbldOb040UGZhTkF3b0hrS3A2OVVoTFdJaXBkU2FnZmROY3N1cy14LWhIVzA0cEtGWU5ZU1NFX09nWDhjSWE3cC11SXltQ1dqQ2s0VVhJdmJ5VngzUlB2REE2LXp1LS1mVk5OTnFpN0N5anFYbHJWd1RkN1VUWUFQRTZTMVpmTndUUmVKWUNLT0E?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "國安基金10度進場護盤到何時？財長曝關鍵：需經委員會決議",
+          "feature": "「國安基金第十次護盤：何時退場仍未可知」\n📰 發生什麼事：11/2-11/6台股跌約5500點，外資大幅賣超、科技股重挫，財政部於11/6啟動國安基金第十次進場護盤。基金依《管理條例》第8條臨時會決議動用資金，目的係穩定市場，退場時間未公開，將由幕僚持續觀察。\n🔍 背景與來龍去脈：國安基金成立2000年，法定上限5千億，其中2千億可借貸，歷屆護盤多在大盤跌破2萬點或市場失序時啟動。近期外資連續賣超、美元升值與美股半導體指數暴跌，加劇資金外流；同時國內通膨與選舉不確定性使投資人信心崩盤，委員會認為已構成「資本市場失序」而緊急開會。過去六次護盤均由委員會決議，退場通常在市場回穩後自行撤退。\n🌐 影響：短期內基金買進提升成交量，可能緩解跌勢，提振投資人情緒；但若資金規模不足或退場不明，仍可能留下市場觀望。對台幣匯率而言，股市穩定有助止住美元兌新台幣的貶值壓力。長期看，基金規模擴增至兆元的立法爭議將影響政府救市彈性，也讓投資人關注未來護盤的可持續性。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6658206"
+        }
+      ]
+    },
+    {
       "date": "2026-11-10",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "台股重挫千點　AI政策憂慮衝擊半導體\n📰 發生什麼事\n台股於11月5日開盤即大幅下滑，指數一度跌破42,000點，單日跌幅逾千點。科技指標費城半導體指數下跌超3%，拖累台積電等權值股；台積電在低位止跌並短暫支撐盤面，使指數最終收於約42,000點。\n🔍 背景與來龍去脈\n美國中期選舉民主黨大勝，市場擔憂其加強AI與資料中心監管、要求業者分擔基礎建設成本，可能延遲AI伺服器與雲端投資。美股科技股同步走弱，費半指數跌360點，形成跨市場資金外流。台股本就高度依賴半導體產業，此波賣壓自然波及本土電子權值股；同時大盤跌破半年線，技術面顯示跌勢進入第二階段，投資人情緒更趨保守。\n🌐 影響\n短期內半導體股持續承壓，投資人或轉向防禦性金融、傳產與航運股；金融ETF如元大MSCI金融（0055）逆勢上揚。若AI相關資本支出真的放緩，晶圓代工與IC設計的獲利成長預期將被調低，影響公司營收與研發排程。對一般民眾而言，股市波動或影響退休金、投資理財的預期收益，亦提醒投資者須檢視風險承受度與資產配置。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdXpjckwzNVFrRF9fYTctUzUwVGZncVJrenBRM2k1QktFc0MzRHVjb1hpcHllVXI1WGppVzEwOVJWR3NtOUgzaTVXZHNxLUhNeEd4N3Y4RDJOdWw5cExfMElnRFhWYW15SGRQLWFHZmw2NjVLdGpYbkJJUlF3ZHRCQzFEU2xYRGlXV2xvQU1UWFJPTWFESTVJbUR0eUNicHI2T244b2dwbUc1b21HVU9rZ3dqMllxYTNnQy1xaEtmWXVJVHV5TFFialJfRnI3dTZabmdMZGdfUy12aFJEMHpGM1ByWDVPLXdYZmVKV3VsUXYyZVExT015aTNZbEVmV3BkNmRlNFBpRzRUdFZESDZ1WGllQ25TR2N2LTRfdWl5emVlOEI5X2ExUWRsaFhxaDNwbnd6S3RGR0hwcjFDOVE5X3RGZVJjOFV3Nmp2SQ?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-04",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China’s AI stock-market struggles are a warning - The Economist",
-          "feature": "中國AI股市暴跌揭示投資熱潮與產業實力脫節的警訊\n📰 發生什麼事：2026 年底，包含 AI、半導體在內的 STAR50 指數在短短四個月跌逾 40%，市值蒸發近 4800 億美元。領頭羊 Unitree、晶片製造商等多家公司股價跌半，市場估值仍維持在盈餘 100 倍左右，遠高於美國 Nasdaq 100 的 30 倍。\n🔍 背景與來龍去脈：自 2024 年起，中國將 AI 定為國家戰略，資金大量湧入新創與大型企業，IPO 熱潮與政策扶持推升估值。政府同時放寬金融監管、鼓勵國家隊介入股市。隨著 AI 技術逐漸成熟、模型成本下降，產業增速放緩，投資者開始質疑商業化前景，導致資金撤退。央行與證監會於 11 月初召開會議，討論加大再貸款支持股份回購，以穩住股價，顯示官方已介入但仍難快速扭轉市場情緒。\n🌐 影響：一方面，股市暴跌削弱了中國創新企業的融資渠道，可能延緩 AI 相關硬體與應用的商業化，對本地供應鏈產生連鎖效應。二是全球資金重新評估中國 AI 產業的風險與回報，外資可能減少配置。對台灣而言，AI 晶片與自動化設備的出口需求可能受波及，同時投資者情緒傳導至台股科技板塊，需留意相關公司的股價波動與政策動向。",
-          "source": "Reuters Business",
-          "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUk5SYzV2RVRZQkdoM0syTWN4M010ZjVBWXJrVjBWdkNoNGE1ajd4Q2Y0eTdEMkJhbC1JVnNzdkJJSkNkSHhTbDNoNmw4Z1pZQk5EbGxkNUxJbTBQOTRJRGRrUzlKcTRGTWZxVVZxM2Rmb3FCVnJFQ2oyUTQ5UzhrODR4V29jM2toZFIyYVRXTVpRTVI1QXNBYk96a00weFk3T3NGZkQ3cXo?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "〈焦點股〉宏碁資訊Q3獲利繳佳績 惟毛利率下滑股價跌逾7%",
-          "feature": "宏碁資訊Q3獲利創新高　毛利率跌破兩年低 股價應聲下滑\n📰 發生什麼事\n宏碁資訊2026年第三季稅後純益1.94億元，年增31%，EPS 4.68元，創季內最高；但毛利率僅9.88%，較去年同期下降3.87個百分點，創2021年以來最低，公布後股價盤中跌逾7%。\n🔍 背景與來龍去脈\n近年PC需求受全球經濟放緩與供應鏈壓力衝擊，毛利率持續受原物料、記憶體與CPU價格上漲侵蝕。宏碁為應對，已於2025年啟動AI Service Provider戰略，聚焦AI雲端、智慧製造與企業解決方案，以提升高毛利服務比重，減少對傳統筆電營收的依賴。類似情況亦見於英特爾、達方等業者，皆在轉型期出現獲利成長但毛利縮減的現象。\n🌐 影響\n短期內投資人對毛利率不佳的擔憂導致股價回檔；長期看，若AI服務能快速佔領市場，營收結構將更趨高附加價值，對台灣科技供應鏈與相關人才需求有正向拉動；同時亦提醒同業須加速產品升級與成本控管，以免在PC需求持續低迷下被動承受利潤壓力。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6645988"
         }
       ]
     }
