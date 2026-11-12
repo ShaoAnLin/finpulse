@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-12",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening - CNBC",
+          "feature": "Nvidia 風暴：董事會深夜審議 Jensen Huang 去留\n📰 發生什麼事：Nvidia 董事會於本週三深夜召開緊急會議，討論是否罷免共同創辦人兼執行長 Jensen Huang。此舉源於 Huang 近日承認與兩名女性有婚外情，其中一人被美國情報指稱與中國情報有關，涉嫌協助 Nvidia 晶片流向中國企業。消息一出，股價盤後跌逾 8%。\n🔍 背景與來龍去脈：自 1993 年共同創辦以來，Huang 率領 Nvidia 從圖形卡起家，成功轉型為全球 AI 超算與資料中心核心供應商，市值突破 4 兆美元。公司採單一股權結構，Huang 持股約 3.6%，無雙重表決權，董事會有權自行決定高層人事。近期美國加強對中國高階晶片的出口管制，使得任何與中國情報關聯的疑慮都被放大。此案先前由《華爾街日報》曝出，隨後《紐約時報》補充另一段與公司副總裁 Kimberly Powell 的關係，讓董事會面臨道德與國家安全雙重壓力。\n🌐 影響：\n- 市場層面：股價大幅回檔，科技基金與 AI 相關 ETF 受波及，投資人重新評估 AI 產業的領導者穩定性。\n- 供應鏈層面：若 Huang 離任，短期內可能出現策略不確定，對台灣的晶圓代工（如台積電、聯電）與 AI 晶片供應計畫造成影響，尤其在與 Nvidia 合作的高階 GPU 代工上。\n- 地緣政治層面：此事加劇美中科技競爭的敏感度，可能促使美國進一步審查與中國相關的半導體交易，台灣企業在美國市場的合規成本亦可能上升。\n- 人才與領導層：董事會尚未公布繼任者，市場關注內部是否有接班人計畫，或外部尋找新 CEO，這將影響 Nvidia 未來在 AI 版圖的布局與研發節奏。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaFFJVUxuMG1NR25FakxCNU9rUnpXUEl0UVE4ZTJUS0VUN2lEWjlsQVVJRTdMUWt1Vkd1RUsxcjZKa3JCaWFWN0JYbXk0TWpUM3M4SVQ1OGlJaTNQYWJsRnZVczF4NVpyeUZIQTVUQnRYVS0xX2RSQWhGWGs?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "黃仁勳恐遭撤換誰受惠？超微、博通搶市占 台灣3檔個股跟著漲",
+          "feature": "【焦點】Nvidia 可能撤換黃仁勳，AI晶片戰局再掀波瀾\n📰 發生什麼事　Nvidia董事會傳出將撤換創辦人兼執行長黃仁勳，盤後股價跌9%。同時市場聚焦接班人名單，AMD（超微）與博通股價上揚，Alphabet 受惠 AI 加速器需求；台股方面，聯發科、世芯-KY、創意等三檔個股跟著上漲，台積電與三星變動不大。\n🔍 背景與來龍去脈　黃仁勳自1993年創立 Nvidia 以來，帶領公司從圖形處理器轉型為 AI 超級晶片供應商，市值一度突破1兆美元。但近年董事會對公司治理、股東回報與過度依賴創始人決策產生分歧；再加上AMD 在資料中心 GPU 與自研 AI 加速器取得突破，博通也在高效能網路晶片布局，市場預期若領導層變動，AI 供應鏈可能重新洗牌。另一方面，Greenpeace 近期警告，TSMC、Micron、UMC 等 AI 晶圓大廠至2030將消耗台灣 15% 電力，顯示產業擴張的資源壓力，投資者更關注供應鏈穩定性。\n🌐 影響　短期內 Nvidia 股價受挫，資金流向 AMD、博通與 Google 的 AI 加速器與 TPU 產品；台灣相關半導體股因客戶採購多元化而受惠，提升投資者對本土晶片產業的信心。但若黃仁勳真的離任，可能觸發供應鏈重新協商，影響 AI 訓練與推論成本，同時加劇台灣電力與水資源的供應緊張，促使政府與企業加速能源、節能布局。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6660217"
+        }
+      ]
+    },
+    {
       "date": "2026-11-11",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "AI晶片阻塞：超六十萬枚NVIDIA H200滯港待批\n📰 發生什麼事（路透）約60萬顆NVIDIA最新AI GPU H200因北京未核准大批進口，仍停留香港倉庫，部分小批量已透過中間商入境，但大規模出貨仍被擱置。價格因供不應求，單台伺服器已飆升至近千萬台幣。\n🔍 背景與來龍去脈（美中科技摩擦）美國於2023年起將先進AI晶片列入出口管制，NVIDIA一度受限。2024年底在中美高層會談後獲得有限授權，允許少量H200進入中國，形成「准許‑限制」的灰色地帶。中國AI需求激增，尤其大平台欲建置大規模模型，導致企業提前下單；北京則擔心過度依賴美國技術，故延遲批核，形成供需失衡。\n🌐 影響（產業、價格、政策）本次滯港凸顯AI供應鏈風險，促使本土晶片廠如華為海思、寒武紀加速自研；同時伺服器價格三倍跳漲，企業升級成本上升，可能延緩AI應用落地。對台灣而言，相關代工與測試服務仍可受惠於跨境需求，但若美中限制持續，台灣半導體供應鏈也可能被迫調整出口策略，並加速多元化市場布局。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9861430"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-05",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Why we're kicking CVS out of our Bullpen watchlist. Plus, Intel's CEO makes a stand - CNBC",
-          "feature": "（標題行）CVS分拆新局，Bullpen 移除觀察名單，Intel CEO 另有表態\n\n📰 發生什麼事：CNBC 投資俱樂部把 CVS Health 從 Bullpen 觀察名單剔除，同時報導 Intel CEO 在本週會議上呼籲對 AI 數據中心投資保持審慎。CVS 宣佈將於2028年前拆分為藥局與保險兩家公司。\n\n🔍 背景與來龍去脈：CVS 於2007年起併購 Caremark、2018 年收購 Aetna，形成超過千億美元的醫療帝國。近兩年零售藥局營收持續改善、Aetna 獲利回升，使兩大業務的估值差異顯著，董事會認為拆分能讓市場更清晰評價。Intel 方面，隨著美國中期選舉後能源價格下跌與政策不確定，AI 數據中心建設在德州、俄亥俄面臨政治阻力，CEO 薩蒂亞·納德拉因此警示資本支出過熱。\n\n🌐 影響：CVS 拆分預計提升零售藥局與保險子公司市值，對台灣投資者意味可分別布局醫療零售或健康保險；同時相關供應鏈（藥品批發、醫療器材）或受惠。Intel 的警訊提醒台灣半導體與電力設備廠商在 AI 相關訂單上可能面臨需求波動，投資人需關注政策與能源成本變化。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeXZPSXhVd3c3enNDZXlBYXZwcGlkTkEzM2EwVW40bWM0SlhsdkNqLWdzVWVaQzBnaC12WGJ2MmctMGo2cGdBWEIzRGpwZlJJbXhBWGNZM3lXRGYyQzJNVUxwY0dGZ0pFWnhkNnlCTlhBUW14N0VDZTZLY01jZHltNGJCOXFzUFlWZTM0ZnN3aFlXM18xRmdRSjhpWmMzUEEtazZOUmZ3aEpkazctUXlUaTNJMmZDbUk0c3dPMU1KM3lSZ1REcndLVWFB?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "台股重挫逾千點後收斂 暫守42000點 台積電抗跌撐盤 - Yahoo新聞",
-          "feature": "台股重挫千點　AI政策憂慮衝擊半導體\n📰 發生什麼事\n台股於11月5日開盤即大幅下滑，指數一度跌破42,000點，單日跌幅逾千點。科技指標費城半導體指數下跌超3%，拖累台積電等權值股；台積電在低位止跌並短暫支撐盤面，使指數最終收於約42,000點。\n🔍 背景與來龍去脈\n美國中期選舉民主黨大勝，市場擔憂其加強AI與資料中心監管、要求業者分擔基礎建設成本，可能延遲AI伺服器與雲端投資。美股科技股同步走弱，費半指數跌360點，形成跨市場資金外流。台股本就高度依賴半導體產業，此波賣壓自然波及本土電子權值股；同時大盤跌破半年線，技術面顯示跌勢進入第二階段，投資人情緒更趨保守。\n🌐 影響\n短期內半導體股持續承壓，投資人或轉向防禦性金融、傳產與航運股；金融ETF如元大MSCI金融（0055）逆勢上揚。若AI相關資本支出真的放緩，晶圓代工與IC設計的獲利成長預期將被調低，影響公司營收與研發排程。對一般民眾而言，股市波動或影響退休金、投資理財的預期收益，亦提醒投資者須檢視風險承受度與資產配置。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMizAJBVV95cUxNdXpjckwzNVFrRF9fYTctUzUwVGZncVJrenBRM2k1QktFc0MzRHVjb1hpcHllVXI1WGppVzEwOVJWR3NtOUgzaTVXZHNxLUhNeEd4N3Y4RDJOdWw5cExfMElnRFhWYW15SGRQLWFHZmw2NjVLdGpYbkJJUlF3ZHRCQzFEU2xYRGlXV2xvQU1UWFJPTWFESTVJbUR0eUNicHI2T244b2dwbUc1b21HVU9rZ3dqMllxYTNnQy1xaEtmWXVJVHV5TFFialJfRnI3dTZabmdMZGdfUy12aFJEMHpGM1ByWDVPLXdYZmVKV3VsUXYyZVExT015aTNZbEVmV3BkNmRlNFBpRzRUdFZESDZ1WGllQ25TR2N2LTRfdWl5emVlOEI5X2ExUWRsaFhxaDNwbnd6S3RGR0hwcjFDOVE5X3RGZVJjOFV3Nmp2SQ?oc=5"
         }
       ]
     }
