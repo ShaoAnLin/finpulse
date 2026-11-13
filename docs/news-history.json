@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-13",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected - CNBC",
+          "feature": "美聯儲若再加碼升息，股市恐陷入沉睡的警鐘\n📰 發生什麼事：美國2年期與10年期公債殖利率連日躍升，2年突破4.8%，10年逾5.1%。市場解讀為10月通膨高於預期，迫使美聯儲在12月會議上可能再加碼0.25%，甚至預示2027年前再升兩次以上。投資人尚未將此風險 fully 價入股價，形成「股市忽視債市」的短暫假象。\n🔍 背景與來龍去脈：去年以來美聯儲已把基準利率從0%區間拉至3.75%~4.00%。10月CPI再度超出市場預期，令市場對「加息路徑」產生焦慮。CME FedWatch 期貨已把三次0.25%升息列入價格，顯示市場對利率上行的預期正在累積。債券殖利率上揚，直接抬高企業融資成本，削弱未來盈餘預期，尤其是依賴低成本資金的科技與AI股。\n🌐 影響：1）美股波動升高，資金可能回流安全資產，台灣大型科技股（如台積電）因美元資金成本上升面臨估值壓力；2）美國房貸利率上破5%，可能抑制美國住宅需求，間接減少台灣相關出口（如半導體設備）的需求；3）台灣投資人持有的美債基金淨值受損，理財產品收益下降；4）若美聯儲持續加碼，全球風險資產普遍承壓，台幣匯率可能因資金流向美元而走弱，進一步影響進口成本與通膨。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2hPa2p0XzM1eWV4aE1GT0x2cnJjT1ZpYnhEWVBBbC1TQ0doS0JpUHhKVk9mRncxS29sV0tMMXJxUjgwb3J3NUc1c2hYUmpQbm1IdzhLc05IVDdpZUhOS1RBYzRHR2FiMmZETjlFN0w3M0Q1TkNyMkZCenFja2hQa0dVTzhEQUpLVFdQcHF1T21LczUyVjFZV1lnRzdnOUVmSThsS3BGQlJoSlJIX0VEQzQtVVZtaDRYcGc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "黃仁勳下台！法人看好ASIC迎商機 聯發科、創意、世芯-KY強勢漲停",
+          "feature": "「黃仁勳下台」掀AI晶片訂單重組 ASIC股暴衝\n📰 發生什麼事：NVIDIA 宣布執行長黃仁勳辭職，全球科技股震盪，同時雲端服務供應商加速自研晶片，台股ASIC相關公司聯發科、創意、世芯‑KY於開盤即漲停。\n🔍 背景與來龍去脈：黃仁勳自 1993 年創立 NVIDIA，近年以 GPU 主導 AI 訓練市場，然而近期業績放緩、競爭加劇及內部治理爭議導致董事會換將。AI 熱潮使 CSP 如 AWS、Google、Microsoft 逐步自行開發 TPU、ASIC 以降低對 NVIDIA GPU 的依賴，預計訂單會從 Nvidia 轉向自研或其他供應商，台灣的 ASIC 設計與代工能直接受惠。\n🌐 影響：短期內 ASIC 股因法人買盤與預期訂單移轉出現大幅上漲，提升台股科技板塊動能；長期看，若雲端業者成功自研晶片，將改變 AI 硬體供應鏈格局，台灣相關晶片設計、IP 以及代工廠有機會成為新客源，同時對投資人、產業鏈上下游的資本配置與人才需求產生波動。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6661491"
+        }
+      ]
+    },
+    {
       "date": "2026-11-12",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "台股跌破四萬　政府緊急出手穩市\n📰 發生什麼事：2026年11月6日台股加權指數收於39,701點，單日跌1,873點、盤中最大跌3,738點，跌破四萬關卡。政府高層立即召開應變會議，行政院長報告總統賴清德，國安基金啟動第十次護盤，金管會宣佈自9日實施五項穩市措施。\n🔍 背景與來龍去脈：美國期中選舉後政局不確定，AI與半導體相關政策收緊，致美股費城半導體指數狂跌逾12%，台股與之高度同步。自10月高點49,968點以來，指數已累計下滑超過12,000點，外資持續賣超，市場恐慌升溫。政府因此啟動國安基金護盤、限制融券、鼓勵庫藏股等多管齊下的緊急措施。\n🌐 影響：短期內股市波動仍大，外資賣壓與融資追繳加劇投資人資金壓力，散戶恐慌性拋售或影響儲蓄與貸款需求；但護盤與金管會措施有望減緩跌勢，提升市場信心，為後續政策調整爭取緩衝空間。長期看，若國際政經環境改善，台股有機會回穩；若持續不確定，投資人仍需審慎配置。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPNVlaQ1JZdEN4RmlXUFRUWUt2SjJSLWYtZFdoajdKRlBZY0thS2YzRVdKX2RoRWVaMktIaV80ZEdjVmlVNWRVNUgwU1BXaEtlSWs3R2F6QU91ZEQzWTNJcGlwbmhJSkplRzBOd1dHajlDQloxNnlDNlJnaENJTDktR1VyMG94V05CajY3QXc1TzRhaGFJaXhrRXZ6Q2tzVkdLTmhxUUhISi1KNDFrdXp3dmlLT1d4bmtXVjJxMkM0ZnIzQ2Q5MzFCMUk0eTkzcW5EaDNyN0RYM1p4Q1hHbzhXek1ISjU4Y2E1LTA0WDJiZmFCNDY4LURQNDhjX2w3N19WRldTMXgyalFwZkhjUWlHTG93bkR5VjF5ZGxtMHlpekNBZUp0X1c1NnNQcnBTa3JoWXhkdDNuOWZwanQ2SzdvUkEwTFlVdGxPbXRPNVczU0l1WVFwSTlnQW9wdGFsYmlFOVl3?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-06",
-      "featured": [
-        {
-          "category": "international",
-          "title": "The October jobs report is out Friday. Here's everything to expect - CNBC",
-          "feature": "美國十月就業報告顯示新增職缺仍偏低，失業率穩守低點\n📰 發生什麼事：美國勞工部將於本週五上午8:30公布10月非農就業人數，預估僅增加5.9萬人，失業率持在4.2%。雖然雇主未大量裁員，但招聘意願受勞動力供給縮減與長期失業問題拖累。\n🔍 背景與來龍去脈：過去一年美國人口結構老化、出生率持續低於替代水平，加上移民減少，使可參與勞動市場的年齡層人數縮減。勞動力參與率停滯，使經濟不需要大幅新增職缺即可維持低失業率；同時長期失業者比例上升，薪資增幅成為衡量健康度的關鍵。\n🌐 影響：就業數據偏弱可能延緩聯準會加息腳步，提升債券與黃金需求；對台灣而言，美元走弱或利差縮小將支撐出口企業股價，同時美國消費力減弱或影響科技零組件需求。民眾則可能感受到美元存款利率下降與房貸利率調整的間接影響。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE9pQXRhREViUFk0LWE3ZmpVUjlZZ0haUFhSLVBaZHlBZWtiWlpVdWtBUHZfUG00VzUzM3Uza1ByNGZtSnZhaUJtNU9zYVpSdUNlQ1YyaFRaZzUxc2Z4Qnk3RDRKd0Nkc1ktZE55TzdyTlhPQdIBd0FVX3lxTE1iak0wTE1QbnRtaUo1X1cxSktEWXVyRmN5VDVjQ3gycmluYURrSHdGcXZzQkk2aFZJUW14dDlOVFp5MUIxOTVmNVdGTEdyVVJuY1F6U0VmSzM4NzZHaFlzd3RtTV9uZ21zTXo4RUJCeXBQTUpUX3dn?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "輝達60萬個H200滯港等放行 北京遲未點頭 大陸伺服器開價翻三倍",
-          "feature": "AI晶片阻塞：超六十萬枚NVIDIA H200滯港待批\n📰 發生什麼事（路透）約60萬顆NVIDIA最新AI GPU H200因北京未核准大批進口，仍停留香港倉庫，部分小批量已透過中間商入境，但大規模出貨仍被擱置。價格因供不應求，單台伺服器已飆升至近千萬台幣。\n🔍 背景與來龍去脈（美中科技摩擦）美國於2023年起將先進AI晶片列入出口管制，NVIDIA一度受限。2024年底在中美高層會談後獲得有限授權，允許少量H200進入中國，形成「准許‑限制」的灰色地帶。中國AI需求激增，尤其大平台欲建置大規模模型，導致企業提前下單；北京則擔心過度依賴美國技術，故延遲批核，形成供需失衡。\n🌐 影響（產業、價格、政策）本次滯港凸顯AI供應鏈風險，促使本土晶片廠如華為海思、寒武紀加速自研；同時伺服器價格三倍跳漲，企業升級成本上升，可能延緩AI應用落地。對台灣而言，相關代工與測試服務仍可受惠於跨境需求，但若美中限制持續，台灣半導體供應鏈也可能被迫調整出口策略，並加速多元化市場布局。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9861430"
         }
       ]
     }

@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-12",
+  "date": "2026-11-13",
   "featured": [
     {
       "category": "international",
-      "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening - CNBC",
-      "feature": "Nvidia 風暴：董事會深夜審議 Jensen Huang 去留\n📰 發生什麼事：Nvidia 董事會於本週三深夜召開緊急會議，討論是否罷免共同創辦人兼執行長 Jensen Huang。此舉源於 Huang 近日承認與兩名女性有婚外情，其中一人被美國情報指稱與中國情報有關，涉嫌協助 Nvidia 晶片流向中國企業。消息一出，股價盤後跌逾 8%。\n🔍 背景與來龍去脈：自 1993 年共同創辦以來，Huang 率領 Nvidia 從圖形卡起家，成功轉型為全球 AI 超算與資料中心核心供應商，市值突破 4 兆美元。公司採單一股權結構，Huang 持股約 3.6%，無雙重表決權，董事會有權自行決定高層人事。近期美國加強對中國高階晶片的出口管制，使得任何與中國情報關聯的疑慮都被放大。此案先前由《華爾街日報》曝出，隨後《紐約時報》補充另一段與公司副總裁 Kimberly Powell 的關係，讓董事會面臨道德與國家安全雙重壓力。\n🌐 影響：\n- 市場層面：股價大幅回檔，科技基金與 AI 相關 ETF 受波及，投資人重新評估 AI 產業的領導者穩定性。\n- 供應鏈層面：若 Huang 離任，短期內可能出現策略不確定，對台灣的晶圓代工（如台積電、聯電）與 AI 晶片供應計畫造成影響，尤其在與 Nvidia 合作的高階 GPU 代工上。\n- 地緣政治層面：此事加劇美中科技競爭的敏感度，可能促使美國進一步審查與中國相關的半導體交易，台灣企業在美國市場的合規成本亦可能上升。\n- 人才與領導層：董事會尚未公布繼任者，市場關注內部是否有接班人計畫，或外部尋找新 CEO，這將影響 Nvidia 未來在 AI 版圖的布局與研發節奏。",
+      "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected - CNBC",
+      "feature": "美聯儲若再加碼升息，股市恐陷入沉睡的警鐘\n📰 發生什麼事：美國2年期與10年期公債殖利率連日躍升，2年突破4.8%，10年逾5.1%。市場解讀為10月通膨高於預期，迫使美聯儲在12月會議上可能再加碼0.25%，甚至預示2027年前再升兩次以上。投資人尚未將此風險 fully 價入股價，形成「股市忽視債市」的短暫假象。\n🔍 背景與來龍去脈：去年以來美聯儲已把基準利率從0%區間拉至3.75%~4.00%。10月CPI再度超出市場預期，令市場對「加息路徑」產生焦慮。CME FedWatch 期貨已把三次0.25%升息列入價格，顯示市場對利率上行的預期正在累積。債券殖利率上揚，直接抬高企業融資成本，削弱未來盈餘預期，尤其是依賴低成本資金的科技與AI股。\n🌐 影響：1）美股波動升高，資金可能回流安全資產，台灣大型科技股（如台積電）因美元資金成本上升面臨估值壓力；2）美國房貸利率上破5%，可能抑制美國住宅需求，間接減少台灣相關出口（如半導體設備）的需求；3）台灣投資人持有的美債基金淨值受損，理財產品收益下降；4）若美聯儲持續加碼，全球風險資產普遍承壓，台幣匯率可能因資金流向美元而走弱，進一步影響進口成本與通膨。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaFFJVUxuMG1NR25FakxCNU9rUnpXUEl0UVE4ZTJUS0VUN2lEWjlsQVVJRTdMUWt1Vkd1RUsxcjZKa3JCaWFWN0JYbXk0TWpUM3M4SVQ1OGlJaTNQYWJsRnZVczF4NVpyeUZIQTVUQnRYVS0xX2RSQWhGWGs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2hPa2p0XzM1eWV4aE1GT0x2cnJjT1ZpYnhEWVBBbC1TQ0doS0JpUHhKVk9mRncxS29sV0tMMXJxUjgwb3J3NUc1c2hYUmpQbm1IdzhLc05IVDdpZUhOS1RBYzRHR2FiMmZETjlFN0w3M0Q1TkNyMkZCenFja2hQa0dVTzhEQUpLVFdQcHF1T21LczUyVjFZV1lnRzdnOUVmSThsS3BGQlJoSlJIX0VEQzQtVVZtaDRYcGc?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "黃仁勳恐遭撤換誰受惠？超微、博通搶市占 台灣3檔個股跟著漲",
-      "feature": "【焦點】Nvidia 可能撤換黃仁勳，AI晶片戰局再掀波瀾\n📰 發生什麼事　Nvidia董事會傳出將撤換創辦人兼執行長黃仁勳，盤後股價跌9%。同時市場聚焦接班人名單，AMD（超微）與博通股價上揚，Alphabet 受惠 AI 加速器需求；台股方面，聯發科、世芯-KY、創意等三檔個股跟著上漲，台積電與三星變動不大。\n🔍 背景與來龍去脈　黃仁勳自1993年創立 Nvidia 以來，帶領公司從圖形處理器轉型為 AI 超級晶片供應商，市值一度突破1兆美元。但近年董事會對公司治理、股東回報與過度依賴創始人決策產生分歧；再加上AMD 在資料中心 GPU 與自研 AI 加速器取得突破，博通也在高效能網路晶片布局，市場預期若領導層變動，AI 供應鏈可能重新洗牌。另一方面，Greenpeace 近期警告，TSMC、Micron、UMC 等 AI 晶圓大廠至2030將消耗台灣 15% 電力，顯示產業擴張的資源壓力，投資者更關注供應鏈穩定性。\n🌐 影響　短期內 Nvidia 股價受挫，資金流向 AMD、博通與 Google 的 AI 加速器與 TPU 產品；台灣相關半導體股因客戶採購多元化而受惠，提升投資者對本土晶片產業的信心。但若黃仁勳真的離任，可能觸發供應鏈重新協商，影響 AI 訓練與推論成本，同時加劇台灣電力與水資源的供應緊張，促使政府與企業加速能源、節能布局。",
+      "title": "黃仁勳下台！法人看好ASIC迎商機 聯發科、創意、世芯-KY強勢漲停",
+      "feature": "「黃仁勳下台」掀AI晶片訂單重組 ASIC股暴衝\n📰 發生什麼事：NVIDIA 宣布執行長黃仁勳辭職，全球科技股震盪，同時雲端服務供應商加速自研晶片，台股ASIC相關公司聯發科、創意、世芯‑KY於開盤即漲停。\n🔍 背景與來龍去脈：黃仁勳自 1993 年創立 NVIDIA，近年以 GPU 主導 AI 訓練市場，然而近期業績放緩、競爭加劇及內部治理爭議導致董事會換將。AI 熱潮使 CSP 如 AWS、Google、Microsoft 逐步自行開發 TPU、ASIC 以降低對 NVIDIA GPU 的依賴，預計訂單會從 Nvidia 轉向自研或其他供應商，台灣的 ASIC 設計與代工能直接受惠。\n🌐 影響：短期內 ASIC 股因法人買盤與預期訂單移轉出現大幅上漲，提升台股科技板塊動能；長期看，若雲端業者成功自研晶片，將改變 AI 硬體供應鏈格局，台灣相關晶片設計、IP 以及代工廠有機會成為新客源，同時對投資人、產業鏈上下游的資本配置與人才需求產生波動。",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6660217"
+      "link": "https://news.cnyes.com/news/id/6661491"
     }
   ],
   "candidates": [
     {
-      "title": "台股越震「正2」越夯？00631L規模衝破3,000億 今年股民激增35萬人 - Yahoo新聞",
-      "content": "台股越震「正2」越夯？00631L規模衝破3,000億 今年股民激增35萬人 Yahoo新聞",
+      "title": "台股千金股洗牌 創意超車川湖登上股后 - Yahoo新聞",
+      "content": "台股千金股洗牌 創意超車川湖登上股后 Yahoo新聞",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQMkxGYWU5cF9xdVJudmhnUTNHMTZyWGFDNFREWG9kSFNFVXg2Q05mLTRJM083c0NxemFFVDQ0eGh2RG9zZzlLeWxobFpQQzhraHdYRWRWREYtUmZaTmVQclBxWVNPZjQ5TEgtT3V1d2h1THFQOTZuLWR5LWEtNUFkT0dOWUd6a0xFRU1pZjFjZWpYQ1ZBQzViSFFVUEgyQnNPWEhtQ2E2UDdXSlI4VWl6VGJ4cGlhaGJxTC1kbTZVUlFNMkFURkRfZnM1WVc5a0VQZEk5WjQ5OURVeDI4al9mcFlIOGNlOG1DWF9sVUtVN3Q4ZFpVcmk0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOcDlvYVpzYURmS1pxTmlNYTJVblY0STlHdnE2dHNGM19IejRYaFVUeW9iR0EyZ0h0VllLVFZEWEkwa1Q0dEVXWGx0MV81VVhTRm1XNkVKM2VEVy1yNk9PUzVCMHo0SHJFRnBNd3JKWlp5TnlOM3p1LW1UbkxwbmNjWXVUS3BwMzRfUlJjaFJtQWhTSWV0OWg2UUpidUFaY1p3QWpwdmxjVnRHOC1XNFVBdFBhV3FWSmp4d3RBZkFrM3RIREh3Q3dVakF3Qy1xZW0zQ3Nxbk5SUkhLZ2dQOE9ZcVEwVVVBQjlZMDFhaUlhZUFINS14REM0aUdvSUFrd25Dd1FrcnVULThZaXZJMUl4SnNxSmdjdUNDXzdPdjJ3TXE?oc=5"
     },
     {
-      "title": "國泰金控攜手彭博簽署MOU 拓展三大領域合作",
-      "content": "國泰金控管理逾新台幣14兆元資產，具備超過60年的海內外投資經驗，為因應全球金融市場快速變遷及客戶多元需求，今（12）日宣布與國際知名金融資訊與科技提供商彭博（Bloomberg L.P.）深化策略合作。雙方合作將聚焦「銀行國際化」、「資產管理」及「數位轉型」三大戰略主軸，國泰金控總經理李長庚與彭博",
+      "title": "分析｜黃仁勳震撼去職！郭明錤點名Google TPU成大贏家 台股ASIC族群掀漲停潮 - Yahoo股市",
+      "content": "分析｜黃仁勳震撼去職！郭明錤點名Google TPU成大贏家 台股ASIC族群掀漲停潮 Yahoo股市",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOQ1FuV3JKV2xvU2JSeVVDc21aSmx6S3hHMl8xOThLRk1pbGk5UWo1WlJDZFVxYnVPSWYtZHBQdVBqRU5leWZ3WFp2UEMtY0lCMW1nV0R3Zl9SY0FrZ3gxOWppUUVKZjNRSnZLOGNjWGExQnE2VjAwSHQ2WGs2ZFduek84bzFEcldpOU9aNTQ2WDdGN18tZmNLX1BlTWp5dTFxc3JFcFBoeVkxZnhQcEh6N1o1RkVIVUI4cHIwQ0ZDaVlQZkxDckdXbHhISDhFaXRCWU1tQ2R0N0kyX09GWjlJYzNmeXp4QnI3S0RtTUFNRWxLSGxfcV9aTFp3RzJQeVU5bHFLeXVNOWRpdG9qc2Z6WjM2YzFFdGhjd3paaXVVVjhMcUl2RzkzNW1vMW5xMW1mbEc2c3UwZWIxTE43N0hCdXhvN2xDUGg4S295SlJna01UMk9kZXE4bUxlUC1kUDZzS2VtN0RKMXByS0QtekV2MnJ5UE1jQmRnalh0ZUJWQ0RsNGVtMkZSVTluVWtMUmFPQ0ZRYVFjQWhVMUlERWtSRVo2NENnZnhUY3c?oc=5"
+    },
+    {
+      "title": "黃仁勳去職利空出盡 台股勁揚逾1200點突破44300點 新台幣震盪翻揚 - Taiwan News",
+      "content": "黃仁勳去職利空出盡 台股勁揚逾1200點突破44300點 新台幣震盪翻揚 Taiwan News",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE80YTZCU0tzbVM0a0JPTTMtMUJrWGVBOU9iMm1XMzUyYVU5eU4wZGJ4QTNHbEZyeENlcHBYQjhxbTZLcVFSOThWeGlrZllsR0h1LXBCUjE4bnc?oc=5"
+    },
+    {
+      "title": "盤中速報 - 驊訊(6237)股價拉至漲停，漲停價28.9元，成交215張",
+      "content": "驊訊(6237-TW)13日11:18上漲2.6元，股價漲停報28.9元，委買2,000張、委賣2,000張，成交215張。主要業務為積體電路設計與製造。驊訊(6237-TW)近5日股價下跌4.36%，櫃買市場加權指數上漲4.44%，短期股價無明顯表現。近5日籌碼 三大法人合計買賣超：+318",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6660230"
+      "link": "https://news.cnyes.com/news/id/6661500"
     },
     {
-      "title": "台股ETF受益人突破2千萬！28檔同步創高　正二、高息、市值人氣旺 - NOWnews今日新聞",
-      "content": "台股ETF受益人突破2千萬！28檔同步創高 正二、高息、市值人氣旺 NOWnews今日新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE41QXAyaWNESm9RaFJVbWFRWVBJTEZZRnJTSGRvb09LeFRJUGNIY3VaNWtwU1lVSl90NE52OHhjRC1vcWVOTk5KM19GV2rSAVJBVV95cUxQOGdEMUlMMFFWSkdQNnBNck9BLUpjVjBvbEE2ZHFsamhrNUxkOS1iLWVsSHJaNVJYMDhLVDdkNm1lUm1nTXV2c2dsVWxmVUF4Mmhn?oc=5"
-    },
-    {
-      "title": "黃仁勳可能離開輝達 馬斯克公開招手：我會聘任他",
-      "content": "特斯拉(TSLA-US) 執行長馬斯克表示，如果輝達(NVDA-US) 董事會撤換長期掌舵的執行長黃仁勳，他願意延攬黃仁勳加入旗下企業。 馬斯克周三 (11 日) 晚間在社群平台 X 上回應財經新聞帳號 ZeroHedge 的貼文。該帳號寫道：「馬斯克，請聘用黃仁勳。」馬斯克則回應：「",
+      "title": "盤中速報 - 美時(1795)股價殺至跌停，跌停價140.5元，成交4,260張",
+      "content": "美時(1795-TW)13日11:17下跌15.5元，股價跌停報140.5元，委買380張、委賣8張，成交4,260張。主要業務為西藥製造、零售。美時(1795-TW)近5日股價下跌7.14%，集中市場加權指數上漲3.65%，短期股價無明顯表現。近5日籌碼 三大法人合計買賣超：-402 張",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6660228"
+      "link": "https://news.cnyes.com/news/id/6661499"
     },
     {
-      "title": "台股越震「正2」越夯？00631L規模衝破3,000億 今年股民激增35萬人 - 聚財網",
-      "content": "台股越震「正2」越夯？00631L規模衝破3,000億 今年股民激增35萬人 聚財網",
+      "title": "思科上調全年營收預測　AI網路設備需求強勁",
+      "content": "網路設備製造商思科（Cisco）今天公布的第1季財報優於華爾街預期，並上調全年營收預測，主要看好企業持續擴建人工智慧（A...",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE8zcEVmSmRLT0tzTHN1OFU4ZmszYV9aOXJlRGw4c3V4d2wwc0IxeUFyUnd0eHd3NzJUVWRZNEdyQVpIR1ZBbmNOeVVEVnQ?oc=5"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9876287"
     },
     {
-      "title": "台股ETF績效前十強出爐！4檔今年賺逾80％ 00891報酬83.8％、下周配1.55元 - udn",
-      "content": "台股ETF績效前十強出爐！4檔今年賺逾80％ 00891報酬83.8％、下周配1.55元 udn",
+      "title": "黃仁勳辭職可學賈伯斯回歸？分析師揭持輝達股3.58%留東山再起之路",
+      "content": "輝達12日宣布，黃仁勳辭去執行長、總裁及董事職務。Seeking Alpha分析師夸斯尼（Dustin Quasney）指出，近期相關報導幾乎都在討論同一個問題：沒有黃仁勳的輝達會變成什麼樣子？他認為這個問題問得對，但多數人思考問題的方向有誤。",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBYRnN4SEI0cnNrQ040UmVnWTFZMHhrczNxS1FYRkU3SDVlUl9tRS11TW1jUDVTckRQUmo2Rk5XMnp0QWNDMzY5a043S1pCTFBWX3NZ0gFYQVVfeXFMTXkxNVdVSEFiZ1c1dkVEN1dQYVdxNnJrTE5taVRYZnY4UVMtZDVWQ3YtVkUzV2RHLVNER3JMazNETGdkMy1IeFhScm1fYURlTkU3cHUtaU01eA?oc=5"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/123398/9876283"
     },
     {
-      "title": "黃仁勳恐遭輝達撤換！WSJ：外遇風波升級白宮政治噩夢 川普AI政策遭兩黨追問",
-      "content": "黃仁勳爆婚外情並涉中國間諜背景，輝達公司治理與國安疑慮升高。 川普與黃仁勳緊密關係成政治包袱，白宮及AI戰略面臨兩黨質疑。 共和黨議員要求說明，盧特尼克對中晶片管制決策也被牽連。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6660103"
-    },
-    {
-      "title": "Thursday's big stock stories: What’s likely to move the market in the next trading session - CNBC",
-      "content": "Thursday's big stock stories: What’s likely to move the market in the next trading session CNBC",
+      "title": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces - CNBC",
+      "content": "Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFUtd00tdVB1LTNOZWxGQmxPemZHemtXeVRPVmpLTDZqekRNT2xXWDVxS3JpdmdwbzZOUXZRQ1JmMVhHX0FNeDVNRmVyczdYamRMaTY2eG13UkViLWJFMUQ5WnBwREJ2ZDRvcUgweUx3cHdxakxIMllCR2pMcHpxLXRybEMxNGJLUGFLSU5mU3hWRnV6TjJwZ01ES1I?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAzWXpTSms2MXc3Rk9jU0txNE1SNXFGLU1fdTZNX0hqdTZlTllwRWNPS0ltTUtRb0FrUTQ3ZUFmUmItekRFZmwwaXl2ZTd3ZXNKQzg2cGRTZUR1QkVRWEQ3VUJqZnhWbGRmbFJvcXljVTFxc3RWVG5F0gF8QVVfeXFMTVlTME84aTl1WXBHX2tHaFhWVmdTVkRpT0FzSl8zaFZMckc4Y3lYcDFWaUZOSnFUOExEQWMyYmF5dGduODRTY2E0YWVDX1J6ajEwLWhkZ3hFNWNtdXUzSHJudnZWNHZaQTRGak9KdFhHYnAtX3R2NVFYOGd2Sw?oc=5"
     },
     {
-      "title": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end - CNBC",
-      "content": "Inside India newsletter: Trump's poll setback fuels hope for U.S.-India trade deal by year end CNBC",
+      "title": "Nscale updates IPO prospectus that shows widening loss - CNBC",
+      "content": "Nscale updates IPO prospectus that shows widening loss CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE80V0syTE1ELXIwZUwybW9ET0h0cktNc1k0Sjc2b2tuUk1QR1hnTzNRNGJDYmVWV0dhWW1kQkV0VmVEd2VBQlRkdXR4YlBacHd3Z2VPeDJQS3lDR3EwSmpCejRGTm1qRGNwTGo5TE1nMk5qbW45azlHSlNB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT0M5bUIxTzMta1lmWFJ2SVllclhNQXBJdHhOaHNfOGsybFhKazFMc1JOZkZ5a1BtRFpoeGp1TXlPRUNKdWh0MTN5ZW9FdXNYS2FhZ1haSGhtV1RTazlSb0xqY1UzcmM3UkJDQTBoSlRQVGVaWHFLY1AtU2xKenNJOXh4TDV4dGFtZGlyUVg0bmNDdHhycGfSAZsBQVVfeXFMTUxJOGVGUnYzTWl4TEhjSVlBWFVjNFpQT1E4RExyMVhLTUc2RWFrNFJtdG9rQ0d5bXdsbktQQzhHNXpaNFFiUFo1dHNDNEVVZVYxN25NazdOcENyUFYwWGtSMGZFMGJJQmFHMHBiMElrZnNvZlZiekNLM2xIeFE1cWdPTWJQLWJUUW1nQW1UM29IRU0yUUlMTzc5UWc?oc=5"
     },
     {
-      "title": "Huang could cause further damage to Nvidia, 'it's hard to recover from that,' says Dan Ives - CNBC",
-      "content": "Huang could cause further damage to Nvidia, 'it's hard to recover from that,' says Dan Ives CNBC",
+      "title": "'Fast Money' traders react to Cerebras shares taking off on earnings - CNBC",
+      "content": "'Fast Money' traders react to Cerebras shares taking off on earnings CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObEJhd0d3dTEydU8yRDg1bDc1OV93RlZuOVpWemlwcVhxTHpTX0tYYnJWelk2aDhhenJtUzRHekpfNU1MbTUtQWFNd0hXcGF3Z2lVSVFOeEJNZV9DUWk1QmVmcDhNRTlEaUxPQ01wRzJ3MURKNmZZS3hFSmhqX3NTSVBIWGphdS1SSU5kdDQxVGxfcXRDdTM5Z3JNeWxfUU0ycmU3WWNXdWlCQjF0WUlOVnh1VVNEUXFaRFVkemVWdlZvZUhNWDZCeg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaG9Mbjh0c1Q5aExKU2h3eExSb0tPRUFqZFF1NUd1YXpVR0NQa1hmUWx4enpDX0piNkFlMjJLU1k3M05zdG81TXFPTTBZTGZ2ekp5U081SlRHNmxPTDhlOEdNZjhWVlBIR0ZtMUhQOEJLUjBRNUpLM0kzd1JlYWJjRWprOHVScjdwbXhpQzlkaFp1aldQRWxjOFJYTUhrdFl3bC1uaFlnRWJhR3U5U0E?oc=5"
     }
   ]
 }
