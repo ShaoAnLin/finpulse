@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-14",
+      "featured": [
+        {
+          "category": "international",
+          "title": "The AI trade faces big tests next week, starting with Nvidia earnings and capped by Anthropic IPO - CNBC",
+          "feature": "AI熱潮遭雙重考驗：Nvidia財報與Anthropic IPO同日登場\n📰 Nvidia本週公布第三季財報，首次在創辦人兼CEO黃仁勳辭職後揭示業績；同時AI新創Anthropic於週四以代號ANT在美交所上市，Goldman Sachs與Morgan Stanley共同保薦。\n🔍 過去兩年AI晶片需求推升Nvidia股價，卻因美國中期選舉後政策不確定、資料中心建設放緩而受壓。黃仁勳突辭加劇信心動搖；Anthropic則繼SpaceX後成為AI領域大型IPO，預計募資約10億美元，為投行帶來約4億美元承銷費，成為市場情緒指標。\n🌐 若Nvidia營收持平或下降，可能觸發AI相關股進一步拋售，波及台灣半導體與雲端供應鏈；Anthropic IPO若表現亮眼，則有望提振資金流向AI新創，正面影響本地AI研發、相關ETF與科技股。投資人亦需關注美聯儲加息與政策風險的交互作用。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOM2JQaHVQaXhNWWk5c3h1V1NLVGliTkJyTTlGYWQ1YzZoWkhjU21HYXM3LVNYRFowamVkc1FKdmJPbDRWeW15cnJ5dlBCM09raGdpUFpzWkU3RUpOOW81SzlHalNUQVRoSkdsdG10cC1INjNfdmZaX2szUmpEQXR4UVRIaHFXaWtJWnFNMWhqOA?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "國泰人壽斥逾92億元布局倉儲、危老案 通過發債350億元",
+          "feature": "國泰人壽斥逾92億布局倉儲與危老 重塑資產結構\n📰 發生什麼事\n國泰金控代子公司國泰人壽公告，依保險法運用自有資金，與關係企業簽訂兩筆自地委建合約：桃園觀音忠愛段大型物流倉儲工程（投資約68億）與台北中山區榮星段危老重建辦公大樓（投資約25億），總計約93億新台幣。同時董事會通過最高350億的次順位公司債發行計畫，預計一年內視市場條件分次發行。\n🔍 背景與來龍去脈\n近年來台灣物流需求因電商與供應鏈本地化持續升溫，倉儲土地稀缺推高租金，保險公司逐步將資金投入不動產以提升資產收益率。國泰人壽早在2022年即開始探索自地委建模式，藉由自行開發降低外部承租成本，同時符合保險法「自用」規範。危老重建則受政府「危險老舊建築」政策激勵，台北核心商業區的土地升值潛力高，改建為高階辦公大樓有望獲得穩定長租收益。發債350億則是為了補足大型開發所需長期資金，同時維持資本充足率，符合監管要求。\n🌐 影響\n對市場而言，國泰人壽的大手筆不動產投資顯示保險資金正向多元化，可能帶動同業跟進，加速金融資金進入物流與都市更新領域。投資人看見發債上限提升，短期內公司債供給增加，利率走勢或受市場需求影響。對一般民眾，未來物流倉儲設施提升供應，或緩解電商配送成本；台北危老重建完成後，將提供更多優質辦公空間，提升該區商業活力。整體而言，國泰人壽的布局有助於提升資產報酬，同時支撐台灣物流與都市再生的長期需求。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6662454"
+        }
+      ]
+    },
+    {
       "date": "2026-11-13",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "台股跌破4萬點　市值蒸發33兆　全球排名被印度超越\n📰 發生什麼事（把這則新聞說清楚）\n今日收盤，台灣加權指數跌至39,127點，單日下跌1,873點，市值瞬間縮減約33兆新台幣，連續六個交易日跌破4萬關卡，國安基金第10度啟動護盤機制，授權視情況進場。\n🔍 背景與來龍去脈（相關的前因後果、為什麼會發生、和過去哪些事有關）\n自2024年高點13,000點以來，受美聯儲持續升息、全球半導體需求回落及本地經濟成長放緩衝擊，資金大量流出；同時美國科技股大幅回調拖累台灣電子股，外資賣壓加劇。去年台股市值曾位列全球第六，隨著印度股市持續吸納外資、企業市值快速擴張，2026年已超過台灣，排名跌至第七。\n🌐 影響（對市場、對台灣一般人可能造成的多方面影響）\n市值蒸發對散戶與退休基金的資產安全構成衝擊，短期內可能促使央行與金管會加強市場穩定措施；企業融資成本上升，出口導向產業面臨資金壓力。全球投資者亦重新評估新興市場風險，印度的崛起可能吸走部分資金，台灣需加強創新與高附加價值產業以維持競爭力。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA0eGMyMnlKbXMwdVVhbnE0TU1QQm9LUEZSa0tFb3k4T3o2aDk1LTd3OS1wRUlpUzZSelNnRUp3ZGJHRFl4c2hZdDVOWDRSaDkxMHc?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-07",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Americans are on a 'treadmill of high inflation' and more rate hikes are likely, Fed's Daly says - CNBC",
-          "feature": "（標題）美聯儲戴利警示：高通膨如跑步機，未來或再升息\n📰 美國勞工部10月新增165,000個工作、失業率4.1%，平均時薪年增3.1%。舊金山聯儲主席瑪麗·戴利在接受CNBC採訪時指出，通膨已高企六年，CPI 9月年增3.7%，實質薪資仍下降，因而「仍在高通膨跑步機上」。她認為聯準會可能還需要進一步緊縮政策，雖然升息時程與幅度仍未確定。\n🔍 背景：自2022年起美國因供應鏈瓶頸與能源價格飆升，通膨連續多年高於2%目標。聯準會自2023年起多次加息，至2024年9月將基準利率提升至3.75%‑4%。然而勞動市場仍然堅韌，失業率接近歷史低點，使得決策者在控制通膨與維持就業之間取得空間。戴利的表態延續了前任官員的立場，表示若通膨持續黏性，將不得不再加息。\n🌐 影響：若美聯儲再度升息，美元走強可能抑制新興市場資金流入，台灣的出口競爭力受壓，且本息成本上升將傳導至房貸與企業融資。另一方面，持續升息有助抑制物價，對台灣消費者的生活成本形成正向支撐。投資人需留意美國利率走向，調整資產配置與避險策略。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE83d09fT01uTmdIZ09Wb0pDYWg4VU5rRTF3MWstQ25hU2dDM011N3k3cVBzRFFOeGtuTjVSMHJVcy1zb25qY0Q4NERLSUIxN3JUN2tUbEZoZ2FLbVBDajRHUFktYVEtOTZ2cWxlX21NbF8xd1JxN25GNkNn0gF_QVVfeXFMUFM0YzVQazV4YXplRlQzdkpaM3ZtTGNVdlU3OG83N1o1ZmhtVFVGaEdvOC1WckhzNEQwNXdLb0hBQWptVjJuOVdNV2hrM0lCbmQzWk1veVdQTnJjbEZJRXJuZXByelRRWHJoakE1UktiTV90Zl90R1M1OHBBTXYxZw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "台股跌回39K市場哀鴻遍野 賴清德盯盤、金管會射救市5箭 - Yahoo新聞",
-          "feature": "台股跌破四萬　政府緊急出手穩市\n📰 發生什麼事：2026年11月6日台股加權指數收於39,701點，單日跌1,873點、盤中最大跌3,738點，跌破四萬關卡。政府高層立即召開應變會議，行政院長報告總統賴清德，國安基金啟動第十次護盤，金管會宣佈自9日實施五項穩市措施。\n🔍 背景與來龍去脈：美國期中選舉後政局不確定，AI與半導體相關政策收緊，致美股費城半導體指數狂跌逾12%，台股與之高度同步。自10月高點49,968點以來，指數已累計下滑超過12,000點，外資持續賣超，市場恐慌升溫。政府因此啟動國安基金護盤、限制融券、鼓勵庫藏股等多管齊下的緊急措施。\n🌐 影響：短期內股市波動仍大，外資賣壓與融資追繳加劇投資人資金壓力，散戶恐慌性拋售或影響儲蓄與貸款需求；但護盤與金管會措施有望減緩跌勢，提升市場信心，為後續政策調整爭取緩衝空間。長期看，若國際政經環境改善，台股有機會回穩；若持續不確定，投資人仍需審慎配置。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMi4wJBVV95cUxPNVlaQ1JZdEN4RmlXUFRUWUt2SjJSLWYtZFdoajdKRlBZY0thS2YzRVdKX2RoRWVaMktIaV80ZEdjVmlVNWRVNUgwU1BXaEtlSWs3R2F6QU91ZEQzWTNJcGlwbmhJSkplRzBOd1dHajlDQloxNnlDNlJnaENJTDktR1VyMG94V05CajY3QXc1TzRhaGFJaXhrRXZ6Q2tzVkdLTmhxUUhISi1KNDFrdXp3dmlLT1d4bmtXVjJxMkM0ZnIzQ2Q5MzFCMUk0eTkzcW5EaDNyN0RYM1p4Q1hHbzhXek1ISjU4Y2E1LTA0WDJiZmFCNDY4LURQNDhjX2w3N19WRldTMXgyalFwZkhjUWlHTG93bkR5VjF5ZGxtMHlpekNBZUp0X1c1NnNQcnBTa3JoWXhkdDNuOWZwanQ2SzdvUkEwTFlVdGxPbXRPNVczU0l1WVFwSTlnQW9wdGFsYmlFOVl3?oc=5"
         }
       ]
     }
