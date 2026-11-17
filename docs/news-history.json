@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-17",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means - CNBC",
+          "feature": "AI 風暴逼近，美聯儲主席Warsh聚焦未來貨幣政策\n📰 發生什麼事\n美聯儲新任主席Kevin Warsh在舊金山召開AI工作小組會議，公開表示人工智慧正成為美國經濟的「關鍵轉折點」。他詢問專家AI對就業、通膨與利率的可能衝擊，並暗示年底可能因AI熱潮而調整利率政策。\n🔍 背景與來龍去脈\nAI投資自2024年起激增，數據中心與大型模型建置耗資千億，美國政界與企業紛紛把AI描繪成增長引擎。然而2026年11月的中期選舉中，多州通過限制建設數據中心的法案，顯示民眾對隱私與能源成本的疑慮。Warsh去年成立五個專門小組，今次是唯一公開論壇，邀請包括前商務部長Raimondo等不同政黨聲音，檢視AI可能造成的大規模白領失業與同時提升生產力的雙刃劍。\n🌐 影響\n若AI推升企業投資與產出，短期內或加劇通膨，迫使聯儲在12月提高基準利率；相反，若AI導致大規模裁員，失業率上升則可能壓低利率。台灣的半導體與AI晶圓需求亦受美國AI熱潮波動影響，投資者應關注美金利率走向與美國政策對科技供應鏈的連鎖反應。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFNqUm9CTHJXWWFqem0xbVVJUXA0UjQ4MmprNk1YbWdKNl80dGR5ejdlV01lem03SkRQdi1YRVdPcmdld3FVSnl4VU1EaUNxOHFWQTZIY0ZNLWszR3E3cFpqMmVldk9KdnlMd09RVWZQWWRqZm56Y3luVk5CTTE2VDhFald6YWRHUkdzWVEyOUd4RTZRMnRv0gGcAUFVX3lxTFBzZE9SVGEzeVVBNTBWWjM4SmVtVFk0N1Z3R0hvLUxEcDJKTVF4OGFrVm1CNTJCSGlVdXNwMllWbzNqTWpSTEZMXzIxUUctMVJvWUVINXVjQWkyemtCY2JKZ1NJeGdXVThvc2QzNy10Zy1xX0o1SllaLTExM19ubzVKVC01eDJqSW1aWmZWQS1oRF9SQUNDMmNUeXJJaQ?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "黃仁勳辭職掀輝達內部反彈！傳1公司高層警告董事會：人才恐出走",
+          "feature": "黃仁勳突辭執行長　輝達內部掀回任與人才流失爭議\n📰 12日，輝達創辦人兼CEO黃仁勳因捲入婚外情與疑似中國情報人員交往爭議，正式辭去執行長、總裁及董事職務。董事會由財務長Colette Kress暫代，未立即討論復任。資深開發技術總監卡里爾致函約60名直屬主管及10名董事，警告若不讓黃回任，核心人才恐大規模離職。\n🔍 黃仁勳自2000年創立輝達以來，將GPU從遊戲推向AI運算，使公司市值突破5兆美元，且以扁平化、與員工緊密互動聞名。近期個人醜聞及與中國資料中心高層交往被曝，引發美國政局關注。矽谷多位科技領袖（如馬斯克、Kalanick）及逾18萬人簽署公開信要求復職，顯示其人脈與領導力是公司關鍵資產。\n🌐 若核心研發團隊跟隨黃離開，輝達在AI晶片領先地位可能受衝擊，股價波動將波及全球科技ETF，亦影響台灣半導體供應鏈（如台積電）的需求。人才外流或讓OpenAI等競爭者加速布局，提升台灣AI投資與就業機會，同時提醒投資人關注公司治理風險。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9883779"
+        }
+      ]
+    },
+    {
       "date": "2026-11-16",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "「國安基金第十次護盤：何時退場仍未可知」\n📰 發生什麼事：11/2-11/6台股跌約5500點，外資大幅賣超、科技股重挫，財政部於11/6啟動國安基金第十次進場護盤。基金依《管理條例》第8條臨時會決議動用資金，目的係穩定市場，退場時間未公開，將由幕僚持續觀察。\n🔍 背景與來龍去脈：國安基金成立2000年，法定上限5千億，其中2千億可借貸，歷屆護盤多在大盤跌破2萬點或市場失序時啟動。近期外資連續賣超、美元升值與美股半導體指數暴跌，加劇資金外流；同時國內通膨與選舉不確定性使投資人信心崩盤，委員會認為已構成「資本市場失序」而緊急開會。過去六次護盤均由委員會決議，退場通常在市場回穩後自行撤退。\n🌐 影響：短期內基金買進提升成交量，可能緩解跌勢，提振投資人情緒；但若資金規模不足或退場不明，仍可能留下市場觀望。對台幣匯率而言，股市穩定有助止住美元兌新台幣的貶值壓力。長期看，基金規模擴增至兆元的立法爭議將影響政府救市彈性，也讓投資人關注未來護盤的可持續性。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6658206"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-10",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China exports, imports soar past expectations in October — surplus narrows sharply - CNBC",
-          "feature": "十月中國貿易激增，出口創新高但盈餘大幅縮小\n📰 海關資料顯示，10 月中國出口較去年同期跳升 35.2%，遠高於路透 33.5% 的預估；同時進口更猛，年增 41.6%，致月盈餘由 9 月的 1335 億美元跌至 1053 億美元。\n🔍 今年以來，中國受惠於 AI、半導體與電動車等高科技產品需求回暖，加上美歐關稅政策前置，企業提前下單形成所謂「前置出貨」；然而隨著美元走強、人民幣升值以及歐盟與中國於 10 月 9 日達成限制混合動力車出口的協議，進口需求與成本同步上升，貿易結構出現逆轉。\n🌐 對市場而言，出口持續強勁提振相關產業股價，但盈餘縮窄加劇外界對中國需求可持續性的疑慮；對台灣而言，半導體與零組件供應鏈仍受惠於中國高科技出口，但進口成本上升可能傳導至本地製造成本，亦提醒投資人關注人民幣匯率與美中貿易政策變化。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOXzk1R09TQzJMMElPWWVSLXhRSkZUVFJWWW85cjV2QjFtMXJRcWVKX2VjSm83XzRNZUE3VFpucUk3SHdPbXd4b0tnMkVVamxsLUEtMTcyejJLUlBSNURlSkR6bjVKUzNENWZmVE1LcHpiakk2RXViWVJDVmR5bDlyX3BpMGJJWW1J?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "股災席捲台日韓 富達警示亞股3大隱憂 曝台灣央行利率續「凍漲」主因",
-          "feature": "AI 股災衝擊台日韓股市，富達警示亞股三大隱憂，央行凍漲背後因素\n📰 發生什麼事　美國2026年中期選舉後，民主黨掌握國會，AI概念股在美股大跌後引發全球賣壓，亞洲股市連續下挫。台灣、韓國與日本指數單日跌幅逾6%，半導體權值股成最大拖累。富達資產管理警告亞太市場面臨「金融環境緊縮、能源價格波動、AI投資回報不確定」三大隱憂；同時透露台灣央行因通膨可控，將維持利率不變，暫不跟隨美聯儲升息。\n🔍 背景與來龍去脈　美國民主黨掌權後，市場預期AI監管將加嚴，資料中心與晶片需求前景受疑，導致投資人大規模平倉。亞洲半導體比重高，使台、日、韓股市對此特別敏感；外資持續抽離，台股本季已賣超逾450億美元。另一方面，台灣通膨率持續低於2%，加上外匯流入減緩，央行行長劉培乾指出「凍漲」是為避免過度緊縮，維持經濟韌性。\n🌐 影響　短期內股市波動加劇，外資持續減碼，台股技術性熊市可能持續至金融環境緩和；企業資金成本上升，半導體與高科技供應鏈投資計畫面臨延期。對一般民眾而言，股價下跌削弱家庭資產感受，保險與退休金投資組合受波及；同時利率維持不變有助於房貸與企業融資成本穩定，減少經濟衝擊。長遠看，若AI政策明朗化、能源與供應鏈穩定，亞太市場仍有回彈空間。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6650280"
         }
       ]
     }
