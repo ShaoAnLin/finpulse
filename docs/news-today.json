@@ -1,91 +1,77 @@
 {
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "featured": [
     {
-      "category": "international",
-      "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means - CNBC",
-      "feature": "AI 風暴逼近，美聯儲主席Warsh聚焦未來貨幣政策\n📰 發生什麼事\n美聯儲新任主席Kevin Warsh在舊金山召開AI工作小組會議，公開表示人工智慧正成為美國經濟的「關鍵轉折點」。他詢問專家AI對就業、通膨與利率的可能衝擊，並暗示年底可能因AI熱潮而調整利率政策。\n🔍 背景與來龍去脈\nAI投資自2024年起激增，數據中心與大型模型建置耗資千億，美國政界與企業紛紛把AI描繪成增長引擎。然而2026年11月的中期選舉中，多州通過限制建設數據中心的法案，顯示民眾對隱私與能源成本的疑慮。Warsh去年成立五個專門小組，今次是唯一公開論壇，邀請包括前商務部長Raimondo等不同政黨聲音，檢視AI可能造成的大規模白領失業與同時提升生產力的雙刃劍。\n🌐 影響\n若AI推升企業投資與產出，短期內或加劇通膨，迫使聯儲在12月提高基準利率；相反，若AI導致大規模裁員，失業率上升則可能壓低利率。台灣的半導體與AI晶圓需求亦受美國AI熱潮波動影響，投資者應關注美金利率走向與美國政策對科技供應鏈的連鎖反應。",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFNqUm9CTHJXWWFqem0xbVVJUXA0UjQ4MmprNk1YbWdKNl80dGR5ejdlV01lem03SkRQdi1YRVdPcmdld3FVSnl4VU1EaUNxOHFWQTZIY0ZNLWszR3E3cFpqMmVldk9KdnlMd09RVWZQWWRqZm56Y3luVk5CTTE2VDhFald6YWRHUkdzWVEyOUd4RTZRMnRv0gGcAUFVX3lxTFBzZE9SVGEzeVVBNTBWWjM4SmVtVFk0N1Z3R0hvLUxEcDJKTVF4OGFrVm1CNTJCSGlVdXNwMllWbzNqTWpSTEZMXzIxUUctMVJvWUVINXVjQWkyemtCY2JKZ1NJeGdXVThvc2QzNy10Zy1xX0o1SllaLTExM19ubzVKVC01eDJqSW1aWmZWQS1oRF9SQUNDMmNUeXJJaQ?oc=5"
-    },
-    {
       "category": "taiwan",
-      "title": "黃仁勳辭職掀輝達內部反彈！傳1公司高層警告董事會：人才恐出走",
-      "feature": "黃仁勳突辭執行長　輝達內部掀回任與人才流失爭議\n📰 12日，輝達創辦人兼CEO黃仁勳因捲入婚外情與疑似中國情報人員交往爭議，正式辭去執行長、總裁及董事職務。董事會由財務長Colette Kress暫代，未立即討論復任。資深開發技術總監卡里爾致函約60名直屬主管及10名董事，警告若不讓黃回任，核心人才恐大規模離職。\n🔍 黃仁勳自2000年創立輝達以來，將GPU從遊戲推向AI運算，使公司市值突破5兆美元，且以扁平化、與員工緊密互動聞名。近期個人醜聞及與中國資料中心高層交往被曝，引發美國政局關注。矽谷多位科技領袖（如馬斯克、Kalanick）及逾18萬人簽署公開信要求復職，顯示其人脈與領導力是公司關鍵資產。\n🌐 若核心研發團隊跟隨黃離開，輝達在AI晶片領先地位可能受衝擊，股價波動將波及全球科技ETF，亦影響台灣半導體供應鏈（如台積電）的需求。人才外流或讓OpenAI等競爭者加速布局，提升台灣AI投資與就業機會，同時提醒投資人關注公司治理風險。",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9883779"
+      "title": "央行12月會升息？三三會林伯豐：恐難以避免 - Yahoo股市",
+      "feature": "央行12月升息在即　林伯豐警示難以避免\n📰 近日三三會理事長林伯豐接受採訪指出，受美元持續走強、長期美債殖利率高企影響，央行若要維持物價穩定，12 月升息的可能性大增，恐難以避免。\n🔍 自2022 年起央行已連續六次小幅加息，以抑制通膨；今年上半年通膨率仍高於 2% 目標，且受全球供應鏈緊張、能源價格上漲衝擊。美聯儲雖在12 月可能僅小幅升息，但美元走強仍會推高進口物價，迫使台灣央行同步收緊貨幣政策。過去升息常配合匯率穩定與金融市場流動性管理，此次升息亦是對外部環境的被動回應。\n🌐 若12 月正式升息0.25%，將直接影響房貸、企業短期借款成本，民眾貸款負擔上升；同時新台幣可能因利差擴大而走強，出口競爭力受壓；股市則可能出現短暫回檔，特別是高負債與利率敏感的科技股。對一般消費者而言，儲蓄利率上升或有小幅受惠，但整體經濟成長動能可能受抑。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWTJaYThneGFBMF9feXBrVU9yNDNjdnB3ejk2RG9GRFRscGk3YlRGTU5QdDE4YXRya1RJcEtmb3pBOVZFYnVzalNBQWJNZzdpdVVWSWNnMEU0RDJ0UmttdUwtdmxJbm5SMXdQLWlZNkdwLVowTVFFRzR6ODJFd0gwbVRUOVk0dWJweC1TRmVLRTdhVkpuQW55X2tTTm4xdzg2VFNWc2lMSHZiMHBRczN4WC10RUNZY1hqc0ZDWm4tTmNfX0lCSzU3MXgwNzRZcURYdHBoU3c4V2dRZEhVRmd0b2hWdDgwMHBwOVBiNklzbUQ3M1JLWFU2SE5vS1Nrbk5rWDFuc3E5X3FzbWVOVXowU0RMNGVmMXlIYWlrdTNQaVdGc2hEQU8yUXFCQzU1NFc0T1pUcHB4Q0haM3FHNjVCaW9n?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "盤中速報 - INJ大漲8.15%，報7.362美元",
-      "content": "INJ(INJ)在過去 24 小時內漲幅超過8.15%，最新價格7.362美元，總成交量達0.09億美元，總市值7.36億美元，目前市值排名第 34 名。近 1 日最高價：7.438美元，近 1 日最低價：6.603美元，流通供給量：99,970,935。Injective Protocol 的使命",
+      "title": "台股搭雲霄飛車高低震盪逾1600點 國泰：多方回神看4個止跌訊號",
+      "content": "台股今一度跌破4萬點，盤中急彈逾500點、震盪逾1600點，低接買盤湧現 國泰證期：輝達財報可點燃反彈，關鍵看下一季財測、Vera Rubin量產進度 台股止跌待外資賣壓、融資去化、新台幣止貶及高價股止穩；AI供應鏈需求仍有撐",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6664957"
+      "link": "https://news.cnyes.com/news/id/6666080"
     },
     {
-      "title": "【即時新聞】最新台股震盪！台塑獲點名國安基金護盤核心，具市值流動性優勢 - CMoney投資網誌",
-      "content": "【即時新聞】最新台股震盪！台塑獲點名國安基金護盤核心，具市值流動性優勢 CMoney投資網誌",
+      "title": "OpenAI新模型才推出 知名測試者寫長文「為什麼我討厭它」",
+      "content": "OpenAI週二推出GPT-6.2 Astra與Sol，Astra主打複雜專業工作，旗艦款比前代便宜兩成。 搶先試用評價兩極：Shumer稱「基本上沒法用」，Browne批最差，但Mollick與部分測試者肯定3D、動畫與影片能力。 勁敵新模型接連上場，OpenAI稱內部已把平價版Sol作預設。",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6665746"
+    },
+    {
+      "title": "四方峰會尷尬畫面瘋傳 川普把合照變記者會 不理會莫迪「該走了吧？」",
+      "content": "在菲律賓舉行的「四方安全對話」領導人峰會前，印度總理莫迪與美國總統川普出現一段略顯尷尬的互動。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9886238"
+    },
+    {
+      "title": "台股畢業文出現了！他賠234萬上半年獲利全蒸發 釣出一票苦主：這波少了2000萬 - Yahoo股市",
+      "content": "台股畢業文出現了！他賠234萬上半年獲利全蒸發 釣出一票苦主：這波少了2000萬 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPSVZaY2RTRE5ZOUZwMWo1Y2lIS1ZKVEJKdEF3TXhTUzhIM3FKdHFwbEtrZHB4cHBtSjhXQ1ZRVExRS1pWdWJpTERGSzJnVXBSOHZyMTFLdGUtMWtnV29lLUpHd3N2LTZ1aVFtc05wN2VBb1dpa0RiOFNBMHM2TlNKajBTaTJMZlVxUnNIUzhhdXo?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPbkxWWUYxUUExcUJJclhOZDRrYVZ2Q0ZsVDJiNndSSGMzcmkwUUtfeVFzTFNiaTl1dElEcUg3cXRXanJBcTFJRGZJbmRDdXhnWTZZWWYyRHdPN2RHLUlTTTFuRnpkMGZhQm00ZU1scjluVGlobi1TMS1TNlVjZjZKM3drcnhZUjJVTHpzMGVlLWNhekhvbmJvN2d6YXdCa1BxMWtHa0lkRml0QzhudHMxdzNlOVBUdlhHb1M0eXgwbkpNeC1NdGpwc2xMYWstcUYwQXFUMGhPUUcxbThTQ2QzWDMyVFdLVjhHSXZINEFPaUt6OU5oX3FOek9vMk16R3VIdHhVX0dGMlhWZWFWX3NBVHZ0cTc5dzRUbmJnTWJVbDFFMFNCU2JadGV0NG1oQXVVOXdncFQxckZGQmU2UVVaMnk2TmM4V0dSWDlieE5PZEhLZkJ6Y1dMR21rNExTTGY0SDVaejlnQkZQN2JDUi0yTlN2NFhELW9mVXZ3R2JuX1BuTERKQ1VJSUE4dmVQUEh5MDk2R2h5UEoyNXRSREQ3WjZrUUllbzlKZFpJR2hITGJKYlVNMUc4QmNCRUNpenhid3JTRHR3?oc=5"
     },
     {
-      "title": "盤中速報 - 柏承(6141)股價殺至跌停，跌停價34.3元，成交1,266張",
-      "content": "柏承(6141-TW)17日13:04下跌3.8元，股價跌停報34.3元，委賣23張，成交1,266張。主要業務為印刷電路板製造。柏承(6141-TW)近5日股價下跌6.62%，集中市場加權指數下跌1.49%，短期股價無明顯表現。近5日籌碼 三大法人合計買賣超：+212 張 外資買賣超：",
+      "title": "黃仁勳醜聞成川習會變數？中國聯想間諜氣球事件 BBC：不易破局",
+      "content": "輝達（Nvidia）創辦人黃仁勳雖已下台，但整起事件的陰影仍籠罩美國總統川普與中國大陸國家主席習近平本周即將舉行的會談。中國分析人士將此事與2023年「間諜氣球」事件相提並論，但BBC分析認為，川習峰會不太可能因此破局。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9886231"
+    },
+    {
+      "title": "川普準備好再見金正恩！美中俄麒麟山莊會談 金正日曾秘密入住",
+      "content": "美國國務卿魯比歐17日表示，總統川普本周訪問中國期間，目前並未安排與北韓領導人金正恩會面，但川普已做好對話準備，不排除川金會的可能性。事實上，兩人上一次在2019年會面，就是川普臨時邀約，最終在南北韓邊境板門店實現歷史性會晤。巧合的是，川普19日與中國大陸國家主席習近平、俄羅斯總統普丁舉行三方峰會的地點，正是金正恩父親、北韓前領導人金正日20年前祕密訪中時據報曾下榻的深圳麒麟山莊，也讓川金會是否可能意外登場更受關注。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9886227"
+    },
+    {
+      "title": "輝達的「隱身」重要市場！新加坡子公司營收破千億美元、年增72%",
+      "content": "輝達新加坡子公司2025年營收1,040億美元，年增72%，截至2026年1月過去12個月升至1,178億美元。 但2025年獲利僅5,300萬美元；帳面營收與當地實際生產、銷售或交付規模不一致。 輝達自2025年起不再單獨揭露新加坡營收，改按客戶總部所在地分類，外界難追蹤其新加坡業務。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6664956"
+      "link": "https://news.cnyes.com/news/id/6665752"
     },
     {
-      "title": "盤中速報 - 彬台(3379)股價殺至跌停，跌停價31.5元，成交1,858張",
-      "content": "彬台(3379-TW)17日13:03下跌3.45元，股價跌停報31.5元，委買113,000張、委賣1,000張，成交1,858張。主要業務為食品、飲料、生物科技之整廠自動化生產設備之系統整合及銷售業務。。食品、化工、包裝之機械及原料、包材與香料等之買賣及進出口業。務。代理國內外廠商報價投標業務及",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6664955"
-    },
-    {
-      "title": "台股重挫952點！AI股還能買誰？法人點名聯發科上看兆元營收| 財經 - Newtalk新聞",
-      "content": "台股重挫952點！AI股還能買誰？法人點名聯發科上看兆元營收| 財經 Newtalk新聞",
+      "title": "【Hot台股】股后創意連吞3根跌停...網哭「還有救嗎？」 分析師揭支撐價位 - Yahoo股市",
+      "content": "【Hot台股】股后創意連吞3根跌停...網哭「還有救嗎？」 分析師揭支撐價位 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OVUdWdHFPZENlTkNHUDBrc3ZCaWJBQ3FNeUtJS2RiQU1SVUI4c1N1RU5FRWR0cS1nRlprT1IxSy1tQWI4dC1BRklpaVVGLU9EbWhjYW1hYVN5V0k?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPb1pfd0dKWEZPSzNZOEwtT2hNYWZJMFBpQ0xpaE1sMjI0QVk5ai1TRXNwejkyNWpybUZucGZKeHZQUmtWNkgwVVhTWjNkUGtnZmNvOUQwczNQVTFiU1JRLXJfeWxUUXRRT0M4Y1Q5UUh2T1ZoTUpTcHh3bmxzbWxQOEpkNlJ5OGdnLVR6Z3dBTzZqUjhySkhnZ1YtQ3lkTklNZWtHTHFycnRyYjdPQU11bkJHbnRXaHlaNEpVakR2ajVfMTZ1MW5lb2ZWZzBDR29wQUVwbTlnOW9Yd1ItQS1mZ0Fjc3FVRnFPZWI2U2MwWVdXOEY5cVRyS2k2VDFPdVgzMEw2cmRlcjlDbktzRUE2bUROcUNxUWNvMHVaNnNCZ1dLLV9Kb3RKMFRkdkNhRTZ3cmU4aThQdkd6NWNheGdoQW5hYnlYQUhwUWpFSVZJTjRLSDFHZ2Zsd3Q0MTNxUjhvZGc0WVBLSWV4dnRFZ29DTVM2S3ZUYmNXclBYUGI3UjhlM3NOb2RpbVF0M095dmtKVVpTZGRTSE41bmhBcUNpSk1yS0xJZVVXVlRhRVJmb3FKSlJEanI5Zm04UXpON1phbHQ4Y2lNNXFpZw?oc=5"
     },
     {
-      "title": "〈焦點股〉益得吸入劑獲經濟部補助1.47億元 亮燈漲停",
-      "content": "益得(6461-TW)以「高門檻吸入劑學名藥開發」獲經濟部「A+企業創新研發淬鍊計畫」專案補助，補助金額1.47億元，將聚焦高門檻加壓定量吸入劑(pMDI)學名藥與低碳製造技術整合開發，同步推進高階三複方吸入劑及短效型支氣管擴張劑(SABA)氣喘用藥兩大產品線，激勵益得今(17)日無懼大盤震盪，亮燈",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6664949"
-    },
-    {
-      "title": "台股雲霄飛車！高低相差1747點 法人寄望國安基金＋年尾行情 - Yahoo新聞",
-      "content": "台股雲霄飛車！高低相差1747點 法人寄望國安基金＋年尾行情 Yahoo新聞",
+      "title": "輝達救不了全村？台股從高點急殺1677點！景碩漲停後也翻臉 | 下班經濟學 | 財經 - 風傳媒",
+      "content": "輝達救不了全村？台股從高點急殺1677點！景碩漲停後也翻臉 | 下班經濟學 | 財經 風傳媒",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxQYVliRnNEWHRpZ3FmcGlSWTlkNnZJdURrQU01SkdWZWNwZG1HWndsbmdkSHkyLTNBUHpFX1dHc0FDTGowQUw5VUpJT0NWMXlmWHFlaVVCX0t3VlR4Xy1LM0tqYWwzeHpUeEtJRFlYWUlCMUlGZFI0Nk5wVUg3U0hOSDdUY21EUXotZHFSdkh6N3VCQ2Y3N1EtU3pBenlrOUE0S0RBeEtfM3BSd1VCZXlMYnhzWEJ3VVBvV1l3bGNDRXhLcDlCcTRpbkJVX2JVUFpYbnNBNTQ2WlpLa051TExMZHhBc0IzQ0ViU1JzSGZFYzNUNGtfem1fbkFzU3hzSDFjbFoyN3NXd2FFTzdfVVdtcUtWV25lVzBDV2t2VTRHX3k4UzVVM3d1NFNnWmUzYjZnaXB2T2tfVjhmZmszWHBmZVIta3Z0MUZFWGtMbV9NY0VGdUxHV3N4RHJFVHJYSXpCeG9GVnlBcjNmSkhIUVFHMg?oc=5"
-    },
-    {
-      "title": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran - CNBC",
-      "content": "Third U.S. carrier arrives, stoking concerns about renewed conflicts with Iran CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9QemdsV2FWUHQ2dVJCOXJBN21EUUIyazhEMjFaLVNickZFalVGS0JXNkpnWGZTeUdmd09CSjdUWnR2M0l3Y1FMTEI3ZlgydTRpY1NhUVdTSFNlYW9URWQwb1ZncTNIRm1BZVJRRk5qQVHSAXZBVV95cUxNeExueUJISjdkcldnanBSTUFFUU9MMXY2MzNjZkc1TzFjWGw3dmJnYnRKWUpCT19DRm56UUFLOVRueFoxVXFOWXgzVVJQUm0wUzJGZnFzWWtwZURDbFdPZEFURUlrSENDV1FmWXF2MUhBXzNUQnh3?oc=5"
-    },
-    {
-      "title": "Jim Cramer says Costco's hefty special dividend signals ‘more gains ahead’ - CNBC",
-      "content": "Jim Cramer says Costco's hefty special dividend signals ‘more gains ahead’ CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1mem1WV09KMHJEbGxFR0RXanhfVUhVV092TVU2RDRPUUp3Ym93enJSR3htWWV6V1pPb19QRnB5WVlOR0dvVkM0OGQ3SU1ZYk54VWlzUFktdDczWnFDc21MaDJqcFp1b1A3Z001d1BzYzI2N2tXRlZLM2QyTdIBgAFBVV95cUxOQmx1T1pDSkJ5UV9fUTROQUNwTU42VTZPVWRvM3ZORXNlNEV1V1ZiT1MwYVlRQU54cDRoWVhlT1BqcW5hcjZoZnZOMGhvSzRVZlZFY0pwek40TmFXQ1pTT0w1cHFYRFJ0ZzhWUjFnck44RGVtdGx1WXVFZzQtNXgwOQ?oc=5"
-    },
-    {
-      "title": "Final Trade: DAL, XLE, USD, MCD - CNBC",
-      "content": "Final Trade: DAL, XLE, USD, MCD CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9uMHRRQmVncmR6X3lCRG5tT1dNdzRTbGltQWFiSlB5LU5wUjl5dU9COWVhdWEyd01uMGxmS0wyN25ZQWhkdEg1Q1NKVWdIYWJhTUFhcFpUTmxpcFFMb3FldmFIQll1WHd0SHVEdEpnZF82ZENGXzVsdFJB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tdkQ5UjVzUHF1WDRiQWlpUFhOb3RJN2ZKcWM4V1dHaEt0UVJ1aHRlQkh6LXJtWXdpcU1VbTRMYWgyaTlna3NTTW92d2lyZw?oc=5"
     }
   ]
 }
