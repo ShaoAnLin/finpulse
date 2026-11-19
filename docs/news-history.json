@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-19",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions - CNBC",
+          "feature": "【福特在美投產中國電池技術　美中緊張下的電動車新布局】\n📰 發生什麼事：福特汽車在密西根州馬歇爾投資30億美元的電池廠，已於上月開始量產電池單元，並將出貨給即將推出的Fathom小型電動皮卡。這些電池採用中國電池巨頭寧德時代（CATL）授權的鋰鐵磷（LFP）技術，屬於成本較低的化學配方。\n🔍 背景與來龍去脈：美國近年大幅補助電動車，促使車廠爭相降低電池成本。LFP因安全性佳、成本低而成為主流，但美國本土供應鏈尚未成熟。福特選擇與全球最大電池供應商CATL合作，快速取得成熟技術，同時將生產搬到美國以符合本土就業與貿易政策。然而，隨著美中關係緊張、美國政界對華企業合作加強審查，交通部長杜菲等官員已公開表達「深切關切」，要求企業提升供應鏈透明度。\n🌐 影響：\n- 市場：LFP成本優勢或加速福特電動車降價，對特斯拉與中國新勢力形成更激烈競爭。\n- 台灣產業：台灣的電池材料與模組供應商可能成為福特在美國產線的潛在外部供應商，提升出口機會；同時也提醒本土企業在美投資時需注意政治風險與合規要求。\n- 消費者：若福特成功將低價電池本土化，未來美國與全球的電動車售價有望下探，台灣民眾若購買進口車型或電池換裝，亦可能受惠於成本下降。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xMHRPcWVRTGQ3MDdueWtvMjRaUUpLd2ZvLWFkT1FfRzVaREs4NGZNWHlBWXZ4dFotTjhkS3cxQ0VrUmFPZndNZWVLZTh6d2EwU2NELUdWWEJLY2YtQnRhZ1Zpb0YyMmZFaVlDT08td3dLWXZqYTM40gF8QVVfeXFMUC1MbUJNdHR0SFR0NG5NWVYwSnF2aVMxUjVRZHdCRDZfTmk3UHZmUnNEV09aR0laaDdLMF9yVXJ6QVVUd3ZSVjBDbjhhUUdsbm1YYU9fQVpIekFfdVdQS0NEZWZHa0l4N0txTGhIcVBEY1NqR1k3VGs5NjNBMg?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "AI不只餵飽輝達！WSTS：全球前20大晶片商Q3全員成長　SK海力士季增49%居冠、鎧俠緊追",
+          "feature": "AI熱潮推動半導體全景成長，SK海力士季增49%領跑\n📰 發生什麼事：根據WSTS最新數據，2026年第3季全球半導體營收季增27%至4810億美元，年增129%創史上最高。AI需求持續擴大，Nvidia營收季增20%，而記憶體大廠三星、SK海力士與美光合計季增36%。其中SK海力士季增49%，成為增幅最高者。\n🔍 背景與來龍去脈：AI算繪需求刺激高頻寬記憶體（HBM）與高速DRAM、eSSD需求，供應緊張推升價格。去年美國加強對中國AI晶片的出口管制，使得中國廠商如騰訊、京東更傾向採購本土或非美國供應鏈，間接提升韓國與台灣記憶體廠的訂單。SK集團董事長亦呼籲子公司向AI模型與服務轉型，提升整體產業鏈附加價值。\n🌐 影響：對市場而言，半導體股普遍上揚，特別是記憶體類股；台灣的DRAM與NAND廠商受惠於供應鏈再配置，股價與資本支出預期上升。消費者層面，AI應用（如生成式AI、雲端運算）成本短期內可能因記憶體價格上漲而轉嫁；長期則因效能提升帶動相關產業（自動化、智慧製造）加速。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6667336"
+        }
+      ]
+    },
+    {
       "date": "2026-11-18",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "「黃仁勳下台」掀AI晶片訂單重組 ASIC股暴衝\n📰 發生什麼事：NVIDIA 宣布執行長黃仁勳辭職，全球科技股震盪，同時雲端服務供應商加速自研晶片，台股ASIC相關公司聯發科、創意、世芯‑KY於開盤即漲停。\n🔍 背景與來龍去脈：黃仁勳自 1993 年創立 NVIDIA，近年以 GPU 主導 AI 訓練市場，然而近期業績放緩、競爭加劇及內部治理爭議導致董事會換將。AI 熱潮使 CSP 如 AWS、Google、Microsoft 逐步自行開發 TPU、ASIC 以降低對 NVIDIA GPU 的依賴，預計訂單會從 Nvidia 轉向自研或其他供應商，台灣的 ASIC 設計與代工能直接受惠。\n🌐 影響：短期內 ASIC 股因法人買盤與預期訂單移轉出現大幅上漲，提升台股科技板塊動能；長期看，若雲端業者成功自研晶片，將改變 AI 硬體供應鏈格局，台灣相關晶片設計、IP 以及代工廠有機會成為新客源，同時對投資人、產業鏈上下游的資本配置與人才需求產生波動。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6661491"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-12",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Nvidia board meeting to decide CEO Jensen Huang’s fate stretches into evening - CNBC",
-          "feature": "Nvidia 風暴：董事會深夜審議 Jensen Huang 去留\n📰 發生什麼事：Nvidia 董事會於本週三深夜召開緊急會議，討論是否罷免共同創辦人兼執行長 Jensen Huang。此舉源於 Huang 近日承認與兩名女性有婚外情，其中一人被美國情報指稱與中國情報有關，涉嫌協助 Nvidia 晶片流向中國企業。消息一出，股價盤後跌逾 8%。\n🔍 背景與來龍去脈：自 1993 年共同創辦以來，Huang 率領 Nvidia 從圖形卡起家，成功轉型為全球 AI 超算與資料中心核心供應商，市值突破 4 兆美元。公司採單一股權結構，Huang 持股約 3.6%，無雙重表決權，董事會有權自行決定高層人事。近期美國加強對中國高階晶片的出口管制，使得任何與中國情報關聯的疑慮都被放大。此案先前由《華爾街日報》曝出，隨後《紐約時報》補充另一段與公司副總裁 Kimberly Powell 的關係，讓董事會面臨道德與國家安全雙重壓力。\n🌐 影響：\n- 市場層面：股價大幅回檔，科技基金與 AI 相關 ETF 受波及，投資人重新評估 AI 產業的領導者穩定性。\n- 供應鏈層面：若 Huang 離任，短期內可能出現策略不確定，對台灣的晶圓代工（如台積電、聯電）與 AI 晶片供應計畫造成影響，尤其在與 Nvidia 合作的高階 GPU 代工上。\n- 地緣政治層面：此事加劇美中科技競爭的敏感度，可能促使美國進一步審查與中國相關的半導體交易，台灣企業在美國市場的合規成本亦可能上升。\n- 人才與領導層：董事會尚未公布繼任者，市場關注內部是否有接班人計畫，或外部尋找新 CEO，這將影響 Nvidia 未來在 AI 版圖的布局與研發節奏。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9NaFFJVUxuMG1NR25FakxCNU9rUnpXUEl0UVE4ZTJUS0VUN2lEWjlsQVVJRTdMUWt1Vkd1RUsxcjZKa3JCaWFWN0JYbXk0TWpUM3M4SVQ1OGlJaTNQYWJsRnZVczF4NVpyeUZIQTVUQnRYVS0xX2RSQWhGWGs?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "黃仁勳恐遭撤換誰受惠？超微、博通搶市占 台灣3檔個股跟著漲",
-          "feature": "【焦點】Nvidia 可能撤換黃仁勳，AI晶片戰局再掀波瀾\n📰 發生什麼事　Nvidia董事會傳出將撤換創辦人兼執行長黃仁勳，盤後股價跌9%。同時市場聚焦接班人名單，AMD（超微）與博通股價上揚，Alphabet 受惠 AI 加速器需求；台股方面，聯發科、世芯-KY、創意等三檔個股跟著上漲，台積電與三星變動不大。\n🔍 背景與來龍去脈　黃仁勳自1993年創立 Nvidia 以來，帶領公司從圖形處理器轉型為 AI 超級晶片供應商，市值一度突破1兆美元。但近年董事會對公司治理、股東回報與過度依賴創始人決策產生分歧；再加上AMD 在資料中心 GPU 與自研 AI 加速器取得突破，博通也在高效能網路晶片布局，市場預期若領導層變動，AI 供應鏈可能重新洗牌。另一方面，Greenpeace 近期警告，TSMC、Micron、UMC 等 AI 晶圓大廠至2030將消耗台灣 15% 電力，顯示產業擴張的資源壓力，投資者更關注供應鏈穩定性。\n🌐 影響　短期內 Nvidia 股價受挫，資金流向 AMD、博通與 Google 的 AI 加速器與 TPU 產品；台灣相關半導體股因客戶採購多元化而受惠，提升投資者對本土晶片產業的信心。但若黃仁勳真的離任，可能觸發供應鏈重新協商，影響 AI 訓練與推論成本，同時加劇台灣電力與水資源的供應緊張，促使政府與企業加速能源、節能布局。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6660217"
         }
       ]
     }

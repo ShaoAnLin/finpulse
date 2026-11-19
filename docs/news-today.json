@@ -1,77 +1,91 @@
 {
-  "date": "2026-11-18",
+  "date": "2026-11-19",
   "featured": [
     {
+      "category": "international",
+      "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions - CNBC",
+      "feature": "【福特在美投產中國電池技術　美中緊張下的電動車新布局】\n📰 發生什麼事：福特汽車在密西根州馬歇爾投資30億美元的電池廠，已於上月開始量產電池單元，並將出貨給即將推出的Fathom小型電動皮卡。這些電池採用中國電池巨頭寧德時代（CATL）授權的鋰鐵磷（LFP）技術，屬於成本較低的化學配方。\n🔍 背景與來龍去脈：美國近年大幅補助電動車，促使車廠爭相降低電池成本。LFP因安全性佳、成本低而成為主流，但美國本土供應鏈尚未成熟。福特選擇與全球最大電池供應商CATL合作，快速取得成熟技術，同時將生產搬到美國以符合本土就業與貿易政策。然而，隨著美中關係緊張、美國政界對華企業合作加強審查，交通部長杜菲等官員已公開表達「深切關切」，要求企業提升供應鏈透明度。\n🌐 影響：\n- 市場：LFP成本優勢或加速福特電動車降價，對特斯拉與中國新勢力形成更激烈競爭。\n- 台灣產業：台灣的電池材料與模組供應商可能成為福特在美國產線的潛在外部供應商，提升出口機會；同時也提醒本土企業在美投資時需注意政治風險與合規要求。\n- 消費者：若福特成功將低價電池本土化，未來美國與全球的電動車售價有望下探，台灣民眾若購買進口車型或電池換裝，亦可能受惠於成本下降。",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xMHRPcWVRTGQ3MDdueWtvMjRaUUpLd2ZvLWFkT1FfRzVaREs4NGZNWHlBWXZ4dFotTjhkS3cxQ0VrUmFPZndNZWVLZTh6d2EwU2NELUdWWEJLY2YtQnRhZ1Zpb0YyMmZFaVlDT08td3dLWXZqYTM40gF8QVVfeXFMUC1MbUJNdHR0SFR0NG5NWVYwSnF2aVMxUjVRZHdCRDZfTmk3UHZmUnNEV09aR0laaDdLMF9yVXJ6QVVUd3ZSVjBDbjhhUUdsbm1YYU9fQVpIekFfdVdQS0NEZWZHa0l4N0txTGhIcVBEY1NqR1k3VGs5NjNBMg?oc=5"
+    },
+    {
       "category": "taiwan",
-      "title": "央行12月會升息？三三會林伯豐：恐難以避免 - Yahoo股市",
-      "feature": "央行12月升息在即　林伯豐警示難以避免\n📰 近日三三會理事長林伯豐接受採訪指出，受美元持續走強、長期美債殖利率高企影響，央行若要維持物價穩定，12 月升息的可能性大增，恐難以避免。\n🔍 自2022 年起央行已連續六次小幅加息，以抑制通膨；今年上半年通膨率仍高於 2% 目標，且受全球供應鏈緊張、能源價格上漲衝擊。美聯儲雖在12 月可能僅小幅升息，但美元走強仍會推高進口物價，迫使台灣央行同步收緊貨幣政策。過去升息常配合匯率穩定與金融市場流動性管理，此次升息亦是對外部環境的被動回應。\n🌐 若12 月正式升息0.25%，將直接影響房貸、企業短期借款成本，民眾貸款負擔上升；同時新台幣可能因利差擴大而走強，出口競爭力受壓；股市則可能出現短暫回檔，特別是高負債與利率敏感的科技股。對一般消費者而言，儲蓄利率上升或有小幅受惠，但整體經濟成長動能可能受抑。",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWTJaYThneGFBMF9feXBrVU9yNDNjdnB3ejk2RG9GRFRscGk3YlRGTU5QdDE4YXRya1RJcEtmb3pBOVZFYnVzalNBQWJNZzdpdVVWSWNnMEU0RDJ0UmttdUwtdmxJbm5SMXdQLWlZNkdwLVowTVFFRzR6ODJFd0gwbVRUOVk0dWJweC1TRmVLRTdhVkpuQW55X2tTTm4xdzg2VFNWc2lMSHZiMHBRczN4WC10RUNZY1hqc0ZDWm4tTmNfX0lCSzU3MXgwNzRZcURYdHBoU3c4V2dRZEhVRmd0b2hWdDgwMHBwOVBiNklzbUQ3M1JLWFU2SE5vS1Nrbk5rWDFuc3E5X3FzbWVOVXowU0RMNGVmMXlIYWlrdTNQaVdGc2hEQU8yUXFCQzU1NFc0T1pUcHB4Q0haM3FHNjVCaW9n?oc=5"
+      "title": "AI不只餵飽輝達！WSTS：全球前20大晶片商Q3全員成長　SK海力士季增49%居冠、鎧俠緊追",
+      "feature": "AI熱潮推動半導體全景成長，SK海力士季增49%領跑\n📰 發生什麼事：根據WSTS最新數據，2026年第3季全球半導體營收季增27%至4810億美元，年增129%創史上最高。AI需求持續擴大，Nvidia營收季增20%，而記憶體大廠三星、SK海力士與美光合計季增36%。其中SK海力士季增49%，成為增幅最高者。\n🔍 背景與來龍去脈：AI算繪需求刺激高頻寬記憶體（HBM）與高速DRAM、eSSD需求，供應緊張推升價格。去年美國加強對中國AI晶片的出口管制，使得中國廠商如騰訊、京東更傾向採購本土或非美國供應鏈，間接提升韓國與台灣記憶體廠的訂單。SK集團董事長亦呼籲子公司向AI模型與服務轉型，提升整體產業鏈附加價值。\n🌐 影響：對市場而言，半導體股普遍上揚，特別是記憶體類股；台灣的DRAM與NAND廠商受惠於供應鏈再配置，股價與資本支出預期上升。消費者層面，AI應用（如生成式AI、雲端運算）成本短期內可能因記憶體價格上漲而轉嫁；長期則因效能提升帶動相關產業（自動化、智慧製造）加速。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6667336"
     }
   ],
   "candidates": [
     {
-      "title": "台股搭雲霄飛車高低震盪逾1600點 國泰：多方回神看4個止跌訊號",
-      "content": "台股今一度跌破4萬點，盤中急彈逾500點、震盪逾1600點，低接買盤湧現 國泰證期：輝達財報可點燃反彈，關鍵看下一季財測、Vera Rubin量產進度 台股止跌待外資賣壓、融資去化、新台幣止貶及高價股止穩；AI供應鏈需求仍有撐",
+      "title": "鉅亨速報 - Factset 最新調查：視陽(6782-TW)目標價調升至324元，幅度約5.88%",
+      "content": "根據FactSet最新調查，共5位分析師，對視陽(6782-TW)提出目標價估值：中位數由306元上修至324元，調升幅度5.88%。其中最高估值331元，最低估值280元。綜合評級 - 共有5位分析師給予視陽(6782-TW)評價：積極樂觀5位、保持中立1位、保守悲觀0位。視陽(6782-TW)今",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6666080"
+      "link": "https://news.cnyes.com/news/id/6667371"
     },
     {
-      "title": "OpenAI新模型才推出 知名測試者寫長文「為什麼我討厭它」",
-      "content": "OpenAI週二推出GPT-6.2 Astra與Sol，Astra主打複雜專業工作，旗艦款比前代便宜兩成。 搶先試用評價兩極：Shumer稱「基本上沒法用」，Browne批最差，但Mollick與部分測試者肯定3D、動畫與影片能力。 勁敵新模型接連上場，OpenAI稱內部已把平價版Sol作預設。",
+      "title": "【即時新聞】今日台股大跌引爆電子賣壓，華通受PCB族群拖累最新重挫逾7%！ - CMoney投資網誌",
+      "content": "【即時新聞】今日台股大跌引爆電子賣壓，華通受PCB族群拖累最新重挫逾7%！ CMoney投資網誌",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOaFJYajl3bjBXV1BkNk9CR2FKNWhfeE5lQTYxalFHamlLZ1VHbzFmXzFSYU9GanNnUXY1SUczYUV6NXVGZUIxckJYWmxkU2Z4Q2swYnduTHJjRnNBZHkzYkdVaU12bXVqTGhzdTdCVFlZZjBDdTNGaE5TNlN4OGhoQzFpaFpMMDNXSzVKbUlrRTg?oc=5"
+    },
+    {
+      "title": "中國貨幣市場：稅期後央行投放力度不減，資金進一步寬鬆DR001降向1.25% - TradingView",
+      "content": "中國貨幣市場：稅期後央行投放力度不減，資金進一步寬鬆DR001降向1.25% TradingView",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SanpvTVdScnFkc0xNWVZuNGdrbzBMcWI4eVNVMDFtYkhGaHdDc184S1Noa1VERFVGTzlHSVEybmgzbzJ2REEyeXlWTDJ6dkt5endEcF9vYVFXUUI4YzlXY3RVZXktVmd0WEk2UnJ1anJ0Rnh2ME1B?oc=5"
+    },
+    {
+      "title": "【即時新聞】南亞遭遇沉重賣壓拖累台股急殺，今日成4萬點保衛戰關鍵！ - CMoney投資網誌",
+      "content": "【即時新聞】南亞遭遇沉重賣壓拖累台股急殺，今日成4萬點保衛戰關鍵！ CMoney投資網誌",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPajJ6R1V4bG9wcXZJSUtBalo0Y2lnWVJKSHZ4MGR5MWQ5MnNOTkZ3N192VU9aWHpZSWs1VWpzMXN5TWV1Ulg4ZWNYLVZzNzdHTlhRdFVtVkNTbUNFZzl5c3hWV05CN1JyOXpXSTl2Skd6UlhwODhPaERud0RPaXB4OXY3NmhLV0E4UjVnZEpMN2U?oc=5"
+    },
+    {
+      "title": "台股狂瀉近2千點「史上盤中第9大」！市值蒸發逾6兆元 等於少掉1家聯發科 - Yahoo股市",
+      "content": "台股狂瀉近2千點「史上盤中第9大」！市值蒸發逾6兆元 等於少掉1家聯發科 Yahoo股市",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNNUVmMVVuXzhyZVlhSWI4NEh1STduc1hyTUNtY0hYTExaeFRnZjI4N2MtTkV1Um44S2Q2TjJRcEF1N1Q1eHluWlZMdzhLRjFlWHdvQTh5UTFTQjlvRUhPQUh3TWQ1eHQ2ckhWa01ISHYyZ3BTTzl0XzVES1Z4U2RtVnFybGFGdHpWR1Z6ZEZadkprdkJRVk9Za0JNaERFTTVFSlNDRi1IWi1WdWZrT0poeVd6c1h5TUU1SWpDbVpyaGwzQ1B5aHFJOURjeFpDdG1abDAzMGJRLV9CSkdkeXgzVHo0Snp6aGE2UUNhM0tieXJWWGxpOVpCTTk1am9zb0hTN2lYb090dGR3NjlkNDVpZEtFbElTRlJkeGk0MmluRnRlWHZGdFRDUVJjZW5vYzZuRFJwOVRweVB5dlcycjFtMmZudmFXc1JzUW56VTVHODctQ0J1SVRTZDdTSXA5M3NqR2VHT1dhNkxUbTJ4a3lDRTlPc2d4OUpNMHZQeTZYdkwwY0k0ZTZxeUxoZjZCWlRIX2NhSUlfZG8zenY4LXNIeVVjbFdzazFvY0FpYUs4Wm56N3ljWmh3d3k2VTBlZlZNWTdYemRQWW9FWEs3cllHazhUWUdkQQ?oc=5"
+    },
+    {
+      "title": "伊朗再襲美軍基地 戰火蔓延至科威特、巴林",
+      "content": "伊朗對波斯灣地區發起新一輪襲擊，科威特境內美軍基地和巴林接連淪為目標。 科威特軍方證實，防空系統當天攔截來襲無人機，但尚未通報具體損失。 巴林軍方宣布，防空系統成功攔截來自伊朗的空中襲擊，這也是巴林一周內第三次遭伊朗襲擊。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6665746"
+      "link": "https://news.cnyes.com/news/id/6666840"
     },
     {
-      "title": "四方峰會尷尬畫面瘋傳 川普把合照變記者會 不理會莫迪「該走了吧？」",
-      "content": "在菲律賓舉行的「四方安全對話」領導人峰會前，印度總理莫迪與美國總統川普出現一段略顯尷尬的互動。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9886238"
+      "title": "Anthropic prices IPO at $83 per share ahead of stock market debut - Washington Examiner",
+      "content": "Anthropic prices IPO at $83 per share ahead of stock market debut Washington Examiner",
+      "category": "international",
+      "source": "Reuters Business",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDRteXYyemM3c2pLdW1WaHpRUDBBRi1jbVM1dUxWNVE4QWZ5ZnFScGhvR2dIbmlqUGtkZkhjUGlGWkFFMUlDSjNMb2cwRHBSTXVFNWFWeVhhY3NjNmpiOXJlMXRfS21IZXhsWXVHTTdtZzc1aVViMjBtTzM3N1lKU29XcEZaTGY1T1FXTmFtRS1va0xDenJ3enZncVhjLVR5SkUxdTJIZUxtNUVEVWZzMVF3?oc=5"
     },
     {
-      "title": "台股畢業文出現了！他賠234萬上半年獲利全蒸發 釣出一票苦主：這波少了2000萬 - Yahoo股市",
-      "content": "台股畢業文出現了！他賠234萬上半年獲利全蒸發 釣出一票苦主：這波少了2000萬 Yahoo股市",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxPbkxWWUYxUUExcUJJclhOZDRrYVZ2Q0ZsVDJiNndSSGMzcmkwUUtfeVFzTFNiaTl1dElEcUg3cXRXanJBcTFJRGZJbmRDdXhnWTZZWWYyRHdPN2RHLUlTTTFuRnpkMGZhQm00ZU1scjluVGlobi1TMS1TNlVjZjZKM3drcnhZUjJVTHpzMGVlLWNhekhvbmJvN2d6YXdCa1BxMWtHa0lkRml0QzhudHMxdzNlOVBUdlhHb1M0eXgwbkpNeC1NdGpwc2xMYWstcUYwQXFUMGhPUUcxbThTQ2QzWDMyVFdLVjhHSXZINEFPaUt6OU5oX3FOek9vMk16R3VIdHhVX0dGMlhWZWFWX3NBVHZ0cTc5dzRUbmJnTWJVbDFFMFNCU2JadGV0NG1oQXVVOXdncFQxckZGQmU2UVVaMnk2TmM4V0dSWDlieE5PZEhLZkJ6Y1dMR21rNExTTGY0SDVaejlnQkZQN2JDUi0yTlN2NFhELW9mVXZ3R2JuX1BuTERKQ1VJSUE4dmVQUEh5MDk2R2h5UEoyNXRSREQ3WjZrUUllbzlKZFpJR2hITGJKYlVNMUc4QmNCRUNpenhid3JTRHR3?oc=5"
+      "title": "Microsoft CEO Satya Nadella: Cyber defenses and infrastructure upgrades are all at a premium now - CNBC",
+      "content": "Microsoft CEO Satya Nadella: Cyber defenses and infrastructure upgrades are all at a premium now CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOb3g1Nk13T0N1V18yZ3l5Z0hNdzNoUWZTcmZJS01GbEw3TGVrR1dZalNJQi1RaW9qdk92eHBCdXdGT1pzMmJsNzRYa3FkQkdxZFliX2RaeEZNRXZqaGZCbm50cUMySUN3R0IxdG5SRDlXQ3dtLWtYOEoteGRpUTBKN19UaUYzWVFpX3BNeDRYemRuSlZFakhZdnpwZWpDcC1XVTdUQVpkaTF0eW45Uzc0SzJ1Slhfd2pxeTRCYUJXOFctNGZSQW5FQWFlQm8wNTctUWRnMw?oc=5"
     },
     {
-      "title": "黃仁勳醜聞成川習會變數？中國聯想間諜氣球事件 BBC：不易破局",
-      "content": "輝達（Nvidia）創辦人黃仁勳雖已下台，但整起事件的陰影仍籠罩美國總統川普與中國大陸國家主席習近平本周即將舉行的會談。中國分析人士將此事與2023年「間諜氣球」事件相提並論，但BBC分析認為，川習峰會不太可能因此破局。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9886231"
+      "title": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test - CNBC",
+      "content": "Inside India newsletter: Foreign flows helped the market recover. Now it faces the inflation test CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQXJzSFVRT3F5bTNfazJQNnFQZFVoeDJrYml1TjgzSnRmNVF0UFpMa2JMNkppaHI0SWM1US1qOHVYS1NrQkZqOGE1b3U4Uk1xMmwzOThXYmlkdG84V0dlN0NabEUxdUV1VVA4QkRacGdKTXJ0d05HdmdJd01maDV5aGVRQdIBiAFBVV95cUxQMlpRaFh0Nk54cDduSERwc3FJX1hDSXpPUmNlQVBxZWJKOTBtTEZUUUd5YlF2bzJ4c3locHNCSWJVRUdFSHJ4amRNa0FXTFkweklkdjFBUkJuOVhHODJYMXBhSUdkQ1YwVENNX2Zxc1U3a3EwOWs2bVYtM3hCd2ptWjJaUEthVURS?oc=5"
     },
     {
-      "title": "川普準備好再見金正恩！美中俄麒麟山莊會談 金正日曾秘密入住",
-      "content": "美國國務卿魯比歐17日表示，總統川普本周訪問中國期間，目前並未安排與北韓領導人金正恩會面，但川普已做好對話準備，不排除川金會的可能性。事實上，兩人上一次在2019年會面，就是川普臨時邀約，最終在南北韓邊境板門店實現歷史性會晤。巧合的是，川普19日與中國大陸國家主席習近平、俄羅斯總統普丁舉行三方峰會的地點，正是金正恩父親、北韓前領導人金正日20年前祕密訪中時據報曾下榻的深圳麒麟山莊，也讓川金會是否可能意外登場更受關注。",
-      "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9886227"
-    },
-    {
-      "title": "輝達的「隱身」重要市場！新加坡子公司營收破千億美元、年增72%",
-      "content": "輝達新加坡子公司2025年營收1,040億美元，年增72%，截至2026年1月過去12個月升至1,178億美元。 但2025年獲利僅5,300萬美元；帳面營收與當地實際生產、銷售或交付規模不一致。 輝達自2025年起不再單獨揭露新加坡營收，改按客戶總部所在地分類，外界難追蹤其新加坡業務。",
-      "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6665752"
-    },
-    {
-      "title": "【Hot台股】股后創意連吞3根跌停...網哭「還有救嗎？」 分析師揭支撐價位 - Yahoo股市",
-      "content": "【Hot台股】股后創意連吞3根跌停...網哭「還有救嗎？」 分析師揭支撐價位 Yahoo股市",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiygNBVV95cUxPb1pfd0dKWEZPSzNZOEwtT2hNYWZJMFBpQ0xpaE1sMjI0QVk5ai1TRXNwejkyNWpybUZucGZKeHZQUmtWNkgwVVhTWjNkUGtnZmNvOUQwczNQVTFiU1JRLXJfeWxUUXRRT0M4Y1Q5UUh2T1ZoTUpTcHh3bmxzbWxQOEpkNlJ5OGdnLVR6Z3dBTzZqUjhySkhnZ1YtQ3lkTklNZWtHTHFycnRyYjdPQU11bkJHbnRXaHlaNEpVakR2ajVfMTZ1MW5lb2ZWZzBDR29wQUVwbTlnOW9Yd1ItQS1mZ0Fjc3FVRnFPZWI2U2MwWVdXOEY5cVRyS2k2VDFPdVgzMEw2cmRlcjlDbktzRUE2bUROcUNxUWNvMHVaNnNCZ1dLLV9Kb3RKMFRkdkNhRTZ3cmU4aThQdkd6NWNheGdoQW5hYnlYQUhwUWpFSVZJTjRLSDFHZ2Zsd3Q0MTNxUjhvZGc0WVBLSWV4dnRFZ29DTVM2S3ZUYmNXclBYUGI3UjhlM3NOb2RpbVF0M095dmtKVVpTZGRTSE41bmhBcUNpSk1yS0xJZVVXVlRhRVJmb3FKSlJEanI5Zm04UXpON1phbHQ4Y2lNNXFpZw?oc=5"
-    },
-    {
-      "title": "輝達救不了全村？台股從高點急殺1677點！景碩漲停後也翻臉 | 下班經濟學 | 財經 - 風傳媒",
-      "content": "輝達救不了全村？台股從高點急殺1677點！景碩漲停後也翻臉 | 下班經濟學 | 財經 風傳媒",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1tdkQ5UjVzUHF1WDRiQWlpUFhOb3RJN2ZKcWM4V1dHaEt0UVJ1aHRlQkh6LXJtWXdpcU1VbTRMYWgyaTlna3NTTW92d2lyZw?oc=5"
+      "title": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings - CNBC",
+      "content": "Jim Cramer says Nvidia has a new problem — and it has nothing to do with earnings CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9VaTJUMW4wX3BuUkY1V2hWM1YxWVhyc1N0bTg1aGo4Y3dRSlBoZi1Zc1ppa2lUOGpqZ1F1QzFGSzktejNwTjdKX3gwa05kZ2NDQVREZHMxU0R5X3JLVzAzR2JwYVNSWVZWR0NBVGktS1Z6czZkaGxr0gF8QVVfeXFMUHlVUE1HWnc4QzBRV3ZYNEFjSGNvS09XanI3VGJXNVNIOG0zZWZ1NmxNSG0tWnY4S3kwUmlBUFd1MUpZU01YbUdyODBjdHlibG5NUkd3MXJGMFBPazNXVURIc3JhbXJsZkpNbjYwaWM5QzRvLXNtZWwwLUl5dQ?oc=5"
     }
   ]
 }
