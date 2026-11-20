@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-20",
+      "featured": [
+        {
+          "category": "international",
+          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut - CNBC",
+          "feature": "SoftBank 股價狂跌 16% 牽動亞洲 AI 科技股大幅拋售\n📰 發生什麼事\nSoftBank Group 於 11 月 20 日收盤前跌超 16%，成為本日亞洲科技股最重挫個股。跌勢源於美國 AI 初創 Anthropic 於納斯達克上市後，市場對 AI 投資前景重新評估，導致包括日本半導體股、南韓晶片巨頭在內的多檔科技股同步下跌。\n🔍 背景與來龍去脈\nAnthropic 的 IPO 雖首日漲幅逾 30%，卻揭露 AI 產業競爭加劇與估值泡沫風險。SoftBank 先前投入 646 億美元持有 OpenAI 股權，是全球最大單一投資者；其股價因此高度敏感。加上本週 Nvidia 股價下跌 2.9% 及 Nasdaq 跌超 2%，投資人擔心 AI 基�礎建設支出能否帶來足夠回報，進一步拖累相關供應鏈。\n🌐 影響\n台灣半導體產業與供應鏈同樣感受到連鎖反應，台積電等公司股價短線受壓。投資人可能重新檢視 AI 相關佈局，資金流向更傾向保守或轉向成熟應用。對一般民眾而言，AI 相關服務價格或短期內不會大幅下降，且市場波動可能影響退休金與基金配置。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "〈分析〉川習會未解晶片僵局 北京反制牌如何牽動貿易休戰？",
+          "feature": "川習會未解晶片僵局，貿易休戰危機升溫\n📰 發生什麼事：2024年11月19日，中美高層在深圳舉行的川習會未能就先進晶片、稀土及關稅爭端取得突破，亦未延長雙方自2023年起的貿易休戰。美國同日公布新規，要求全球資料中心在購買美國先進晶片前必須取得許可，並把中國AI公司列入管制名單。北京則以擴大出口管制、將美國企業列入黑名單等手段回擊。\n🔍 背景與來龍去脈：美國自2022年起對中國高端半導體實施出口限制，旨在削弱北京在AI與軍事領域的算力。2023年雙方簽署貿易休戰，暫緩關稅與部分禁運，成為兩國科技角力的「緩衝帶」。然而美國最新的「先進晶片許可」政策，加上對AI模型供應鏈的嚴格審查，使北京感受到新一輪壓力。北京以稀土、晶圓原料與「黑名單」回應，企圖以非對稱手段逼迫美方讓步。川習會的僵局顯示，雙方在關鍵供應鏈議題上已無共識，且缺乏延長休戰的機制。\n🌐 影響：\n1. 供應鏈成本上升：全球資料中心與AI算力需求被迫尋找替代供應商，導致晶片價格波動、合規成本增加。台灣半導體產業若被迫在美國與中國之間選邊站，將面臨出口限制或失去中國市場的雙重風險。 \n2. 市場情緒波動：美股AI相關股（如NVIDIA）短期可能受政策衝擊回檔，投資人重新評估風險敞口。 \n3. 政策走向：若貿易休戰未延長，未來美中可能再度升級關稅與技術禁令，對全球高科技產業布局產生深遠影響。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6668709"
+        }
+      ]
+    },
+    {
       "date": "2026-11-19",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "國泰人壽斥逾92億布局倉儲與危老 重塑資產結構\n📰 發生什麼事\n國泰金控代子公司國泰人壽公告，依保險法運用自有資金，與關係企業簽訂兩筆自地委建合約：桃園觀音忠愛段大型物流倉儲工程（投資約68億）與台北中山區榮星段危老重建辦公大樓（投資約25億），總計約93億新台幣。同時董事會通過最高350億的次順位公司債發行計畫，預計一年內視市場條件分次發行。\n🔍 背景與來龍去脈\n近年來台灣物流需求因電商與供應鏈本地化持續升溫，倉儲土地稀缺推高租金，保險公司逐步將資金投入不動產以提升資產收益率。國泰人壽早在2022年即開始探索自地委建模式，藉由自行開發降低外部承租成本，同時符合保險法「自用」規範。危老重建則受政府「危險老舊建築」政策激勵，台北核心商業區的土地升值潛力高，改建為高階辦公大樓有望獲得穩定長租收益。發債350億則是為了補足大型開發所需長期資金，同時維持資本充足率，符合監管要求。\n🌐 影響\n對市場而言，國泰人壽的大手筆不動產投資顯示保險資金正向多元化，可能帶動同業跟進，加速金融資金進入物流與都市更新領域。投資人看見發債上限提升，短期內公司債供給增加，利率走勢或受市場需求影響。對一般民眾，未來物流倉儲設施提升供應，或緩解電商配送成本；台北危老重建完成後，將提供更多優質辦公空間，提升該區商業活力。整體而言，國泰人壽的布局有助於提升資產報酬，同時支撐台灣物流與都市再生的長期需求。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6662454"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-13",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Stocks could be in for a rude awakening if the Fed hikes rates more than expected - CNBC",
-          "feature": "美聯儲若再加碼升息，股市恐陷入沉睡的警鐘\n📰 發生什麼事：美國2年期與10年期公債殖利率連日躍升，2年突破4.8%，10年逾5.1%。市場解讀為10月通膨高於預期，迫使美聯儲在12月會議上可能再加碼0.25%，甚至預示2027年前再升兩次以上。投資人尚未將此風險 fully 價入股價，形成「股市忽視債市」的短暫假象。\n🔍 背景與來龍去脈：去年以來美聯儲已把基準利率從0%區間拉至3.75%~4.00%。10月CPI再度超出市場預期，令市場對「加息路徑」產生焦慮。CME FedWatch 期貨已把三次0.25%升息列入價格，顯示市場對利率上行的預期正在累積。債券殖利率上揚，直接抬高企業融資成本，削弱未來盈餘預期，尤其是依賴低成本資金的科技與AI股。\n🌐 影響：1）美股波動升高，資金可能回流安全資產，台灣大型科技股（如台積電）因美元資金成本上升面臨估值壓力；2）美國房貸利率上破5%，可能抑制美國住宅需求，間接減少台灣相關出口（如半導體設備）的需求；3）台灣投資人持有的美債基金淨值受損，理財產品收益下降；4）若美聯儲持續加碼，全球風險資產普遍承壓，台幣匯率可能因資金流向美元而走弱，進一步影響進口成本與通膨。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNY2hPa2p0XzM1eWV4aE1GT0x2cnJjT1ZpYnhEWVBBbC1TQ0doS0JpUHhKVk9mRncxS29sV0tMMXJxUjgwb3J3NUc1c2hYUmpQbm1IdzhLc05IVDdpZUhOS1RBYzRHR2FiMmZETjlFN0w3M0Q1TkNyMkZCenFja2hQa0dVTzhEQUpLVFdQcHF1T21LczUyVjFZV1lnRzdnOUVmSThsS3BGQlJoSlJIX0VEQzQtVVZtaDRYcGc?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "黃仁勳下台！法人看好ASIC迎商機 聯發科、創意、世芯-KY強勢漲停",
-          "feature": "「黃仁勳下台」掀AI晶片訂單重組 ASIC股暴衝\n📰 發生什麼事：NVIDIA 宣布執行長黃仁勳辭職，全球科技股震盪，同時雲端服務供應商加速自研晶片，台股ASIC相關公司聯發科、創意、世芯‑KY於開盤即漲停。\n🔍 背景與來龍去脈：黃仁勳自 1993 年創立 NVIDIA，近年以 GPU 主導 AI 訓練市場，然而近期業績放緩、競爭加劇及內部治理爭議導致董事會換將。AI 熱潮使 CSP 如 AWS、Google、Microsoft 逐步自行開發 TPU、ASIC 以降低對 NVIDIA GPU 的依賴，預計訂單會從 Nvidia 轉向自研或其他供應商，台灣的 ASIC 設計與代工能直接受惠。\n🌐 影響：短期內 ASIC 股因法人買盤與預期訂單移轉出現大幅上漲，提升台股科技板塊動能；長期看，若雲端業者成功自研晶片，將改變 AI 硬體供應鏈格局，台灣相關晶片設計、IP 以及代工廠有機會成為新客源，同時對投資人、產業鏈上下游的資本配置與人才需求產生波動。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6661491"
         }
       ]
     }
