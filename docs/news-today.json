@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-21",
+  "date": "2026-11-22",
   "featured": [
     {
       "category": "international",
-      "title": "Foxconn's next chapter: Why Apple's iPhone maker is betting big on AI - CNBC",
-      "feature": "富士康AI新篇：從代工巨頭到AI基礎建設主導者\n📰 發生什麼事：富士康董事長劉揚偉在近期訪談中宣佈，未來三到五年AI基礎建設將貢獻公司60%以上營收。公司正加速與Nvidia合作建置AI伺服器、資料中心，同時布局電動車、衛星與太空運算等新興領域，並已接獲OpenAI首支手機組裝訂單，預計2027年量產。\n🔍 背景與來龍去脈：過去二十年富士康以代工iPhone等消費電子為主，營收高度依賴少數大客戶。全球AI熱潮與算力需求激增，資料中心與AI伺服器市場預估2028年將超過千億美元。劉揚偉接棒郭台銘後，推動多元化轉型，將硬體規模優勢延伸至AI晶片散熱、模組化伺服器與高效製造，避免傳統代工成長瓶頸。\n🌐 影響：\n1. 市場層面：AI基礎建設成長將提升富士康股價波動性，吸引資本市場關注；同時可能改寫代工產業格局，促使其他代工廠尋求AI或車用等高毛利領域。 \n2. 台灣經濟：富士康作為台灣最大出口企業，AI業務擴張將帶動本地晶圓、半導體、機械設備需求，創造上游產業鏈新商機。 \n3. 勞動市場：高階硬體與軟體人才需求上升，對工程師與研發人員的薪資與培訓將產生正向壓力。",
+      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC",
+      "feature": "Anthropic創下史上最大IPO，同時美股科技股迎來自2020以來最差一週\n📰 發生什麼事\nAnthropic於本週四在納斯達克以每股價格募得935億美元，外加260億美元的企業配售，市值一度達1.8兆美元，首日股價上漲17%。然而同一週，受Nvidia股價暴跌23%帶動，納斯達克指數五天累跌10%，創下自COVID初期以來最差表現。\n🔍 背景與來龍去脈\nAnthropic是由前OpenAI核心成員創立的純AI開發商，過去六年募資逾1410億美元，背後有Menlo、Lightspeed等巨額風投。2021年風投IPO高峰後，上市公司數量大幅下降，2025年僅34家科技公司IPO。AI熱潮推升Nvidia等硬體股，但同時也引發資金成本上升、利率走高與監管疑慮，使得市場對高估值AI公司持觀望態度。Anthropic的上市被視為創投最後的退出窗口，也測試市場是否願意接受「純AI」公司高估值。\n🌐 影響\n對美國市場而言，Anthropic的成功提供了創投資金回流的正面訊號，但亦凸顯AI股與傳統科技股的分化，投資人可能重新評估風險敞口。對台灣而言，AI相關產業鏈（半導體、雲端算力）可能受惠，資金流入與人才需求將持續增長；同時，台股科技股在全球AI情緒波動中亦可能出現同步波動，投資者需留意美國利率與AI政策變化對本地市場的連鎖反應。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45Um1Yb1FMNVk1ZFZfRk4xd294Nkl6dFpRajc5RGJGT0FxYmp3WTlPeHJtLTAtRTJFNERlaUlrS3hUSWdMZVYwQ3duMk54NUVEN2o1R19reG9SUl9rU3FYZk9mM3pkeWJXZnB2Sw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "郭明錤：Google明年下修博通TPU出貨約百萬顆 「聯發科」可望受惠",
-      "feature": "Google下修2027年博通TPU出貨 約百萬顆，聯發科8t或受惠\n📰 Google宣布2027年原預估的博通設計TPU 8i Max（Whalefish）出貨量下修約100萬顆，約占全系列的20%。此舉源於Google將算力資源優先配置給前沿AI模型研發，降低對高價8i Max的需求。相對地，聯發科自行設計的8t系列預計提升出貨，但數量尚未明朗，難以完全抵消8i的減量。\n🔍 背景與來龍去脈：TPU是Google自研的AI加速晶片，近年因OpenAI、Anthropic等大型模型需求激增，出貨量持續上升。2026年起，Broadcom接手8i系列設計，提供高效能但成本較高的產品。隨著AI模型多樣化，Google開始採取「前沿模型優先」策略，縮減對成本較高的8i Max，同時加速自家及合作夥伴（如聯發科）較具成本效益的8t產品。此趨勢也反映出AI硬體市場從單一供應商向多元化、長期合約轉變的格局。\n🌐 影響：短期內，博通相關股價可能受壓，聯發科受益預期提振股價；台灣AI晶片產業看見更多代工與設計機會，供應鏈（測試、封裝）需求或提升。對一般投資人而言，AI算力成本下降或帶動雲端服務價格競爭，間接影響企業數位轉型成本。長遠看，Google的長約策略將促使台灣半導體在全球AI供應鏈中的角色逐步升級。",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6669649"
+      "title": "金價10個月跌掉2,000美元 底部到了沒?",
+      "feature": "金價跌至14個月新低，市場恐慌與利率升壓交織\n📰 發生什麼事\n金價20日連跌五天，一度跌至每盎司3,513.54美元，創14個月新低，週跌幅近9%，為今年3月以來最大週線跌幅。\n🔍 背景與來龍去脈\n美聯儲12月升息預期提升實質利率，使黃金失去收益吸引力；AI概念股自年初大漲後持續獲利了結，資金從黃金流出。同步，Goldman Sachs等機構的恐慌指數逼近最高，顯示系統性賣壓加劇，市場避險情緒下降，導致傳統安全資產需求減弱。\n🌐 影響\n金價大幅下滑削減投資人保值收益，珠寶與金礦股面臨股價壓力；台灣民眾持有的黃金ETF或實體金價回報下降，可能轉向美元存款或其他資產；同時反映加息預期與科技股波動，進一步影響台股資金流向與新台幣匯率，整體市場波動性提升。",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/122381/9894225"
     }
   ],
   "candidates": [
     {
-      "title": "圓弧頂+跌破年線，台股指數下周(1123~1127)將持續跌勢 - 聚財網",
-      "content": "圓弧頂+跌破年線，台股指數下周(1123~1127)將持續跌勢 聚財網",
+      "title": "利空測試台股韌性 回檔正是調整持倉好時機 - 自由時報",
+      "content": "利空測試台股韌性 回檔正是調整持倉好時機 自由時報",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFAtN3BNRHdMNGlYTnBfWmFHTC1kZlF1OS05SzRLTjNyQkg1Z1gtcXdTUmlDWWJJZE9raGpHbFIyZXZyaGNmSmR1d2RDUG4?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SRm9wdVBmYTNyME1nTVRqRFpjNGFCMTRhdDB5TXpXajhIalY5U0xPdjB1T0x5aGNqN3Z4ZnVpbG45U0E2Mlo4bFZsMTJlSU5tVW5KZDh1QWg?oc=5"
     },
     {
-      "title": "台股單週蒸發25兆元！國泰郭經緯吐「12字真言」 高價股需先回穩 - 三立新聞",
-      "content": "台股單週蒸發25兆元！國泰郭經緯吐「12字真言」 高價股需先回穩 三立新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBNT0YzcG01UVdhWXZJai1ySFc3Q3JfM2FSNmpzano2d0tYSlp0cVRIRlhTcWU2eThOTGg1UE5HS3BVUXo1WkppeWJ2bw?oc=5"
-    },
-    {
-      "title": "金融時報：伊朗戰事恐拖至明年　中央司令部吃不消",
-      "content": "隨美國與伊朗戰事有延續到明年的態勢，美軍高層警告若持續長期在中東維持大規模部署，恐導致美軍戰備能力過度消耗；與此同時，以...",
+      "title": "波蘭控俄羅斯侵犯領空　北約承諾捍衛波蘭每寸領土",
+      "content": "北大西洋公約組織（NATO）秘書長呂特（Mark Rutte）今天在華沙表示，北約將捍衛波蘭的每一寸領土。波蘭20日表示...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9893025"
+      "link": "https://money.udn.com/money/story/5599/9894271"
     },
     {
-      "title": "台股周一開盤慘了？美股AI股血洗「費半崩跌10%」 2內行齊喊周末盯緊一指標 - Yahoo新聞",
-      "content": "台股周一開盤慘了？美股AI股血洗「費半崩跌10%」 2內行齊喊周末盯緊一指標 Yahoo新聞",
+      "title": "COP31氣候峰會接近達成最終協議　主席國發布新方案",
+      "content": "聯合國氣候變化綱要公約第31次締約方會議（COP31）今天發布一項新方案，主席國澳洲與土耳其期盼藉此就推進對抗全球暖化達...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9894268"
+    },
+    {
+      "title": "目標價奔到30元、41.3元！台股殺7千點「2檔防禦股」EPS衝0.79元、3.14元 法人曝利多 - Yahoo股市",
+      "content": "目標價奔到30元、41.3元！台股殺7千點「2檔防禦股」EPS衝0.79元、3.14元 法人曝利多 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxNTzk4YjF2QmY1dm1XdWxWN0tEZjI4cTdNZGlHb1QtUngtcFROU2VqZzByYXdTQkpBY1hNbnJNeWlzNnVoM1VSZF92OVRkeXo0aWJ2ZF9IamdrWFlhV3ZlakVVaGVQM2J0ZHBjMzN1T2tYVlBaQXBQM3F6YjJMN0NiSVItSXFfVTZ1cmItN2JyTk1qVm1pQzFHdHdZNHhja1l4aEstQXBSZmU5cU5IWjhyWm9NejM5cTUxVmJVYzV2UHdYUmdtSmpiQ05fZWdVSjFkN0dtZmhrZHZpQ21fdm4yVlpRNDZfMTVoYTQ2dEtRS3lRR0JSTlRkeFBfVjBjUUNMdnFXNXNVd3QtN1FrQTFHXzJxN0xROFc5ZEJRMzk3YnVRZmt0aGZONEVTQUdROVhYVzZTRkRBMWJybFptUXhOOEpRRW04SHBNS0xqUVp4cVh1eWlMVHBrVUk3em5JUkNoTVAwOFJ3ZnM2enFtMTNiSjAxZjhNc3VQaURGdl90OA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSU1ZMFc2MVd4cVVHTTZrX1JORWhCc3RHTExURVNnMmxTOEJwa2VLLWZRTUVuY2hjelM4TlAxMC1LVDlpN1dFbzdrb0Flb1NHY05GX1J2NDVsdVplT195Q3FlUnJPU0FSLUdoSURDQ0hWaVgwWVUxZDRMdk5XRHZqNFdpZ0NDZlNwbXJ4dzNSbGNTSkYyNVVJUVlSYUlEZTBhTkRLblhMY2hfTXVqZTQ2c2pwUVV0T19xODdPOW5nYnhpRTV3OW1mOGFub1gtdHFVbTFCMXJIZlhKS1A2WktadlB0Vnh3Zy1QMWNCM2Q1VEpTem45WVFJNW1CZzNEVFBGWFVRcDhEUkpSVWItMEpNVXZHX2N4WlV5TG5FbDJ1VVdPVWpSSXZaSElR?oc=5"
     },
     {
-      "title": "盤中速報 - Arbitrum大跌8.4%，報0.11美元",
-      "content": "Arbitrum(ARB)在過去 24 小時內跌幅超過8.4%，最新價格0.11美元，總成交量達0.09億美元，總市值6.53億美元，目前市值排名第 34 名。近 1 日最高價：0.12美元，近 1 日最低價：0.11美元，流通供給量：5,939,074,958。歷史漲跌幅 近 1 週：-11",
+      "title": "印度假酒案釀16死　至少600人住院",
+      "content": "印度官員表示，東北部曼尼普爾邦（Manipur）假酒事件的死亡人數已增至16人，另有至少600人疑似飲用摻有有害物質的酒...",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6669734"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9894247"
     },
     {
-      "title": "盤中速報 - LINK大跌8.03%，報8.193美元",
-      "content": "LINK(LINK)在過去 24 小時內跌幅超過8.03%，最新價格8.193美元，總成交量達0.28億美元，總市值58.64億美元，目前市值排名第 10 名。近 1 日最高價：8.929美元，近 1 日最低價：8.112美元，流通供給量：708,099,970。Chainlink平台旨在將智慧合約",
+      "title": "「現實比虛構世界還荒誕」 電玩大作 GTA 系列何去何從？",
+      "content": "《俠盜獵車手6》（GTA 6）19日於全球盛大上市，將成為史上最大規模的電玩遊戲發行。",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6669733"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/122381/9894224"
     },
     {
-      "title": "台股暴跌2393點！女星慘賠300萬 前主播自嘲剩69元露宿街頭 - Yahoo新聞",
-      "content": "台股暴跌2393點！女星慘賠300萬 前主播自嘲剩69元露宿街頭 Yahoo新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxNUXo5OWFfdGxvVmhHXzA0dlpjekxLY2xWeTBJcWpRaXA0cTZ0ZVdkNko4cTliRi12M003ZDNQVmtOcThHUUhGVnhtVXExOFowaGJoek5FU0lwc3V3bi12Sm1wZ0FERW9kUEpxNHpOTW1MQUw5bGRlMzM1bDA5QkhGbW5DcDFnRHlFSkRNS1pJUFZubW9YMUIyWDhaNDZvNTJEOEpsd0JLVnBmTlpBNnpTX2VvZk1QbmZFRmdBdWJtVXd4RUdURENGWVlsNTM1T0xfMG9IZEthWVBCNU9naVJXaGtEM0MyUjZuUEdRV3N4TEEyckw2LXI5azBOeThCbkpKOGVmN2ZrNnZsVDJydmRtc2l3cXpqc0FGZmxKMUtjQ2VEVXA4dTJXdDhWMlJMTksxcG5BdWxjeHVDOVhCckNjVTRoMGFrSkd0VmtKWm14cTZ4c2VEaGl5UTExOVFUZw?oc=5"
-    },
-    {
-      "title": "'Fast Money' traders react to Friday's sell-off - CNBC",
-      "content": "'Fast Money' traders react to Friday's sell-off CNBC",
+      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - CNBC",
+      "content": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcmYyWDV0YktrM29IdzNma2FmQm90cEVZQVkzY3pxNHlCNlB0d25NRWRDandtS1QxbXpCUlgtOElmSTNZaWVtYnBTTEZfU2g3cE81TFhOeFlheVFGWDFhbUhqSlp1ODNOdjR0Vm1LZnVyM2R2ZmUwZjBGWmVtQ1Z5andEb3lBaTlVR21ROEdrczQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0VZVXR1UlQzMnJkMmlIMWVkTnVPMF9VMGRoajRCWlR0dVhHNWI1R0lSWGJGaVgwbzU4dXJFbkR1NFJLWHZBMXhtT2d5XzRkMEpKbWhPVFN6aDdjWHU2Wkh2ZFhxZUU1VmU4MHoyVHE1VWtFSTVkQmJnN0NtUzltdWpjODhXbkJLUjQ5OXdmbWVNeDNpbzdJYU1VSHB6WE1HeWwwdmpwTVHSAa4BQVVfeXFMTTRwXzk5eXFuNGg2WXFYTGhKX3VsU0xPNmpGMWF0STFFRGNsRkhnT3hHMEZXUjZpM0J6S2JaWUtwX1VmWTZiUklZTmRSU0NvU0hoLVRkY3pjLTNLblpMZm9BTDhaTUU4WDdRYlV1ZExTVWZNZkNRY1RDOEw0akJFMm8za3RTSmpNZFcwdno2YmprcXgyMlgwdy0tdEdjZW41TGdTUjhOcXFNbEJodG5B?oc=5"
     },
     {
-      "title": "Why Anthropic's blockbuster IPO valuation couldn't shake the AI stock selloff - CNBC",
-      "content": "Why Anthropic's blockbuster IPO valuation couldn't shake the AI stock selloff CNBC",
+      "title": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over - CNBC",
+      "content": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE90YWJYMjBRbTlBb2JWM2hUektMRU45aWpYTGFweEdwYnpKbnUxZW5ZZmpRZldwOE1DTkNJNW03RmlXRXJ2eHpkam42WVdjSkVKSnhQTXVqZVpnaUFQdWlwQTVWZnRma3dYYUlqajRzdHlVQ1FxRVBIN2YwQ0hBMTTSAYQBQVVfeXFMT3NHN0pIT3ZMVktfX1pJRE5GV1JqUFcyQmhtSnczMjhLY2NNUXYyYUJIT3BtQ0JUeW5oLTBMenpSN0VVcVN1S245OHAxd29FMFdMZjY4ektWMW15Q29vMVhfRkh0TExJdS16OVdrOG1BbHN6cV9vWVpNZEdHa1RfNk5tUVZs?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFU3VkxUNnJzUnJmWHdjcnlmVkdwYV94QjJPdHJfTTIwRFBkMjJiUi1yRVJkc0JJcWpURDd1MGhHZ1haM1RKZlhQRHB6c0lwZ1FfRmY2bUo5R1VtWm1HLUNkSHVUVnVGQkJVanRORmZiYjM5dUZibFRqQTBUV2FjeC1Xb05QVjMtNnJRWGhhcjZEYmtuUEF5cnZSSEJYeEw1MFNRMTVMV2dmQQ?oc=5"
     },
     {
-      "title": "Closing Bell panel assesses sharp selloff as Nvidia, AI stocks tumble - CNBC",
-      "content": "Closing Bell panel assesses sharp selloff as Nvidia, AI stocks tumble CNBC",
+      "title": "The five best stocks to buy before year-end, according to Bank of America - CNBC",
+      "content": "The five best stocks to buy before year-end, according to Bank of America CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQ1g0UXZ5OXJuVHpnN1lqWUk1OURVWVRkdDZRemFXcS1hNk1GdTNQcHE1dDdyb0NxbDc4R0hTTDlFMG1IdnJWbThPSGNqTzVVWXJxR09Lamh6WGZaSWZvVm12X05zdGpaek1zZVRWcWhEYk1sM0lEblZjNURGOTVWdXVmaXdnMW5RWkdZY1dwTV9hdTcwTGVWWlY4UmNocWhGaUk5UHE0SWJxUTFiZUtSNQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTlRSjRHN0hZTlExejduNl9jNUZfZ0xGMllObkFNTmJ5MHlCU3dqVWhKa05sWklObklaelVMaWVwMEdhT29kV2RrSkM5LUNfa19YbnZ3VVM1N2dRQ08xSlJWRVdEeUZ4bElYZ25ucHpsY1NseS1lTG0za1drTkJJTmRpaE5adHRpeGRrNXFhT2NSa28tblRoRHJwVDhlZ2cwR0QxOGFEd3A?oc=5"
+    },
+    {
+      "title": "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation - Yahoo Finance",
+      "content": "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation Yahoo Finance",
+      "category": "international",
+      "source": "Reuters Business",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFpvTWlhQ3lXU3BpQ1RNSUpvMzhKRDBwVDVTV2RsbnVucVJLRE9IMUZtbkVsOFpyQ3N1by1kcFNzTTBkcTl6M29BeUNyQkZYc3dZeXh0N0ttTElZcDIwYUJJcmpfSEJpYVJXa09PTDhFT3Q4WFVvYkd2SXF4ZFpXc2NXMThNVVExZnR2UEZrWDR3VEFXbGU5VHc3VEtUZEVj?oc=5"
     }
   ]
 }

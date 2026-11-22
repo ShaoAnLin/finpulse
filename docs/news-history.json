@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-22",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC",
+          "feature": "Anthropic創下史上最大IPO，同時美股科技股迎來自2020以來最差一週\n📰 發生什麼事\nAnthropic於本週四在納斯達克以每股價格募得935億美元，外加260億美元的企業配售，市值一度達1.8兆美元，首日股價上漲17%。然而同一週，受Nvidia股價暴跌23%帶動，納斯達克指數五天累跌10%，創下自COVID初期以來最差表現。\n🔍 背景與來龍去脈\nAnthropic是由前OpenAI核心成員創立的純AI開發商，過去六年募資逾1410億美元，背後有Menlo、Lightspeed等巨額風投。2021年風投IPO高峰後，上市公司數量大幅下降，2025年僅34家科技公司IPO。AI熱潮推升Nvidia等硬體股，但同時也引發資金成本上升、利率走高與監管疑慮，使得市場對高估值AI公司持觀望態度。Anthropic的上市被視為創投最後的退出窗口，也測試市場是否願意接受「純AI」公司高估值。\n🌐 影響\n對美國市場而言，Anthropic的成功提供了創投資金回流的正面訊號，但亦凸顯AI股與傳統科技股的分化，投資人可能重新評估風險敞口。對台灣而言，AI相關產業鏈（半導體、雲端算力）可能受惠，資金流入與人才需求將持續增長；同時，台股科技股在全球AI情緒波動中亦可能出現同步波動，投資者需留意美國利率與AI政策變化對本地市場的連鎖反應。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "金價10個月跌掉2,000美元 底部到了沒?",
+          "feature": "金價跌至14個月新低，市場恐慌與利率升壓交織\n📰 發生什麼事\n金價20日連跌五天，一度跌至每盎司3,513.54美元，創14個月新低，週跌幅近9%，為今年3月以來最大週線跌幅。\n🔍 背景與來龍去脈\n美聯儲12月升息預期提升實質利率，使黃金失去收益吸引力；AI概念股自年初大漲後持續獲利了結，資金從黃金流出。同步，Goldman Sachs等機構的恐慌指數逼近最高，顯示系統性賣壓加劇，市場避險情緒下降，導致傳統安全資產需求減弱。\n🌐 影響\n金價大幅下滑削減投資人保值收益，珠寶與金礦股面臨股價壓力；台灣民眾持有的黃金ETF或實體金價回報下降，可能轉向美元存款或其他資產；同時反映加息預期與科技股波動，進一步影響台股資金流向與新台幣匯率，整體市場波動性提升。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/122381/9894225"
+        }
+      ]
+    },
+    {
       "date": "2026-11-21",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "新台幣破33元，央行承諾10月每週干預一次\n📰 發生什麼事：本月16日，央行總裁楊金龍於立法院財政委員會說明，因新台幣兌美元匯率快速跌破33關口，央行將自10月起每週至少一次進場買入美元、賣出新台幣，以穩定匯市。當日即見央行外匯市場干預單筆成交逾150億台幣。\n🔍 背景與來龍去脈：近月美元因美聯儲維持高利率、加息預期升溫，全球資金流向美元資產；同時中國經濟放緩、台灣出口受美國需求波動衝擊，導致資本外流與新台幣供需失衡。央行去年曾於年中短暫干預，但未能形成持續支撐，市場預期若不加碼干預匯率波動將加大。\n🌐 影響：①股市與債市短線可能因匯率不確定性出現波動；②進口成本上升，油品與原物料企業毛利受壓；③出國旅遊與留學族群的美元需求增大，實質負擔提升；④若干預有效，將減少資本外流壓力，維持金融穩定，給予企業與民眾較可預測的經濟環境。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNcGc4RFZPYWM4Nk9tSldacjREbEIyRE9uLXNEczNlTlRXRGNOLXQxWHlFT05odE90dE15MXFtODUyZ3J6WDlGdGNLSG1aNHlGTkdhbUZucHZvMVRPUGR1N3JwUmZIS09laWpodGZYNDlBZnVYMldFb3ZMRDRlVnJlU1dYc2pjVXpGdHBQNlUxY182akhSODM1UFpZMUFael9MOU1kVlo1R3VJOU1qcFlFT2prV2JJdFVwVmp4a21mTDVNOUFfQ2xOdkFucTBCMjlodWo3d2FCblpqZDlIRTdKM3N0X182UjVYTE5fQjltanVqODhibFozNWdoYTM3Rkk4V2RzcDNIaTk2STN3ZHdOMXc0U0txT3F1ZHFjamdXdmMxTzlreWhTRTJyV1RVM00zbTdJa1g5NXpKUFRWTFBLQXhWUWx3c1ZYSlF5c0pTWVJUV2JfTGowNjU4a0xmck9Dd2lIY2c4ZnRhRkExbW96elhTTE9jUG1fcVFxZTR0bFpxRTR2a2pSWmVPVFVUSHV4cUlPVldYV3FrckdPdkp3VE9hWjY?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-15",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China, US discuss tariffs, farm trade ahead of Xi-Trump meeting - CNBC",
-          "feature": "中美首度貿易委員會會談聚焦關稅削減與農產品貿易\n📰 發生什麼事：中國商務部宣布，11月13日美國與中國在北京舉行首屆貿易委員會會談，雙方就先前協議的「30億美元對等」關稅削減、總額60億美元的互惠關稅減免以及美國農產品採購等議題進行深入交流。會後未透露具體成果，僅表示將持續利用委員會機制推動談判。\n🔍 背景與來龍去脈：自2024年9月美中領袖華盛頓峰會後，雙方提出以各削減30億美元關稅為基礎的60億美元總額方案，並承諾中國每年購買約170億美元美國農產品至2028年。然而中國農品進口量持續下降，2025年非大豆農產品已接近七年低點。北京多次要求華盛頓先履行關稅減免，才能提升農品採購。此次會議正值APEC深圳峰會前夕，旨在為兩國領導人面對面談判鋪路。\n🌐 影響：若關稅削減落實，美國農民可望恢復出口動力，減少國內農產品價格波動；中國則可降低農產品成本，提升食品供給安全。對台灣而言，相關農產品價格變動會影響本地糧食與肉類成本，同時美中貿易緩和或有助於台灣半導體與高科技供應鏈的穩定，降低因關稅爭端帶來的外部風險。投資者也會關注兩國談判走向，作為全球市場情緒的指標。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1SX0FBdkdnb0NoRXdMaWlrZlpyQk1oaEo0bnZSTXJxTDlacFpWTTZldUtrSkg5TGdFcHBxUzFwUlhoOGYtMHh5QUhwbEpFZEtndVhPSEZBNHRRWU1fYndac2VKbXZOWHoyOE1UV3JOcHprWWZFYS1kdS1B0gF_QVVfeXFMT3dWUTRlMEN4SDVQQ3lKWnJlM1AtVHdxakxDNnJ4Wl9QWHdjcURIMndkSzIwdUFyQlVTZXpYdEMxYWoxR0JWaFZBNmYwYm4zYmZfY3NvTDVzb2h3UE4tT18xZmFGd3ZubnVpc1NpLW9IZXBpSTNUVTVoSEIzOTlvMA?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "從排球校隊到央行總裁 楊金龍第4季還會有「勇敢的決定」？ - udn",
-          "feature": "「從排球場到央行總裁，楊金龍的勇敢抉擇」\n📰 發生什麼事：央行總裁楊金龍今年面臨第4季貨幣政策走向，同時預估明年度繳庫預算將破2200億元，市場關注他是否再做「勇敢的決定」。\n🔍 背景與來龍去脈：楊金龍出身屏東，曾是政大排球校隊，以拼勁聞名。2000年代進入財政部、金管會，2021任央行總裁。2023年第一季升息半碼被視為敢於抗通膨的舉動；近期外資持續匯出約100億美元，台幣貶值，引發政經討論。央行近年連續四年繳庫逾2000億，成為財政穩定關鍵。\n🌐 影響：若楊金龍在第4季再次加息或調整政策，將直接影響企業融資成本、房貸利率及新台幣匯率；成功達標繳庫目標可減輕政府財政壓力，提升國際信用；相反若政策失衡，或加劇資金外流，市場波動及民眾購屋、消費信心皆可能受挫。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE92bXFVQVBMLURxRG5XN19mSVZqYTFhX0w0YmRvNUNjY3dMelFubjQ4cTlaTEs0SURHbmJmRm1XTEo1Rm9lT2x2SzZ4RXc4UlM3?oc=5"
         }
       ]
     }
