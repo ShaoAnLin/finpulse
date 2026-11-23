@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-23",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery - CNBC",
+          "feature": "量子運算首度在能源領域見真章，藥物發現仍待時日\n📰 發生什麼事\nQuantum computing 仍被視為未來技術，但多家公司已將焦點從藥物研發轉向能源應用。Phasecraft、Quantinuum 等在美國與英國與電網、太陽能材料、氫氣催化等項目合作，測試量子演算法能否在優化計算上超越傳統電腦。\n🔍 背景與來龍去脈\n過去十年，量子計算以模擬分子、加速藥物設計為賣點，吸引巨額投資。然而量子硬體仍受錯誤率與規模限制，藥物模擬需高度精度，短期難以商業化。相較之下，電網負載平衡、材料最佳化屬於複雜優化問題，對精度要求較低，且可直接量化節能效益，成為業界近期測試的切入點。\n🌐 影響\n若量子演算法真能在電網或太陽能材料上提升上千倍效率，將加速能源轉型、降低電費，相關供應鏈（如台灣的半導體與新能源設備）可能受惠，亦提升本地研發資金投入。投資者短期內仍看空量子股，但能源領域的早期成功或改變市場預期，帶動相關產業股價波動。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQXFDMU80SFRjQ0VRQ0h4T29GS0doY3hpSFZ0NlVzRllna19oT3E5TG5yM2VVdzlFaUI4T3Bseld6MlJiaU5mWjloQno0a254OE9uTmZnbUFGVjBNOEJlS0VKLXhnV0Vhd3o4aWQxLUFtSndTblliZVhPWEJqdTDSAYQBQVVfeXFMT0R2REROU1RjRlFpOVBWdlBUdGhDLWZua29JY2pnSkpiRVFMNTgyQnRybTR1M3U4SW1nSDRFWlowX194MGctb3JfUDcya0lhbGJsYXpfbE9JYTRYY3A3R21FRmpTUVlSR3ctT1M3TW5IblpfU3BzMFVFLXVqUU9MVmp6MWpY?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "比婚外情更大危機！輝達合作台積電30年沒簽約 黃仁勳握手協議成隱憂",
+          "feature": "黃仁勳下台，輝達與台積電30年未簽合約的風險浮現\n📰 發生什麼事：輝達創辦人黃仁勳因婚外情與共諜疑雲辭職，華爾街日報指出他與台積電長達近30年的供應合作大多依個人信任，未簽正式合約。黃離任後，投資人擔心這層「握手協議」能否延續，成為市場新隱憂。\n🔍 背景與來龍去脈：自2000年代初，輝達即以AI加速卡需求拉高台積電先進製程產能，雙方透過長期框架協議（LTA）與產能預約鎖定供應，實務上卻多以口頭備忘代替正式合約。此做法源於黃仁勳個人魅力與美國半導體供應鏈高度集中，讓雙方在未簽合約的情況下仍保持數千億美元訂單。2026年美國擴大晶片出口管制、AI平台Vera Rubin推遲，以及黃本人醜聞，使得原本穩固的「個人關係」成為脆弱點。\n🌐 影響：台股受震盪，半導體板塊連跌，台積電期貨短線受壓；若合作斷裂，輝達AI晶片供應鏈或需尋找其他代工，可能延遲新平台上市，影響全球AI基礎建設投資。對台灣而言，除市場情緒波動外，產業仍憑技術與長期框架合約保有底氣，然而投資者與供應鏈管理層需重新評估依賴單一客戶的風險，並加強合約化治理。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9895991"
+        }
+      ]
+    },
+    {
       "date": "2026-11-22",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "黃仁勳突辭執行長　輝達內部掀回任與人才流失爭議\n📰 12日，輝達創辦人兼CEO黃仁勳因捲入婚外情與疑似中國情報人員交往爭議，正式辭去執行長、總裁及董事職務。董事會由財務長Colette Kress暫代，未立即討論復任。資深開發技術總監卡里爾致函約60名直屬主管及10名董事，警告若不讓黃回任，核心人才恐大規模離職。\n🔍 黃仁勳自2000年創立輝達以來，將GPU從遊戲推向AI運算，使公司市值突破5兆美元，且以扁平化、與員工緊密互動聞名。近期個人醜聞及與中國資料中心高層交往被曝，引發美國政局關注。矽谷多位科技領袖（如馬斯克、Kalanick）及逾18萬人簽署公開信要求復職，顯示其人脈與領導力是公司關鍵資產。\n🌐 若核心研發團隊跟隨黃離開，輝達在AI晶片領先地位可能受衝擊，股價波動將波及全球科技ETF，亦影響台灣半導體供應鏈（如台積電）的需求。人才外流或讓OpenAI等競爭者加速布局，提升台灣AI投資與就業機會，同時提醒投資人關注公司治理風險。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/5599/9883779"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-16",
-      "featured": [
-        {
-          "category": "international",
-          "title": "China’s slowdown deepens in October as industrial output, retail sales, investment miss estimates - CNBC",
-          "feature": "中國10月經濟放緩加劇 三大指標雙雙失望\n📰 發生什麼事：國家統計局公布10月數據，工業產值年增4.8%（低於預期5.3%），社會消費品零售總額僅增0.4%（預測0.8%），固定資產投資同比下降8.1%，投資降幅創今年最大。\n🔍 背景與來龍去脈：去年底至今，中國經濟受房市低迷、疫情後需求缺口、外需疲弱等多重衝擊。政府雖於本年推出降息、基建補貼等刺激方案，但結構性問題—產能過剩與消費信心不足—仍未解決。投資連續下滑使固定資產增速由去年正增轉為大幅負增，勞動市場青年失業率逼近18%。\n🌐 影響：短期內出口導向產業及原物料需求可能進一步收縮，全球大宗商品價格承壓；對台灣而言，若中國需求持續疲軟，對台灣半導體、機械等高科技出口形成下行壓力，同時台幣匯率受資金流向影響波動。投資人需關注人民幣走勢與全球供應鏈重新配置的風險。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR2M1YTlBdHBScHZBdV9FWFhGcWgzVGVxbG9Cb044OXdIYnRtZ2l0RFlnY09kUW9vWGZjNGRZOVdkUXRvTVBEa0MxMnItWDZsVzhRVkJWNTNydURkZmFaSkt6ZGNkSWRZWnNrLW9kd2dTeVU4eVduUThfZHMtbzA1Q3ZxNGtQeHhkazNjWWh0Vk1nOWczWjdZ0gGcAUFVX3lxTFBEMnRlbUVNYkswWVhGOGZrVEx0OHdCU1RZbU91MWxmTDljaVV1LUIwWXRBbjNsakNPOFoyZThlY3BrZU5PUUZMRDVsMmJpMXJ3UVprVzg2ekotMHNTS00xdDBLVkdjbGdMaktOXzA5ODNQZERpUFNIWE56dFpfc3BVaHppZnQzT3g0U005Uld3dGJSSk0wZ0E3NktEUw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "新台幣快貶破33元！央行楊金龍鬆口：10月每周至少出手穩匯一次 - Yahoo股市",
-          "feature": "新台幣破33元，央行承諾10月每週干預一次\n📰 發生什麼事：本月16日，央行總裁楊金龍於立法院財政委員會說明，因新台幣兌美元匯率快速跌破33關口，央行將自10月起每週至少一次進場買入美元、賣出新台幣，以穩定匯市。當日即見央行外匯市場干預單筆成交逾150億台幣。\n🔍 背景與來龍去脈：近月美元因美聯儲維持高利率、加息預期升溫，全球資金流向美元資產；同時中國經濟放緩、台灣出口受美國需求波動衝擊，導致資本外流與新台幣供需失衡。央行去年曾於年中短暫干預，但未能形成持續支撐，市場預期若不加碼干預匯率波動將加大。\n🌐 影響：①股市與債市短線可能因匯率不確定性出現波動；②進口成本上升，油品與原物料企業毛利受壓；③出國旅遊與留學族群的美元需求增大，實質負擔提升；④若干預有效，將減少資本外流壓力，維持金融穩定，給予企業與民眾較可預測的經濟環境。",
-          "source": "Google TW Finance",
-          "link": "https://news.google.com/rss/articles/CBMipANBVV95cUxNcGc4RFZPYWM4Nk9tSldacjREbEIyRE9uLXNEczNlTlRXRGNOLXQxWHlFT05odE90dE15MXFtODUyZ3J6WDlGdGNLSG1aNHlGTkdhbUZucHZvMVRPUGR1N3JwUmZIS09laWpodGZYNDlBZnVYMldFb3ZMRDRlVnJlU1dYc2pjVXpGdHBQNlUxY182akhSODM1UFpZMUFael9MOU1kVlo1R3VJOU1qcFlFT2prV2JJdFVwVmp4a21mTDVNOUFfQ2xOdkFucTBCMjlodWo3d2FCblpqZDlIRTdKM3N0X182UjVYTE5fQjltanVqODhibFozNWdoYTM3Rkk4V2RzcDNIaTk2STN3ZHdOMXc0U0txT3F1ZHFjamdXdmMxTzlreWhTRTJyV1RVM00zbTdJa1g5NXpKUFRWTFBLQXhWUWx3c1ZYSlF5c0pTWVJUV2JfTGowNjU4a0xmck9Dd2lIY2c4ZnRhRkExbW96elhTTE9jUG1fcVFxZTR0bFpxRTR2a2pSWmVPVFVUSHV4cUlPVldYV3FrckdPdkp3VE9hWjY?oc=5"
         }
       ]
     }

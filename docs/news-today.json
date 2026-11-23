@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-22",
+  "date": "2026-11-23",
   "featured": [
     {
       "category": "international",
-      "title": "Anthropic’s record IPO collides with tech’s worst week on Wall Street since 2020 - CNBC",
-      "feature": "Anthropic創下史上最大IPO，同時美股科技股迎來自2020以來最差一週\n📰 發生什麼事\nAnthropic於本週四在納斯達克以每股價格募得935億美元，外加260億美元的企業配售，市值一度達1.8兆美元，首日股價上漲17%。然而同一週，受Nvidia股價暴跌23%帶動，納斯達克指數五天累跌10%，創下自COVID初期以來最差表現。\n🔍 背景與來龍去脈\nAnthropic是由前OpenAI核心成員創立的純AI開發商，過去六年募資逾1410億美元，背後有Menlo、Lightspeed等巨額風投。2021年風投IPO高峰後，上市公司數量大幅下降，2025年僅34家科技公司IPO。AI熱潮推升Nvidia等硬體股，但同時也引發資金成本上升、利率走高與監管疑慮，使得市場對高估值AI公司持觀望態度。Anthropic的上市被視為創投最後的退出窗口，也測試市場是否願意接受「純AI」公司高估值。\n🌐 影響\n對美國市場而言，Anthropic的成功提供了創投資金回流的正面訊號，但亦凸顯AI股與傳統科技股的分化，投資人可能重新評估風險敞口。對台灣而言，AI相關產業鏈（半導體、雲端算力）可能受惠，資金流入與人才需求將持續增長；同時，台股科技股在全球AI情緒波動中亦可能出現同步波動，投資者需留意美國利率與AI政策變化對本地市場的連鎖反應。",
+      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery - CNBC",
+      "feature": "量子運算首度在能源領域見真章，藥物發現仍待時日\n📰 發生什麼事\nQuantum computing 仍被視為未來技術，但多家公司已將焦點從藥物研發轉向能源應用。Phasecraft、Quantinuum 等在美國與英國與電網、太陽能材料、氫氣催化等項目合作，測試量子演算法能否在優化計算上超越傳統電腦。\n🔍 背景與來龍去脈\n過去十年，量子計算以模擬分子、加速藥物設計為賣點，吸引巨額投資。然而量子硬體仍受錯誤率與規模限制，藥物模擬需高度精度，短期難以商業化。相較之下，電網負載平衡、材料最佳化屬於複雜優化問題，對精度要求較低，且可直接量化節能效益，成為業界近期測試的切入點。\n🌐 影響\n若量子演算法真能在電網或太陽能材料上提升上千倍效率，將加速能源轉型、降低電費，相關供應鏈（如台灣的半導體與新能源設備）可能受惠，亦提升本地研發資金投入。投資者短期內仍看空量子股，但能源領域的早期成功或改變市場預期，帶動相關產業股價波動。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBuZ3QwZ1Qzd0FwWVhzOWhhbWZ5YWEzNTI0anpyemhZQXF6LVM1d202X3VSVGthTFNUaE13UlNfWUx5VkNhTEduOHctbWZtVlloME45dGFBMDA3OGpWdDhXdTUxNFVhSFpya21aMnpGVHHSAXZBVV95cUxORlNoeVVtbW1fLU1EY01EellhNHg0VldaY0Y5R3Y5enVEaTdZZTZENDJMWFNrblBqTEtORGZFRlZacjBwOWQ2ZXNjSF9KZFNsNkQ4WEtTallYdnVHMm5JRVBMYWl5bHhlb19QUzlIcUZOTXh2U1hB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQXFDMU80SFRjQ0VRQ0h4T29GS0doY3hpSFZ0NlVzRllna19oT3E5TG5yM2VVdzlFaUI4T3Bseld6MlJiaU5mWjloQno0a254OE9uTmZnbUFGVjBNOEJlS0VKLXhnV0Vhd3o4aWQxLUFtSndTblliZVhPWEJqdTDSAYQBQVVfeXFMT0R2REROU1RjRlFpOVBWdlBUdGhDLWZua29JY2pnSkpiRVFMNTgyQnRybTR1M3U4SW1nSDRFWlowX194MGctb3JfUDcya0lhbGJsYXpfbE9JYTRYY3A3R21FRmpTUVlSR3ctT1M3TW5IblpfU3BzMFVFLXVqUU9MVmp6MWpY?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "金價10個月跌掉2,000美元 底部到了沒?",
-      "feature": "金價跌至14個月新低，市場恐慌與利率升壓交織\n📰 發生什麼事\n金價20日連跌五天，一度跌至每盎司3,513.54美元，創14個月新低，週跌幅近9%，為今年3月以來最大週線跌幅。\n🔍 背景與來龍去脈\n美聯儲12月升息預期提升實質利率，使黃金失去收益吸引力；AI概念股自年初大漲後持續獲利了結，資金從黃金流出。同步，Goldman Sachs等機構的恐慌指數逼近最高，顯示系統性賣壓加劇，市場避險情緒下降，導致傳統安全資產需求減弱。\n🌐 影響\n金價大幅下滑削減投資人保值收益，珠寶與金礦股面臨股價壓力；台灣民眾持有的黃金ETF或實體金價回報下降，可能轉向美元存款或其他資產；同時反映加息預期與科技股波動，進一步影響台股資金流向與新台幣匯率，整體市場波動性提升。",
+      "title": "比婚外情更大危機！輝達合作台積電30年沒簽約 黃仁勳握手協議成隱憂",
+      "feature": "黃仁勳下台，輝達與台積電30年未簽合約的風險浮現\n📰 發生什麼事：輝達創辦人黃仁勳因婚外情與共諜疑雲辭職，華爾街日報指出他與台積電長達近30年的供應合作大多依個人信任，未簽正式合約。黃離任後，投資人擔心這層「握手協議」能否延續，成為市場新隱憂。\n🔍 背景與來龍去脈：自2000年代初，輝達即以AI加速卡需求拉高台積電先進製程產能，雙方透過長期框架協議（LTA）與產能預約鎖定供應，實務上卻多以口頭備忘代替正式合約。此做法源於黃仁勳個人魅力與美國半導體供應鏈高度集中，讓雙方在未簽合約的情況下仍保持數千億美元訂單。2026年美國擴大晶片出口管制、AI平台Vera Rubin推遲，以及黃本人醜聞，使得原本穩固的「個人關係」成為脆弱點。\n🌐 影響：台股受震盪，半導體板塊連跌，台積電期貨短線受壓；若合作斷裂，輝達AI晶片供應鏈或需尋找其他代工，可能延遲新平台上市，影響全球AI基礎建設投資。對台灣而言，除市場情緒波動外，產業仍憑技術與長期框架合約保有底氣，然而投資者與供應鏈管理層需重新評估依賴單一客戶的風險，並加強合約化治理。",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/122381/9894225"
+      "link": "https://money.udn.com/money/story/5599/9895991"
     }
   ],
   "candidates": [
     {
-      "title": "利空測試台股韌性 回檔正是調整持倉好時機 - 自由時報",
-      "content": "利空測試台股韌性 回檔正是調整持倉好時機 自由時報",
+      "title": "台股驚天急拉千點！巴逆逆才喊「要出掉台積電」大盤直衝37K 網跪：一己之力救股市 - Yahoo股市",
+      "content": "台股驚天急拉千點！巴逆逆才喊「要出掉台積電」大盤直衝37K 網跪：一己之力救股市 Yahoo股市",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1SRm9wdVBmYTNyME1nTVRqRFpjNGFCMTRhdDB5TXpXajhIalY5U0xPdjB1T0x5aGNqN3Z4ZnVpbG45U0E2Mlo4bFZsMTJlSU5tVW5KZDh1QWg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPUkN4THVoYWZtZlFWZHUyZS1YNVllOWNsQzNlLTItVVFnMTJYeVlZXzRNMDFtcl9seFNfbURWOW5LTFNESTVyRGxkdk40b00tMVd3dVNRSVg2Vkd2OXk0TzBGU1FLVUxwS2c2TS1rTmRMaXhFa0RfTjY2SFVyS3hIZE1xaWY1b0xpOS1yZFIyYzFidE1oeEluRW9OS2xlYThnT25xMnRTeEFUTWNIRVN1SElOYUNNS05VekMtc1pPR0Y2aE1vOUZycXRzQV9SSk92WEVBbGJlaEpFdTJ1ZVFub29tX1BobC1kLXMxekxoVVFuNm03eVJLNlE0SlZ6QS0tdmRGYTlPQk1UX1ZyUkhlREZad3NWZlF6aHpTTkJ4OEdPZmtXekNjNktuNUh6WmVlMnFFUmk2a3M0SFBsSmhpOTVpWjJYRVZKbjZQNHdRbTNfQ0FHakktR3VJS0FmWGo1OWxxLWNvaVFmaWVNc09ZT0R6dHhWajRiOVprUFhiX3BvNm1DeXIyVHVPZm8wWmkz?oc=5"
     },
     {
-      "title": "波蘭控俄羅斯侵犯領空　北約承諾捍衛波蘭每寸領土",
-      "content": "北大西洋公約組織（NATO）秘書長呂特（Mark Rutte）今天在華沙表示，北約將捍衛波蘭的每一寸領土。波蘭20日表示...",
+      "title": "航空業加速減碳　新加坡2030年永續燃料占比拚5%",
+      "content": "亞太永續航空燃料大會今天在新加坡展開，來自世界各地的產官學界代表探討政策規範等議題。新加坡初步目標讓永續航空燃料（SAF...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9894271"
+      "link": "https://money.udn.com/money/story/5599/9896008"
     },
     {
-      "title": "COP31氣候峰會接近達成最終協議　主席國發布新方案",
-      "content": "聯合國氣候變化綱要公約第31次締約方會議（COP31）今天發布一項新方案，主席國澳洲與土耳其期盼藉此就推進對抗全球暖化達...",
+      "title": "〈焦點股〉華新業外收益帶動前三季獲利、同步攻AI商機 價量齊揚",
+      "content": "華新(1605-TW)受惠業外收益帶動，前三季稅後純益達205.36億元，年增逾8倍，每股純益4.63元，本業上，華新積極搶攻AI商機，不銹鋼事業聚焦冷精棒業務，明年有望成長，激勵華新今(23)日價量齊揚，大漲逾半根停板。 華新今天早盤以26.95元開高，盤中最高漲至28.3元，大漲逾",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9894268"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6670074"
     },
     {
-      "title": "目標價奔到30元、41.3元！台股殺7千點「2檔防禦股」EPS衝0.79元、3.14元 法人曝利多 - Yahoo股市",
-      "content": "目標價奔到30元、41.3元！台股殺7千點「2檔防禦股」EPS衝0.79元、3.14元 法人曝利多 Yahoo股市",
+      "title": "〈焦點股〉華新業外收益帶動前三季獲利、同步攻AI商機 價量齊揚 - 鉅亨網",
+      "content": "〈焦點股〉華新業外收益帶動前三季獲利、同步攻AI商機 價量齊揚 鉅亨網",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPSU1ZMFc2MVd4cVVHTTZrX1JORWhCc3RHTExURVNnMmxTOEJwa2VLLWZRTUVuY2hjelM4TlAxMC1LVDlpN1dFbzdrb0Flb1NHY05GX1J2NDVsdVplT195Q3FlUnJPU0FSLUdoSURDQ0hWaVgwWVUxZDRMdk5XRHZqNFdpZ0NDZlNwbXJ4dzNSbGNTSkYyNVVJUVlSYUlEZTBhTkRLblhMY2hfTXVqZTQ2c2pwUVV0T19xODdPOW5nYnhpRTV3OW1mOGFub1gtdHFVbTFCMXJIZlhKS1A2WktadlB0Vnh3Zy1QMWNCM2Q1VEpTem45WVFJNW1CZzNEVFBGWFVRcDhEUkpSVWItMEpNVXZHX2N4WlV5TG5FbDJ1VVdPVWpSSXZaSElR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wdjFsdkZ6VzJfejkxeUk0bVRKWUNlbFNTLWhBTkQ2UU9ZVk1aSEROdlI0dl9scTFkaDR0VEtsdmNjUXZqOThuWWpjYw?oc=5"
     },
     {
-      "title": "印度假酒案釀16死　至少600人住院",
-      "content": "印度官員表示，東北部曼尼普爾邦（Manipur）假酒事件的死亡人數已增至16人，另有至少600人疑似飲用摻有有害物質的酒...",
+      "title": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬",
+      "content": "台股劇烈下殺，投資人轉進指數型ETF，投資人數週增前10名有8檔被動ETF。 0050週增8.1萬人居冠，最新403萬人；11月淨申購已逾2,500億元、全年拚兆元。 國安基金護盤下，資金集中0050與00631L，主動式ETF今年績效落後、信任度下滑。",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9894247"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6670066"
     },
     {
-      "title": "「現實比虛構世界還荒誕」 電玩大作 GTA 系列何去何從？",
-      "content": "《俠盜獵車手6》（GTA 6）19日於全球盛大上市，將成為史上最大規模的電玩遊戲發行。",
+      "title": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬 - 鉅亨網",
+      "content": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬 鉅亨網",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/122381/9894224"
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bzByMnI0Q3BBUDAza1pUdHRfaW5VVXRFWEVNaG5FYXUwdHhoNGtZMms1eXFJc2dPaG9wQkt2R0txdUk3d1JCS005MjBxdlU?oc=5"
     },
     {
-      "title": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates - CNBC",
-      "content": "Russian cargo ship ablaze in Baltic Sea after drone strike, crew evacuates CNBC",
+      "title": "盤中速報 - 大量(3167)股價拉至漲停，漲停價559.0元，成交7,553張",
+      "content": "大量(3167-TW)23日11:37上漲50元，股價漲停報559.0元，委買3張、委賣126張，成交7,553張。主要業務為各種機器之設計製造加工及買賣。各種模具之設計製造加工及買賣。上項有關業務之進出口貿易業務。大量(3167-TW)近5日股價下跌38.23%，集中市場加權指數下跌17.5%，短",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6670075"
+    },
+    {
+      "title": "3 big things we're watching in the market this Thanksgiving week - CNBC",
+      "content": "3 big things we're watching in the market this Thanksgiving week CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOd0VZVXR1UlQzMnJkMmlIMWVkTnVPMF9VMGRoajRCWlR0dVhHNWI1R0lSWGJGaVgwbzU4dXJFbkR1NFJLWHZBMXhtT2d5XzRkMEpKbWhPVFN6aDdjWHU2Wkh2ZFhxZUU1VmU4MHoyVHE1VWtFSTVkQmJnN0NtUzltdWpjODhXbkJLUjQ5OXdmbWVNeDNpbzdJYU1VSHB6WE1HeWwwdmpwTVHSAa4BQVVfeXFMTTRwXzk5eXFuNGg2WXFYTGhKX3VsU0xPNmpGMWF0STFFRGNsRkhnT3hHMEZXUjZpM0J6S2JaWUtwX1VmWTZiUklZTmRSU0NvU0hoLVRkY3pjLTNLblpMZm9BTDhaTUU4WDdRYlV1ZExTVWZNZkNRY1RDOEw0akJFMm8za3RTSmpNZFcwdno2YmprcXgyMlgwdy0tdEdjZW41TGdTUjhOcXFNbEJodG5B?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFpQZ3VYNVBBMkhWd0NaUlk3TS1qUzJxYjNHM3lSVW83LVdDMGpXQlhjbE9iRGsxUllpaEtFRF9fMUZtc0VxQXZJc1A5ZmtXTUhjdktyNzRlTmJzeXJ6WU40dzY2Uk5PT1lnVGoyUzlKbTlaYjJIWUxCMDRDRHZEa3VHY09tRU9mRmRXOWs3M19YMXV4XzBmQWhiOHZKeHg5ZmxoUXVrWG5yc1VUWHluV0pRNkM?oc=5"
     },
     {
-      "title": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over - CNBC",
-      "content": "From trash to treasure: Most hated stocks are winning as AI bull market rolls over CNBC",
+      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward - CNBC",
+      "content": "Let's weigh the cons — and pros — of this brutal market to find a way forward CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOcFU3VkxUNnJzUnJmWHdjcnlmVkdwYV94QjJPdHJfTTIwRFBkMjJiUi1yRVJkc0JJcWpURDd1MGhHZ1haM1RKZlhQRHB6c0lwZ1FfRmY2bUo5R1VtWm1HLUNkSHVUVnVGQkJVanRORmZiYjM5dUZibFRqQTBUV2FjeC1Xb05QVjMtNnJRWGhhcjZEYmtuUEF5cnZSSEJYeEw1MFNRMTVMV2dmQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDNDcno4NDRpS2J2R2s4eWVCNTJlZE9DcUZhSHR2M2ZhNjliWkUyc1hMSGJQZjJEUFcxYUg5QlFKQWI0LWxzUzhRX040UmJ4TFluTGhDNmI0eWhCNWw0aEN5Q3Rqd29fT1A4RFZycWhDVXNOd0wwcHU1cEtxWXQwM3g2MXQxczFvR2RXOXQ1cVMyb1dqYS1EWjU1cmVFZGlfVWx0ZTE3ckMwZXNWZmJLemRsaHFDcnc?oc=5"
     },
     {
-      "title": "The five best stocks to buy before year-end, according to Bank of America - CNBC",
-      "content": "The five best stocks to buy before year-end, according to Bank of America CNBC",
+      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
+      "content": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQMTlRSjRHN0hZTlExejduNl9jNUZfZ0xGMllObkFNTmJ5MHlCU3dqVWhKa05sWklObklaelVMaWVwMEdhT29kV2RrSkM5LUNfa19YbnZ3VVM1N2dRQ08xSlJWRVdEeUZ4bElYZ25ucHpsY1NseS1lTG0za1drTkJJTmRpaE5adHRpeGRrNXFhT2NSa28tblRoRHJwVDhlZ2cwR0QxOGFEd3A?oc=5"
-    },
-    {
-      "title": "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation - Yahoo Finance",
-      "content": "President Donald Trump's Economy and the AI-Driven Stock Market Are in Trouble, Thanks to a Newly Identified Source of Inflation Yahoo Finance",
-      "category": "international",
-      "source": "Reuters Business",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPaFpvTWlhQ3lXU3BpQ1RNSUpvMzhKRDBwVDVTV2RsbnVucVJLRE9IMUZtbkVsOFpyQ3N1by1kcFNzTTBkcTl6M29BeUNyQkZYc3dZeXh0N0ttTElZcDIwYUJJcmpfSEJpYVJXa09PTDhFT3Q4WFVvYkd2SXF4ZFpXc2NXMThNVVExZnR2UEZrWDR3VEFXbGU5VHc3VEtUZEVj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0RDNndpWF9WMmU5VTlkSmJQRXVDTFpxbXJLQlYyTW9vR1FVYl9VYUJsZ2Y3eVJKdWJ4NWxMMV9kLXR3YndXMTJHTzBXRjRnVmYxclQxOE5xaUNjUVgwNnY1dk5fdURkX1liMElsS0lZRmFheUdoeGxsdzdTQTQtRW4teTZLN2tEQ0NTaTZwTDlRdkhySFV6eHBJdURrUi1IbXfSAacBQVVfeXFMTXNEMWRjMG9SMmJTbWpfV2Y0bGx3S2RyRTFERndfb2M4N0FCUEx1dXZLaC1FYmdQR2ZDbnFsa09kLWdKWlNlYnVhXzBiT3FfRG1VUmF5RWZrUjV6QnRKTTBEYjJpRGY3UW43cWdlR3BiTnNTbXQ2Z3ZOcHBJNDNWeEFBODJ0Qnp4UG0tRU1xelRuamgyUVA5STg3U3ZBV2FIckVYOW1ieVU?oc=5"
     }
   ]
 }
