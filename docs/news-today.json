@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-23",
+  "date": "2026-11-24",
   "featured": [
     {
       "category": "international",
-      "title": "Quantum computing’s first real-world payoff may come in energy, not drug discovery - CNBC",
-      "feature": "量子運算首度在能源領域見真章，藥物發現仍待時日\n📰 發生什麼事\nQuantum computing 仍被視為未來技術，但多家公司已將焦點從藥物研發轉向能源應用。Phasecraft、Quantinuum 等在美國與英國與電網、太陽能材料、氫氣催化等項目合作，測試量子演算法能否在優化計算上超越傳統電腦。\n🔍 背景與來龍去脈\n過去十年，量子計算以模擬分子、加速藥物設計為賣點，吸引巨額投資。然而量子硬體仍受錯誤率與規模限制，藥物模擬需高度精度，短期難以商業化。相較之下，電網負載平衡、材料最佳化屬於複雜優化問題，對精度要求較低，且可直接量化節能效益，成為業界近期測試的切入點。\n🌐 影響\n若量子演算法真能在電網或太陽能材料上提升上千倍效率，將加速能源轉型、降低電費，相關供應鏈（如台灣的半導體與新能源設備）可能受惠，亦提升本地研發資金投入。投資者短期內仍看空量子股，但能源領域的早期成功或改變市場預期，帶動相關產業股價波動。",
+      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits - CNBC",
+      "feature": "（標題行）Nvidia CEO Jensen Huang復任點燃亞洲半導體熱潮，台股接近漲停\n\n📰 發生什麼事：本週二，Nvidia 董事會正式恢復創辦人兼執行長 Jensen Huang 的職務，市場隨即對 AI 需求回溫，導致 Nvidia 股價單日暴漲 31%，亞洲半導體相關股票同步跳升。台灣加權指數（Taiex）一度上漲 9.1%，接近每日漲停；韓國 Kospi 受 Samsung、SK Hynix 拉升逾 7%；日本 Nikkei 亦上漲 5%。\n\n🔍 背景與來龍去脈：上週因 Huang 個人醜聞及疑似涉外情報案件，Nvidia 股價跌逾 20%，引發全球 AI 產業情緒低迷，亞洲科技股連續兩日走弱。董事會在審查完成後決定讓 Huang 重掌 CEO，市場解讀為公司治理穩定、研發領導不變，因而觸發資金回流。AI 伺服器與高階 GPU 仍是全球算力升級的核心，台積電、聯發科等供應鏈受惠。\n\n🌐 影響：短期內半導體股大幅上漲，提升台股資金流入與投資人風險偏好，相關 ETF 或可見淨流入。對台灣而言，TSMC 受訂單刺激或加速先進製程投產，間接帶動上下游設備、材料需求。若 AI 投資熱潮持續，將提升本地高階人才需求與產業鏈競爭力；同時也提醒投資者留意政策風險與公司治理變動。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1XQXFDMU80SFRjQ0VRQ0h4T29GS0doY3hpSFZ0NlVzRllna19oT3E5TG5yM2VVdzlFaUI4T3Bseld6MlJiaU5mWjloQno0a254OE9uTmZnbUFGVjBNOEJlS0VKLXhnV0Vhd3o4aWQxLUFtSndTblliZVhPWEJqdTDSAYQBQVVfeXFMT0R2REROU1RjRlFpOVBWdlBUdGhDLWZua29JY2pnSkpiRVFMNTgyQnRybTR1M3U4SW1nSDRFWlowX194MGctb3JfUDcya0lhbGJsYXpfbE9JYTRYY3A3R21FRmpTUVlSR3ctT1M3TW5IblpfU3BzMFVFLXVqUU9MVmp6MWpY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "比婚外情更大危機！輝達合作台積電30年沒簽約 黃仁勳握手協議成隱憂",
-      "feature": "黃仁勳下台，輝達與台積電30年未簽合約的風險浮現\n📰 發生什麼事：輝達創辦人黃仁勳因婚外情與共諜疑雲辭職，華爾街日報指出他與台積電長達近30年的供應合作大多依個人信任，未簽正式合約。黃離任後，投資人擔心這層「握手協議」能否延續，成為市場新隱憂。\n🔍 背景與來龍去脈：自2000年代初，輝達即以AI加速卡需求拉高台積電先進製程產能，雙方透過長期框架協議（LTA）與產能預約鎖定供應，實務上卻多以口頭備忘代替正式合約。此做法源於黃仁勳個人魅力與美國半導體供應鏈高度集中，讓雙方在未簽合約的情況下仍保持數千億美元訂單。2026年美國擴大晶片出口管制、AI平台Vera Rubin推遲，以及黃本人醜聞，使得原本穩固的「個人關係」成為脆弱點。\n🌐 影響：台股受震盪，半導體板塊連跌，台積電期貨短線受壓；若合作斷裂，輝達AI晶片供應鏈或需尋找其他代工，可能延遲新平台上市，影響全球AI基礎建設投資。對台灣而言，除市場情緒波動外，產業仍憑技術與長期框架合約保有底氣，然而投資者與供應鏈管理層需重新評估依賴單一客戶的風險，並加強合約化治理。",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9895991"
+      "title": "AI浪潮點燃記憶體超級循環！威剛獲臺銀等9家銀行超額認購300億聯貸",
+      "feature": "AI浪潮推動記憶體需求　威剛成功獲300億聯貸超額認購\n📰 發生什麼事\n威剛科技與臺銀、土地銀、合作金庫等四家公股行庫簽下總額300億元聯合貸款，9家金融機構參與認購，金額超額。資金將用於償還到期債務、補充營運金，並加速AI、企業級及工控儲存產品布局。\n🔍 背景與來龍去脈\n全球AI模型對高效能記憶體需求暴增，尤其是DRAM與NAND出貨在2023‑2024年出現「超級循環」。台灣是主要記憶體代工基地，威剛2023前三季營收創新高1172億元、稅後淨利336億元。為把握AI長期成長，企業普遍選擇聯貸快速取得資金，同時分散單一銀行風險。\n🌐 影響\n資金到位將提升威剛產能與研發速度，提升本地記憶體供應鏈競爭力，進一步支撐台股相關板塊上漲。一般民眾可能受惠於AI服務與雲端儲存成本下降，相關產業就業機會增加。金融面顯示台灣銀行願意在AI基礎設施提供大額信貸，提升市場對新興科技投資信心。",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6670955"
     }
   ],
   "candidates": [
     {
-      "title": "台股驚天急拉千點！巴逆逆才喊「要出掉台積電」大盤直衝37K 網跪：一己之力救股市 - Yahoo股市",
-      "content": "台股驚天急拉千點！巴逆逆才喊「要出掉台積電」大盤直衝37K 網跪：一己之力救股市 Yahoo股市",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMikANBVV95cUxPUkN4THVoYWZtZlFWZHUyZS1YNVllOWNsQzNlLTItVVFnMTJYeVlZXzRNMDFtcl9seFNfbURWOW5LTFNESTVyRGxkdk40b00tMVd3dVNRSVg2Vkd2OXk0TzBGU1FLVUxwS2c2TS1rTmRMaXhFa0RfTjY2SFVyS3hIZE1xaWY1b0xpOS1yZFIyYzFidE1oeEluRW9OS2xlYThnT25xMnRTeEFUTWNIRVN1SElOYUNNS05VekMtc1pPR0Y2aE1vOUZycXRzQV9SSk92WEVBbGJlaEpFdTJ1ZVFub29tX1BobC1kLXMxekxoVVFuNm03eVJLNlE0SlZ6QS0tdmRGYTlPQk1UX1ZyUkhlREZad3NWZlF6aHpTTkJ4OEdPZmtXekNjNktuNUh6WmVlMnFFUmk2a3M0SFBsSmhpOTVpWjJYRVZKbjZQNHdRbTNfQ0FHakktR3VJS0FmWGo1OWxxLWNvaVFmaWVNc09ZT0R6dHhWajRiOVprUFhiX3BvNm1DeXIyVHVPZm8wWmkz?oc=5"
-    },
-    {
-      "title": "航空業加速減碳　新加坡2030年永續燃料占比拚5%",
-      "content": "亞太永續航空燃料大會今天在新加坡展開，來自世界各地的產官學界代表探討政策規範等議題。新加坡初步目標讓永續航空燃料（SAF...",
+      "title": "烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
+      "content": "在烏克蘭證實對停靠利比亞港口的兩艘俄羅斯船隻發動毀滅性打擊後，俄羅斯今天揚言將帶來「痛苦後果」",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9896008"
+      "link": "https://money.udn.com/money/story/5599/9898785"
     },
     {
-      "title": "〈焦點股〉華新業外收益帶動前三季獲利、同步攻AI商機 價量齊揚",
-      "content": "華新(1605-TW)受惠業外收益帶動，前三季稅後純益達205.36億元，年增逾8倍，每股純益4.63元，本業上，華新積極搶攻AI商機，不銹鋼事業聚焦冷精棒業務，明年有望成長，激勵華新今(23)日價量齊揚，大漲逾半根停板。 華新今天早盤以26.95元開高，盤中最高漲至28.3元，大漲逾",
+      "title": "馬來西亞政府：將建議資料中心業者切斷與美國「黑名單」企業往來",
+      "content": "馬來西亞政府將建議全國資料中心業者切斷與美國黑名單企業合作，避免提供代管、空間租賃等服務。 美國BIS將7家東南亞實體列入實體清單，禁未經許可購買高階AI晶片與先進技術。 馬國稱絕不允許被用作規避出口管制轉運通道，資料中心產業將面臨更嚴格合規檢視。",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6670074"
+      "link": "https://news.cnyes.com/news/id/6670928"
     },
     {
-      "title": "〈焦點股〉華新業外收益帶動前三季獲利、同步攻AI商機 價量齊揚 - 鉅亨網",
-      "content": "〈焦點股〉華新業外收益帶動前三季獲利、同步攻AI商機 價量齊揚 鉅亨網",
+      "title": "【11/24台股收盤】輝達大漲31%，台股飆3,310點重返4萬 - 口袋證券",
+      "content": "【11/24台股收盤】輝達大漲31%，台股飆3,310點重返4萬 口袋證券",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wdjFsdkZ6VzJfejkxeUk0bVRKWUNlbFNTLWhBTkQ2UU9ZVk1aSEROdlI0dl9scTFkaDR0VEtsdmNjUXZqOThuWWpjYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUUI5Y0ctdEFOQjRhV1R2a3pNX0VJaGxycVB2bEk5dDdaWXZDcXlnQWtZTE1BWnhMZ3FSOERoMjVCMW5GU2tOb05MYlQ0bTFaWTNjU2lvcTU4XzRiaUFVb2JrWmo2V0ZUZmxYbEFaMXR4dw?oc=5"
     },
     {
-      "title": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬",
-      "content": "台股劇烈下殺，投資人轉進指數型ETF，投資人數週增前10名有8檔被動ETF。 0050週增8.1萬人居冠，最新403萬人；11月淨申購已逾2,500億元、全年拚兆元。 國安基金護盤下，資金集中0050與00631L，主動式ETF今年績效落後、信任度下滑。",
+      "title": "AI投資熱潮帶動　新加坡上修全年經濟成長預測至6%",
+      "content": "新加坡當局將今年經濟成長預測上調至約6%，高於去年的5%。專家指出，這波成長關鍵推手是全球對AI的強勁需求，推升電子產品...",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6670066"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9898770"
     },
     {
-      "title": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬 - 鉅亨網",
-      "content": "台股愈震愈買！0050投資人數突破400萬大關創高 不到半年增逾百萬 鉅亨網",
+      "title": "美股暴漲反而要小心？歷史數據顯示：單日大漲常見於熊市",
+      "content": "美股周一大幅反彈，許多飽受打擊的多頭以為修正已經結束。但歷史數據顯示，股市單日大漲恰恰是熊市的典型特徵。",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/123398/9898769"
+    },
+    {
+      "title": "【台股盤後】史上最大漲點！台股史詩級暴漲3310點收40122點、站回年線| 金融 - 非凡新聞台",
+      "content": "【台股盤後】史上最大漲點！台股史詩級暴漲3310點收40122點、站回年線| 金融 非凡新聞台",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE40bzByMnI0Q3BBUDAza1pUdHRfaW5VVXRFWEVNaG5FYXUwdHhoNGtZMms1eXFJc2dPaG9wQkt2R0txdUk3d1JCS005MjBxdlU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUWdPeHZGdjh1WENiOF84YmJPWHBXaDdPQ0VxaW5ISlZTQzVKMTFscFVsUjlCNk1PYnF4dXM1b19MU2ZWTjZCRkROdFhaRnBKdkszUjVlYjZXVmdDMXVkZQ?oc=5"
     },
     {
-      "title": "盤中速報 - 大量(3167)股價拉至漲停，漲停價559.0元，成交7,553張",
-      "content": "大量(3167-TW)23日11:37上漲50元，股價漲停報559.0元，委買3張、委賣126張，成交7,553張。主要業務為各種機器之設計製造加工及買賣。各種模具之設計製造加工及買賣。上項有關業務之進出口貿易業務。大量(3167-TW)近5日股價下跌38.23%，集中市場加權指數下跌17.5%，短",
+      "title": "黃仁勳回鍋台股飆漲逾3300點 專家：穩定信心、監管壓力未除 - Rti 中央廣播電臺",
+      "content": "黃仁勳回鍋台股飆漲逾3300點 專家：穩定信心、監管壓力未除 Rti 中央廣播電臺",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6670075"
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxZlZ1UVAyV25NZDg1dXJqV0RLRUttY0FzTmtnYWI5RS03dUFtVHBqT1o4NHEtMXgwMDFqTkhYQUgwWHNvZE42S3dtQ2NtQjl1YUlIaUktU3I?oc=5"
     },
     {
-      "title": "3 big things we're watching in the market this Thanksgiving week - CNBC",
-      "content": "3 big things we're watching in the market this Thanksgiving week CNBC",
+      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions - CNBC",
+      "content": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNFpQZ3VYNVBBMkhWd0NaUlk3TS1qUzJxYjNHM3lSVW83LVdDMGpXQlhjbE9iRGsxUllpaEtFRF9fMUZtc0VxQXZJc1A5ZmtXTUhjdktyNzRlTmJzeXJ6WU40dzY2Uk5PT1lnVGoyUzlKbTlaYjJIWUxCMDRDRHZEa3VHY09tRU9mRmRXOWs3M19YMXV4XzBmQWhiOHZKeHg5ZmxoUXVrWG5yc1VUWHluV0pRNkM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSnVNOTQ5Ml81YUdQSkxzbkI0bVF5OUV4RndqcjVrWkM1SGw4V0tZOVJEbGRmTGgybGxfTUwzRVNISTRFUmxkX0cydWlPcVRCN2dIWFFfaklmbk40ZnptNVMxUURLdWFoRUtUNkNR0gFzQVVfeXFMTVY0aG5JUVJlODBXb0tvdmJTRjJoV2R2Uk9TMVpKcFdpLVpTUThDU3MzcGw3RnVmanBjQ1VNRFlkRi1JZUMxMDRNcWFXLVJoNlo4dVB6VU91V2tYRnpDU1oyekUxaWQwdlBXbGJoZ1ZlSGNKcw?oc=5"
     },
     {
-      "title": "Let's weigh the cons — and pros — of this brutal market to find a way forward - CNBC",
-      "content": "Let's weigh the cons — and pros — of this brutal market to find a way forward CNBC",
+      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says - CNBC",
+      "content": "China has changed tactics but is still thwarting India's rise, a U.S. panel says CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWDNDcno4NDRpS2J2R2s4eWVCNTJlZE9DcUZhSHR2M2ZhNjliWkUyc1hMSGJQZjJEUFcxYUg5QlFKQWI0LWxzUzhRX040UmJ4TFluTGhDNmI0eWhCNWw0aEN5Q3Rqd29fT1A4RFZycWhDVXNOd0wwcHU1cEtxWXQwM3g2MXQxczFvR2RXOXQ1cVMyb1dqYS1EWjU1cmVFZGlfVWx0ZTE3ckMwZXNWZmJLemRsaHFDcnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdXByaVIyNUloYVJ3N0gzLTNTV01KYlV4bF9lRjJiOFhmX3NoOGZKZHFtX08wcnpnWDdaaC1Lb1ZaWHhmaVJGRTczR1pDYU91V1NWT293UDlxQXRnZk83aUVqUTJrcTl6TkpRUXdzRlBRMWF1ZVpZ0gF8QVVfeXFMTmpGY1c2VEttbzRENmF4UENiZzB6cDRPYVNncVotMjBGa1A4TWJ4UW01T2N4T2ROcURDR0N4VU5zNndVQ1VSOHlXNjdkWExENTFUY05Tc01JOVVpZDNwVDZqdGl2QlgyTnk1eWpmZUVwZDFkc2hUNm9PbzlQTw?oc=5"
     },
     {
-      "title": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens - CNBC",
-      "content": "Employees at Eric Trump-backed robot startup lose health benefits as company's cash crunch deepens CNBC",
+      "title": "Six key questions raised by Jensen Huang's return to Nvidia - CNBC",
+      "content": "Six key questions raised by Jensen Huang's return to Nvidia CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPd0RDNndpWF9WMmU5VTlkSmJQRXVDTFpxbXJLQlYyTW9vR1FVYl9VYUJsZ2Y3eVJKdWJ4NWxMMV9kLXR3YndXMTJHTzBXRjRnVmYxclQxOE5xaUNjUVgwNnY1dk5fdURkX1liMElsS0lZRmFheUdoeGxsdzdTQTQtRW4teTZLN2tEQ0NTaTZwTDlRdkhySFV6eHBJdURrUi1IbXfSAacBQVVfeXFMTXNEMWRjMG9SMmJTbWpfV2Y0bGx3S2RyRTFERndfb2M4N0FCUEx1dXZLaC1FYmdQR2ZDbnFsa09kLWdKWlNlYnVhXzBiT3FfRG1VUmF5RWZrUjV6QnRKTTBEYjJpRGY3UW43cWdlR3BiTnNTbXQ2Z3ZOcHBJNDNWeEFBODJ0Qnp4UG0tRU1xelRuamgyUVA5STg3U3ZBV2FIckVYOW1ieVU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZXRBYm1KcWt3TUMtd3Vqcl9PT05RdV9RbjNUc1FoRzBOc19HS0hDRHBHNktRSVNhaGZuYmladU9xVEdQbVV1X2tRUkxqMHVLc0pab295dS1GYnZUc2U5SzB3eldxTEdIdHpSRzFWaFc3aHpIZGVrTUNfWETSAYIBQVVfeXFMT0Faamsta2ZJMzhadXdkWVZBRUdWVXliYlFOcVZwV1BpOGhZY2NRaHB0X3VIOE5LcVVJaTZyY2hwc1JPaHNlTWJIQVNvSjYzUENITGFUNVlwTHczR25vbjZLWWF3bUs3R25uZjR5NjdCUVZfWFZMcTNvcmRNRWpySW9zUQ?oc=5"
     }
   ]
 }

@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-24",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits - CNBC",
+          "feature": "（標題行）Nvidia CEO Jensen Huang復任點燃亞洲半導體熱潮，台股接近漲停\n\n📰 發生什麼事：本週二，Nvidia 董事會正式恢復創辦人兼執行長 Jensen Huang 的職務，市場隨即對 AI 需求回溫，導致 Nvidia 股價單日暴漲 31%，亞洲半導體相關股票同步跳升。台灣加權指數（Taiex）一度上漲 9.1%，接近每日漲停；韓國 Kospi 受 Samsung、SK Hynix 拉升逾 7%；日本 Nikkei 亦上漲 5%。\n\n🔍 背景與來龍去脈：上週因 Huang 個人醜聞及疑似涉外情報案件，Nvidia 股價跌逾 20%，引發全球 AI 產業情緒低迷，亞洲科技股連續兩日走弱。董事會在審查完成後決定讓 Huang 重掌 CEO，市場解讀為公司治理穩定、研發領導不變，因而觸發資金回流。AI 伺服器與高階 GPU 仍是全球算力升級的核心，台積電、聯發科等供應鏈受惠。\n\n🌐 影響：短期內半導體股大幅上漲，提升台股資金流入與投資人風險偏好，相關 ETF 或可見淨流入。對台灣而言，TSMC 受訂單刺激或加速先進製程投產，間接帶動上下游設備、材料需求。若 AI 投資熱潮持續，將提升本地高階人才需求與產業鏈競爭力；同時也提醒投資者留意政策風險與公司治理變動。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "AI浪潮點燃記憶體超級循環！威剛獲臺銀等9家銀行超額認購300億聯貸",
+          "feature": "AI浪潮推動記憶體需求　威剛成功獲300億聯貸超額認購\n📰 發生什麼事\n威剛科技與臺銀、土地銀、合作金庫等四家公股行庫簽下總額300億元聯合貸款，9家金融機構參與認購，金額超額。資金將用於償還到期債務、補充營運金，並加速AI、企業級及工控儲存產品布局。\n🔍 背景與來龍去脈\n全球AI模型對高效能記憶體需求暴增，尤其是DRAM與NAND出貨在2023‑2024年出現「超級循環」。台灣是主要記憶體代工基地，威剛2023前三季營收創新高1172億元、稅後淨利336億元。為把握AI長期成長，企業普遍選擇聯貸快速取得資金，同時分散單一銀行風險。\n🌐 影響\n資金到位將提升威剛產能與研發速度，提升本地記憶體供應鏈競爭力，進一步支撐台股相關板塊上漲。一般民眾可能受惠於AI服務與雲端儲存成本下降，相關產業就業機會增加。金融面顯示台灣銀行願意在AI基礎設施提供大額信貸，提升市場對新興科技投資信心。",
+          "source": "CnYes",
+          "link": "https://news.cnyes.com/news/id/6670955"
+        }
+      ]
+    },
+    {
       "date": "2026-11-23",
       "featured": [
         {
@@ -104,25 +123,6 @@
           "feature": "央行12月升息在即　林伯豐警示難以避免\n📰 近日三三會理事長林伯豐接受採訪指出，受美元持續走強、長期美債殖利率高企影響，央行若要維持物價穩定，12 月升息的可能性大增，恐難以避免。\n🔍 自2022 年起央行已連續六次小幅加息，以抑制通膨；今年上半年通膨率仍高於 2% 目標，且受全球供應鏈緊張、能源價格上漲衝擊。美聯儲雖在12 月可能僅小幅升息，但美元走強仍會推高進口物價，迫使台灣央行同步收緊貨幣政策。過去升息常配合匯率穩定與金融市場流動性管理，此次升息亦是對外部環境的被動回應。\n🌐 若12 月正式升息0.25%，將直接影響房貸、企業短期借款成本，民眾貸款負擔上升；同時新台幣可能因利差擴大而走強，出口競爭力受壓；股市則可能出現短暫回檔，特別是高負債與利率敏感的科技股。對一般消費者而言，儲蓄利率上升或有小幅受惠，但整體經濟成長動能可能受抑。",
           "source": "Google TW Finance",
           "link": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxPWTJaYThneGFBMF9feXBrVU9yNDNjdnB3ejk2RG9GRFRscGk3YlRGTU5QdDE4YXRya1RJcEtmb3pBOVZFYnVzalNBQWJNZzdpdVVWSWNnMEU0RDJ0UmttdUwtdmxJbm5SMXdQLWlZNkdwLVowTVFFRzR6ODJFd0gwbVRUOVk0dWJweC1TRmVLRTdhVkpuQW55X2tTTm4xdzg2VFNWc2lMSHZiMHBRczN4WC10RUNZY1hqc0ZDWm4tTmNfX0lCSzU3MXgwNzRZcURYdHBoU3c4V2dRZEhVRmd0b2hWdDgwMHBwOVBiNklzbUQ3M1JLWFU2SE5vS1Nrbk5rWDFuc3E5X3FzbWVOVXowU0RMNGVmMXlIYWlrdTNQaVdGc2hEQU8yUXFCQzU1NFc0T1pUcHB4Q0haM3FHNjVCaW9n?oc=5"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-17",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Analysis: The Fed's chairman sees an AI revolution coming. Now he has to figure out what it means - CNBC",
-          "feature": "AI 風暴逼近，美聯儲主席Warsh聚焦未來貨幣政策\n📰 發生什麼事\n美聯儲新任主席Kevin Warsh在舊金山召開AI工作小組會議，公開表示人工智慧正成為美國經濟的「關鍵轉折點」。他詢問專家AI對就業、通膨與利率的可能衝擊，並暗示年底可能因AI熱潮而調整利率政策。\n🔍 背景與來龍去脈\nAI投資自2024年起激增，數據中心與大型模型建置耗資千億，美國政界與企業紛紛把AI描繪成增長引擎。然而2026年11月的中期選舉中，多州通過限制建設數據中心的法案，顯示民眾對隱私與能源成本的疑慮。Warsh去年成立五個專門小組，今次是唯一公開論壇，邀請包括前商務部長Raimondo等不同政黨聲音，檢視AI可能造成的大規模白領失業與同時提升生產力的雙刃劍。\n🌐 影響\n若AI推升企業投資與產出，短期內或加劇通膨，迫使聯儲在12月提高基準利率；相反，若AI導致大規模裁員，失業率上升則可能壓低利率。台灣的半導體與AI晶圓需求亦受美國AI熱潮波動影響，投資者應關注美金利率走向與美國政策對科技供應鏈的連鎖反應。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNFNqUm9CTHJXWWFqem0xbVVJUXA0UjQ4MmprNk1YbWdKNl80dGR5ejdlV01lem03SkRQdi1YRVdPcmdld3FVSnl4VU1EaUNxOHFWQTZIY0ZNLWszR3E3cFpqMmVldk9KdnlMd09RVWZQWWRqZm56Y3luVk5CTTE2VDhFald6YWRHUkdzWVEyOUd4RTZRMnRv0gGcAUFVX3lxTFBzZE9SVGEzeVVBNTBWWjM4SmVtVFk0N1Z3R0hvLUxEcDJKTVF4OGFrVm1CNTJCSGlVdXNwMllWbzNqTWpSTEZMXzIxUUctMVJvWUVINXVjQWkyemtCY2JKZ1NJeGdXVThvc2QzNy10Zy1xX0o1SllaLTExM19ubzVKVC01eDJqSW1aWmZWQS1oRF9SQUNDMmNUeXJJaQ?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "黃仁勳辭職掀輝達內部反彈！傳1公司高層警告董事會：人才恐出走",
-          "feature": "黃仁勳突辭執行長　輝達內部掀回任與人才流失爭議\n📰 12日，輝達創辦人兼CEO黃仁勳因捲入婚外情與疑似中國情報人員交往爭議，正式辭去執行長、總裁及董事職務。董事會由財務長Colette Kress暫代，未立即討論復任。資深開發技術總監卡里爾致函約60名直屬主管及10名董事，警告若不讓黃回任，核心人才恐大規模離職。\n🔍 黃仁勳自2000年創立輝達以來，將GPU從遊戲推向AI運算，使公司市值突破5兆美元，且以扁平化、與員工緊密互動聞名。近期個人醜聞及與中國資料中心高層交往被曝，引發美國政局關注。矽谷多位科技領袖（如馬斯克、Kalanick）及逾18萬人簽署公開信要求復職，顯示其人脈與領導力是公司關鍵資產。\n🌐 若核心研發團隊跟隨黃離開，輝達在AI晶片領先地位可能受衝擊，股價波動將波及全球科技ETF，亦影響台灣半導體供應鏈（如台積電）的需求。人才外流或讓OpenAI等競爭者加速布局，提升台灣AI投資與就業機會，同時提醒投資人關注公司治理風險。",
-          "source": "UDN Money",
-          "link": "https://money.udn.com/money/story/5599/9883779"
         }
       ]
     }
