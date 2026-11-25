@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-24",
+  "date": "2026-11-25",
   "featured": [
     {
       "category": "international",
-      "title": "Asian Nvidia-related stocks jump after Huang's return, with Taiwan's near price limits - CNBC",
-      "feature": "（標題行）Nvidia CEO Jensen Huang復任點燃亞洲半導體熱潮，台股接近漲停\n\n📰 發生什麼事：本週二，Nvidia 董事會正式恢復創辦人兼執行長 Jensen Huang 的職務，市場隨即對 AI 需求回溫，導致 Nvidia 股價單日暴漲 31%，亞洲半導體相關股票同步跳升。台灣加權指數（Taiex）一度上漲 9.1%，接近每日漲停；韓國 Kospi 受 Samsung、SK Hynix 拉升逾 7%；日本 Nikkei 亦上漲 5%。\n\n🔍 背景與來龍去脈：上週因 Huang 個人醜聞及疑似涉外情報案件，Nvidia 股價跌逾 20%，引發全球 AI 產業情緒低迷，亞洲科技股連續兩日走弱。董事會在審查完成後決定讓 Huang 重掌 CEO，市場解讀為公司治理穩定、研發領導不變，因而觸發資金回流。AI 伺服器與高階 GPU 仍是全球算力升級的核心，台積電、聯發科等供應鏈受惠。\n\n🌐 影響：短期內半導體股大幅上漲，提升台股資金流入與投資人風險偏好，相關 ETF 或可見淨流入。對台灣而言，TSMC 受訂單刺激或加速先進製程投產，間接帶動上下游設備、材料需求。若 AI 投資熱潮持續，將提升本地高階人才需求與產業鏈競爭力；同時也提醒投資者留意政策風險與公司治理變動。",
+      "title": "China’s Xiamen Airlines to buy 50 Boeing jets in $7.4 billion deal - CNBC",
+      "feature": "廈門航空斥資74億美元訂購50架波音737 MAX 8，支援新機場與航線擴張\n📰 發生什麼事（廈門航空於2026年11月24日與波音簽署協議，採購50架波音737‑8，總額約74億美元，交付時間預計在2031至2034年分批完成）\n🔍 背景與來龍去脈（此訂單由廈門航空母公司中國南方航空在港交所公告，屬於中國航空市場近年對波音的重大補單。早在2025年美中高層會晤後，中國已承諾購買200架波音飛機；特朗普亦在同年預測中國將再添250架。廈門航空正籌備遷至即將啟航的廈門翔安國際機場，並於今年4月完成與空客A320neo‑family共計137架的訂購，顯示其機隊多元化與擴容策略。）\n🌐 影響（對波音而言，此案提供了在華重要的窄體客機客戶，提升在華市場信心；對台灣航空產業與相關供應鏈，意味著區域航線競爭將加劇，旅客往返福建的航班供給或增多，亦可能帶動機場建設、維修服務等相關產業需求。對一般民眾而言，未來機票價格或受新航班供給影響而呈現下降趨勢，同時也提升了兩岸旅遊與商務往來的便利性。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Fc3pvRnEzR2JoN2tPM1FUWU1mNDhzclAtTVU5SVpuWnhMeXdISWxMUFR4V2YtZnhDTmc5NGlSVGtiOFFoR2tDMi1wN2Z5SUhyNG5iMEFTalliNnNhM1pfYTFUU2gxS2NKX0taNDlVRXFjY1Z0czkwU2xId1AtZ9IBgwFBVV95cUxNWTJaTF9ScnRsa3RmSE9CVTJ6ZjItbF9fZ0pDRU9hR1Jrc1gzUldGU3hCRExZblBWQUJsRkVjZ1hNOFFMSkFGZGpwVUNRNWNaZzBKNHJiWkxfX2ZybklERS1JaHhBekU1N0d5enJYcktzZ2JSUl9mWUowOUY2NVUzMkJQaw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9mQWZtYTE4eGdLdEFRZ0puU0JabElRVUJjM1lTdk91MnhxemNkeDFEWkdTaXRTZFFTYzdwLVBUNWk5N0liZEJDM3NQUktqeElDcDVmRHJxUGt4QTN6a3VMelRjaDNJMWhFN1VIQTVn0gFzQVVfeXFMUHFvd0k5cTNHRHhBX21OTHk1RTVaNmxZcTJsRl9vQ01fcUNMZUpYelNhbHRZc29wUHg3LWlwQlZoZWNadzVrWHlMd1ZvUzlnRlNtTVVSY1lmcG1DWXp2TXNVRC11S3cxSEFHclk3NzRzcDBzdw?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "AI浪潮點燃記憶體超級循環！威剛獲臺銀等9家銀行超額認購300億聯貸",
-      "feature": "AI浪潮推動記憶體需求　威剛成功獲300億聯貸超額認購\n📰 發生什麼事\n威剛科技與臺銀、土地銀、合作金庫等四家公股行庫簽下總額300億元聯合貸款，9家金融機構參與認購，金額超額。資金將用於償還到期債務、補充營運金，並加速AI、企業級及工控儲存產品布局。\n🔍 背景與來龍去脈\n全球AI模型對高效能記憶體需求暴增，尤其是DRAM與NAND出貨在2023‑2024年出現「超級循環」。台灣是主要記憶體代工基地，威剛2023前三季營收創新高1172億元、稅後淨利336億元。為把握AI長期成長，企業普遍選擇聯貸快速取得資金，同時分散單一銀行風險。\n🌐 影響\n資金到位將提升威剛產能與研發速度，提升本地記憶體供應鏈競爭力，進一步支撐台股相關板塊上漲。一般民眾可能受惠於AI服務與雲端儲存成本下降，相關產業就業機會增加。金融面顯示台灣銀行願意在AI基礎設施提供大額信貸，提升市場對新興科技投資信心。",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6670955"
+      "title": "台股昨天滿血復活、今天又被抽乾！新台幣盤中摜破33元 央行出手穩匯 - udn",
+      "feature": "台股狂起狂落：央行急救新台幣、選舉氛圍撼動市場\n📰 台股在連續兩天劇烈波動：昨日因外資回流與半導體獲利回升大幅上漲超過3000點，次日開盤即被拋售回吐，指數跌逾3000點；同時新台幣匯價自開盤走貶，盤中跌破33元大關，至33.035，央行於午盤介入以逆回購買進外幣，匯率回升至32.997收盤。\n🔍 背景與來龍去脈：本次波動與2026年地方選舉臨近有密切關聯。藍綠兩大黨在北部與高雄等重點縣市激烈競選，市場擔憂政治不確定性影響經濟政策與對外貿易；同時美聯儲升息預期與中國大陸資金外流加劇新台幣壓力，導致外資快速調整倉位。央行為維持匯率穩定、避免資本外流，啟動緊急外匯干預。\n🌐 影響：短期內股市波動加劇，投資人情緒偏向保守，資金流向防禦性產業或美元資產；新台幣匯率短暫貶值提升出口競爭力，但也增加進口成本與通膨壓力；央行介入顯示政策彈性，降低市場恐慮，對金融市場信心有正面支撐；長期則視選舉結果與兩岸關係走向，決定台灣經濟政策走向與資金流入情形。",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1paWg5Z1ZSX0lFdjBObmI5Y19leEczb0h5VFU1YllKN3VrUHdIQUZoTlZ6NExGM1FsLVc5WVBpV2htU1dnRVJ2bUxNSGg4dUxt0gFWQVVfeXFMTlRmaTg5Y0hIdXl5bG44VzFZRDEzWW9wWG4wNW15TjFOSnpfaTJpZk1XS0ZEUzBENlNZNV84M3JPQ0VORVVSV1B3djFpc3d5b1Q1QS1MVGc?oc=5"
     }
   ],
   "candidates": [
     {
-      "title": "烏克蘭利比亞港口擊沉俄艦　莫斯科揚言痛苦後果",
-      "content": "在烏克蘭證實對停靠利比亞港口的兩艘俄羅斯船隻發動毀滅性打擊後，俄羅斯今天揚言將帶來「痛苦後果」",
+      "title": "台股雲霄飛車4萬大關得而復失！投信點名00918：靠這3大族群穩住下檔| 存股族愛ETF | 股市 - udn",
+      "content": "台股雲霄飛車4萬大關得而復失！投信點名00918：靠這3大族群穩住下檔| 存股族愛ETF | 股市 udn",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9898785"
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5PRFkydHZSMC1MalZlUy1fUDdiNzhVMlJDRm1xbTNZRnd4RHdtYjZSb2JGM1dKeGdhXzBUeWxZOVpSVklMcDFOQlNtUEVBZEM1M3d5WWVvdm00ZGl6NVIzck13aHpOMDloRS1zMkhjT2poQU5xZzZJ?oc=5"
     },
     {
-      "title": "馬來西亞政府：將建議資料中心業者切斷與美國「黑名單」企業往來",
-      "content": "馬來西亞政府將建議全國資料中心業者切斷與美國黑名單企業合作，避免提供代管、空間租賃等服務。 美國BIS將7家東南亞實體列入實體清單，禁未經許可購買高階AI晶片與先進技術。 馬國稱絕不允許被用作規避出口管制轉運通道，資料中心產業將面臨更嚴格合規檢視。",
+      "title": "台股盤中狂瀉逾3400點 回吐前一日漲勢 - 公視新聞",
+      "content": "台股盤中狂瀉逾3400點 回吐前一日漲勢 公視新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9IOXhUTkpYSTJ3bVUzeFdGN2ZFa2lnS2hRU1hhbEpKb1hPV2xUbFBiNmFBOE9CT3JEVG9zOWJQaDdUZy1MWTFzUF82bkRjYVE?oc=5"
+    },
+    {
+      "title": "盤中速報 - 吉祥全(2491)股價殺至跌停，跌停價23.85元，成交633張",
+      "content": "吉祥全(2491-TW)25日13:22下跌2.6元，股價跌停報23.85元，委買12張、委賣3張，成交633張。主要業務為光學資訊相關產品。吉祥全(2491-TW)近5日股價下跌4.34%，集中市場加權指數上漲0.08%，短期股價無明顯表現。近5日籌碼 三大法人合計買賣超：-149 張",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6670928"
+      "link": "https://news.cnyes.com/news/id/6671638"
     },
     {
-      "title": "【11/24台股收盤】輝達大漲31%，台股飆3,310點重返4萬 - 口袋證券",
-      "content": "【11/24台股收盤】輝達大漲31%，台股飆3,310點重返4萬 口袋證券",
+      "title": "史上最大IPO四天就破發！專家：標誌AI股定價邏輯轉變　逾7億股解禁潮與成長焦慮浮現",
+      "content": "Anthropic周二收81.91美元跌6.54%，跌破發行價，市值降至約1.5兆美元 市場憂其閉源訂閱模式、重資本開支與長回報週期；FactSet估今年營收約540億，但截至2045年算力與資料中心承諾支出逾9千億 解禁與內部人減持加劇供給壓力，但MSCI下周將其納入，年底前被動基金買盤有望湧入",
       "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE5aUUI5Y0ctdEFOQjRhV1R2a3pNX0VJaGxycVB2bEk5dDdaWXZDcXlnQWtZTE1BWnhMZ3FSOERoMjVCMW5GU2tOb05MYlQ0bTFaWTNjU2lvcTU4XzRiaUFVb2JrWmo2V0ZUZmxYbEFaMXR4dw?oc=5"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6671619"
     },
     {
-      "title": "AI投資熱潮帶動　新加坡上修全年經濟成長預測至6%",
-      "content": "新加坡當局將今年經濟成長預測上調至約6%，高於去年的5%。專家指出，這波成長關鍵推手是全球對AI的強勁需求，推升電子產品...",
+      "title": "綠岩能源打入電子五哥供應鏈 跨國綠電交易達7086萬度",
+      "content": "綠岩能源(7833-TW)今(25)日指出，正式切入電子五哥供應鏈。近期取得國際大型電子製造業者合作成果，涵蓋AI伺服器代工廠的跨國綠電交易，以及大型電子代工廠越南生產基地的節能工程，其中，跨國綠電合作年度涵蓋電量達7086萬度。 綠岩能源指出，此次跨國綠電合作涵蓋台灣、越南、美國及泰",
+      "category": "taiwan",
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6671635"
+    },
+    {
+      "title": "星巴克據悉聘請銀行為可能出售日本業務做準備",
+      "content": "【彭博】-- 知情人士稱，星巴克已聘請顧問，為可能以數十億美元的價格出售日本業務做準備。知情人士透露，這家美國咖啡連鎖店正與包括花旗和摩根士丹利在內的多家銀行合作，開始試探一些戰略和財務投資者的興",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9898770"
+      "link": "https://money.udn.com/money/story/5599/9900754"
     },
     {
-      "title": "美股暴漲反而要小心？歷史數據顯示：單日大漲常見於熊市",
-      "content": "美股周一大幅反彈，許多飽受打擊的多頭以為修正已經結束。但歷史數據顯示，股市單日大漲恰恰是熊市的典型特徵。",
+      "title": "光焱砸10億元建路竹新廠 擴充矽光子檢測產能2028年Q1投產",
+      "content": "光焱今在南科高雄園區為路竹新廠動土，將投資約10億元，預計2027年Q4完工、2028年Q1投產。 新廠將擴充矽光子晶圓級量產線檢測設備產能，並整合現有租用廠房的人員、產線與總部。 公司稱車用CIS與矽光子檢測需求成長，AI資料中心推升高速光傳輸，NightJar已完成量產線整合。",
       "category": "taiwan",
-      "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/123398/9898769"
+      "source": "CnYes",
+      "link": "https://news.cnyes.com/news/id/6671631"
     },
     {
-      "title": "【台股盤後】史上最大漲點！台股史詩級暴漲3310點收40122點、站回年線| 金融 - 非凡新聞台",
-      "content": "【台股盤後】史上最大漲點！台股史詩級暴漲3310點收40122點、站回年線| 金融 非凡新聞台",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE8yUWdPeHZGdjh1WENiOF84YmJPWHBXaDdPQ0VxaW5ISlZTQzVKMTFscFVsUjlCNk1PYnF4dXM1b19MU2ZWTjZCRkROdFhaRnBKdkszUjVlYjZXVmdDMXVkZQ?oc=5"
-    },
-    {
-      "title": "黃仁勳回鍋台股飆漲逾3300點 專家：穩定信心、監管壓力未除 - Rti 中央廣播電臺",
-      "content": "黃仁勳回鍋台股飆漲逾3300點 專家：穩定信心、監管壓力未除 Rti 中央廣播電臺",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBxZlZ1UVAyV25NZDg1dXJqV0RLRUttY0FzTmtnYWI5RS03dUFtVHBqT1o4NHEtMXgwMDFqTkhYQUgwWHNvZE42S3dtQ2NtQjl1YUlIaUktU3I?oc=5"
-    },
-    {
-      "title": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions - CNBC",
-      "content": "Iran says three tankers hit mines in Hormuz despite U.S. escort, as Treasury widens sanctions CNBC",
+      "title": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast - CNBC",
+      "content": "‘Ready for any storm’: UAE minister optimistic on economy as IMF lifts forecast CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9aSnVNOTQ5Ml81YUdQSkxzbkI0bVF5OUV4RndqcjVrWkM1SGw4V0tZOVJEbGRmTGgybGxfTUwzRVNISTRFUmxkX0cydWlPcVRCN2dIWFFfaklmbk40ZnptNVMxUURLdWFoRUtUNkNR0gFzQVVfeXFMTVY0aG5JUVJlODBXb0tvdmJTRjJoV2R2Uk9TMVpKcFdpLVpTUThDU3MzcGw3RnVmanBjQ1VNRFlkRi1JZUMxMDRNcWFXLVJoNlo4dVB6VU91V2tYRnpDU1oyekUxaWQwdlBXbGJoZ1ZlSGNKcw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBRRXItZUwzMGV4bmdnTnZhMjh6Znh6d3J3NDd6WFg3YTNjdmZ3TWdBbVBMcHJlSkpNYUtOU1gtVHdKTnRobVpfcGx0VkJMQzl0aFRMcTdWR25JaWJfWTQ3UzBNR19JSGxCV1B1OE9B0gFzQVVfeXFMTkt5UnFBTUpSc0tMNS1HZVlRNkh1Tnc1VU5Odk1Kb1BrQmNSM1UxbjA4OV9IbTdlWjRjTjg2WV9MV3dBTXBqdHJ5SWs4SG45Y1AtbFpkRDFiWGYtbDB4b2I4RXBRS1RpZ2VKOV94WWZBS0hPWQ?oc=5"
     },
     {
-      "title": "China has changed tactics but is still thwarting India's rise, a U.S. panel says - CNBC",
-      "content": "China has changed tactics but is still thwarting India's rise, a U.S. panel says CNBC",
+      "title": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names - CNBC",
+      "content": "SoftBank drops 15% as Wall Street AI sell-off ripples across Asian tech names CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1pdXByaVIyNUloYVJ3N0gzLTNTV01KYlV4bF9lRjJiOFhmX3NoOGZKZHFtX08wcnpnWDdaaC1Lb1ZaWHhmaVJGRTczR1pDYU91V1NWT293UDlxQXRnZk83aUVqUTJrcTl6TkpRUXdzRlBRMWF1ZVpZ0gF8QVVfeXFMTmpGY1c2VEttbzRENmF4UENiZzB6cDRPYVNncVotMjBGa1A4TWJ4UW01T2N4T2ROcURDR0N4VU5zNndVQ1VSOHlXNjdkWExENTFUY05Tc01JOVVpZDNwVDZqdGl2QlgyTnk1eWpmZUVwZDFkc2hUNm9PbzlQTw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPX3MzSVpVUmVHWUZvX0hLbENVM1oyN3VDUzhqcFRrRTg0TlZEQTNjeEtKektuOTJQM0RxT1EybW03MXJZRHhtZEg1bUtZTXN3Z0g1RUp2cHJTRmxjQW9GSjhIQnE1dVpBUzgtUkhaTFNOY0ppbDJPSXBFRmtxZVhyajlDZnE4UVViaFZKQXFCVXZCZXhz0gGaAUFVX3lxTE1OZTBPc2FtSElJNmVpYTZOTTJfRWUxVExZN1NSajNvbk1ORnRNSHg5RWxXQTVpVXJSVGhjZW8xdkRWQ25XSmwtdXhsV0Q0MGtyaTFzbXhfOC1WVHQ2M0lwdURjUm9QcDk4U1VvTV9oMHRBQ0JiMlJ1TFdJZWluWFdIbHRxeW05aVRYYWZlWGM5bW41Z0hmTThTV1E?oc=5"
     },
     {
-      "title": "Six key questions raised by Jensen Huang's return to Nvidia - CNBC",
-      "content": "Six key questions raised by Jensen Huang's return to Nvidia CNBC",
+      "title": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites - CNBC",
+      "content": "Jim Cramer sizes up six retail stocks after earnings — and names his two favorites CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9kZXRBYm1KcWt3TUMtd3Vqcl9PT05RdV9RbjNUc1FoRzBOc19HS0hDRHBHNktRSVNhaGZuYmladU9xVEdQbVV1X2tRUkxqMHVLc0pab295dS1GYnZUc2U5SzB3eldxTEdIdHpSRzFWaFc3aHpIZGVrTUNfWETSAYIBQVVfeXFMT0Faamsta2ZJMzhadXdkWVZBRUdWVXliYlFOcVZwV1BpOGhZY2NRaHB0X3VIOE5LcVVJaTZyY2hwc1JPaHNlTWJIQVNvSjYzUENITGFUNVlwTHczR25vbjZLWWF3bUs3R25uZjR5NjdCUVZfWFZMcTNvcmRNRWpySW9zUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0wTV9uQTFVLU9HUUx4YV9IS2FaNGtfaUprTU9ST25ianVCNEtCdTRqYk9sdnBrSnZpSXZQUGNyenkxaW45MmJnWm1JUEtISUZQLUxJNWRkN25CNmdzUC1kUXByTTRDOVJaOHoyWC1XR0haSlQ1dEtLLTVB0gF_QVVfeXFMUFk4ZWRMbnhJLVhSNUszUWdsUm9OUG1sQmNoSm0zRkpWQThtbE4tRk1nYTF5ME52UmVFb2JxLWtNZ2VZdG90QTdXZGhFRW4wZUt2RnBZcnVlTFRONXNyOXpYdzF2ZnBEc0dHdXh5LTBHSjNub0hQUW9xSzZzV05qUQ?oc=5"
     }
   ]
 }
