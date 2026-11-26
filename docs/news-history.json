@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-26",
+      "featured": [
+        {
+          "category": "international",
+          "title": "S&P warns Nvidia credit rating could be cut over 'rising' management and governance risk - CNBC",
+          "feature": "（標題）Nvidia信用評等面臨下調，治理風險成關鍵\n📰 S&P Global Ratings 本週將 Nvidia 目前的 AA 評等置於「CreditWatch‑Negative」狀態，警告若公司治理與管理缺失持續，最早 90 天內可能降一檔至 AA‑，同時波及其未償還的高階債券。\n🔍 事件起因是 CEO Jensen Huang 於 11 月 12 日因個人行為違規辭職，董事會兩天後又將其復任。S&P 指出董事會長期成員獨立性受損、缺乏接班計畫、過度依賴 Huang，以及在中國市場的政治風險，使其治理結構暴露缺口。此前 Moody’s 已將展望從正向調至穩定，顯示外部評級機構對 Nvidia 內控的關注升溫。\n🌐 若評等下調，Nvidia 發行的約 325 億美元投資級債券價格將承壓、殖利率上升，進一步提升公司融資成本。對台灣而言，AI 相關供應鏈與金融機構可能因資金成本上漲而受波及；同時投資人持有的 Nvidia 股票或相關 ETF 亦面臨短期波動。企業在與 Nvidia 合作的技術授權或雲端基礎建設上，亦須留意其信用風險變化。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE51YVJtVWRQVW9UQ2F0TmcyYnRIY1o3eTdTX1pPamJjRWlod2stNjhCRnIwdndsRm4zTkdWR1NSblpacElZSUdVcmc3ZlB5WDdUNk02VHRid19Nak83VjVVYmlhcVlwZ3BUQVg4RXB3V2N5UU9v0gF6QVVfeXFMT05JRkhHVWFocEE4YlFWMHpMb29MZzJSa2NpX1VuSVNtSGxJbkpsLXEtbHBocEh4Zk1NQVlmMVdFd1FNX0FhT0dRUFJ5dGo0aGozelJMY3VYVDNhUmRzR1pkVzViaUdRc1RxU19xWWstT2xtMDNELW9oaHc?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "台股大跌政府該護盤？他憂台幣才是致命危機：外資賣股恐掏空外匯存底 - Yahoo股市",
+          "feature": "台股大跌背後：外資拋售衝擊台幣與外匯存底\n📰 發生什麼事：台指在連續下跌後，單日跌逾千點，外資連續賣出台積電等權值股，導致成交量激增，市場傳聞外資欲拋售約1.2兆美元股票，投資人要求政府介入護盤。\n🔍 背景與來龍去脈：近月美股波動、美元走強，加上台灣仍屬301條款限制的國家，外資持股比例高企。去年外資淨賣出逾6千億美元，且已在台指期大量佈空。台幣匯率逼近35:1關口，若外匯被大量兌出，將削弱央行外匯存底的防禦能力。\n🌐 影響：短期股市恐持續震盪，投資人可能拋售或逢低進場；台幣若快速貶值，進口成本上升，通膨壓力加大，央行或被迫升息或動用外匯干預；對一般家庭而言，金融資產價值下降與生活成本上漲將同步顯現。",
+          "source": "Google TW Finance",
+          "link": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNMVREZng5bW9sQ0NJR0VlWmx3VnJ0NUZRTFJqYnFBUXB0VU9QUjJXTi1qVllrMUlua25hQmM4UjlRZ0hBWENFcENLeUJYUXVRbVoyNHRrMXVWQXVVdDg5a0lKbjJPcmxIUzM3WHhtTmdiV3N5bGxlTFA5akNMYU53ZVptLVZkVEdpTGt6bTY2allJbTE4Nmtfb3dMVkNDQ1Y4bTV0QXlsRmRlcHF3Q1g2R1c0RlJYbnVPQUhKaVNlYm83RFJ6alhPRlZQa19JRFZSQlBydUhhMUh0dXA4M2hBQ19idTlQUmFkNEdLdTF2T1JaaTd2UzBRUkhvMC1yRy10NS1tSEdTa3dHU05iaVRQa2c4SnFkRGNFcFZzNUNiS3daRDhEVGY1YU9GdDhzT29RckZRZGxpUzVYZklYMGVHQmMxdmFmMl90b3NzUHRCUTBaNFBVb1NNaTBoOTFGM1JVQlNrVW91NTFjMzBKMWZhajFheFlyeVdXZW10R2RCa2Nvc0gwMkU2SzR4WGU4UWhVUjVHS0g3cE9Id2xQckNQTzJtQW91ODdoTW5Pd2haNzFNVjZHVE1naVVGSE5FTkVTckJuTlV3?oc=5"
+        }
+      ]
+    },
+    {
       "date": "2026-11-25",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "川習會未解晶片僵局，貿易休戰危機升溫\n📰 發生什麼事：2024年11月19日，中美高層在深圳舉行的川習會未能就先進晶片、稀土及關稅爭端取得突破，亦未延長雙方自2023年起的貿易休戰。美國同日公布新規，要求全球資料中心在購買美國先進晶片前必須取得許可，並把中國AI公司列入管制名單。北京則以擴大出口管制、將美國企業列入黑名單等手段回擊。\n🔍 背景與來龍去脈：美國自2022年起對中國高端半導體實施出口限制，旨在削弱北京在AI與軍事領域的算力。2023年雙方簽署貿易休戰，暫緩關稅與部分禁運，成為兩國科技角力的「緩衝帶」。然而美國最新的「先進晶片許可」政策，加上對AI模型供應鏈的嚴格審查，使北京感受到新一輪壓力。北京以稀土、晶圓原料與「黑名單」回應，企圖以非對稱手段逼迫美方讓步。川習會的僵局顯示，雙方在關鍵供應鏈議題上已無共識，且缺乏延長休戰的機制。\n🌐 影響：\n1. 供應鏈成本上升：全球資料中心與AI算力需求被迫尋找替代供應商，導致晶片價格波動、合規成本增加。台灣半導體產業若被迫在美國與中國之間選邊站，將面臨出口限制或失去中國市場的雙重風險。 \n2. 市場情緒波動：美股AI相關股（如NVIDIA）短期可能受政策衝擊回檔，投資人重新評估風險敞口。 \n3. 政策走向：若貿易休戰未延長，未來美中可能再度升級關稅與技術禁令，對全球高科技產業布局產生深遠影響。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6668709"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-19",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Ford starts U.S. battery cell production using Chinese tech amid geopolitical tensions - CNBC",
-          "feature": "【福特在美投產中國電池技術　美中緊張下的電動車新布局】\n📰 發生什麼事：福特汽車在密西根州馬歇爾投資30億美元的電池廠，已於上月開始量產電池單元，並將出貨給即將推出的Fathom小型電動皮卡。這些電池採用中國電池巨頭寧德時代（CATL）授權的鋰鐵磷（LFP）技術，屬於成本較低的化學配方。\n🔍 背景與來龍去脈：美國近年大幅補助電動車，促使車廠爭相降低電池成本。LFP因安全性佳、成本低而成為主流，但美國本土供應鏈尚未成熟。福特選擇與全球最大電池供應商CATL合作，快速取得成熟技術，同時將生產搬到美國以符合本土就業與貿易政策。然而，隨著美中關係緊張、美國政界對華企業合作加強審查，交通部長杜菲等官員已公開表達「深切關切」，要求企業提升供應鏈透明度。\n🌐 影響：\n- 市場：LFP成本優勢或加速福特電動車降價，對特斯拉與中國新勢力形成更激烈競爭。\n- 台灣產業：台灣的電池材料與模組供應商可能成為福特在美國產線的潛在外部供應商，提升出口機會；同時也提醒本土企業在美投資時需注意政治風險與合規要求。\n- 消費者：若福特成功將低價電池本土化，未來美國與全球的電動車售價有望下探，台灣民眾若購買進口車型或電池換裝，亦可能受惠於成本下降。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1xMHRPcWVRTGQ3MDdueWtvMjRaUUpLd2ZvLWFkT1FfRzVaREs4NGZNWHlBWXZ4dFotTjhkS3cxQ0VrUmFPZndNZWVLZTh6d2EwU2NELUdWWEJLY2YtQnRhZ1Zpb0YyMmZFaVlDT08td3dLWXZqYTM40gF8QVVfeXFMUC1MbUJNdHR0SFR0NG5NWVYwSnF2aVMxUjVRZHdCRDZfTmk3UHZmUnNEV09aR0laaDdLMF9yVXJ6QVVUd3ZSVjBDbjhhUUdsbm1YYU9fQVpIekFfdVdQS0NEZWZHa0l4N0txTGhIcVBEY1NqR1k3VGs5NjNBMg?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "AI不只餵飽輝達！WSTS：全球前20大晶片商Q3全員成長　SK海力士季增49%居冠、鎧俠緊追",
-          "feature": "AI熱潮推動半導體全景成長，SK海力士季增49%領跑\n📰 發生什麼事：根據WSTS最新數據，2026年第3季全球半導體營收季增27%至4810億美元，年增129%創史上最高。AI需求持續擴大，Nvidia營收季增20%，而記憶體大廠三星、SK海力士與美光合計季增36%。其中SK海力士季增49%，成為增幅最高者。\n🔍 背景與來龍去脈：AI算繪需求刺激高頻寬記憶體（HBM）與高速DRAM、eSSD需求，供應緊張推升價格。去年美國加強對中國AI晶片的出口管制，使得中國廠商如騰訊、京東更傾向採購本土或非美國供應鏈，間接提升韓國與台灣記憶體廠的訂單。SK集團董事長亦呼籲子公司向AI模型與服務轉型，提升整體產業鏈附加價值。\n🌐 影響：對市場而言，半導體股普遍上揚，特別是記憶體類股；台灣的DRAM與NAND廠商受惠於供應鏈再配置，股價與資本支出預期上升。消費者層面，AI應用（如生成式AI、雲端運算）成本短期內可能因記憶體價格上漲而轉嫁；長期則因效能提升帶動相關產業（自動化、智慧製造）加速。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6667336"
         }
       ]
     }
