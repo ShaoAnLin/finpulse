@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-27",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Semiconductor chips are the new oil. Here's why - CNBC",
+          "feature": "「晶片成新油　AI 推動全球貿易版圖大轉移」\n📰 發生什麼事：德銀根據國際貿易中心資料顯示，2026年第一季半導體出口約1.61兆美元，首次超過同期油氣出口1.53兆美元；第二季差距持續擴大，油流因波斯灣衝突跌近77%。\n🔍 背景與來龍去脈：AI 計算需求爆發，GPU、資料中心大批訂單推高晶片產能；同時伊朗戰爭造成霍爾木茲海峽油運受阻，油價與出口受壓。德銀提出「晶片美元」概念，暗示資金未來可能從石油流向美國科技產業。\n🌐 影響：晶片出口成全球經濟新引擎，提升亞洲尤其台灣的貿易佔比；但股市波動劇烈，SOX 指數一週跌超17%，投資人需警惕風險。長期看，資金回流美國科技股或加速本土創新投資，也可能改變債市收益結構，對台灣產業供應鏈與匯率產生間接衝擊。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWJNUmR4b0VWNEhyVVRaQkNHWmZBMDhHYm9qUjRaMHdTVmgtWHZZOFlNdzN3eklwM29DN2NUWGxMVFdCd1I3TlJ4dGoydVJNRmI4WHJWZlhzNFBmOUp4MUhuVjBiU0l4MjdVNkRVS2lIQjFic3BlRl90enRxQmRqdzhJMnkxbkNMN1HSAY8BQVVfeXFMTTh1ZHNGeGg5dVAtMHlRYkxlYnlfWHI0T1ZleEJZNlByLWl3c0VKODlUekhuRzd0R2F0TzVoTXA1SkFmam1KRXBGS090bHpuVVh5RmFCQmQ2ZjdrV1RETFQzeThQUUg0bDE5dXkyN0dzdTVqLVNtNmVRRWdKQ2JPSmM0azYxT3JFTW1zXzZWNVk?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "美收緊先進AI晶片出口管制　東南亞AI基礎建設面臨考驗",
+          "feature": "美國收緊AI晶片出口　東南亞資料中心陷入風險\n📰 發生什麼事\n美國商務部上週正式將新規擴及新加坡、馬來西亞、泰國、印尼等四國，要求取得許可才能購買或再出口搭載Nvidia先進AI晶片的伺服器。輝達及其合作夥伴已暫停向這四國交付相關伺服器，涉及數十億美元的資料中心與芯片融資計畫陷入停擺。\n🔍 背景與來龍去脈\n自2022年起美國已限制高階AI晶片對中國的直接出口，中國企業轉而租用東南亞資料中心的遠端算力，形成所謂「遠端訪問服務」(RAS)。近年馬來西亞、印尼等地吸引超過1000億美元投資，眾多美國及歐洲雲端業者與中國科技巨頭（字節跳動、阿里巴巴、騰訊）合作。新規旨在堵住此漏洞，要求所有涉及中國最終用戶的交易在90天內取得美國許可，違規將被拒絕供貨。\n🌐 影響\n短期內相關資料中心計畫可能失去融資，銀行暫停數億美元貸款，導致建設延期或取消；本地就業與電力需求增長受挫。對台灣而言，若本土企業參與東南亞AI基礎建設或提供代工、供應鏈服務，亦面臨合規風險與商機縮減。但同時越南等未列入禁令的國家可能成為新投資熱點，台灣企業可考慮轉向這些市場。整體而言，美國的出口管制將重塑東南亞AI生態，提升合規成本，並加速區域內供應鏈的再布局。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9905655"
+        }
+      ]
+    },
+    {
       "date": "2026-11-26",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "Google下修2027年博通TPU出貨 約百萬顆，聯發科8t或受惠\n📰 Google宣布2027年原預估的博通設計TPU 8i Max（Whalefish）出貨量下修約100萬顆，約占全系列的20%。此舉源於Google將算力資源優先配置給前沿AI模型研發，降低對高價8i Max的需求。相對地，聯發科自行設計的8t系列預計提升出貨，但數量尚未明朗，難以完全抵消8i的減量。\n🔍 背景與來龍去脈：TPU是Google自研的AI加速晶片，近年因OpenAI、Anthropic等大型模型需求激增，出貨量持續上升。2026年起，Broadcom接手8i系列設計，提供高效能但成本較高的產品。隨著AI模型多樣化，Google開始採取「前沿模型優先」策略，縮減對成本較高的8i Max，同時加速自家及合作夥伴（如聯發科）較具成本效益的8t產品。此趨勢也反映出AI硬體市場從單一供應商向多元化、長期合約轉變的格局。\n🌐 影響：短期內，博通相關股價可能受壓，聯發科受益預期提振股價；台灣AI晶片產業看見更多代工與設計機會，供應鏈（測試、封裝）需求或提升。對一般投資人而言，AI算力成本下降或帶動雲端服務價格競爭，間接影響企業數位轉型成本。長遠看，Google的長約策略將促使台灣半導體在全球AI供應鏈中的角色逐步升級。",
           "source": "CnYes",
           "link": "https://news.cnyes.com/news/id/6669649"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-20",
-      "featured": [
-        {
-          "category": "international",
-          "title": "SoftBank plunges over 16% as AI sell-off hits Asian tech stocks following Anthropic debut - CNBC",
-          "feature": "SoftBank 股價狂跌 16% 牽動亞洲 AI 科技股大幅拋售\n📰 發生什麼事\nSoftBank Group 於 11 月 20 日收盤前跌超 16%，成為本日亞洲科技股最重挫個股。跌勢源於美國 AI 初創 Anthropic 於納斯達克上市後，市場對 AI 投資前景重新評估，導致包括日本半導體股、南韓晶片巨頭在內的多檔科技股同步下跌。\n🔍 背景與來龍去脈\nAnthropic 的 IPO 雖首日漲幅逾 30%，卻揭露 AI 產業競爭加劇與估值泡沫風險。SoftBank 先前投入 646 億美元持有 OpenAI 股權，是全球最大單一投資者；其股價因此高度敏感。加上本週 Nvidia 股價下跌 2.9% 及 Nasdaq 跌超 2%，投資人擔心 AI 基�礎建設支出能否帶來足夠回報，進一步拖累相關供應鏈。\n🌐 影響\n台灣半導體產業與供應鏈同樣感受到連鎖反應，台積電等公司股價短線受壓。投資人可能重新檢視 AI 相關佈局，資金流向更傾向保守或轉向成熟應用。對一般民眾而言，AI 相關服務價格或短期內不會大幅下降，且市場波動可能影響退休金與基金配置。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPV0Z3OWtzZHlQVU5iZEZqYV91VG00Vnd6M2J3dk12bUhiSmNRN21Vc3Z3Q3YyVjZLRDZjZmF4d0t3QWJDNTJzX0VfNzh6QmhueTIyUndyRkRkdWFpclpEcmVsVFpMTjRHeml3UEtQSklzcy12VVRlQ1F6WjcyNEh1UVN3b190d28zY2fSAY8BQVVfeXFMT3pEcUJ3Qmgwb3NFM3BNd1p2Rk5DYmZSaHVZcUxMeWFJZW9DQldzTXlaOHdBQ3Y4ZHhRbWVEZ0xwSVJnT1hOSWhJc0FOXzVvS3JsTWxibE9zc0xTRXlFcThPWkZHb1Fvd2pvNXM4eEtSejFMcm9oYWZXbUFzTWxEaE11ZzlCaWNYRktQUTAyLWM?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "〈分析〉川習會未解晶片僵局 北京反制牌如何牽動貿易休戰？",
-          "feature": "川習會未解晶片僵局，貿易休戰危機升溫\n📰 發生什麼事：2024年11月19日，中美高層在深圳舉行的川習會未能就先進晶片、稀土及關稅爭端取得突破，亦未延長雙方自2023年起的貿易休戰。美國同日公布新規，要求全球資料中心在購買美國先進晶片前必須取得許可，並把中國AI公司列入管制名單。北京則以擴大出口管制、將美國企業列入黑名單等手段回擊。\n🔍 背景與來龍去脈：美國自2022年起對中國高端半導體實施出口限制，旨在削弱北京在AI與軍事領域的算力。2023年雙方簽署貿易休戰，暫緩關稅與部分禁運，成為兩國科技角力的「緩衝帶」。然而美國最新的「先進晶片許可」政策，加上對AI模型供應鏈的嚴格審查，使北京感受到新一輪壓力。北京以稀土、晶圓原料與「黑名單」回應，企圖以非對稱手段逼迫美方讓步。川習會的僵局顯示，雙方在關鍵供應鏈議題上已無共識，且缺乏延長休戰的機制。\n🌐 影響：\n1. 供應鏈成本上升：全球資料中心與AI算力需求被迫尋找替代供應商，導致晶片價格波動、合規成本增加。台灣半導體產業若被迫在美國與中國之間選邊站，將面臨出口限制或失去中國市場的雙重風險。 \n2. 市場情緒波動：美股AI相關股（如NVIDIA）短期可能受政策衝擊回檔，投資人重新評估風險敞口。 \n3. 政策走向：若貿易休戰未延長，未來美中可能再度升級關稅與技術禁令，對全球高科技產業布局產生深遠影響。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6668709"
         }
       ]
     }
