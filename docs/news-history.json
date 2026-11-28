@@ -1,6 +1,25 @@
 {
   "days": [
     {
+      "date": "2026-11-28",
+      "featured": [
+        {
+          "category": "international",
+          "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support - CNBC",
+          "feature": "（標題行）北京出手扶持，半導體板塊創史上單日最大漲幅\n\n📰 發生什麼事\n11 月 27 日，中國半導體指數（CSI Semiconductor）單日跳升 17.6%，創下史上最高漲幅。上證科創板指數 (STAR) 亦上漲 14%，主力個股包括長江存儲 (CXMT)、寒武紀 (Cambricon) 及中芯國際 (SMIC)。同時滬深兩市與香港恆生指數同步上漲，市場成交量較前一交易日激增逾 50%。\n\n🔍 背景與來龍去脈\n自 2025 年春季美中關稅戰升溫以來，中國股市持續低迷，尤其半導體板塊因美國新限制 AI 高階晶片而受壓。上週國務院召開會議，由李強主持，正式宣示將擴大中央匯金等國有基金的市場穩定功能，讓「國家隊」在必要時提供流動性。這是近年首次在國務院會議稿中直接提及「國家隊」支撐股市，顯示政府決心防止資金外流、加速半導體自給。\n\n🌐 影響\n短期內，半導體相關個股獲得資金湧入，提振投資者信心，對外資看待中國市場的風險溢酬可能下降。對台灣而言，若中國加大內部供給，長期可能減少對台灣代工的依賴，尤其在高階製程領域；同時也可能刺激區域內晶片需求，帶動上游材料與測試服務的合作機會。投資者應留意政策持續性以及美國對華技術限制的演變。",
+          "source": "CNBC",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUs2ZGhWWGZ4dmxhN1NMMUlJMTJsVXJXQ1RlT1g0NXdQanJVczJ5djBtaGtBajh4ekxnN0JKQjBjTzBHWDNmZXR3cVVnaGpnZW5Fb0R0dGJMa05oYm5oU3hFYkFTNWlMTFlNOHJVdU1CdUJnTVgtTWlaYmtuTUc5TjVtY9IBiAFBVV95cUxPQW92NkJ5MlkwUXJzdzBoYVY5Mzh3TFQ2VjFHN2txazJUc1gxVjVrSzlNWUQ5VVVtdVNwQzhsWjE5WFVVdHBITXpNbFdBY0ctSElyekNOLWNraW5odmxtZ3hCODJuZ1VVSUYwSHNwMmJya3FvU3NoakthQ0IzdTZoNGkyTWV3QktO?oc=5"
+        },
+        {
+          "category": "taiwan",
+          "title": "憂美管制晶片出口波及產業　荷總理計畫G20會川普",
+          "feature": "美國芯片管制升溫　荷蘭總理欲於G20與川普對話\n📰 荷蘭總理葉騰（Rob Jetten）在即將於邁阿密舉行的G20峰會前透露，將與美國總統川普討論美國計畫加嚴對先進晶片的出口限制，擔憂此舉波及歐洲半導體供應鏈及全球AI產業。\n🔍 近年美國以國安為由，限制高階GPU、AI加速器等向中國出口；荷蘭是ASML光刻機主要供應國，亦面臨同樣壓力。葉騰此番表態，源於歐洲對美國單邊制裁的焦慮，亦希望在G20這一全球經濟治理平台上協調規則，避免供應鏈斷裂。G20將於12月在佛羅里達的Trump National Doral舉行，除美中貿易外，俄烏衝突、拉美政治等亦是焦點。\n🌐 影響層面包括：①美國科技股可能因出口許可卡關出現波動，AI相關晶片需求短期受限；②歐洲半導體企業需重新評估對美國市場的依賴，可能加速本土供應鏈建設；③台灣晶圓廠與IC設計公司若涉美國限制之技術，將面臨合規成本上升，亦可能影響出口營收；④全球資金流向或更謹慎，投資人將關注政策走向與產業調整速度。",
+          "source": "UDN Money",
+          "link": "https://money.udn.com/money/story/5599/9907470"
+        }
+      ]
+    },
+    {
       "date": "2026-11-27",
       "featured": [
         {
@@ -111,25 +130,6 @@
           "feature": "金價跌至14個月新低，市場恐慌與利率升壓交織\n📰 發生什麼事\n金價20日連跌五天，一度跌至每盎司3,513.54美元，創14個月新低，週跌幅近9%，為今年3月以來最大週線跌幅。\n🔍 背景與來龍去脈\n美聯儲12月升息預期提升實質利率，使黃金失去收益吸引力；AI概念股自年初大漲後持續獲利了結，資金從黃金流出。同步，Goldman Sachs等機構的恐慌指數逼近最高，顯示系統性賣壓加劇，市場避險情緒下降，導致傳統安全資產需求減弱。\n🌐 影響\n金價大幅下滑削減投資人保值收益，珠寶與金礦股面臨股價壓力；台灣民眾持有的黃金ETF或實體金價回報下降，可能轉向美元存款或其他資產；同時反映加息預期與科技股波動，進一步影響台股資金流向與新台幣匯率，整體市場波動性提升。",
           "source": "UDN Money",
           "link": "https://money.udn.com/money/story/122381/9894225"
-        }
-      ]
-    },
-    {
-      "date": "2026-11-21",
-      "featured": [
-        {
-          "category": "international",
-          "title": "Foxconn's next chapter: Why Apple's iPhone maker is betting big on AI - CNBC",
-          "feature": "富士康AI新篇：從代工巨頭到AI基礎建設主導者\n📰 發生什麼事：富士康董事長劉揚偉在近期訪談中宣佈，未來三到五年AI基礎建設將貢獻公司60%以上營收。公司正加速與Nvidia合作建置AI伺服器、資料中心，同時布局電動車、衛星與太空運算等新興領域，並已接獲OpenAI首支手機組裝訂單，預計2027年量產。\n🔍 背景與來龍去脈：過去二十年富士康以代工iPhone等消費電子為主，營收高度依賴少數大客戶。全球AI熱潮與算力需求激增，資料中心與AI伺服器市場預估2028年將超過千億美元。劉揚偉接棒郭台銘後，推動多元化轉型，將硬體規模優勢延伸至AI晶片散熱、模組化伺服器與高效製造，避免傳統代工成長瓶頸。\n🌐 影響：\n1. 市場層面：AI基礎建設成長將提升富士康股價波動性，吸引資本市場關注；同時可能改寫代工產業格局，促使其他代工廠尋求AI或車用等高毛利領域。 \n2. 台灣經濟：富士康作為台灣最大出口企業，AI業務擴張將帶動本地晶圓、半導體、機械設備需求，創造上游產業鏈新商機。 \n3. 勞動市場：高階硬體與軟體人才需求上升，對工程師與研發人員的薪資與培訓將產生正向壓力。",
-          "source": "CNBC",
-          "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTE45Um1Yb1FMNVk1ZFZfRk4xd294Nkl6dFpRajc5RGJGT0FxYmp3WTlPeHJtLTAtRTJFNERlaUlrS3hUSWdMZVYwQ3duMk54NUVEN2o1R19reG9SUl9rU3FYZk9mM3pkeWJXZnB2Sw?oc=5"
-        },
-        {
-          "category": "taiwan",
-          "title": "郭明錤：Google明年下修博通TPU出貨約百萬顆 「聯發科」可望受惠",
-          "feature": "Google下修2027年博通TPU出貨 約百萬顆，聯發科8t或受惠\n📰 Google宣布2027年原預估的博通設計TPU 8i Max（Whalefish）出貨量下修約100萬顆，約占全系列的20%。此舉源於Google將算力資源優先配置給前沿AI模型研發，降低對高價8i Max的需求。相對地，聯發科自行設計的8t系列預計提升出貨，但數量尚未明朗，難以完全抵消8i的減量。\n🔍 背景與來龍去脈：TPU是Google自研的AI加速晶片，近年因OpenAI、Anthropic等大型模型需求激增，出貨量持續上升。2026年起，Broadcom接手8i系列設計，提供高效能但成本較高的產品。隨著AI模型多樣化，Google開始採取「前沿模型優先」策略，縮減對成本較高的8i Max，同時加速自家及合作夥伴（如聯發科）較具成本效益的8t產品。此趨勢也反映出AI硬體市場從單一供應商向多元化、長期合約轉變的格局。\n🌐 影響：短期內，博通相關股價可能受壓，聯發科受益預期提振股價；台灣AI晶片產業看見更多代工與設計機會，供應鏈（測試、封裝）需求或提升。對一般投資人而言，AI算力成本下降或帶動雲端服務價格競爭，間接影響企業數位轉型成本。長遠看，Google的長約策略將促使台灣半導體在全球AI供應鏈中的角色逐步升級。",
-          "source": "CnYes",
-          "link": "https://news.cnyes.com/news/id/6669649"
         }
       ]
     }

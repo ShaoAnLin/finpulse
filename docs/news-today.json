@@ -1,91 +1,91 @@
 {
-  "date": "2026-11-27",
+  "date": "2026-11-28",
   "featured": [
     {
       "category": "international",
-      "title": "Semiconductor chips are the new oil. Here's why - CNBC",
-      "feature": "「晶片成新油　AI 推動全球貿易版圖大轉移」\n📰 發生什麼事：德銀根據國際貿易中心資料顯示，2026年第一季半導體出口約1.61兆美元，首次超過同期油氣出口1.53兆美元；第二季差距持續擴大，油流因波斯灣衝突跌近77%。\n🔍 背景與來龍去脈：AI 計算需求爆發，GPU、資料中心大批訂單推高晶片產能；同時伊朗戰爭造成霍爾木茲海峽油運受阻，油價與出口受壓。德銀提出「晶片美元」概念，暗示資金未來可能從石油流向美國科技產業。\n🌐 影響：晶片出口成全球經濟新引擎，提升亞洲尤其台灣的貿易佔比；但股市波動劇烈，SOX 指數一週跌超17%，投資人需警惕風險。長期看，資金回流美國科技股或加速本土創新投資，也可能改變債市收益結構，對台灣產業供應鏈與匯率產生間接衝擊。",
+      "title": "Chinese chip stocks notch biggest ever one-day gains as Beijing signals broader market support - CNBC",
+      "feature": "（標題行）北京出手扶持，半導體板塊創史上單日最大漲幅\n\n📰 發生什麼事\n11 月 27 日，中國半導體指數（CSI Semiconductor）單日跳升 17.6%，創下史上最高漲幅。上證科創板指數 (STAR) 亦上漲 14%，主力個股包括長江存儲 (CXMT)、寒武紀 (Cambricon) 及中芯國際 (SMIC)。同時滬深兩市與香港恆生指數同步上漲，市場成交量較前一交易日激增逾 50%。\n\n🔍 背景與來龍去脈\n自 2025 年春季美中關稅戰升溫以來，中國股市持續低迷，尤其半導體板塊因美國新限制 AI 高階晶片而受壓。上週國務院召開會議，由李強主持，正式宣示將擴大中央匯金等國有基金的市場穩定功能，讓「國家隊」在必要時提供流動性。這是近年首次在國務院會議稿中直接提及「國家隊」支撐股市，顯示政府決心防止資金外流、加速半導體自給。\n\n🌐 影響\n短期內，半導體相關個股獲得資金湧入，提振投資者信心，對外資看待中國市場的風險溢酬可能下降。對台灣而言，若中國加大內部供給，長期可能減少對台灣代工的依賴，尤其在高階製程領域；同時也可能刺激區域內晶片需求，帶動上游材料與測試服務的合作機會。投資者應留意政策持續性以及美國對華技術限制的演變。",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeWJNUmR4b0VWNEhyVVRaQkNHWmZBMDhHYm9qUjRaMHdTVmgtWHZZOFlNdzN3eklwM29DN2NUWGxMVFdCd1I3TlJ4dGoydVJNRmI4WHJWZlhzNFBmOUp4MUhuVjBiU0l4MjdVNkRVS2lIQjFic3BlRl90enRxQmRqdzhJMnkxbkNMN1HSAY8BQVVfeXFMTTh1ZHNGeGg5dVAtMHlRYkxlYnlfWHI0T1ZleEJZNlByLWl3c0VKODlUekhuRzd0R2F0TzVoTXA1SkFmam1KRXBGS090bHpuVVh5RmFCQmQ2ZjdrV1RETFQzeThQUUg0bDE5dXkyN0dzdTVqLVNtNmVRRWdKQ2JPSmM0azYxT3JFTW1zXzZWNVk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaUs2ZGhWWGZ4dmxhN1NMMUlJMTJsVXJXQ1RlT1g0NXdQanJVczJ5djBtaGtBajh4ekxnN0JKQjBjTzBHWDNmZXR3cVVnaGpnZW5Fb0R0dGJMa05oYm5oU3hFYkFTNWlMTFlNOHJVdU1CdUJnTVgtTWlaYmtuTUc5TjVtY9IBiAFBVV95cUxPQW92NkJ5MlkwUXJzdzBoYVY5Mzh3TFQ2VjFHN2txazJUc1gxVjVrSzlNWUQ5VVVtdVNwQzhsWjE5WFVVdHBITXpNbFdBY0ctSElyekNOLWNraW5odmxtZ3hCODJuZ1VVSUYwSHNwMmJya3FvU3NoakthQ0IzdTZoNGkyTWV3QktO?oc=5"
     },
     {
       "category": "taiwan",
-      "title": "美收緊先進AI晶片出口管制　東南亞AI基礎建設面臨考驗",
-      "feature": "美國收緊AI晶片出口　東南亞資料中心陷入風險\n📰 發生什麼事\n美國商務部上週正式將新規擴及新加坡、馬來西亞、泰國、印尼等四國，要求取得許可才能購買或再出口搭載Nvidia先進AI晶片的伺服器。輝達及其合作夥伴已暫停向這四國交付相關伺服器，涉及數十億美元的資料中心與芯片融資計畫陷入停擺。\n🔍 背景與來龍去脈\n自2022年起美國已限制高階AI晶片對中國的直接出口，中國企業轉而租用東南亞資料中心的遠端算力，形成所謂「遠端訪問服務」(RAS)。近年馬來西亞、印尼等地吸引超過1000億美元投資，眾多美國及歐洲雲端業者與中國科技巨頭（字節跳動、阿里巴巴、騰訊）合作。新規旨在堵住此漏洞，要求所有涉及中國最終用戶的交易在90天內取得美國許可，違規將被拒絕供貨。\n🌐 影響\n短期內相關資料中心計畫可能失去融資，銀行暫停數億美元貸款，導致建設延期或取消；本地就業與電力需求增長受挫。對台灣而言，若本土企業參與東南亞AI基礎建設或提供代工、供應鏈服務，亦面臨合規風險與商機縮減。但同時越南等未列入禁令的國家可能成為新投資熱點，台灣企業可考慮轉向這些市場。整體而言，美國的出口管制將重塑東南亞AI生態，提升合規成本，並加速區域內供應鏈的再布局。",
+      "title": "憂美管制晶片出口波及產業　荷總理計畫G20會川普",
+      "feature": "美國芯片管制升溫　荷蘭總理欲於G20與川普對話\n📰 荷蘭總理葉騰（Rob Jetten）在即將於邁阿密舉行的G20峰會前透露，將與美國總統川普討論美國計畫加嚴對先進晶片的出口限制，擔憂此舉波及歐洲半導體供應鏈及全球AI產業。\n🔍 近年美國以國安為由，限制高階GPU、AI加速器等向中國出口；荷蘭是ASML光刻機主要供應國，亦面臨同樣壓力。葉騰此番表態，源於歐洲對美國單邊制裁的焦慮，亦希望在G20這一全球經濟治理平台上協調規則，避免供應鏈斷裂。G20將於12月在佛羅里達的Trump National Doral舉行，除美中貿易外，俄烏衝突、拉美政治等亦是焦點。\n🌐 影響層面包括：①美國科技股可能因出口許可卡關出現波動，AI相關晶片需求短期受限；②歐洲半導體企業需重新評估對美國市場的依賴，可能加速本土供應鏈建設；③台灣晶圓廠與IC設計公司若涉美國限制之技術，將面臨合規成本上升，亦可能影響出口營收；④全球資金流向或更謹慎，投資人將關注政策走向與產業調整速度。",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9905655"
+      "link": "https://money.udn.com/money/story/5599/9907470"
     }
   ],
   "candidates": [
     {
-      "title": "輝達風暴讓台股跌出甜甜價 張錫看好3大底氣 揭神山、發哥未來兩年估值 - Yahoo新聞",
-      "content": "輝達風暴讓台股跌出甜甜價 張錫看好3大底氣 揭神山、發哥未來兩年估值 Yahoo新聞",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiwANBVV95cUxQUGtVN0l3cTJDcGU4aDRxTE80RWNEUFA2RXdPeV9FUXRQdWlCUDU5bmRwVVlPejMxeklHOElhQ21HZkpZR3ZiOXdmSThXM082SUZLM243UkFOeXFsWnhhcV8zRDVmM1hfZjQybllraVU2Z01UZUpuUGZZTE9RVkVKS1FrYXN6d3ZVWktYNm9PeWplMVl1RmFSOVFHRnl0a1c1SW5NS0M1QmJ2aldCY055aFlsVENKZy1jeGFENzBOT3FVZ1kyRVN2TXgxOFRVakgycVJjY29oUF8tVWNNckk1MUJ2bERacjJRRUNmdE52NWlfZUZnejRPN1VPOFRYSUljbmgxZUZNVVVpdkhwcFNzU3dhTFFWODNqV1haV3I4WUFrNlhLQ1IwTHk4bTlJakcwdVFQYS13LUhmMXhTaFgwRlRtT2dVZnJ5dmRZaXJ3UjY3WUlLTlRWRkNneHhPa2FhWjNjVzlfZVJBc180VnVkV0lwRHZfdXB0b3lpRmRyWl84MzZfVFNLQmZ6LVNPckZybG1aM1RLazlQZi1xeVR2OGVwbmRMWFpieDlsdy04Uk0xbU9paWNxYmJkdUVyUHpq?oc=5"
-    },
-    {
-      "title": "台股暴V反攻還沒完！「瑤池金母」54億狂掃這幾檔AI供應鏈 抄底名單曝光 - Yahoo股市",
-      "content": "台股暴V反攻還沒完！「瑤池金母」54億狂掃這幾檔AI供應鏈 抄底名單曝光 Yahoo股市",
-      "category": "taiwan",
-      "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxQUmpWSHhyOEpTUFoyVGstSWJXUUt0MlVlRVQ5Rl9ZdndielhfRzlJZVpuZGVnSnRxTktaSFVYMkpTUE90UU12Nno1Y2c1MlQ4a0JDUXNSMDExaW9GcjAyZllRczJuQnN0b2RrU2R6WWd3bjM0R0pBbnhFcy0wZ3U4WVZMMVVsOGVYLTVqNGZWNVRwNmo3b2pmYk05eng3bW9qUHZ2TTNJTGVKa0FOR3RsaE5MOHJQYTktMUhnSXBGTmlXTEhaUWVReHlGN2NhWDAzMUg3ZjY0Y0MyVUxvdXVqNGNMUnlEYXZSdVJRUFRJNWhITklqVFZPZUhreEIwaTNtMGJlQjd1R0VYOTd6eVhEUmVVYnlBdEtVOVEyaU5Dd0pjcV9GeFBmM0h4V2Vvc1lpd0xjck9Pcjdtdi1wQU9qRTlVZDllbElWcS1KMFZibzVURVNKanNja29pY0ZwemJEWXg5eTVfRTNrQWhqQmQ5em42aTdodWxoT1UwYTZvRndwS0UyMm1SUmlMQzlGcEdkNG1UT3pQZGRaS1gxdVVBYjhKaTU3UFBmVnc?oc=5"
-    },
-    {
-      "title": "川普還能繼續打伊朗嗎？民主黨想斷金援逼停戰 半島電視台揭阻礙",
-      "content": "美國民主黨想靠切斷金援，迫使川普結束已持續九個月的伊朗戰事，但半島電視台報導，即使國會不再撥款，也未必能立即阻止美軍發動攻擊。關鍵在於，法案是否連已核撥的經費都禁止用於進攻，以及能否跨過川普否決這一關。",
+      "title": "法極左派領袖梅蘭雄訪柏林　籲徹底重整法德關係",
+      "content": "法國極左派總統候選人梅蘭雄（Jean-Luc Melenchon）今天呼籲「全面重整」與柏林當局的關係，並對德國在歐洲聯...",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9905618"
+      "link": "https://money.udn.com/money/story/5599/9907487"
     },
     {
-      "title": "再拋天文數字願景！馬斯克：SpaceX成功將值全球GDP的100萬倍",
-      "content": "馬斯克稱，若SpaceX實現多星球生命延續並用到太陽百萬分之一能量，估值可達全球GDP的1百萬倍 按IMF全球經濟128兆美元估算，對應SpaceX約1.28萬兆美元，較目前約1.7兆美元市值放大約7千五百萬倍 SpaceX上季營收146億美元、淨利44億美元；傳正推進與特斯拉3.5兆美元合併談判",
+      "title": "熱門股〉貿聯-KY獲利創高、展望正向 投信11月來大買力挺周漲29%",
+      "content": "連接線大廠貿聯-KY(3665-TW)獲利創高、展望維持正向，雖然遭到外資連續多日調節，但投信積極承接，連12個交易日買超共1.08萬張，11月以來更僅有1日賣超，近1個月總計買超1.26萬張，也帶動貿聯股價本周跌深反彈，周漲29%。 貿聯第三季稅後純益42.93億元，季增44%、年增63.33%",
       "category": "taiwan",
       "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6673557"
+      "link": "https://news.cnyes.com/news/id/6674416"
     },
     {
-      "title": "黃仁勳回鍋台灣股民喊一人救全村！BBC揭亞洲過度依賴輝達風險",
-      "content": "黃仁勳強勢回鍋出任輝達執行長，不僅引發輝達在紐約的股價震盪，也在全球人工智慧（AI）產業掀起波瀾，亞洲受到的衝擊尤其明顯。BBC指出，從晶片製造、資料中心到外國投資，AI已成為南韓、台灣、新加坡和馬來西亞等地的戰略發展重點，這些經濟體的發展前景也愈來愈受輝達興衰左右。",
+      "title": "歐洲央行 Nagel 暗示12月或需再次升息 先前法國和西班牙通膨超預期放緩",
+      "content": "【彭博】-- 歐洲央行管理委員會委員Joachim Nagel表示，通膨頑固意味著歐洲央行下個月可能不得不再次升息。",
       "category": "taiwan",
       "source": "UDN Money",
-      "link": "https://money.udn.com/money/story/5599/9905608"
+      "link": "https://money.udn.com/money/story/5599/9906725"
     },
     {
-      "title": "台股暴漲956點卻是假反攻？外資連9賣提款4,708億 真正撐盤的竟是這群人 - Yahoo股市",
-      "content": "台股暴漲956點卻是假反攻？外資連9賣提款4,708億 真正撐盤的竟是這群人 Yahoo股市",
+      "title": "歐洲央行 Nagel 暗示12月或需再次升息 先前法國和西班牙通膨超預期放緩 | 國際焦點 | 國際 - 經濟日報",
+      "content": "歐洲央行 Nagel 暗示12月或需再次升息 先前法國和西班牙通膨超預期放緩 | 國際焦點 | 國際 經濟日報",
       "category": "taiwan",
       "source": "Google TW Finance",
-      "link": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQd1RSUmdWSGlQbDhfUFFRUTlNcE1ma0dTSUs3UUt2enphbFdGVnNtRi03SDFrQm1wUGVxMDRGeENMRTI0MkM1NlMxWGgxMGE4bkF5bnJCOFR4aUVmbDlCcUpCMi1LUEdUWFdONklVTFYxY09PQ0V3WXdEcmFieDNLUHN1SFA4REJxRnZlMzJsc3lzTXE1S1JBcmdMTldvX3hyaHJTeXZPeEhLTkNFV1NIZm1ZZjc4NUZEY0RzcmRSUHBKYUhUUFZBYkdLMDVOUWtqN0pxRWZFcllXZm92Um1pRjJQQWRYV2lyWUE4ZXNnT0NNLXlRbUFrZG1SSnRHNGhMdmFHaVhRS2tqYTl1bWxhR0IyWnZ2WE5fN3JQblV2QzBrY3pPWGw3ajlScWNOU1M1ZWdncnYxaVhfQXI0ZWJaQUVzV2ZzU1R3MkhSMWctZzVNQ1g2RTMxSXNkZXNOOWtyNnlLcEZ0RFQ0dFdQLTFEVmlqRjB0MWo5dlQwSERDRHFXempSOFVyRUFXb3lQSVlrLWlpOUdZY3hXUGV5RHBnQnBuYnp6RWpYV2toNXV3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUtMeEVzLW9IWU1TQTUwcFprSktQamYtajdsUFZMbDNDemFCVW91eEpsdnBNbUY5YnlwZFoyWDdRZktGMGpTbnYtOXpOcTJLWHZ0R0YyTnZISF9TYWtZejNpZ0VHakVEdVAxQW1GZDU1ak1UdkVDVjhYaFp3b1dHRkpmamlVY01PUU9IN1A1dGE?oc=5"
     },
     {
-      "title": "供應鏈洗牌！星展揭台灣企業結算現況：81%已用人民幣、AI成控管利器",
-      "content": "星展調查：台灣36家年營收逾5億美元企業中，81%已用人民幣作替代結算貨幣。 95%受訪企業稱拓展新市場壓力增加，94%憂能源波動，92%指交易對手與制裁風險升高。 69%難即時掌握付款與現金部位，企業正導入AI與代幣化資產強化資金調度。",
+      "title": "輝達 Blackwell 晶片現身大陸一處與 Alice Huang 有關聯的設施",
+      "content": "【彭博】-- 兩家大陸公司在上海一座與Alice Huang有關聯的資料中心安裝了輝達（NVIDIA）性能強大的Blackwell晶片。",
       "category": "taiwan",
-      "source": "CnYes",
-      "link": "https://news.cnyes.com/news/id/6673602"
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9906727"
     },
     {
-      "title": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher - CNBC",
-      "content": "Trump demands probe into ‘record setting error’ after third-quarter GDP data gets massive revision higher CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1NSWxpaE11NGM5bmJJZDg3bnNtRUFOc2VwMlliU2o1RF9XNUpFb2tieGYyY2w4SUNVeGhlNHp0bjBfVTdLS0hiRUNuaGxDamJNQXU2WENQMXZWV2N6bG5zcDNmOENtM0NEeUJ2NWk1UE1YbDdvZjNySNIBfkFVX3lxTE1ydHR1ZWNxTmhYNEJ2TEJ3SFNZb1ZJYVpGR0V4MGJkWFZYMmV3SVhjU2UxM09OLWF3Z3FRWDVMZ09Kd0NZYlpVUnZGdDJVeVAxLVkxR0U3aXgtV0NRaGg3OFRaNjdWR2hKUHlaQXZJN0h0M0xkUHVZV2RnRzdXZw?oc=5"
+      "title": "西班牙11/29大選可能變天右轉　重點一次看",
+      "content": "西班牙將於11月29日進行提前改選，總理桑傑士（Pedro Sanchez）的左翼社會勞工黨政府敗選機率不低，很可能出現...",
+      "category": "taiwan",
+      "source": "UDN Money",
+      "link": "https://money.udn.com/money/story/5599/9907453"
     },
     {
-      "title": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs - CNBC",
-      "content": "Buyer beware? Nvidia's volatile swings expose risks of single-stock ETFs CNBC",
-      "category": "international",
-      "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX25IV1otSXF1N2JqSWF2MDlxaUJtanYtaE1hcUF6SE9tdDg3YzZtXy1tbFhTQm84cXBtdG1TTmxaUUxSYzZockR4dXZ1TjlfYnhDVFJMVXJ5eVBPNTZFeHBSb0NaRnZqZjFqQXhYRVFWTDc5ZmZOa0FDV2hXSm54ejQxZGhwUnp1RlBDQlIyS3FVMm51M3doTHd30gGfAUFVX3lxTE1jYVNXRlpkVERiTmJDMWJLN3dsTzI5M0VNUkZEckFOeFBlUGNMZUVFaG13VmVWdmpsbTVucUhERmRXZkk0MGQ2RFAwdVBjT0dpSE5lUWVGUGZoRS04RFRYTzU5ZEw4MnJRUFZ2NVhwMWVVb1l3UnVNcFBaY21abll1MHVxcXEzV2FfRnlSeVZkZWhkRFdoa054b0hEM0w5OA?oc=5"
+      "title": "選前壓力測試！台股戲劇性尾盤逆轉 謝金河：國安基金確實穩盤了 - TVBS新聞",
+      "content": "選前壓力測試！台股戲劇性尾盤逆轉 謝金河：國安基金確實穩盤了 TVBS新聞",
+      "category": "taiwan",
+      "source": "Google TW Finance",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9DYnJseGFfQ3hjcldqdFBxSHRLclNsdmNvMC1GQ1RZSXB4aG01UXVxWGdaWFNuV0g3SlR3ZGZBS19sZ0JJOWR4QVhXU1JSUQ?oc=5"
     },
     {
-      "title": "Spain’s Pablo Hernández de Cos set to lead European Central Bank - CNBC",
-      "content": "Spain’s Pablo Hernández de Cos set to lead European Central Bank CNBC",
+      "title": "Consumer remains 'incredibly resilient,' says L.L.Bean CEO Greg Elder - CNBC",
+      "content": "Consumer remains 'incredibly resilient,' says L.L.Bean CEO Greg Elder CNBC",
       "category": "international",
       "source": "CNBC",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE0wbFZhU2RTR2lzYXhWdFpyZmFnSmJ4TW1DYXJiVmJaaE9NVGROMEhEajM2TzNlTjRrbTZFSlpxQ0gxa2FXbk9CV3ZMTTl0SVdOZHNDa3hPMEp2SkRYTzZobGxmOG0wX0tVa3drckwwV29xUUs1bWRIVlhFVXVlQdIBgwFBVV95cUxNYzRrZDU0VWpsdFBpTEt6b1dnd2paU1pSOG5hdTljQi1yZkZBdU5SVTgzeGQxNVFPS3pLUWw0SXUzVEJVSFBzZVZnc09mcEhYbVQ5ZWMzX3NwajRnMERfSTBGR2pkX2s5MzNHdGZXd3VZbTI0MlNieUMwZmd6OEdRSURlTQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQLVh4SEh4SHA2WVk4RUd2Z29ybExscWlTVXk5bENURGRuVzk1NDJ0cHF2aWkxRktHMU13UlpQWW44aHpHdHAybWgySUd6aHRvYnlrcnl5SHZlM1BvQTBMVDVEYW9KVVg1ZlQwcmxNTFpsUjE4LW5WSzlibVdqSHNDdlgyMWlPMWlMWExGMjdUWFVWdG1EVlRrNVJBWTBtMEFRdUFlTzZBdw?oc=5"
+    },
+    {
+      "title": "This week’s bounce following a rapid correction may not hold, history shows - CNBC",
+      "content": "This week’s bounce following a rapid correction may not hold, history shows CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNLTBrNHM5OFlUNU5xNVJ2OUtIY3gtS3RDQ195c2VzSGhxOVpRVnNXelBKMnZnWVBUTkN6Ym5MRk1aOTY0dXgzbUdWQTVTd0JuRDkydmpOUExCSW9uZzgxcVB3SXJaQldvcUN3VGJETzNYWUFVZHlTUV9MU1pGZXJRcDBTaEo5WDJQNDBYdF9vaU0wc0JZWjdyMWZSY1M1ZURncWdMSGdDU0t6UFFoVlU0?oc=5"
+    },
+    {
+      "title": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts - CNBC",
+      "content": "EU leaders fail to break $1.7 trillion budget deadlock as political pressure mounts CNBC",
+      "category": "international",
+      "source": "CNBC",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1JTExYRjFKTVJtem5nZEppQndEeHdydkttWFZMUmUxZVpJakNBMG1oTHBNQnVvTUZfcFRiT0FyaDdoMUJNVmdEMmRhVzNUNzBxLUNJT2hXbjZmV01KeE00dVp2S3NYb3lpYVRlemlaMHBlM1XSAXhBVV95cUxQNmRuQ2c5alVNRXc2VFJfS1o3eHJDZ0haOHEtOEdGRFQ0YkxaLUlmVVhLLWZobzk1ZWdqSUNzRmJwVmpaR1h1NU9NNmxlVmtyLWFSVy1ERThuNFJCWlYzSEVwTGdmUHl2QXJodHZITG1zQWlpeE00aDU?oc=5"
     }
   ]
 }
